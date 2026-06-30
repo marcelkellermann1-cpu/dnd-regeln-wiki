@@ -38,6 +38,11 @@ export default (() => {
 
     return (
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var p="hierdeinpasswort";if(sessionStorage.getItem("dndpw")===p)return;while(prompt("Passwort:")!==p){}sessionStorage.setItem("dndpw",p);})();`,
+          }}
+        />
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
