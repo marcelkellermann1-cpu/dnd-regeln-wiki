@@ -1,0 +1,251 @@
+creature or an object not being worn or carried that it can
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. see within 60 feet ofit. The target must succeed on a DC 17
+Hit: 8 (ld8 + 4) slashing damage. Constitution saving throw or take 28 (8d6) necrotic damage.
+If this damage reduces the target to 0 hit points, it crum
+Desiccating Breath (Recharge 5-6). The dragon exhales yellow bles to dust.
+ish necrotic energy in a GO-foot cone. Each creature in that area
+CHAPTER 6 I BESTIARY 221
+=== PAGE 223 ===
+-
+•
+• ..
+•
+•
+~ A TOPAZ DRAGON'S LAIR
+Topaz dragons dwell where the sea meets the
+land, favoring sites where the constant action
+of the waves and tides is slowly reducing the
+land to gravel. They make their lairs in caves
+set into sea cliffs, or beneath salt marshes
+where fresh water and sea water mingle,
+constantly grappling with their dislike of
+water to use flooded tunnels as secure en
+trances into their homes. They keep the inte
+rior chambers of their lairs meticulously dry.
+The challenge rating of a legendary topaz
+dragon increases by 1 when it's encoun
+tered in its lair.
+LAIR ACTIONS
+On initiative count 20 (losing initiative ties),
+the dragon can take one of the following lair
+actions; the dragon can't take the same lair
+action two rounds in a row:
+Beguiling Whisper. The dragon telepathi
+cally whispers to one creature within range
+of the dragon's telepathy. The creature must
+succeed on a DC 15 Wisdom saving throw
+or be charmed by the dragon until initia-
+tive count 20 on the next round. A creature
+charmed in this way obeys to the best of its
+ability any command the dragon issues that isn't
+directly harmful to the creature.
+Cancellation. The dragon chooses an active spell of
+5th level or lower that it's aware of in the lair and
+ends the spell.
+Negative Energy Infusion. Up to two creatures the first succeed on a DC 15 Constitution saving
+dragon can see within the lair must each succeed throw or be unable to reduce its levels of exhaus
+on a DC 15 Constitution saving throw or take 14 tion or regain spent Hit Dice. Creatures resistant
+(4d6) necrotic damage. Negative energy then in or immune to necrotic damage are immune to this
+fuses the lair until initiative count 20 on the next regional effect.
+round. While the infusion lasts, creatures in the Thriving Wildlife. Giant squid are attracted to the
+lair other than the dragon can't regain hit points. sea within 6 miles of the lair, migrating and hunt
+ing there in large numbers.
+REGIONAL EFFECTS
+Watery Sight. Water within 6 miles of the lair is a
+The region surrounding a legendary topaz dragon's
+conduit for the dragon's psionic presence. As an
+lair is altered by the dragon's magic, creating one or
+action, the dragon can cast the clairvoyance spell,
+more of the following effects:
+requiring no spell components and targeting any
+Crystal Profusion. Natural stone within 6 miles body of water in that region.
+of the lair grows plentiful crystal formations
+If the dragon dies, the population of giant squid in
+and veins of topaz gemstones, particularly
+the region returns to normal levels over the course
+underground.
+of ldlO days. The existing abundance of crystals
+Negative Energy. When a creature finishes a long
+and topazes remains, but new ones form at a
+rest within 6 miles of the lair, the creature must
+normal rate.
+222 CHAPTER 6 I BESTIARY
+=== PAGE 224 ===
+•
+•
+·J:;~·-.., .
+,, .,. ..
+'.,.p, .~--~
+,..~.;"
+•,,. '
+! 'J'.ticz.-u
+YOUNG TOPAZ DRAGON
+Large Dragon (Gem), Typically Chaotic Neutral
+Armor Class 17 (natural armor)
+Hit Points 127 (17dl0 + 34)
+Speed 40 ft., fly 80 ft., swim 40 ft. TOPAZ DRAGON WYRMLING
+Medium Dragon (Gem), Typically Chaotic Neutral
+STR DEX CON INT WIS CHA
+17 (+3) 12 (+l) 15 (+2) 16 (+3) 15 (+2) 16 (+3) Armor Class 16 (natural armor)
+Hit Points 33 (6d8 + 6)
+Saving Throws Dex +4, Con +5, Wis +5, Cha +6 Speed 30 ft., fly 60 ft., swim 30 ft.
+Skills Intimidation +9, Perception +8, Stealth +4
+Damage Resistances cold, necrotic STR DEX CON INT WIS CHA
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 18 15 (+2) 12 (+l) 13 (+l) 14 (+2) 13 (+l) 14 (+2)
+Languages Common, Draconic, telepathy 120 ft.
+Challenge 7 (2,900 XP) Proficiency Bonus +3 Saving Throws Dex +3, Con +3, Wis +3, Cha +4
+Skills Intimidation +6, Perception +5, Stealth +3
+Amphibious. The dragon can breathe both air and water. Damage Resistances cold, necrotic
+Senses blindsight 10 ft., darkvision 120 ft., passive Perception 15
+ACTIONS Languages Draconic, telepathy 120 ft.
+Challenge 2 (450 XP) Proficiency Bonus +2
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks.
+Amphibious. The dragon can breathe both air and water.
+Bite. Melee Weapon Attack: +6 to hit, reach 10 ft., one tar
+get. Hit: 14 (2dl0 + 3) piercing damage plus 3 (ld6) ne ACTIONS
+crotic damage.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one tar
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. get. Hit: 7 (ldl0 + 2) piercing damage plus 2 (ld4) ne
+Hit: 6 (ld6 + 3) slashing damage. crotic damage.
+Desiccating Breath (Recharge 5-6). The dragon exhales yellow Desiccating Breath (Recharge 5-6). The dragon exhales yellow
+ish necrotic energy in a 30-foot cone. Each creature in that area ish necrotic energy in a 15-foot cone. Each creature in that area
+must make a DC 13 Constitution saving throw. On a failed save, must make a DC 11 Constitution saving throw. On a failed save,
+the creature takes 28 (8d6) necrotic damage and is weakened the creature takes 21 (6d6) necrotic damage and is weakened
+until the end of its next turn. A weakened creature has disad until the end of its next turn. A weakened creature has disad
+vantage on Strength-based ability checks and Strength saving vantage on Strength-based ability checks and Strength saving
+throws, and the creature's weapon attacks that rely on Strength throws, and the creature's weapon attacks that rely on Strength
+deal half damage. On a successful save, the creature takes half deal half damage. On a successful save, the creature takes half
+as much damage and isn't weakened. as much damage and isn't weakened.
+Spellcasting (Psionics). The dragon casts one of the following Spellcasting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 14): the spellcasting ability (spell save DC 12):
+1/day each: bane, create or destroy water 1/day: bane
+CHAPTER 6 I BESTIARY 223
+=== PAGE 225 ===
+CREATURE LISTS CR Creature 0RACONS
+8 Hoard mimic Amethyst dragons
+The creatures in this chapter
+are organized by their challenge 8 Young emerald dragon Aspect of Bahamut
+Aspect ofTiamat
+rating in the Creatures by Chat- 8 Young moonstone dragon
+lenge Rating table. Lists of crea- 8 Young sea serpent Chromatic greatwyrm
+tures by type follow that table. Crystal dragons
+9 Young amethyst dragon
+Deep dragons
+CHALLENGE RATINGS 9 Young sapphire dragon Dragonnel
+10 Young dragon turtle Dragon turtles
+CREATURES BY
+11 Adult deep dragon Emerald dragons
+CHALLENCE RATINC
+11 Dracohydra Gem greatwyrm
+CR Creature
+11 Dragonbone golem Metallic greatwyrm
+1/8 Hoard scarab 12 Adult crystal dragon Moonstone dragons
+1/4 Metallic warbler Sapphire dragons
+13 Adult topaz dragon
+1/2 Draconian foot soldier Sea serpents
+14 Adult emerald dragon
+1 Deep dragon wyrmling Topaz dragons
+14 Ancient sea serpent
+2 Crystal dragon wyrmling
+15 Adult moonstone dragon ELEMENTALS
+2 Draconian mage Animated breath
+15 Adult sapphire dragon
+2 Dragonnel
+16 Adult amethyst dragon
+HUMANOIDS
+2 Dragon speaker
+17 Draconic shard Dragon blessed
+2 Egg hunter hatch ling
+17 Ghost dragon Dragon born of Bahamut
+2 Emerald dragon wyrmling
+18 Ancient deep dragon Dragon born of Sardior
+2 Moonstone dragon wyrmling
+18 Hollow dragon Dragonborn ofTiamat
+2 Swarm of hoard scarabs Dragon chosen
+19 Ancient crystal dragon
+2 Topaz dragon wyrmling Dragon speaker
+20 Ancient topaz dragon
+3 Draconian infiltrator
+21 Ancient emerald dragon MONSTROSITIES
+3 Dragon chosen
+21 Ancient moonstone dragon Dracohydra
+3 Dragonflesh grafter
+22 Ancient sapphire dragon Draconian dreadnought
+3 Sapphire dragon wyrmling Draconian foot soldier
+22 Elder brain dragon
+4 Amethyst dragon wyrmling Draconian infiltrator
+23 Ancient amethyst dragon
+4 Draconian dreadnought Draconian mage
+24 Ancient dragon turtle
+4 Dragon turtle wyrmling Draconian mastermind ' ...
+26 Gem greatwyrm
+Dragonflesh abomination
+4 Metallic peacekeeper
+27 Chromatic greatwyrm Dragonflesh grafter
+5 Dragon blessed
+28 Metallic greatwyrm Egg hunter adult
+5 Dragonblood ooze
+30 Aspect of Bahamut Egg hunter hatchling
+5 Egg hunter adult
+30 Aspect ofTiamat Gem stalker
+5 Gem stalker Hoard mimic
+5 Young crystal dragon CREATURE TYPES Hoard scarab
+5 Young deep dragon Lion drake
+ABERRATIONS
+6 Animated breath Swarm of hoard scarabs
+Elder brain dragon
+6 Draconian mastermind
+Eyed rake OOZE
+6 Dragon born of Sardior Dragonblood ooze
+CONSTRUCTS
+6 Dragonflesh abomination
+Dragonbone golem UNDEAD
+7 Dragonborn ofTiamat
+Metallic peacekeeper Draconic shard
+7 Liondrake
+Metallic warbler Ghost dragon
+7 Young topaz dragon
+Hollow dragon
+8 Dragon born of Bahamut
+8 Eyed rake
+CHAPTER 6 I BESTIARY
+l I •
+=== PAGE 226 ===
+S
+traight from the
+D ’ M
+ragon s outh
+Meet Fizban the Fabulous: doddering archmage,
+unlikely hero of the War of the Lance, divine
+avatar of a dragon-god-and your guide to
+the mysteries of dragonkind in the worlds of
+Dungeons & Dragons .
+In these pages. Fizban reveals the truth of the
+First World and introduces the family of gem
+dragons-amethyst, crystal, emerald, sapphire,
+and topaz.
+Players will find a treasure trove of dragon-
+themed character options: dragonborn with
+ties to specific draconic ancestries, subclasses
+for dragon-themed monks and rangers, ..X
+supernatural gifts for those who claim the
+power of a dying dragon, and more.
+Dungeon Masters' can enjoy a rich hoard of
+material designed to help bring dragons to life
+in dragon-themed encounters, adventures,
+and campaigns. The gems within range from
+guidance on creating unique and memorable
+draconic characters to maps for dragon lairs,
+treasures for a dragon's hoard, and monsters
+to populate your adventures. Learn everything
+there is to know about the most iconic monsters
+of D&D through Fizban's expert advice!
+For use with the fifth edition
+Player's Handbook . Monster Manual,
+and Dungeon Master s Guide
+&
+DunceonsandDracons.com
+iL
+WIZARDS

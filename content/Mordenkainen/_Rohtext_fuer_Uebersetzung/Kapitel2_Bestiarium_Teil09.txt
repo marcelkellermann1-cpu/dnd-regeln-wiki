@@ -1,0 +1,500 @@
+simpering obeisance to any creatures
+they deem more powerful. A lone derro
+may seem pitiable, but a cackling, spit­
+ting, growling, howling horde of them
+is horrifying to behold.
+Fractious in groups and individu­
+ally weak, derro would have died out
+long ago but for two elements of their
+character. They are cautious and distrustful, which
+serves them well as they navigate the dangers of
+the Underdark and its societies. They also have a
+stronger-than-normal tendency to develop sorcerous
+power. Individuals who do so usually serve as lead­
+ers and are known as savants.
+Grandiose fantasies and rampant fanaticism have
+obscured derro’s true origin, even among them­
+selves. Most dwarves don’t recognize derro as kin,
+but the legends that derro tell about their people and
+the story that duergar believe share a grain of truth.
+According to the histories of some duergar, derro
+are descended from a dwarven community that
+was left behind when the others escaped the rule
+of mind flayers. These remnants were so distorted
+by the mind flayers’ psionic power that the dwarves
+became Aberrations.
+Derro tell their own stories of flight and survival
+in the Underdark, in which mind flayers aren’t al­
+ways the enemy. They tell of two brothers, the gods
+Diirinka and Diinkarazan, and of how Diirinka clev­
+erly betrayed his sibling so that he could steal mag­
+ical power from the evil they escaped. The danger
+the brothers are said to face in this legend varies,
+depending on whatever foe the savants want to lead
+their people against, yet the essence of the story
+remains the same: a lesson of survival at any price
+and an example of how deceitfulness and cruelty
+can be virtues.
+--col--
+Derro
+Small Aberration, Typically Chaotic Evil
+Armor Class 13 (leather armor)
+Hit Points 13 (3d6 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 11 (+0) 5 (-3) 9 (-1)
+Skills Stealth +4
+Senses darkvision 120 ft., passive Perception 7
+Languages Dwarvish, Undercommon
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Magic Resistance. The derro has advantage on saving throws
+against spells and other magical effects.
+Sunlight Sensitivity. While in sunlight, the derro has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+Hooked Spear. Melee Weapon Attack: +2 to hit, reach 5 ft.,
+one target. Hit: 3 (1 d6) piercing damage. If the target is Me­
+dium or smaller, the derro can choose to deal no damage and
+knock it prone.
+Light Crossbow. Ranged Weapon Attack: +4 to hit, range 80/320
+ft., one target. Hit: 6 (1 d8 + 2) piercing damage.
+CHAPTER 2 | BESTIARY 91
+
+=== PAGE 92 ===
+92 CHAPTER 2 | BESTIARY
+--col--
+Small Aberration (Sorcerer), Typically Chaotic Evil
+Armor Class 13 (leather armor)
+Hit Points 36 (8d6 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 12 (+1) 11 (+0) 5 (-3) 14 (+2)
+Skills Stealth +4
+Senses darkvision 120 ft., passive Perception 7
+Languages Dwarvish, Undercommon
+Challenge 3 (700 XP) Proficiency Bonus +2
+Magic Resistance. The derro has advantage on saving throws
+against spells and other magical effects.
+Sunlight Sensitivity. While in sunlight, the derro has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+Quarterstaff. Melee Weapon Attack: +1 to hit, reach 5 ft., one
+target. Hit: 2 (1 d6 - 1) bludgeoning damage.
+Chromatic Beam. The derro launches a brilliant beam of mag­
+ical energy in a 5-foot-wide line that is 60 feet long. Each crea­
+ture in the line must make a DC 12 Dexterity saving throw, tak­
+ing 21 (6d6) radiant damage on a failed save, or half as much
+damage on a successful one.
+Spellcasting. The derro casts one of the following spells, using
+Charisma as the spellcasting ability (spell save DC 12):
+At will: mage hand, message, prestidigitation
+1/day each: invisibility, sleep, spider climb
+
+=== PAGE 93 ===
+Devourer
+Of all the abominations unleashed by Orcus (ap­
+pears in this book), devourers are among the most
+feared. These tall, mummy-like Undead wander the
+planes, consuming souls and spreading Orcus’s
+creed of replacing all life with everlasting death.
+A lesser demon that proves itself to Orcus might
+be granted the privilege of becoming a devourer.
+The Prince of Undeath transforms such a demon
+into an 8-foot-tall, desiccated biped with a hol-
+lowed-out ribcage, then fills the new creature with
+a hunger for souls. Orcus grants each new devourer
+the essence of a less fortunate demon to power the
+devourer’s first foray into the planes. Most devour­
+ers remain in the Abyss or on the Astral or Ethereal
+Devourer
+Large Undead, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 189 (18dl0 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 12 (+1) 20 (+5) 13 (+1) 10 (+0) 16 (+3)
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 10
+Languages Abyssal, telepathy 120 ft.
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Unusual Nature. A devourer doesn’t require air, drink, or sleep.
+Actions
+Multiattack. The devourer makes two Claw attacks and can use
+either Imprison Soul or Soul Rend, if available.
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+target. Hit: 12 (2d6 + 5) slashing damage plus 21 (6d6)
+necrotic damage.
+Imprison Soul. The devourer chooses a living Humanoid with
+0 hit points that it can see within 30 feet of it. That creature is
+teleported inside the devourer's ribcage and imprisoned there.
+While imprisoned in this way, the creature is restrained and has
+disadvantage on death saving throws. If the creature dies while
+imprisoned, the devourer regains 25 hit points and immediately
+recharges Soul Rend. Additionally, at the start of its next turn,
+the devourer regurgitates the slain creature as a bonus action,
+and the creature becomes an Undead. If the victim had 2 or
+fewer Hit Dice, it becomes a zombie. If it had 3 to 5 Hit Dice,
+it becomes a ghoul. Otherwise, it becomes a wight. (All three
+appear in the Monster Manual.) A devourer can imprison only
+one creature at a time.
+Soul Rend (Recharge 6). The devourer creates a vortex of
+life-draining energy in a 20-foot radius centered on itself. Each
+creature in that area must make a DC 18 Constitution saving
+throw, taking 44 (8dl0) necrotic damage on a failed save, or
+half as much damage on a successful one.
+--col--
+Plane, pursuing Orcus’s schemes and interests in
+those realms. When Orcus sends devourers to the
+Material Plane, he often sets them on a mission to
+create, control, and lead a plague of Undead. Skel­
+etons, zombies, ghouls, ghasts, and shadows (all of
+which appear in the Monster Manual) are particu­
+larly attracted to the presence of a devourer.
+Devourers hunt Humanoids with the intent of con­
+suming them body and soul. After a devourer brings
+a target to the brink of death, it pulls the victim’s
+body in and traps the creature within its own rib­
+cage. As the victim tries to stave off death (usually
+without success), the devourer tortures its soul with
+telepathic noise. When the victim expires, it under­
+goes a horrible transformation, springing forth from
+the devourer’s body to begin its new existence as an
+Undead servitor of the monster that spawned it.
+CHAPTER 2 | BESTIARY 93
+
+=== PAGE 94 ===
+94 CHAPTER 2 | BESTIARY
+--col--
+Dhergoloth
+A kind of yugoloth, dhergoloths rush into battle
+like whirlwinds of destruction, lashing out with the
+five sets of claws that extend from their squat, bar­
+rel-shaped bodies. They take contracts to put down
+uprisings, clear out rabble, and eliminate scouts
+and skirmishers, and they revel in the butchery they
+create, their gleeful laughter rising above their vic­
+tims’ screams.
+Since dhergoloths are little more than brutes,
+employers must use caution when instructing them.
+They can handle simple orders that don’t take a lot
+of time to resolve. When given anything complex to
+do, however, they either forget what they’re told or
+don’t listen in the first place, and then bungle the
+task that was set for them.
+-------j----------_.........
+Dhergoloth
+Medium Fiend (Yugoloth), Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 119 (14d8 +56)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 10 (+0) 19 (+4) 7 (-2) 10 (+0) 9 (-1)
+Saving Throws Str +6
+Damage Resistances cold, fire, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 60 ft., passive Perception 10
+Languages Abyssal, Infernal, telepathy 60 ft.
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Magic Resistance. The dhergoloth has advantage on saving
+throws against spells and other magical effects.
+Actions
+Multiattack. The dhergoloth makes two Claw attacks.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 12 (2d8 + 3) force damage.
+Flailing Claws (Recharge 5-6). The dhergoloth moves up to its
+speed in a straight line and targets each creature within 5 feet
+of it during its movement. Each target must succeed on a DC
+14 Dexterity saving throw or take 22 (3dl2 + 3) force damage.
+Spellcasting. The dhergoloth casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 10):
+At will: darkness, fear
+Teleport. The dhergoloth teleports, along with any equipment
+it is wearing or carrying, up to 60 feet to an unoccupied space
+it can see.
+
+=== PAGE 95 ===
+Dinosaurs
+The Monster Manual has statistics for several kinds
+of dinosaurs. This section provides several more.
+Brontosaurus
+This massive four-legged dinosaur is large enough
+that most predators leave it alone. Its deadly tail can
+drive away or kill smaller threats.
+Deinonychus
+This larger cousin of the velociraptor kills by grip­
+ping its target with its claws and feeding.
+Dimetrodon
+This sail-backed reptile is commonly found in areas
+where dinosaurs live. It hunts on shores and in shal­
+low water, filling a similar role to a crocodile.
+Hadrosaurus
+A hadrosaurus is a semi-quadrupedal herbivore
+with bony head crests. If raised from a hatchling, it
+can be trained to carry a rider.
+Quetzalcoatlus
+This giant relative of the pteranodon has a wingspan
+exceeding 30 feet. Although it can walk like a quad­
+ruped, it is more comfortable in the air.
+Stegosaurus
+This heavily built dinosaur has rows of plates on its
+back and a flexible, spiked tail held high to strike
+predators. It tends to travel in herds of mixed ages.
+Brontosaurus
+Cargantuan Beast (Dinosaur), Unaligned
+Armor Class 15 (natural armor)
+Hit Points 121 (9d20 + 27)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+21 (+5) 9 (-1) 17 (+3) 2 (-4) 10 (+0) 7 (-2)
+Saving Throws Con +6
+Senses passive Perception 10
+Languages —
+Challenges (1,800 XP) Proficiency Bonus +3
+Actions
+Stomp. Melee Weapon Attack: +8 to hit, reach 20 ft., one
+target. Hit: 27 (5d8 + 5) bludgeoning damage, and the tar­
+get must succeed on a DC 14 Strength saving throw or be
+knocked prone.
+Tail. Melee Weapon Attack: +8 to hit, reach 20 ft., one target.
+Hit: 32 (6d8 + 5) bludgeoning damage
+--col--
+Velociraptor
+This feathered dinosaur is about the size of a large
+turkey. It is an aggressive predator and often hunts
+in packs to bring down larger prey.
+Deinonyghus
+Medium Beast (Dinosaur), Unaligned
+Armor Class 13 (natural armor)
+Hit Points 26 (4d8 + 8)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 15 (+2) 14 (+2) 4 H) 12 (+1) 6 H)
+Skills Perception +3
+Senses passive Perception 13
+Languages —
+Challenge 1 (200 XP) Proficiency Bonus +2
+Pounce. If the deinonychus moves at least 20 feet straight to­
+ward a creature and then hits it with a Claw attack on the same
+turn, that target must succeed on a DC 12 Strength saving
+throw or be knocked prone. If the target is prone, the deinony­
+chus can make one Bite attack against it as a bonus action.
+Actions_______________________________
+Multiattack. The deinonychus makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 6 (1 d8 + 2) piercing damage.
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 6 (1 d8 + 2) slashing damage.
+Dimetrodon
+Medium Beast (Dinosaur), Unaligned
+Armor Class 12 (natural armor)
+Hit Points 19 (3d8 + 6)
+Speed 30 ft., swim 20 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 10 (+0) 15 (+2) 2 (-4) 10 (+0) 5 H)
+Skills Perception +2
+Senses passive Perception 12
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 9 (2d6 + 2) piercing damage.
+CHAPTER 2 | BESTIARY 95
+
+=== PAGE 96 ===
+Hadrosaurus
+Large Beast (Dinosaur), Unaligned
+Armor Class 11 (natural armor)
+Hit Points 19 (3dl0 + 3)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 10 (+0) 13 (+1) 2 (-4) 10 (+0) 5 H)
+Skills Perception +2
+Senses passive Perception 12
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Actions
+Tail. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit:
+7 (IdlO + 2) bludgeoning damage.
+Quetzalcoatlus
+Huge Beast (Dinosaur), Unaligned
+Armor Class 13 (natural armor)
+Hit Points 30 (4dl2 + 4)
+Speed 10 ft., fly 80 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 13 (+1) 13 (+1) 2 (-4) 10 (+0) 5 (-3)
+Skills Perception +2
+Senses passive Perception 12
+Languages —
+Challenge 2 (450 XP) Proficiency Bonus +2
+Flyby. The quetzalcoatlus doesn’t provoke an opportunity at­
+tack when it flies out of an enemy’s reach.
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 10 ft., one creature.
+Hit: 12 (3d6 + 2) piercing damage. If the quetzalcoatlus flew
+least 30 feet toward the target immediately before the hit, the
+target takes an extra 10 (3d6) piercing damage.
+96 CHAPTER 2 | BESTIARY
+--col--
+Stegosaurus
+Huge Beast (Dinosaur), Unaligned
+Armor Class 13 (natural armor)
+Hit Points 76 (8dl2 + 24)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 9(-l) 17 (+3) 2 (-4) 11 (+0) 5 (-3)
+Senses passive Perception 10
+Languages —
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Actions
+Tail. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+Hit: 26 (6d6 + 5) piercing damage.
+—
+Velociraptor
+Tiny Beast (Dinosaur), Unaligned
+Armor Class 13 (natural armor)
+Hit Points 10 (3d4 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 14 (+2) 13 (+1) 4 (-3) 12 (+1) 6 (-2)
+Skills Perception +3
+Senses passive Perception 13
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Pack Tactics. The velociraptor has advantage on an attack roll
+against a creature if at least one of the velociraptor's allies is
+within 5 feet of the creature and the ally isn’t incapacitated.
+Actions
+Multiattack. The velociraptor makes one Bite attack and one
+Claw attack.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one creature.
+Hit: 5 (1 d6 + 2) piercing damage.
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (ld4 + 2) slashing damage.
+
+=== PAGE 97 ===
+Dolphin
+Medium Beast, Unaligned
+Armor Class 12 (natural armor)
+Hit Points 11 (2d 8 4-2)
+Speed 0 ft., swim 60 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 13 (+1) 13 (+1) 6 (-2) 12 (+1) 7 (-2)
+Skills Perception +3
+Senses blindsight 60 ft., passive Perception 13
+Languages —
+Challenge 1/8 (25 XP) Proficiency Bonus +2
+Hold Breath. The dolphin can hold its breath for 20 minutes.
+Actions
+Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1 d6 + 2) bludgeoning damage. If the dolphin moved at
+least 30 feet straight toward the target immediately before the
+hit, the target takes an extra 3 (1 d6) bludgeoning damage.
+Dolphin Delighter
+Medium Fey, Typically Chaotic Good
+Armor Class 14 (natural armor)
+Hit Points 27 (5d8 + 5)
+Speed 0 ft., swim 60 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 13(+1) 13(4-1) 11(4-0) 12(4-1) 16(4-3)
+Saving Throws Wis 4-3, Cha 4-5
+Skills Perception 4-3, Performance 4-5
+Senses blindsight 60 ft., passive Perception 13
+Languages Aquan, telepathy 120 ft.
+Challenge 3 (700 XP) Proficiency Bonus 4-2
+Hold Breath. The dolphin can hold its breath for 20 minutes.
+Actions
+Multiattack. The dolphin makes two Dazzling Slam attacks.
+Dazzling Slam. Melee Weapon Attack: 4-4 to hit, reach 5 ft.,
+one target. Hit: 5 (1 d6 4- 2) bludgeoning damage plus 7 (2d6)
+psychic damage, and the target is blinded until the start of the
+dolphin’s next turn.
+Bonus Actions
+Delightful Light (Recharge 5-6). The dolphin magically ema­
+nates light in a 10-foot radius for a moment. The dolphin and
+each creature of its choice in that light gain 11 (2dl 0) tempo­
+rary hit points.
+Fey Leap. The dolphin teleports up to 30 feet to an unoccupied
+space it can see. Immediately before teleporting, the dolphin
+can choose one creature within 5 feet of it. That creature can
+teleport with the dolphin, appearing in an unoccupied space
+within 5 feet of the dolphin’s destination space.
+--col--
+Dolphins
+Dolphins are clever, social marine mammals that
+feed on small fish and squid. An adult specimen is
+between 5 and 6 feet long.
+Dolphin
+Dolphins are symbols of wisdom and playfulness
+among the sea folk of many worlds. Found in oceans
+and in the Elemental Plane of Water, dolphins are
+befriended by druids and rangers, and many tales
+speak of dolphins that appeared out of nowhere to
+protect swimmers from sharks and other aquatic
+predators.
+Dolphin Delighter
+In the Feywild, dolphin delighters brighten the
+moods of those who travel the seas of the Domains
+of Delight. Telepathically singing sea chanteys,
+these dolphins leap and teleport through the lumi­
+nous waters of Faerie and the Material Plane, and
+they are faithful allies to any who battle the forces of
+gloom and brutality under the waves.
+Dolphin delighters often accompany groups of sea
+elves, tritons, and tortles as guardians and friends.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 98 ===
+Draegloth
+A draegloth is a demon created by an elf priest of
+Lolth in an unholy, dangerous ritual in which it is
+infused with the fey essence of the creator and the
+fiendish essence of a glabrezu. This ritual rarely
+succeeds, but Lolth’s faithful consider it worth the
+risk, as the resulting creature is gifted with innate
+magic and physical might. The draegloth usually
+serves its creator, lending its thirst for destruction to
+the creator’s plans to triumph over rivals.
+A draegloth is an ogre-sized, four-armed biped
+with purple skin and pale hair. Two of its arms are
+muscular, tipped with sharp claws; the other two
+are the size and shape of an elf’s arms, capable of
+delicate movements. Although the creature is heav­
+ily muscled, it is graceful like an elf. Its bestial face
+features glowing red eyes, a doglike snout, and a
+mouth full of sharp teeth.
+Among the drow noble houses of Menzoberranzan
+in the Forgotten Realms, a high priestess’s success­
+ful creation of a draegloth is seen as a sign of Lolth’s
+favor toward her house—and a sign of the demon
+lord’s disregard for the family’s rivals, who were not
+thus gifted. The creation prompts the leaders of the
+house to begin crafting new plans to strike at its ri­
+vals when the draegloth is fully grown. These plans
+use the draegloth in a significant role, because its
+abilities can turn the tide in a battle against a house
+that doesn’t have a draegloth of its own.
+Although draegloths plays an important part in
+the plans of Lolth’s cult, a draegloth can’t rise above
+the status of a favored servant to a priest in that cult.
+Before a draegloth is given any duties, it receives in­
+struction in accepting the role set for it and not chal­
+lenging authority. Most draegloths fiercely resent
+being given orders, but thanks to their training, they
+typically take out their frustration on their creator’s
+enemies, rather than on their creator. A draegloth
+that can’t suppress its ambitions might abandon its
+creator and strike out on its own. Whether these
+rebellious draegloths are part of Lolth’s plan for
+sowing chaos is unclear.
+98 CHAPTER 2 | BESTIARY
+--col--
+Armor Class 15 (natural armor)
+Hit Points 123 (13dl0 + 52)

@@ -1,0 +1,33 @@
+---
+tags: [DnD/Mordenkainen, Statblock]
+typ: Statblock
+quelle: "Mordenkainen Presents: Monsters of the Multiverse"
+stand: 2026-06-29
+---
+
+# Tiefen-Rothe (Deep Rothe)
+
+*Tiefen-Rothe sind Rinder der Unterwelt, die miteinander mittels des Zaubers *Tanzende Lichter (dancing lights)* kommunizieren.*
+
+**Tiefen-Rothe**
+*Medium Beast (Cattle), Unaligned*
+
+**Rüstungsklasse** 10
+**Trefferpunkte** 13 (2W8 + 4)
+**Bewegung** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 18 (+4) | 10 (+0) | 14 (+2) | 2 (-4) | 10 (+0) | 4 (-3) |
+
+**Sinne** Dunkelsicht 60 ft., passive Wahrnehmung 10
+**Sprachen** —
+**Herausforderungsgrad** 1/4 (50 EP) Befähigungsbonus +2
+
+**Beast of Burden (Lasttier).** Das Rothe wird für die Bestimmung seiner Tragekapazität als eine Größe größer betrachtet.
+
+## Aktionen
+
+**Gore (Aufspießen).** Nahkampfwaffenangriff: +6 to hit, Reichweite 5 ft., ein Ziel. Treffer: 7 (1W6 + 4) Stichschaden. Hat sich das Rothe unmittelbar vor dem Treffer mindestens 20 ft. geradewegs auf das Ziel zubewegt, erleidet das Ziel zusätzlich 7 (2W6) Stichschaden.
+
+**Dancing Lights (Tanzende Lichter).** Das Rothe wirkt *Tanzende Lichter (dancing lights)*, ohne Zauberkomponenten und mit Weisheit als Zauberattribut.

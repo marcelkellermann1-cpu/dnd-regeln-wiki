@@ -1,0 +1,500 @@
+5 Small note with the words “It’s been fun!” writ­
+ten on it in an ornate script
+6 Glass bead that looks like an eye
+7 Pistachio shells
+8 Two playing cards balanced against each other,
+resembling a tent
+9 Worthless coin with a bite mark in it
+10 Chalk or charcoal sketch of a domino mask
+
+=== PAGE 175 ===
+Maurezhi
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 15 (natural armor)
+Hit Points 88 (16d8+ 16)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 17 (+3) 12 (+1) 11 (+0) 12 (+1) 15 (+2)
+Skills Deception +5
+Damage Resistances cold, fire, lightning, necrotic; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Abyssal, Elvish, telepathy 120 ft.
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Assume Form. The maurezhi can assume the appearance of any
+Medium Humanoid it eats. It remains in this form for 1 d6 days,
+during which time the form gradually decays until, when the
+effect ends, the form sloughs from the demon's body.
+Magic Resistance. The maurezhi has advantage on saving
+throws against spells and other magical effects.
+Actions
+Multiattack. The maurezhi makes one Bite attack and one
+Claw attack.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 14 (2dl 0 + 3) piercing damage. If the target is a Humanoid,
+its Charisma score is reduced by 1 d4. This reduction lasts until
+the target finishes a short or long rest. The target dies if this
+reduces its Charisma to 0. It rises 24 hours later as a ghoul (see
+the Monster Manual), unless it has been revived or its corpse
+has been destroyed.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 12 (2d8 + 3) slashing damage. If the target is a creature
+other than an Undead, it must succeed on a DC 12 Constitution
+saving throw or be paralyzed for 1 minute. The target can re­
+peat the saving throw at the end of each of its turns, ending the
+effect on itself on a success.
+Raise Choul (Recharge 5-6). The maurezhi targets one dead
+ghoul or ghast (see the Monster Manual) it can see within 30
+feet of it. The target is revived with all its hit points.
+--col--
+Maurezhi
+When Doresain, the King of Ghouls, corrupted a
+society of elves, he created a new sort of demon—
+the maurezhi—to lead packs of ghouls and ghasts
+(both appear in the Monster Manual) on the Mate­
+rial Plane.
+When a maurezhi consumes the corpse of a Hu­
+manoid it has slain—a process that takes about 10
+minutes—it instantly assumes the creature’s appear­
+ance as it was in life. The new appearance begins to
+rot away over the next few days, eventually revealing
+the demon’s original form.
+A maurezhi is contagion incarnate. Its bite can
+drain a victim’s sense of self. If this affliction is al­
+lowed to go far enough, the victim is infected with
+an unholy hunger for flesh that overpowers their
+personality and transforms them into a ghoul.
+CHAPTER 2 | BESTIARY 175
+
+=== PAGE 176 ===
+I once pulled a whole bottle of fine strawberry
+liquor from the belly of a maw demon. No clue
+where it might've devoured Such a find/ but I m
+not complaining.
+TASHA
+Maw Demon
+Maw demons share the ceaseless hunger for car­
+nage and mortal flesh of their master, Yeenoghu,
+who appears in this book. After a maw demon rests
+for 8 hours, anything devoured by it is transported
+directly into the Lord of Savagery’s gullet.
+Maw demons appear among gnoll war bands that
+worship Yeenoghu, usually summoned as part of
+ritual offerings of freshly slain Humanoids made to
+him. The gnolls don’t command the demons, which
+simply accompany the war band and attack what­
+ever creatures the gnolls fall upon.
+Because maw demons are indiscriminate in their
+hunger, their stomachs contain all manner of oddi­
+ties in addition to the remains of their recent prey.
+You may choose one or more items appropriate for
+your campaign for a maw demon to contain, or roll
+on the Maw Demon’s Stomach Contents table.
+Maw Demon’s Stomach Contents
+d8 Stomach Contents
+1 Intact wine skin with wine still in it
+2 Iron skillet
+3 Remnants of silk banner embroidered with a
+moon-and-stars motif
+4 Corroded gauntlet with skeletal hand in it
+5 Assorted keys
+6 Old leather boot
+7 Beehive
+8 Humanoid teeth
+CHAPTER 2 | BESTIARY
+--col--
+Maw Demon
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 13 (natural armor)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 8(-l) 13 (+1) 5 (-3) 8 (-1) 5 (-3)
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 60 ft., passive Perception 9
+Languages understands Abyssal but can’t speak
+Challenge 1 (200 XP) Proficiency Bonus +2
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 11 (2d8 + 2) piercing damage.
+Disgorge (Recharge 6). The demon vomits in a 15-foot cube.
+Each creature in that area must succeed on a DC 11 Dexterity
+saving throw or take 11 (2dl0) acid damage and fall prone
+in the spew.
+
+=== PAGE 177 ===
+Meazel
+Meazels are malicious hermits who fled to the Shad­
+owfell to escape their mortal existence and contem­
+plate their misery. There the shadows transformed
+them, and their bitterness made them twisted and
+cruel. Now hate burns in their hearts, and
+they resent any intrusion into their suffer­
+ing, waylaying travelers who venture too
+close to their lairs.
+The evil that corrupted meazels also im­
+bued them with magical powers that allow
+them to move through shadows with ease.
+They can step from one pool of darkness
+into another one, using this talent to am­
+bush prey. Sometimes they snatch victims
+around the throat with their strangling
+cords and then step away; other times they
+ferry their victims to isolated spots and then
+leave the hapless souls to the designs of
+whatever horrors lurk there.
+Any creatures meazels draw through the
+shadows are cursed by the meazels’ baleful magic.
+The curse acts as a beacon; sorrowsworn (which ap­
+pear in this book), Undead, and other terrors sense
+where they are located and descend on the stranded
+victims to tear them apart.
+i :
+Meazel
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 13
+Hit Points 35 (10d8 - 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 17 (+3) 9 (-1) 14 (+2) 13 (+1) 10 (+0)
+Skills Perception +3, Stealth +5
+Senses darkvision 120 ft., passive Perception 13
+Languages Common
+Challenge 1 (200 XP) Proficiency Bonus +2
+Actions
+Garrote. Melee Weapon Attack: +5 to hit, reach 5 ft., one target
+of the meazel’s size or smaller. Hit: 6 (1 d6 + 3) bludgeoning
+damage, and the target is grappled (escape DC 13 with disad­
+vantage). Until the grapple ends, the target takes 10 (2d6 + 3)
+bludgeoning damage at the start of each of the meazel’s turns.
+The meazel can’t make weapon attacks while grappling a crea­
+ture in this way.
+--col--
+Shortsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target. Hit: 6 (1 d6 + 3) piercing damage plus 3 (1 d6) ne­
+crotic damage.
+Shadow Teleport (Recharge 5-6). The meazel, any equipment it
+is wearing or carrying, and any creature it is grappling teleport
+to an unoccupied space within 500 feet of it, provided that the
+starting space and the destination are in dim light or darkness.
+The destination must be a place the meazel has seen before,
+but it need not be within line of sight. If the destination space
+is occupied, the teleportation leads to the nearest unoccu­
+pied space.
+Any other creature the meazel teleports becomes cursed for
+1 hour or until the curse is ended by remove curse or greater
+restoration. Until this curse ends, every Undead and every
+creature native to the Shadowfell within 300 feet of the cursed
+creature can sense it, which prevents that creature from hiding
+from them.
+Bonus Actions
+Shadow Stealth. While in dim light or darkness, the meazel
+takes the Hide action.
+CHAPTER 2 | BESTIARY 177
+
+=== PAGE 178 ===
+Meenlock
+Meenlocks are Fey that invoke terror and seek to de­
+stroy all that is good, innocent, and beautiful. These
+bipeds have the heads and claws of crustaceans,
+and they primarily live in forests, although they
+adapt well to urban and subterranean settings.
+Meenlocks are spawned by fear. When terror
+overwhelms a creature in the Feywild or another
+location where the Feywild’s influence is strong, one
+or more meenlocks might spontaneously arise in
+the shadows or darkness nearby. If more than one
+meenlock is born, a lair also magically forms. The
+earth creaks and moans as narrow, twisting tunnels
+open up within it. One of these passageways serves
+as the lair’s only entrance, and a large central cham­
+ber serves as the meenlocks’ den. Inside the warren,
+black moss covers every surface, muffling sound.
+A meenlock can supernaturally sense areas of
+darkness and shadow in its vicinity and can teleport
+from one darkened space to another—enabling it to
+sneak up on its prey or run away when outmatched.
+Meenlocks also project a supernatural aura that in­
+stills terror in those nearby.
+Tele pat hic To r m e n t
+Up to four meenlocks can telepathically torment
+one incapacitated creature, filling its mind with dis­
+turbing sounds and dreadful imagery. Participating
+meenlocks can’t use their telepathy for any other
+purpose during this time, though they can move
+about and take actions and reactions as normal.
+This torment has no effect on a creature that is im­
+mune to the frightened condition. If the creature is
+susceptible and remains incapacitated for 1 hour,
+the creature must make a Wisdom saving throw,
+taking 10 (3d6) psychic damage on a failed save, or
+half as much damage on a successful one. The save
+DC is 10 + the number of meenlocks participating
+in the torment, considering only those that remain
+within sight of the victim for the entire hour and
+aren’t incapacitated during it. The process can be
+repeated. A Humanoid that drops to 0 hit points as
+a result of this damage instantly transforms into a
+meenlock at full health and under the DM’s control.
+Only a wish spell or divine intervention can restore
+a transformed creature to its former state.
+I78 CHAPTER 2 | BESTIARY
+--col--
+Meenlock
+Small Fey, Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 31 (7d6 + 7)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 15 (+2) 12 (+1) 11 (+0) 10 (+0) 8 (-1)
+Skills Perception +4, Stealth +6, Survival +2
+Condition Immunities frightened
+Senses darkvision 120 ft., passive Perception 14
+Languages telepathy 120 ft.
+Challenge 2 (450 XP) Proficiency Bonus +2
+Fear Aura. Any Beast or Humanoid that starts its turn within 10
+feet of the meenlock must succeed on a DC 11 Wisdom saving
+throw or be frightened until the start of the creature’s next turn.
+Light Sensitivity. While in bright light, the meenlock has dis­
+advantage on attack rolls, as well as on Wisdom (Perception)
+checks that rely on sight.
+Actions
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) slashing damage, and the target must succeed
+on a DC 11 Constitution saving throw or be paralyzed for 1 min­
+ute. The target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.
+Bonus Actions
+Shadow Teleport (Recharge 5-6). The meenlock teleports to an
+unoccupied space within 30 feet of it, provided that both the
+space it’s teleporting from and its destination are in dim light
+or darkness. The destination need not be within line of sight.
+
+=== PAGE 179 ===
+M
+The
+gua
+find
+reg
+leg
+pla
+M
+nee
+a m
+ma
+ide
+the
+B
+form
+inu
+dan
+retr
+M
+Med
+Arm
+Hit
+Spe
+S
+18
+Dam
+fro
+Dam
+Con
+Sen
+Lan
+te
+Cha
+Dev
+dark
+Mag
+thro
+Ac
+Mul
+Halb
+get.
+Hea
+100
+Re
+Loy
+rego
+hit i
+--col--
+Merregon
+e souls of fallen soldiers, mercenaries, and body­
+ards who served evil without reservation often
+d everlasting servitude in the Nine Hells as mer-
+gons. These faceless foot soldiers are the Hells’
+gionnaires, tasked with protecting their infernal
+ane and its rulers against intruders.
+Merregons have no individuality and hence no
+ed for faces. Every merregon legionnaire has
+metal mask bolted to its head. Markings on the
+ask indicate the only elements of the wearer’s
+entity that matter: the commander it serves and
+e layer of the Nine Hells it protects.
+Because of their unshakable loyalty, merregons
+m the backbone of many devils’ protective ret­
+ues. They shrink from no task, no matter how
+ngerous. Unless ordered to fall back, they never
+reat from a fight.
+Merregon
+dium Fiend (Devil), Typically Lawful Evil
+mor Class 16 (natural armor)
+Points 45 (6d8+ 18)
+eed 30 ft.
+STR DEX CON INT WIS CHA
+8 (+4) 14 (+2) 17 (+3) 6 (-2) 12 (+1) 8 (-1)
+mage Resistances cold; bludgeoning, piercing, and slashing
+om nonmagical attacks that aren’t silvered
+mage Immunities fire, poison
+ndition Immunities frightened, poisoned
+nses darkvision 60 ft., passive Perception 11
+nguages understands Infernal but can’t speak,
+elepathy 120 ft.
+allenge 4 (1,100 XP) Proficiency Bonus +2
+vil’s Sight. Magical darkness doesn’t impede the merregon’s
+kvision.
+gic Resistance. The merregon has advantage on saving
+ows against spells and other magical effects.
+ctions
+ltiattack. The merregon makes three Halberd attacks.
+berd. Melee Weapon Attack: +6 to hit, reach 10 ft., one tar­
+. Hit: 9 (IdlO + 4) slashing damage.
+avy Crossbow. Ranged Weapon Attack: +4 to hit, range
+0/400 ft., one target. Hit: 7 (IdlO + 2) piercing damage.
+eactions
+yal Bodyguard. When another Fiend within 5 feet of the mer­
+on is hit by an attack roll, the merregon causes itself to be
+instead.
+CHAPTER 2 | BESTIARY 179
+
+=== PAGE 180 ===
+Merrenoloth
+The grim captains of the ferries on the River Styx,
+merrenoloths can navigate safely through the worst
+storms and always stay on course. Wielding fiery
+oars, merrenoloths strike fear into anyone who
+forcefully boards their vessels.
+Lair Actions
+On initiative count 20 (losing initiative ties) while
+captaining a vessel, the merrenoloth can take one of
+the following lair actions; it can’t take the same lair
+action two rounds in a row:
+Gale. The air within 60 feet of the vessel is filled
+with wind. Until initiative count 20 on the next
+round, that area is difficult terrain, and when
+a Medium or smaller creature flies into that
+area or starts its turn flying there, it must suc­
+ceed on a DC 13 Strength saving throw or be
+knocked prone.
+Propel. A strong wind propels the vessel, increas­
+ing its speed by 30 feet until initiative count 20 on
+the next round.
+Repair. The vessel regains 22 (4dl0) hit points.
+Regional Effects
+A merrenoloth imbues its vessel with magic that
+creates one or more of the following effects:
+Unerring. The vessel always stays on course to the
+destination the merrenoloth names.
+Unsinkable. The vessel doesn’t sink even if its hull
+is breached.
+If the merrenoloth dies, these effects fade over the
+course of ld6 hours.
+Merrenoloth
+Medium Fiend (Yugoloth), Typically Neutral Evil
+Armor Class 13
+Hit Points 40 (9d8)
+Speed 30 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 17 (+3) 10 (+0) 17 (+3) 14 (+2) 11 (+0)
+Saving Throws Dex +5, I nt +5
+Skills History +5, Nature +5, Perception +4, Survival +4
+Damage Resistances cold, fire, lightning; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 60 ft.,
+passive Perception 14
+Languages Abyssal, Infernal, telepathy 60 ft.
+Challenge 3 (700 XP) Proficiency Bonus +2
+Magic Resistance. The merrenoloth has advantage on saving
+throws against spells and other magical effects.
+.......................
+j8q CHAPTER 2 | BESTIARY
+--col--
+Actions
+Multiattack. The merrenoloth makes one Oar attack and uses
+Fear Gaze.
+Oar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) fire damage.
+Fear Caze. The merrenoloth targets one creature it can see
+within 60 feet of it. The target must succeed on a DC 13 Wis­
+dom saving throw or become frightened of the merrenoloth
+for 1 minute. The frightened target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on
+a success.
+Spellcasting. The merrenoloth casts one of the following spells,
+requiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 13):
+At will: charm person, darkness, detect magic, dispel magic,
+gust of wind
+3/day: control water
+Bonus Actions
+Teleport. The merrenoloth teleports, along with any equipment
+it is wearing or carrying, up to 60 feet to an unoccupied space
+it can see.
+.......-
+
+=== PAGE 181 ===
+Mindwitness
+Large Aberration, Typically Lawful Neutral
+Armor Class 15 (natural armor)
+Hit Points 75 (10dl0 + 20)
+Speed 0 ft., fly 20 ft. (hover)
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 14 (+2) 15 (+2) 15 (+2) 10 (+0)
+Saving Throws Int +5, Wis +5
+Skills Perception +8
+Condition Immunities prone
+Senses darkvision 120 ft., passive Perception 18
+Languages Deep Speech, Undercommon, telepathy 600 ft.
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Telepathic Hub. When the mindwitness receives a telepathic
+message, it can telepathically share that message with up to
+seven other creatures within 600 feet of it that it can see.
+Actions
+Multiattack. The mindwitness makes one Bite attack and one
+Tentacles attack, or it uses Eye Ray three times.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 16 (4d6 + 2) piercing damage.
+Tentacles. Melee Weapon Attack: +5 to hit, reach 10 ft., one
+creature. Hit: 20 (4d8 + 2) psychic damage. If the target is
+Large or smaller, it is grappled (escape DC 13), and it must suc­
+ceed on a DC 13 Intelligence saving throw or be restrained until
+this grapple ends.
+--col--
+Mindwitness
+If a beholder is stunned and brought to the brine
+pool of an elder brain (appears in this book), the
+beholder can be converted into a mindwitness.
+This alters some of its eye rays and transforms
+four of its eyestalks into tentacles similar to a mind
+flayer’s. The mindwitness is psychically imprinted
+with devotion to the elder brain and submission to
+illithid commands.
+A mindwitness’s primary function is to improve
+telepathic communication in a mind flayer colony. A
+creature in telepathic communication with a mind­
+witness can converse through it to as many as seven
+other creatures the mindwitness can see, rapidly
+disseminating commands and other information.
+If separated from its illithid masters, a mindwit­
+ness seeks out other telepathic creatures to tell it
+what to do. Mindwitnesses have been known to ally
+with flumphs (see the Monster Manual) and planar
+beings such as demons, shifting their worldview and
+alignment to match those of their new masters.

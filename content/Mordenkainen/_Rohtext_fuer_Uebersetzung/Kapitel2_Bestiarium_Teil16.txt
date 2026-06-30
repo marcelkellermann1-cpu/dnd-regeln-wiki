@@ -1,0 +1,500 @@
+Spellcasting (Psionics). The githyanki casts one of the following
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 15):
+At will: light, mage hand (the hand is invisible), message
+3/day each: fireball, invisibility, nondetection (self only)
+1/day each: dimension door, plane shift, telekinesis
+Bonus Actions
+Astral Step (Recharge 4-6). The githyanki teleports, along with
+any equipment it is wearing or carrying, up to 30 feet to an un­
+occupied space it can see.
+140 CHAPTER 2 | BESTIARY
+--col--
+Githyanki Kith’rak
+Militarized githyanki cultures assign ranks and
+responsibilities to citizens. Groups of ten warriors
+follow the commands of sarths (githyanki warriors;
+see the Monster Manual), while ten sarths obey the
+commands of a mighty kith’rak. These champions
+undergo torturous training and psionic testing until
+they can command the respect of their underlings.
+Githyanki Supreme Commander
+Supreme commanders lead armies, each one com­
+manding ten kith’raks, who in turn lead the rest of
+their forces. Most supreme commanders ride red
+dragons (see the Monster Manual) into battle.
+Githyanki Kith’rak
+Medium Humanoid (Cith), Any Alignment
+Armor Class 18 (plate)
+Hit Points 180 (24d8 4- 72)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18(4-4) 16(4-3) 17 (+3) 16(4-3) 15 (+2) 17(4-3)
+Saving Throws Con 4-7, Int 4-7, Wis 4-6
+Skills Intimidation 4-7, Perception 4-6
+Senses passive Perception 16
+Languages Gith
+Challenge 12 (8,400 XP) Proficiency Bonus 4-4
+Actions
+Multiattack. The githyanki makes three Greatsword attacks.
+Creatsword. Melee Weapon Attack: 4-8 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 4- 4) slashing damage plus 17 (5d6) psy­
+chic damage.
+Spellcasting (Psionics). The githyanki casts one of the following
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 15):
+At will: mage hand (the hand is invisible)
+3/day each: blur, nondetection (self only)
+1/day each: plane shift, telekinesis
+Bonus Actions
+Astral Step (Recharge 4-6). The githyanki teleports, along with
+any equipment it is wearing or carrying, up to 30 feet to an un­
+occupied space it can see.
+Rally the Troops. The githyanki magically ends the charmed and
+frightened conditions on itself and each creature of its choice
+that it can see within 30 feet of it.
+Reactions
+Parry. The githyanki adds 4 to its AC against one melee attack
+that would hit it. To do so, the githyanki must see the attacker
+and be wielding a melee weapon.
+
+=== PAGE 141 ===
+i:~~______________i". .................................................................
+Githyanki Supreme
+Commander
+Medium Humanoid (Cith), Any Alignment
+Armor Class 18 (plate)
+Hit Points 187 (22d8 + 88)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 17 (+3) 18 (+4) 16 (+3) 16 (+3) 18 (+4)
+Saving Throws Con +9, Int +8, Wis +8
+Skills Insight+8, Intimidation +9, Perception +8
+Senses passive Perception 18
+Languages Gith
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Legendary Resistance (3/Day). If the githyanki fails a saving
+throw, it can choose to succeed instead.
+Actions
+Multiattack. The githyanki makes two Silver Greatsword attacks.
+Silver Creatsword. Melee Weapon Attack: +12 to hit, reach 5
+ft., one target. Hit: 14 (2d6 + 7) slashing damage plus 17 (5d6)
+psychic damage. On a critical hit against a target in an astral
+body (as with the astral projection spell), the githyanki can cut
+the silvery cord that tethers the target to its material body, in­
+stead of dealing damage.
+--col--
+Spellcasting (Psionics). The githyanki casts one of the following
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 16):
+At will: mage hand (the hand is invisible)
+3/day each: levitate (self only), nondetection (self only)
+1 /day each: Bigby's hand, mass suggestion, plane shift, telekinesis
+Bonus Actions__________________________
+Astral Step. The githyanki teleports, along with any equipment
+it is wearing or carrying, up to 30 feet to an unoccupied space
+it can see.
+Reactions
+Parry. The githyanki adds 5 to its AC against one melee attack
+that would hit it. To do so, the githyanki must see the attacker
+and be wielding a melee weapon.
+Legendary Actions
+The githyanki can take 3 legendary actions, choosing from
+the options below. Only one legendary action option can be
+used at a time and only at the end of another creature’s turn.
+The githyanki regains spent legendary actions at the start
+of its turn.
+Command Ally. The githyanki targets one ally it can see within
+30 feet of it. If the target can see or hear the githyanki, the
+target can make one melee weapon attack using its reaction,
+if available, and has advantage on the attack roll.
+Attack (2 Actions). The githyanki makes one Silver Great­
+sword attack.
+....................■-----
+CHAPTER 2 | BESTIARY 141
+
+=== PAGE 142 ===
+Githzerai
+Githzerai are otherworldly folk with psionic powers
+who share an ancestral link to githyanki (also in this
+book). The githzerai followers of the great leader
+Zaerith Menyar-Ag-Gith are an ascetic people who
+live apart from the rest of the cosmos, within the
+confines of fortresses floating through the chaos
+of Limbo. Instead of imposing their will on other
+peoples, they focus on controlling and manipulating
+their endlessly malleable home.
+Gittizerai Anarch
+Anarchs are githzerai sages and mystics who lead
+communities and maintain the adamantine citadels
+that serve as strong points in Limbo and on other
+planes. They have formidable psionic capabilities
+and are able to manipulate the unformed substance
+of their adopted plane with a thought.
+An Anarch’s Lair
+In Limbo, githzerai anarchs create islands of tran­
+quility in this turbulent plane. An anarch can use its
+psionic power to give form to formless substance,
+creating mountains, lakes, and structures to serve
+as a foundation for a githzerai community.
+The anarch’s challenge rating is 17 (18,000 XP)
+when it’s encountered in its lair.
+Lair Actions. On initiative count 20 (losing initia­
+tive ties), the anarch can take one of the following
+lair actions; the anarch can’t take the same lair ac­
+tion two rounds in a row:
+Create Object. The anarch casts the creation spell
+(as a 9th-level spell) using the unformed substance
+of Limbo instead of shadow material. If used in
+Limbo, the object remains until the anarch’s con­
+centration is broken, regardless of its composition.
+If the anarch moves more than 120 feet from the
+object, the anarch’s concentration breaks.
+Move Object. The anarch can magically move an
+object it can see within 150 feet of it by making a
+Wisdom check with advantage. The DC depends
+on the object’s size: DC 5 for Tiny, DC 10 for
+Small, DC 15 for Medium, DC 20 for Large, and
+DC 25 for Huge or larger.
+Psionic Bolt. The anarch casts the lightning bolt
+spell (at 5th level), but the anarch can change the
+damage type from lightning to cold, fire, psychic,
+radiant, or thunder. If the spell deals damage
+other than fire or lightning, it doesn’t ignite flam­
+mable objects.
+Regional Effects. The region containing an an­
+arch’s lair is warped by its presence, which creates
+one or more of the following effects:
+Form Substance. In Limbo, the anarch can spend
+10 minutes stabilizing a 5-mile area centered on it,
+CHAPTER 2 | BESTIARY
+--col--
+causing the unformed substance to take whatever
+inanimate form the anarch chooses. During that
+process, the anarch determines the shape and
+composition of the forms created.
+Stabilize Object. The anarch stabilizes any object
+created in Limbo and brought to the Material
+Plane for as long as the anarch remains within 1
+mile of it (no action required).
+If the anarch dies, these effects end after ld6
+rounds. All formed substance becomes a chaotic
+churn of energy and matter, unraveling into un­
+formed substance that dissipates ld6 rounds later.
+Githzerai Anarch
+Medium Humanoid (Cith), Any Alignment
+Armor Class 20 (Psychic Defense)
+Hit Points 144 (17d8 + 68)
+Speed 30 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA
+16 (+3) 21 (+5) 18 (+4) 18 (+4) 20 (+5) 14 (+2)
+Saving Throws Str +8, Dex +10, Int +9, Wis +10
+Skills Arcana +9, Insight +10, Perception +10
+Senses passive Perception 20
+Languages Gith
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+Legendary Resistance (3/Day). If the githzerai fails a saving
+throw, it can choose to succeed instead.
+Psychic Defense. While the githzerai is wearing no armor and
+wielding no shield, its AC includes its Wisdom modifier.
+Actions
+Multiattack. The githzerai makes three Unarmed Strike attacks.
+Unarmed Strike. Melee Weapon Attack: +10 to hit, reach 5 ft.,
+one target. Hit: 9 (1 d8 + 5) bludgeoning damage plus 18 (4d8)
+psychic damage.
+Spellcasting (Psionics). The githzerai casts one of the following
+spells, requiring no spell components and using Wisdom as
+the spellcasting ability (spell save DC 18):
+At will: mage hand (the hand is invisible)
+3/day each: see invisibility, telekinesis
+1/day each: globe of invulnerability, plane shift, wall of force
+Legendary Actions
+The githzerai can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. The
+githzerai regains spent legendary actions at the start of its turn.
+Strike. The githzerai makes one Unarmed Strike attack.
+Teleport. The githzerai teleports, along with any equipment it is
+wearing or carrying, to an unoccupied space it can see within
+30 feet of it.
+Change Gravity (Costs 3 Actions). The githzerai casts the re­
+verse gravity spell, using Wisdom as the spellcasting ability.
+The spell has the normal effect, except that the githzerai can
+orient the area in any direction and creatures and objects fall
+toward the end of the area.
+
+=== PAGE 143 ===
+Githzerai Enlightened
+Some spiritual githzerai spend long hours in med­
+itation to transcend the limits of their forms and to
+apprehend the nature of reality. Zerths who com­
+plete the next tier of their training become known as
+the enlightened.
+Githzerai Enlightened
+Medium Humanoid (Cith), Any Alignment
+Armor Class 18 (Psychic Defense)
+Hit Points 112 (15d8 + 45)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 19 (+4) 16 (+3) 17 (+3) 19 (+4) 13 (+1)
+Saving Throws Str +6, Dex +8, Int +7, Wis +8
+Skills Arcana +7, Insight +8, Perception +8
+Senses passive Perception 18
+Languages Gith
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Psychic Defense. While the githzerai is wearing no armor and
+wielding no shield, its AC includes its Wisdom modifier.
+Actions
+Multiattack. The githzerai makes three Unarmed
+Strike attacks.
+--- - -
+--col--
+Unarmed Strike. Melee Weapon Attack: +8 to hit, reach 5 ft.,
+one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 18 (4d8)
+psychic damage.
+Spellcasting (Psionics). The githzerai casts one of the following
+spells, requiring no spell components and using Wisdom as
+the spellcasting ability (spell save DC 16):
+At will: mage hand (the hand is invisible)
+3/day: see invisibility
+1/day each: plane shift, teleport
+Temporal Strike (Recharge 6). Melee Weapon Attack: +8 to hit,
+reach 5 ft., one creature. Hit: 13 (2d8 + 4) bludgeoning dam­
+age plus 52 (8dl2) psychic damage. The target must succeed
+on a DC 16 Wisdom saving throw or move 1 round forward in
+time. A target moved forward in time vanishes for the duration.
+When the effect ends, the target reappears in the space it left
+or in an unoccupied space nearest to that space if it’s occupied.
+Reactions
+Slow Fall. When the githzerai falls, it reduces any falling dam­
+age it takes by 50.
+CHAPTER 2 | BESTIARY 143
+
+=== PAGE 144 ===
+Gnoll Flesh Gnawer
+Medium Monstrosity, Typically Chaotic Evil
+Armor Class 14 (studded leather)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 14 (+2) 12 (+1) 8 (-1) 10 (+0) 8 (-1)
+Saving Throws Dex +4
+Senses darkvision 60 ft., passive Perception 10
+Languages Gnoll
+Challenge 1 (200 XP) Proficiency Bonus +2
+Actions
+Multiattack. The gnoll makes one Bite attack and two Shorts­
+word attacks.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1 d4 + 2) piercing damage.
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target. Hit: 5 (1 d6 + 2) piercing damage.
+Sudden Rush. Until the end of the turn, the gnoll’s speed in­
+creases by 60 feet and it doesn’t provoke opportunity attacks.
+Bonus Actions
+Rampage. After the gnoll reduces a creature to 0 hit points with
+a melee attack on its turn, the gnoll moves up to half its speed
+and makes a Bite attack.
+-------------------------. . 1
+144 CHAPTER 2 | BESTIARY
+--col--
+Gnolls
+The first gnolls were hyenas transformed by magic.
+Many of them were then corrupted by the demon
+lord Yeenoghu. Whether in service to Yeenoghu
+or dedicated to the survival of their kin, gnoll war
+bands seek to soften up foes with surprise attacks
+and to leave no survivors alive.
+Gnoll Flesh Gnawer
+These gnolls eschew the use of ranged weapons
+in favor of short blades that they wield with great
+speed and efficiency. In the thick of a fight, they dash
+across the battlefield, slashing and snarling as they
+run down stragglers and finish off wounded foes.
+Gnoll Hunter
+Hunters are the stealthiest gnolls in a war band. In
+the vanguard, they creep around, picking off iso­
+lated opposition while clearing the way for the rest
+of the force to advance.
+Hunters are particularly skilled with the longbow,
+and they fire arrows with viciously barbed heads.
+Even when a hunter doesn’t kill their target with
+their first shot, the arrow strike brings so much pain
+that the victim is hobbled in its attempt to run away.
+1 :....... . 1__________ , „ ............._
+Gnoll Hunter
+Medium Monstrosity, Typically Chaotic Evil
+Armor Class 13 (leather armor)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 14 (+2) 12 (+1) 8 (-1) 12 (+1) 8 (-1
+Skills Perception +3, Stealth +4
+Senses darkvision 60 ft., passive Perception 13
+Languages Gnoll
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+Actions
+Multiattack. The gnoll makes two Bite, Spear, or Long­
+bow attacks.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (ld4 + 2) piercing damage.
+Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or
+range 20/60 ft., one target. Hit: 5 (1 d6 + 2) piercing damage,
+or 6 (ld8 + 2) piercing damage when used with two hands to
+make a melee attack.
+Longbow. Ranged Weapon Attack: +4 to hit, range 150/600 ft.,
+one target. Hit: 6 (1 d8 + 2) piercing damage, and the target's
+speed is reduced by 10 feet until the end of its next turn.
+Bonus Actions
+Rampage. After the gnoll reduces a creature to 0 hit points with
+a melee attack on its turn, the gnoll moves up to half its speed
+and makes a Bite attack.
+
+=== PAGE 145 ===
+Gnoll Witherling
+Medium Undead, Typically Chaotic Evil
+Armor Class 12 (natural armor)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14(+2) 8 (-1) 12 (+1) 5 (-3) 5 (-3) 5 (-3)
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 7
+Languages understands Cnoll but can’t speak
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Unusual Nature. The witherling doesn’t require air, food,
+drink, or sleep.
+G
+Actions
+Multiattack. The witherling makes two Bite or Spiked So
+Club attacks. eac
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. ba
+Hit: 4 (1 d4 + 2) necrotic damage. ord
+Spiked Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one of
+target. Hit: 4 (1 d4 + 2) piercing damage. ger
+the
+Bonus Actions
+T
+Rampage. After the witherling reduces a creature to 0 hit points rad
+with a melee attack on its turn, the gnoll moves up to half its ritu
+speed and makes one Bite attack.
+the
+Reactions of
+W
+Vengeful Strike. In response to a gnoll being reduced to 0 hit
+kil
+points within 30 feet of the witherling, the witherling makes
+one Bite or Spiked Club attack. mo
+of
+--col--
+Gnoll Witherling
+ometimes the gnolls of Yeenoghu turn against
+ch other, perhaps to determine who rules a war
+and or because of extreme starvation. Even under
+dinary circumstances, gnolls that are deprived
+victims for too long struggle to control their hun­
+r and violent urges. Eventually, they fight among
+emselves.
+The survivors devour the flesh of their slain com­
+des but preserve the bones. Then, by invoking
+uals to Yeenoghu (appears in this book) they bring
+e remains back to a semblance of life in the form
+a gnoll witherling.
+Witherlings travel with their comrades and try to
+ll anything in their path. They don’t eat and aren’t
+otivated by hunger, leaving more flesh for the rest
+the war band.
+CHAPTER 2 | BESTIARY 145
+
+=== PAGE 146 ===
+Gray Render
+A curious impulse drives the gray render. Despite
+its hulking form and terrible appetite, it wants most
+of all to bond with an intelligent creature and, once
+bonded, to give its life to protect that creature. Great
+strength and a ferocious nature make gray renders
+fierce guardians, but they lack a shred of cunning.
+Gray renders reproduce by forming nodules on
+their bodies that, on reaching maturity, break off to
+begin life as young gray renders. They feel no obliga­
+tion to their young and have no inclination to gather
+with others of their kind. Instead, each has an over­
+powering need to bond with an intelligent creature.
+When one encounters a suitable master, it sings to
+that creature—a weird, warbling cry accompanied
+by scratching at the earth and a show of deference.
+Once it forms a bond, a gray render serves its mas­
+ter devotedly.
+A gray render might be a strong ally, but it’s
+always an unpredictable one. In combat, a gray
+render fights viciously and never willingly harms
+its master, but outside battle, it might cause consid­
+erable difficulties. It might follow its master despite
+being told to stay put, destroy its master’s house,
+burrow holes through a ship’s hull, attack out of jeal­
+ousy, or worse.
+The Gray Render Quirks table presents possible
+quirks for gray renders that can be generated ran­
+domly or selected as desired.
+Gray Render Quirks
+d!2 Quirk
+1 Hates horses and other mounts
+2 Roars loudly when its bonded creature is
+touched by another creature
+3 Likes to snuggle
+4 Uproots and chews on trees
+5 Has terrific and eye-watering flatulence
+6 Brings offerings of meat to its bonded creature
+7 Compulsively digs up the ground
+8 Attacks carts and wagons as if they were terrible
+monsters
+9 Howls when it rains
+10 Whines piteously in the dark
+11 Buries treasure it finds
+12 Chases birds, leaping into the air to catch them,
+heedless of the destruction it causes
+J4.6 CHAPTER 2 | BESTIARY
+--col--
+Gray Render
+Large Monstrosity, Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 189 (18dl0 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 13 (+1) 20 (+5) 3 (-4) 6 (-2) 8 (-1)
+Saving Throws Str +8, Con +9
+Skills Perception +2
+Senses darkvision 60 ft., passive Perception 12
+Languages —
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+Actions
+Multiattack. The gray render makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 17 (2dl 2 + 4) piercing damage. If the target is Medium or
+smaller, the target must succeed on a DC 16 Strength saving
+throw or be knocked prone.
+Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 13 (2d8 + 4) slashing damage, plus 10 (3d6) bludgeoning
+damage if the target is prone.
+Reactions
+Bloody Rampage. When the gray render takes damage, it makes
+one Claw attack against a random creature within its reach,
+other than its master.
+
+=== PAGE 147 ===
+Graz’zt
+The appearance of this demon lord is a warning
+that not all that is beautiful is good. Every plane and
+curve of his nine-foot-tall body, every glance of his
+burning eyes, promises a mixture of pleasure and
+pain. Graz’zt can transform himself at will, appear­
+ing in any humanlike form that pleases him or his
+onlookers, all equally tempting in their own ways.
+In every form, though, a subtle wrongness pervades
+his beauty, from the cruel cast of his features to the
+six fingers on each hand and six toes on each foot.
+Graz’zt surrounds himself with the finest of things
+and the most attractive of servants, and he adorns
+himself in silks and leathers both striking and dis­

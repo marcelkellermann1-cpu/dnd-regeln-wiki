@@ -1,0 +1,500 @@
+Armor Class 15 (breastplate)
+Hit Points 127 (17dl0 + 34)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 12 (+1) 15 (+2) 21 (+5) 19 (+4) 21 (+5)
+Saving Throws Int +9, Wis +8, Cha +9
+Skills Arcana +9, Insight +8, Perception +8, Stealth +5
+Senses darkvision 120 ft., passive Perception 18
+Languages Deep Speech, Undercommon, telepathy 2 miles
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Creature Sense. The ulitharid is aware of the presence of crea­
+tures within 2 miles of it that have an Intelligence score of 4 or
+higher. It knows the distance and direction to each creature,
+as well as each creature’s Intelligence score, but can’t sense
+anything else about it. A creature protected by a mind blank
+spell, a nondetection spell, or similar magic can’t be perceived
+in this manner.
+Magic Resistance. The ulitharid has advantage on saving
+throws against spells and other magical effects.
+Psionic Hub. If an elder brain establishes a psychic link with the
+ulitharid, the elder brain can form a psychic link with any other
+creature the ulitharid can detect using its Creature Sense. Any
+such link ends if the creature falls outside the telepathy ranges
+of both the ulitharid and the elder brain. The ulitharid can
+maintain its psychic link with the elder brain regardless of the
+distance between them, so long as they are both on the same
+plane of existence. If the ulitharid is more than 5 miles away
+from the elder brain, it can end the psychic link at any time (no
+action required).
+Actions
+Tentacles. Melee Weapon Attack: +9 to hit, reach 10 ft., one
+creature. Hit: 27 (4dl0 + 5) psychic damage. If the target is
+Large or smaller, it is grappled (escape DC 14) and must suc­
+ceed on a DC 17 Intelligence saving throw or be stunned until
+this grapple ends.
+Extract Brain. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+incapacitated Humanoid grappled by the ulitharid. Hit: 55
+(lOdlO) piercing damage. If this damage reduces the target to
+0 hit points, the ulitharid kills the target by extracting and de­
+vouring its brain.
+Mind Blast (Recharge 5-6). The ulitharid magically emits psy­
+chic energy in a 60-foot cone. Each creature in that area must
+succeed on a DC 17 Intelligence saving throw or take 31 (4dl2
++ 5) psychic damage and be stunned for 1 minute. A target can
+repeat the saving throw at the end of each of its turns, ending
+the effect on itself on a success.
+Spellcasting (Psionics). The ulitharid casts one of the following
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 17):
+At will: detect thoughts, levitate
+1 /day each: dominate monster, feeblemind, mass suggestion,
+plane shift (self only), project image, scrying, telekinesis
+i—...................................................
+CHAPTER 2 | BESTIARY 249
+
+=== PAGE 250 ===
+Vampiric Mist
+In billowing clouds of fog lurk vampiric mists, the
+wretched remnants of vampires that were prevented
+from finding rest. Indistinguishable from the mists
+they lurk within, they strike unseen and undetected
+to bleed their victims dry.
+Vampiric mists, sometimes called crimson mists,
+are all that remain of vampires who couldn’t return
+to their burial places after being defeated or suf­
+fering some mishap. Denied the restorative power
+of these places, the vampires’ bodies dissolve into
+mist. The transformation strips the intelligence and
+personality from them until only an unholy, insatia­
+ble thirst for blood remains.
+Indistinguishable from fog aside from the charnel
+reek it exudes, a vampiric mist descends on a crea­
+ture and causes the blood in the creature’s body
+to ooze through its pores or spill out from its eyes,
+nose, and mouth. This blood wafts out from the
+victim like crimson smoke, which the mist then con­
+sumes. The feeding causes no pain or discomfort to
+the victim, so vampiric mists can feed on sleepers
+without waking them. The more a mist feeds, the
+redder it gets, such that it turns pink, then red, and
+finally a deep scarlet hue; when sated, it rains blood
+droplets wherever it goes.
+Like sharks in water, vampiric mists can scent
+blood from up to a mile away. Any injury, no matter
+how small, might catch their attention and draw
+them toward their victims. In battle, a mist focuses
+its attacks on injured targets, since open wounds
+are a more ready source of blood.
+.............................................................................. • ..
+Vampiric Mist
+Medium Undead, Typically Chaotic Evil
+Armor Class 13
+Hit Points 30 (4d8 + 12)
+Speed 0 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+6 (-2) 16 (+3) 16 (+3) 6 (-2) 12 (+1) 7 (-2)
+Saving Throws Wis +3
+Damage Resistances acid, cold, lightning, necrotic, thunder;
+bludgeoning, piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 11
+Languages —
+Challenge 3 (700 XP) Proficiency Bonus +2
+Life Sense. The mist can sense the location of any creature
+within 60 feet of it, unless that creature’s type is Construct
+or Undead.
+............................... - -----------
+250 CHAPTER 2 | BESTIARY
+--col--
+Forbiddance. The mist can’t enter a residence without an invi­
+tation from one of the occupants.
+Misty Form. The mist can occupy another creature’s space and
+vice versa. In addition, if air can pass through a space, the mist
+can pass through it without squeezing. Each foot of movement
+in water costs it 2 extra feet, rather than 1 extra foot. The mist
+can’t manipulate objects in any way that requires fingers or
+manual dexterity.
+Sunlight Hypersensitivity. The mist takes 10 radiant damage
+whenever it starts its turn in sunlight. While in sunlight, the
+mist has disadvantage on attack rolls and ability checks.
+Unusual Nature. The mist doesn’t require air or sleep.
+Actions
+Life Drain. The mist touches one creature in its space. The
+target must succeed on a DC 13 Constitution saving throw
+(Undead and Constructs automatically succeed), or it takes 10
+(2d6 + 3) necrotic damage, the mist regains 10 hit points, and
+the target’s hit point maximum is reduced by an amount equal
+to the necrotic damage taken. This reduction lasts until the tar­
+get finishes a long rest. The target dies if its hit point maximum
+is reduced to 0.
+
+=== PAGE 251 ===
+Vargouille
+Shrieking, flapping, and hid­
+eous to behold—with a body
+like a severed head and wings
+in place of ears—vargouilles
+boil out of the Abyss to infest other planes of exis­
+tence, such as Carceri, where they are a menace.
+Each vargouille carries a disease that creates more
+of its kind; a flock of vargouilles on the wing is a
+plague of chaos and evil.
+Swarms of vargouilles flap through the caverns
+and skies of the Abyss. They are given little regard
+by powerful and intelligent demons since vargouilles
+can do them no harm. Even the weakest demon,
+such as a manes or a dretch, fears vargouilles only if
+they appear in great numbers. In the Lower Planes,
+vargouilles rarely get the chance to eat live prey
+other than vermin. More often, they lap up the ichor
+left behind when one Fiend kills another.
+Because of their hunger for living prey, vargouilles
+are eager to escape the Lower Planes. On rare oc­
+casions, summoning a demon to another plane can
+bring a vargouille along for the ride, attached like
+a tick. The precautions a mortal takes to control a
+summoned demon rarely account for a stowaway,
+enabling the vargouille to escape into the world.
+Vargouilles that roam free on the Material Plane
+are a dire threat to all creatures. Their awful
+shrieking can paralyze other creatures with fear,
+which also makes the creatures susceptible to the
+vargouille’s curse. If the curse is allowed to run its
+course, an abyssal spirit invades the person’s body,
+causing a gruesome transformation. Over a period
+of hours, the victim’s head takes on fiendish aspects,
+such as fangs, tentacles, and horns. At the same
+time, the person’s ears grow larger, expanding into
+wing-like appendages. In the final moments, the
+victim’s head tears away from the body in a fountain
+of blood, becoming another vargouille, which often
+then eagerly laps up the blood spilling from its for­
+mer body. Sunlight or the brilliant illumination of a
+daylight spell can delay this transformation; other­
+wise, only magic can overcome the curse.
+--col--
+Vargouille
+Tiny Fiend, Typically Chaotic Evil
+Armor Class 12
+Hit Points 18 (4d4 + 8)
+Speed 5 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 14 (+2) 14 (+2) 4 (-3) 7 (-2) 2 (-4)
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 8
+Languages understands Abyssal, Infernal, and any languages it
+knew before becoming a vargouille but can’t speak
+Challenge 1 (200 XP) Proficiency Bonus +2
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1 d6 + 2) piercing damage plus 10 (3d6) poison damage.
+Abyssal Curse. The vargouille targets one incapacitated Hu­
+manoid within 5 feet of it. The target must succeed on a DC 12
+Charisma saving throw or become cursed. The cursed target
+loses 1 point of Charisma after each hour, as its head takes on
+fiendish aspects. The curse doesn’t advance while the target is
+in sunlight or the area of a daylight spell; don’t count that time.
+When the cursed target's Charisma becomes 2, it dies, and its
+head tears from its body and becomes a new vargouille. Cast­
+ing remove curse, greater restoration, or a similar spell on the
+target before the transformation is complete can end the curse.
+Doing so undoes the changes made to the target by the curse.
+Stunning Shriek (Recharge 5-6). The vargouille shrieks. Each
+Humanoid and Beast within 30 feet of the vargouille and able
+to hear it must succeed on a DC 12 Wisdom saving throw or
+be frightened of the vargouille until the end of the vargouille’s
+next turn. While frightened in this way, a target is stunned. If
+a target’s saving throw is successful or the effect ends for it.
+the target is immune to the Stunning Shriek of all vargouilles
+for 1 hour.
+CHAPTER 2 | BESTIARY 251
+
+=== PAGE 252 ===
+Vegepygmies
+Vegepygmies are fungus creatures that live in sim­
+ple bands, hunting for sustenance and spreading the
+spores by which they reproduce. Also called mold
+folk or moldies, vegepygmies inhabit dark, moist ar­
+eas, so they’re most commonly found underground
+or in forests where little sunlight penetrates. A vege­
+pygmy feels kinship with other plant and fungus
+creatures, and thus vegepygmy bands coexist well
+with creatures such as myconid adults, shriekers,
+and violet fungi (all appear in the Monster Manual).
+Although they prefer to eat fresh meat, bone, and
+blood, vegepygmies can absorb nutrients from soil
+and many sorts of organic matter, so they rarely
+go hungry. A vegepygmy can hiss and make other
+noises by forcing air through its mouth, but it can’t
+speak in a conventional sense. Among themselves,
+vegepygmies communicate by hissing, gestures, and
+tapping. Vegepygmies build and craft little; any gear
+they have is acquired from other creatures or built
+by copying simple construction they have witnessed.
+Vegepygmy
+Typical vegepygmies originate from the remains
+left behind when a Humanoid or a Giant is killed by
+russet mold (see “Russet Mold” below). One or more
+vegepygmies emerge from the corpse a day later.
+Vegepygmy Chief
+As a vegepygmy ages, it grows tougher and develops
+spore clusters on its body. Other vegepygmies defer
+to these so-called chiefs. A chief can expel its spores
+in a burst, infecting nearby creatures. If a creature
+dies while infected, its corpse produces vegepyg­
+mies the same way russet mold does.
+Thorny Vegepygmy
+If a Beast such as a dog or a bear dies from russet
+mold, the result is a bestial moldy called a thorny,
+instead of a bipedal vegepygmy. Thornies are less in­
+telligent than other vegepygmies, but they are larger
+and more ferocious and have thorn-covered bodies.
+Russet Mold
+Few know for sure where russet mold came from.
+One historical account tells of adventurers in a
+mountain range discovering russet mold and vege­
+pygmies in a peculiar metal dungeon full of strange
+life. Another story says that explorers found russet
+mold in a crater left by a falling star, with vegepyg­
+mies infesting the forest nearby.
+The mold is found only in places that are dark,
+warm, and wet. Russet mold that spreads out across
+a metal object can be mistaken for rust, and a suc­
+cessful DC 15 Intelligence (Nature) or Wisdom (Sur­
+vival) check is required to identify it.
+CHAPTER 2 | BESTIARY
+--col--
+Effects of the Mold
+Any creature that comes within 5 feet of russet mold
+must make a DC 13 Constitution saving throw as
+the mold emits a puff of spores. On a failed save, the
+creature is poisoned. While poisoned in this way,
+the creature takes 7 (2d6) poison damage at the
+start of each of its turns. The creature can repeat
+the saving throw at the end of each of its turns, end­
+ing the effect on itself on a success. Any magic that
+neutralizes poison or cures disease kills the infesta­
+tion. A creature reduced to 0 hit points by the mold
+dies. If the dead creature is a Beast, a Giant, or a
+Humanoid, one or more vegepygmies emerge from
+its body 24 hours later: one from a Small corpse,
+two from a Medium corpse, four from a Large
+corpse, eight from a Huge corpse, or sixteen from a
+Gargantuan corpse.
+Destroying the Mold
+Russet mold can be hard to kill, since weapons and
+most types of damage do it no harm. Effects that
+deal acid, necrotic, or radiant damage kill 1 square
+foot of russet mold per 1 damage dealt. A pound
+of salt, a gallon of alcohol, or magic that cures dis­
+ease kills russet mold in a square area that is 10
+feet on a side. Sunlight kills any russet mold in the
+light’s area.
+Vegepygmy
+Small Plant, Typically Neutral
+Armor Class 13 (natural armor)
+Hit Points 13 (3d6 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 14 (+2) 13 (+1) 6 (-2) 11 (+0) 7 (-2)
+Skills Perception +2, Stealth +4
+Damage Resistances lightning, piercing
+Senses darkvision 60 ft., passive Perception 12
+Languages Vegepygmy
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Plant Camouflage. The vegepygmy has advantage on Dexterity
+(Stealth) checks it makes in any terrain with ample obscuring
+vegetation.
+Regeneration. The vegepygmy regains 3 hit points at the start
+of its turn. If it takes cold, fire, or necrotic damage, this trait
+doesn’t function at the start of the vegepygmy’s next turn. The
+vegepygmy dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+Actions
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1 d6 + 2) slashing damage.
+Sling. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one
+target. Hit: 4 (1 d4 + 2) bludgeoning damage.
+
+=== PAGE 253 ===
+Vegepygmy Chief
+Small Plant, Typically Neutral
+Armor Class 14 (natural armor)
+Hit Points 33 (6d6 + 12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 14 (+2) 14 (+2) 7 (-2) 12 (+1) 9 (-1)
+Skills Perception +3, Stealth +4
+Damage Resistances lightning, piercing
+Senses darkvision 60 ft., passive Perception 13
+Languages Vegepygmy
+Challenge 2 (450 XP) Proficiency Bonus +2
+Plant Camouflage. The vegepygmy has advantage on Dexterity
+(Stealth) checks it makes in any terrain with ample obscuring
+vegetation.
+Regeneration. The vegepygmy regains 5 hit points at the start
+of its turn. If it takes cold, fire, or necrotic damage, this trait
+doesn’t function at the start of the vegepygmy’s next turn. The
+vegepygmy dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+Actions
+Multiattack. The vegepygmy makes two Claw attacks or two
+melee Spear attacks.
+TIHW
+DRAHCIR
+.NOSLEN
+MIJ
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1 d6 + 2) slashing damage.
+Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or
+range 20/60 ft., one target. Hit: 5 (1 d6 + 2) piercing damage, or
+6 (1 d8 + 2) piercing damage if used with two hands to make a
+melee attack.
+Spores (1/Day). A 15-foot-radius cloud of toxic spores extends
+out from the vegepygmy. The spores spread around corners.
+Each creature in that area that isn’t a Plant must succeed on
+a DC 12 Constitution saving throw or be poisoned. While poi­
+soned in this way, a target takes 9 (2d8) poison damage at the
+start of each of its turns. A target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on
+a success.
+--col--
+Thorny Vegepygmy
+Medium Plant, Typically Neutral
+Armor Class 14 (natural armor)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 12 (+1) 13 (+1) 2 (-4) 10 (+0) 6 (-2)
+Skills Perception +4, Stealth +3
+Damage Resistances lightning, piercing
+Senses darkvision 60 ft., passive Perception 14
+Languages —
+Challenge 1 (200 XP) Proficiency Bonus +2
+Plant Camouflage. The thorny has advantage on Dexterity
+(Stealth) checks it makes in any terrain with ample obscuring
+vegetation.
+Regeneration. The thorny regains 5 hit points at the start of its
+turn. If it takes cold, fire, or necrotic damage, this trait doesn’t
+function at the start of the thorny’s next turn. The thorny dies
+only if it starts its turn with 0 hit points and doesn’t regenerate.
+Thorny Body. At the start of its turn, the thorny deals 2 (1 d4)
+piercing damage to any creature grappling it.
+Actions
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 10 (2d8 + 1) piercing damage.
+CHAPTER 2 BESTIARY 253
+
+=== PAGE 254 ===
+War Priest
+Medium Humanoid (Cleric), Any Alignment
+Armor Class 18 (plate)
+Hit Points 117 (18d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 10 (+0) 14 (+2) 11 (+0) 17 (+3) 13 (+1)
+Saving Throws Con +6, Wis +7
+Skills Intimidation +5, Religion +4
+Senses passive Perception 13
+Languages any two languages
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Actions
+Multiattack. The war priest makes two Maul attacks, and it
+uses Holy Fire.
+Maul. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) radi­
+ant damage.
+Holy Fire. The war priest targets one creature it can see within
+60 feet of it. The target must make a DC 15 Wisdom saving
+throw. On a failed save, the target takes 12 (2d8 + 3) radiant
+damage, and it is blinded until the start of the war priest’s next
+turn. On a successful save, the target takes half as much dam­
+age and isn’t blinded.
+Spellcasting. The war priest casts one of the following spells,
+using Wisdom as the spellcasting ability (spell save DC 15):
+At will: light, spare the dying, thaumaturgy
+1/day each: banishment, command, dispel magic,fame strike,
+guardian of faith, hold person, lesser restoration, revivify
+Bonus Actions
+Healing Light (Recharge 4-6). The war priest or one creature of
+its choice within 60 feet of it regains 12 (2d8 + 3) hit points.
+254 CHAPTER 2 | BESTIARY
+--col--
+War Priest
+War priests worship deities of war, protection, and
+strategy. They plan tactics, lead soldiers into battle,
+confront enemy spellcasters, and tend to casualties.
+A war priest might command an army or serve as
+the right hand of a warlord (appears in this book) on
+the battlefield.
+War priests typically adorn themselves with a
+symbol of their faith. You can roll on the War Priest
+Holy Symbols table below, or choose one that fits
+your campaign.
+War Priest Holy Symbols
+d8 Holy Symbol
+1 Vial of iridescent liquid
+2 Hilt of a broken sword
+3 Piece of stained glass from a shrine
+4 Clay figurine of a ki-rin or another Celestial
+5 Torch carved so that a hand appears to be holding
+the flame
+6 Circlet of woven reeds
+7 Scrimshawed bone
+8 Vessel such as a cup, a jug, an urn, or an amphora
+
+=== PAGE 255 ===
+Warlocks
+Warlocks gain arcane might through magical pacts
+with mysterious entities. While some use their abil­
+ities to serve the sources of their power, others use
+them to undermine or even destroy these entities.
+Warlock of the Archfey
+Warlocks of the Archfey gain their powers through
+magical pacts forged with lords of the Feywild.
+These warlocks commonly associate with lesser Fey
+creatures such as boggles, quicklings, and redcaps
+(all appear in this book) or even satyrs and sprites
+(both appear in the Monster Manual).
+i- ■— 1 . - • ........... - - —. . -...........-
+Warlock of the Archfey
+Medium Humanoid, Any Alignment
+Armor Class 13 (16 with mage armor)
+Hit Points 67 (15d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9(-l) 16 (+3) 11 (+0) 11 (+0) 12 (+1) 18 (+4)
+Saving Throws Wis +3, Cha +6
+Skills Arcana +2, Deception +6, Nature +2, Persuasion +6
+Condition Immunities charmed
+Senses passive Perception 11
+Languages any two languages (usually Sylvan)
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Actions
+Multiattack. The warlock makes two Rapier attacks, or it uses
+Bewildering Word twice.
+Rapier. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 7 (1 d8 + 3) piercing damage plus 7 (2d6) force damage.
+Bewildering Word. The warlock utters a magical bewilderment,
+targeting one creature it can see within 60 feet of it. The target
+must succeed on a DC 14 Wisdom saving throw or take 9 (2d8)
+psychic damage and have disadvantage on attack rolls until the
+end of the warlock’s next turn.
+Spellcasting. The warlock casts one of the following spells, us­
+ing Charisma as the spellcasting ability (spell save DC 14):
+At will: dancing lights, disguise self, mage armor (self only), mage
+hand, minor illusion, prestidigitation, speak with animals
+1/day each: charm person, dimension door, hold monster
+Reactions
+Misty Escape (Recharges after a Short or Long Rest). In re­
+sponse to taking damage, the warlock turns invisible and tele­
+ports, along with any equipment it is wearing or carrying, up to
+60 feet to an unoccupied space it can see. It remains invisible
+until the start of its next turn or until it attacks, makes a dam­
+age roll, or casts a spell.
+--col--

@@ -1,0 +1,500 @@
+TASHA
+CHAPTER 2 | BESTIARY
+
+=== PAGE 38 ===
+A
+bishais
+Each abishai was once a mortal who
+somehow won Tiamat’s favor before
+death and, as a reward, found its soul
+transformed into a draconic devil to serve
+at her pleasure in the Nine Hells. Each
+type of abishai is associated with one of
+Tiamat’s five dragon heads: black, blue,
+green, red, and white.
+Tiamat deploys abishais as her agents,
+sending them forth to represent her
+interests in the Hells and across the mul­
+tiverse. Some have simple tasks, such as
+delivering a message to cultists. Others
+have greater responsibilities, such as
+leading large groups, assassinating tar­
+gets, and serving in armies. In all cases,
+abishais are fanatically loyal to Tiamat,
+ready to lay down their lives if needed.
+Abishais stand outside the normal hierarchy of
+the Nine Hells, having their own chain of command
+and ultimately answering to Tiamat (and Asmodeus,
+when he chooses to use them). Other archdevils can
+command abishais to work for them, but most arch­
+devils do so rarely, since it is never clear whether
+an abishai follows Tiamat’s orders or Asmodeus’s.
+There is inherent risk in countermanding an order
+given by Tiamat, but interfering with Asmodeus’s
+plans invites certain destruction.
+B A
+lack bishai
+Medium Fiend (Devil), Typically Lawful Evil
+Armor Class 15 (natural armor)
+Hit Points 58 (9d8 + 18)
+Speed 30 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 17 (+3) 14 (+2) 13 (+1) 16 (+3) 11 (+0)
+Saving Throws Dex +6, Wis +6
+Skills Perception +6, Stealth +6
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities acid, fire, poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 16
+Languages Draconic, Infernal, telepathy 120 ft.
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Devil’s Sight. Magical darkness doesn’t impede the abishai's
+darkvision.
+CHAPTER 2 | BESTIARY
+38
+--col--
+,
+n
+­
+B A
+lack bishai
+Expert assassins and infiltrators, black abishais can
+weave shadows to mask their presence, allowing
+them to reach a location where they can deliver a
+fatal strike to their targets.
+Magic Resistance. The abishai has advantage on saving throws
+against spells and other magical effects.
+A
+ctions
+Multiattack. The abishai makes one Bite attack and two Scim­
+itar attacks.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 8 (IdlO + 3) piercing damage plus 9 (2d8) acid damage.
+Scimitar. Melee Weapon Attack: +6 to hit, reach 5 ft., one tar­
+get. Hit: 6 (1 d6 + 3) force damage.
+Creeping Darkness (Recharge 6). The abishai casts darkness at
+a point within 120 feet of it, requiring no spell components or
+concentration. Wisdom is its spellcasting ability for this spell.
+While the spell persists, the abishai can move the area of dark­
+ness up to 60 feet as a bonus action.
+B A
+onus ctions
+Shadow Stealth. While in dim light or darkness, the abishai
+takes the Hide action.
+
+=== PAGE 39 ===
+Blue Abishai
+Seekers of forgotten lore and lost relics, blue
+abishais are the most cunning and learned of their
+kind. Their research into occult subjects gleaned
+from tomes plundered from across the multiverse
+enables them to become accomplished spellcasters.
+They use their magic to devastate Tiamat’s enemies.
+Green Abishai
+Green abishais are adept at discovering secrets and
+other sensitive information, while their diplomatic
+skills and their magic ensure they can manipulate
+even the shrewdest opponents.
+Red Abishai
+Red abishais have no equals among the abishais
+when it comes to leadership ability and raw power.
+Red abishais lead other devils into battle or take
+charge of troublesome cults to ensure that they
+continue to carry out Tiamat’s commands. A red
+abishai cuts a fearsome figure, and that sight can be
+inspiring to the abishai’s allies, filling them with a
+fanatical willingness to fight.
+White Abishai
+White abishais fight with a reckless fury, making
+them ideally suited for bolstering the ranks of Tia­
+mat’s armies. White abishais fight without fear, be­
+coming whirlwinds of destruction on the battlefield.
+Blue Abishai
+Medium Fiend (Devil, Wizard), Typically Lawful Evil
+Armor Class 19 (natural armor)
+Hit Points 202 (27d8 + 81)
+Speed 30 ft., fly 50 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 14 (+2) 17 (+3) 22 (+6) 23 (+6) 18 (+4)
+Saving Throws I nt +12, Wis +12
+Skills Arcana +12
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities fire, lightning, poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 16
+Languages Draconic, Infernal, telepathy 120 ft.
+Challenge 17 (18,000 XP) Proficiency Bonus +6
+Devil’s Sight. Magical darkness doesn’t impede the abishai’s
+darkvision.
+Magic Resistance. The abishai has advantage on saving throws
+against spells and other magical effects.
+1 " - - -- ■ ■ ----- ■ - - -*- ■'-**•J---------•«-
+--col--
+Actions
+Multiattack. The abishai makes three Bite or Lightning
+Strike attacks.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one tar­
+get. Hit: 13 (2dl0 + 2) piercing damage plus 14 (4d6) light­
+ning damage.
+Lightning Strike. Ranged Spell Attack: +12 to hit, range 120 ft.,
+one target. Hit: 36 (8d8) lightning damage.
+Spellcasting. The abishai casts one of the following spells, us­
+ing Intelligence as the spellcasting ability (spell save DC 20):
+At will: disguise self, mage hand, minor illusion
+2/day each: charm person, dispel magic, greater invisibility,
+wall of force
+Bonus Actions
+Teleport. The abishai teleports, along with any equipment it is
+wearing or carrying, up to 30 feet to an unoccupied space that
+it can see.
+- - - -
+CHAPTER 2 | BESTIARY 39
+
+=== PAGE 40 ===
+G A
+reen bishai
+Medium Fiend (Devil), Typically Lawful Evil
+Armor Class 18 (natural armor)
+Hit Points 195 (26d8 + 78)
+Speed 30 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 16 (+3) 17 (+3) 12 (+1) 19 (+4)
+Saving Throws Int +8, Cha +9
+Skills Deception +9, Insight +6, Perception +6, Persuasion +9
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities fire, poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 16
+Languages Draconic, Infernal, telepathy 120 ft.
+Challenge 15 (13,000 XP) Proficiency Bonus +5
+Devil’s Sight. Magical darkness doesn’t impede the abishai’s
+darkvision.
+R A
+ed bishai
+Medium Fiend (Devil), Typically Lawful Evil
+Armor Class 22 (natural armor)
+Hit Points 289 (34d8+ 136)
+Speed 30 ft., fly 50 ft.
+STR DEX CON INT WIS CHA
+23 (+6) 16 (+3) 19 (+4) 14 (+2) 15 (+2) 19 (+4)
+Saving Throws Str +12, Con +10, Wis +8
+Skills Intimidation +10, Perception +8
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities fire, poison
+Condition Immunities frightened, poisoned
+Senses darkvision 120 ft., passive Perception 18
+Languages Draconic, Infernal, telepathy 120 ft.
+Challenge 19 (22,000 XP) Proficiency Bonus +6
+Devil’s Sight. Magical darkness doesn’t impede the abishai's
+darkvision.
+Magic Resistance. The abishai has advantage on saving throws
+against spells and other magical effects.
+A
+ctions
+Multiattack. The abishai makes one Bite attack and one Claw
+attack, and it can use Frightful Presence or Incite Fanaticism.
+i. .... . —......
+40 CHAPTER 2 | BESTIARY
+--col--
+Magic Resistance. The abishai has advantage on saving throws
+against spells and other magical effects.
+A
+ctions
+Multiattack. The abishai makes two Fiendish Claw attacks, or it
+makes one Fiendish Claw attack and uses Spellcasting.
+Fiendish Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 12 (2d8 + 3) force damage. If the target is a crea­
+ture, it must succeed on a DC 16 Constitution saving throw or
+take 16 (3dl0) poison damage and become poisoned for 1 min­
+ute. The poisoned target can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Spellcasting. The abishai casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 17):
+At will: alter self major image
+3/day each: charm person, detect thoughts, fear
+1/day each: confusion, dominate person, mass suggestion
+Bite. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit: 22 (3dl0 + 6) piercing damage plus 38 (7dl0) fire damage.
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit: 17 (2dl0 + 6) force damage plus 11 (2dl0) fire damage.
+Frightful Presence. Each creature of the abishai’s choice that
+is within 120 feet and aware of the abishai must succeed on a
+DC 18 Wisdom saving throw or become frightened of it for 1
+minute. A creature can repeat the saving throw at the end of
+each of its turns, ending the effect on itself on a success. If a
+creature’s saving throw is successful or the effect ends for it,
+the creature is immune to the abishai’s Frightful Presence for
+the next 24 hours.
+Incite Fanaticism. The abishai chooses up to four other crea­
+tures within 60 feet of it that can see it. Until the start of the
+abishai’s next turn, each of those creatures makes attack rolls
+with advantage and can’t be frightened.
+Power of the Dragon Queen. The abishai targets one Dragon it
+can see within 120 feet of it. The Dragon must make a DC 18
+Charisma saving throw. A chromatic dragon makes this save
+with disadvantage. On a successful save, the target is immune
+to the abishai’s Power of the Dragon Queen for 1 hour. On
+a failed save, the target is charmed by the abishai for 1 hour.
+While charmed in this way, the target regards the abishai as a
+trusted friend to be heeded and protected. This effect ends if
+the abishai or its companions deal damage to the target.
+
+=== PAGE 41 ===
+White Abishai
+Medium Fiend (Devil), Typically Lawful Evil
+Armor Class 15 (natural armor)
+Hit Points 68 (8d8 + 32)
+Speed 30 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 11 (+0) 18 (+4) 11 (+0) 12 (+1) 13 (+1)
+Saving Throws Str +6, Con +7
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks that aren’t silvered
+Damage Immunities cold, fire, poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Draconic, Infernal, telepathy 120 ft.
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+Devil’s Sight. Magical darkness doesn’t impede the abishai’s
+darkvision.
+Magic Resistance. The abishai has advantage on saving throws
+against spells and other magical effects.
+--col--
+- ................—........ . . . . ।
+Reckless. At the start of its turn, the abishai can gain advantage
+on all melee weapon attack rolls during that turn, but attack
+rolls against it have advantage until the start of its next turn.
+Actions
+Multiattack. The abishai makes one Bite attack, one Claw at­
+tack, and one Longsword attack.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 5 (1 d4 + 3) piercing damage plus 3 (1 d6) cold damage.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 8 (IdlO + 3) slashing damage.
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 7 (ld8 + 3) force damage, or 8 (IdlO + 3) force
+damage if used with two hands.
+Reactions
+Vicious Reprisal. In response to taking damage, the abishai
+makes one Bite attack against a random creature within 5 feet
+of it. If no creature is within reach, the abishai moves up to
+half its speed toward an enemy it can see, without provoking
+opportunity attacks.
+-.......... —-i
+CHAPTER 2 | BESTIARY 41
+
+=== PAGE 42 ===
+Alhoon
+Mind flayers that pursue arcane magic are exiled as
+deviants, and for them no everlasting communion
+with an elder brain (appears in this book) is possi­
+ble. The road to lichdom offers an alternative way
+to escape the permanency of death, but that path is
+long and fraught with barriers. Alhoons are mind
+flayers who have used a shortcut to attain a lich-
+like state.
+Elder brains forbid mind flayers from pursuing
+magic power aside from psionics, but it isn’t an in­
+terdiction they must often enforce. Illithids brook no
+masters but members of their own kind, so it isn’t
+in their nature to bow to any god or otherworldly
+patron. However, wizardry remains a temptation. In
+the pages of a spellbook, an illithid sees a system to
+acquire authority. Through the writings of the wiz­
+ard who penned it, the illithid perceives the work­
+ings of a highly intelligent mind. Most mind flayers
+who find a spellbook react with abhorrence or indif­
+ference, but for some, a spellbook is a gateway to a
+new way of thinking.
+For a time, the study of such forbidden texts can
+be hidden from other illithids and even from an
+elder brain. Yet eventually, mind flayer arcanists
+determined to pursue wizardry must flee the colony
+for their own safety. Once they taste freedom from
+the colony, some prize their privacy, others seek to
+commune with similar minds, and still others seek
+to dominate a colony by elevating themselves to the
+position of leadership normally held by an elder
+brain. Regardless, all such arcanists face the same
+stark fact: when they die, they will not join the host
+of minds in the elder brain—deviant minds are never
+accepted as part of the collective. For them, death
+means oblivion.
+Lichdom offers salvation and the prospect of being
+able to pursue knowledge indefinitely. Yet learning
+the secret of achieving lichdom requires an arcane
+spellcaster to be at the apex of power—a significant
+challenge for mind flayers, given the scarcity of
+available mentors and training.
+Confronting this reality, a group of nine mind
+flayer arcanists used their arcane magic and psion­
+ics to weave a new truth. These nine called them­
+selves the Alhoon, and those who follow in their
+footsteps are referred to by the same name.
+4,2 CHAPTER 2 | BESTIARY
+--col--
+Collaborative Undeath
+To become alhoons, mind flayer arcanists must co­
+operate in the creation of a periapt of mind trapping,
+a fist-sized container made of silver, emerald, and
+amethyst. The process requires at least three mind
+flayer arcanists and the sacrifice of an equal number
+of souls from living victims in a three-day-long ritual
+of spellcasting and psionic communion. Upon its
+completion, free-willed undeath is conferred on the
+mind flayers, turning them into alhoons.
+Initially, an alhoon can be difficult to distinguish
+from a normal mind flayer. The most obvious dif­
+ference is the lack of a mind flayer’s ever-present
+mucus coating. Without that protection, an alhoon’s
+skin becomes dry and cracked, and its eyes might
+appear shriveled and sunken. Both of these clues
+are easily missed by someone who hasn’t seen a
+mind flayer. However, in short order, an alhoon’s
+flesh withers away and its empty eye sockets gleam
+with cold pinpricks of light like those of other liches.
+Unlike a true lich’s phylactery, the periapt of mind
+trapping doesn’t restore the alhoons to undeath if
+they are destroyed. Instead, a destroyed alhoon’s
+mind is transferred to the periapt, where it remains
+in communion with any other trapped alhoon
+minds, as well as the souls of those sacrificed.
+The undeath conferred by a periapt of mind trap­
+ping lasts only so long as the life of the living victim
+selected. Thus an alhoon who sacrificed a 200-year-
+old elf looks forward to a much longer existence
+than one that sacrificed a 35-year-old person. Al­
+hoons can extend their existence by repeating the
+ritual with new victims, effectively resetting the
+clocks for themselves.
+Destroying a periapt of mind trapping consigns
+those trapped within it to oblivion, and thus alhoons
+often work together to create elaborate protections
+for their periapt and their preferred ritual site.
+Sometimes a single alhoon is entrusted with the
+periapt of mind trapping, but this is a dangerous
+proposition. Anyone who holds the periapt gains
+advantage on attacks, saving throws, and checks
+against the alhoons associated with its creation,
+and those alhoons in turn suffer disadvantage on at­
+tacks, saving throws, and checks against the holder.
+In addition, the holder can telepathically commu­
+nicate with any sacrificed soul trapped within, and
+alhoons within the periapt can speak telepathically
+with the holder. A creature carrying the periapt
+can’t prevent communication from alhoons but can
+silence trapped souls.
+
+=== PAGE 43 ===
+Alhoon
+Medium Undead (Mind Flayer, Wizard), Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft., fly 15 ft. (hover)
+STR DEX CON INT WIS CHA
+11 (+0) 12 (+1) 16 (+3) 19 (+4) 17 (+3) 17 (+3)
+Saving Throws Con +7, Int +8, Wis +7, Cha +7
+Skills Arcana +8, Deception +7, History +8, Insight +7,
+Perception +7, Stealth +5
+Damage Resistances cold, lightning, necrotic
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, poisoned
+Senses truesight 120 ft., passive Perception 17
+Languages Deep Speech, Undercommon, telepathy 120 ft.
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Magic Resistance. The alhoon has advantage on saving throws
+against spells and other magical effects.
+Turn Resistance. The alhoon has advantage on saving throws
+against any effect that turns Undead.
+Actions_________________________________
+Multiattack. The alhoon makes two Chilling Grasp or Arcane
+Bolt attacks.
+Chilling Grasp. Melee Spell Attack: +8 to hit, reach 5 ft., one
+target. Hit: 14 (4d6) cold damage, and the alhoon regains 14
+hit points.
+Arcane Bolt. Ranged Spell Attack: +8 to hit, range 120 ft., one
+target. Hit: 28 (8d6) force damage.
+Mind Blast (Recharge 5-6). The alhoon magically emits psy­
+chic energy in a 60-foot cone. Each creature in that area must
+succeed on a DC 16 Intelligence saving throw or take 22 (4d8 +
+4) psychic damage and be stunned for 1 minute. A target can
+repeat the saving throw at the end of each of its turns, ending
+the effect on itself on a success.
+Spellcasting. The alhoon casts one of the following spells, re­
+quiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 16):
+At will: dancing lights, detect magic, detect thoughts, disguise self,
+mage hand, prestidigitation
+1/day each: dominate monster, globe of invulnerability, invisibility,
+modify memory, plane shift (self only), wall offorce
+Reactions
+Negate Spell (3/Day). The alhoon targets one creature it can
+see within 60 feet of it that is casting a spell. If the spell is 3rd
+level or lower, the spell fails, but any spell slots or charges are
+not wasted.
+....................................1 .. ..
+--col--
+_______
+CHAPTER 2 | BESTIARY 43
+
+=== PAGE 44 ===
+Alkilith
+An alkilith is easily mistaken for some kind of foul
+fungal growth that appears on doorways, windows,
+and other portals. These dripping infestations
+conceal the demonic nature of the alkilith, making
+what should be a dire warning appear strange but
+otherwise innocuous. Wherever alkiliths take root,
+they weaken the fabric of reality, creating a portal
+through which even nastier demons can invade.
+The appearance of an alkilith in the world heralds
+a great wrongness and an imminent catastrophe.
+An alkilith searches for an aperture such as a win­
+dow or a door around which it can take root, stretch­
+ing its body around the opening and anchoring itself
+with a sticky secretion. If left undisturbed, the open­
+ing becomes attuned to the Abyss and eventually
+becomes a portal to that plane (see “Planar Portals”
+in the Dungeon Master’s Guide).
+Alkiliths spring from cast-off bits of the hideous,
+shuddering body of Juiblex (appears in this book).
+They gradually become self-aware and seek to find
+their way onto the Material Plane. Since most cult­
+ists consider them too risky to summon—they can,
+after all, create portals to the Abyss—alkiliths must
+find other escape routes out of their native plane.
+44 CHAPTER 2 | BESTIARY
+--col--
+Alkilith
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 17 (natural armor)
+Hit Points 168 (16d8 + 96)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 19 (+4) 22 (+6) 6 (-2) 11 (+0) 7 H)
+Saving Throws Dex +8, Con +10
+Skills Stealth +8
+Damage Resistances acid, cold, fire, lightning; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 10
+Languages understands Abyssal but can’t speak
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+Abyssal Rift. If the alkilith surrounds a door, window, or similar
+opening continuously for 6d6 days, the opening becomes a per­
+manent portal to a random layer of the Abyss.
+Amorphous. The alkilith can move through a space as narrow as
+1 inch wide without squeezing.
+False Appearance. If the alkilith is motionless at the start of
+combat, it has advantage on its initiative roll. Moreover, if a
+creature hasn't observed the alkilith move or act, that creature
+must succeed on a DC 18 Intelligence (Investigation) check to
+discern that the alkilith isn't ordinary slime or fungus.
+Foment Confusion. Any creature that isn’t a demon that starts

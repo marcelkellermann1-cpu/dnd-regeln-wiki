@@ -1,0 +1,500 @@
+on all attack rolls until the end of its next turn.
+Actions
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.
+Hit: 15 (3d6 + 5) piercing damage, and the giant magically re­
+gains hit points equal to the damage dealt.
+Fist. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 18 (3d8 + 5) bludgeoning damage.
+—~........ -...... - —
+CHAPTER 2 | BESTIARY 187
+
+=== PAGE 188 ===
+Nabassu
+The insatiable nabassus prowl the multiverse in
+search of souls to devour. If they think they can kill
+a creature and consume its soul, they attack—even
+if that other creature is a demon, including an­
+other nabassu.
+Most other demons shun nabassus and force them
+to live on the fringes of the Abyss. There, nabassus
+pick off weaker demons or, if the situation warrants,
+gather in packs to take down larger prey. Some es­
+pecially powerful nabassus even search for demon
+lords’ amulets.
+Whenever magic pulls demons from the Abyss to
+the Material Plane, nabassus try to get summoned
+so that they can embark on a feast of souls there.
+A summoned nabassu seeks to break free so that
+it can devour the soul of its summoner and then
+feed on the souls of whatever other creatures it can
+catch. One way a summoner can avoid this fate is by
+providing a steady supply of souls to the nabassu,
+which might persuade the demon to be coopera­
+tive—as long as the supply lasts.
+Nabassu
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 18 (natural armor)
+Hit Points 190 (20d8 + 100)
+Speed 40 ft., fly 60 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 14 (+2) 21 (+5) 14 (+2) 15 (+2) 17 (+3)
+Saving Throws Str +11, Dex +7
+Skills Perception +7
+Damage Resistances cold, fire, lightning; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 17
+Languages Abyssal, telepathy 120 ft.
+Challenge 15 (13,000 XP) Proficiency Bonus +5
+Demonic Shadows. The nabassu darkens the area around its
+body in a 10-foot radius. Nonmagical light can’t illuminate this
+area of dim light.
+Devour Soul. A nabassu can eat the soul of a creature it has
+killed within the last hour, provided that creature is neither a
+Construct nor an Undead. The devouring requires the nabassu
+to be within 5 feet of the corpse for at least 10 minutes, after
+which it gains a number of Hit Dice (d8s) equal to half the
+l88 CHAPTER 2 | BESTIARY
+--col--
+........ .....------------------------ ....'
+creature's number of Hit Dice. Roll those dice, and increase
+the nabassu’s hit points by the numbers rolled. For every 4 Hit
+Dice the nabassu gains in this way, its attacks deal an extra 3
+(1 d6) damage on a hit. The nabassu retains these benefits for 6
+days. A creature devoured by a nabassu can be restored to life
+only by a wish spell.
+Magic Resistance. The nabassu has advantage on saving
+throws against spells and other magical effects.
+Actions
+Multiattack. The nabassu makes one Bite attack and one Claw
+attack, and it uses Soul-Stealing Gaze.
+Bite. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+Hit: 38 (5dl2 + 6) necrotic damage.
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+Hit: 28 (4dl0 + 6) force damage.
+Soul-Stealing Gaze. The nabassu targets one creature it can see
+within 30 feet of it. If the target isn’t a Construct or an Undead,
+it must succeed on a DC 16 Charisma saving throw or take 13
+(2dl2) necrotic damage. The target's hit point maximum is
+reduced by an amount equal to the necrotic damage dealt, and
+the nabassu regains hit points equal to half that amount. This
+reduction lasts until the target finishes a short or long rest. The
+target dies if its hit point maximum is reduced to 0, and if the
+target is a Humanoid, it immediately rises as a ghoul (see the
+Monster Manual) under the nabassu’s control.
+
+=== PAGE 189 ===
+Nagpa
+Medium Monstrosity (Wizard), Typically Neutral Evil
+Armor Class 19 (natural armor)
+Hit Points 203 (37d8 + 37)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 15 (+2) 12 (+1) 23 (+6) 18 (+4) 21 (+5)
+Saving Throws Int +12, Wis +10, Cha +11
+Skills Arcana +12, Deception +11, History +12, Insight +10,
+Perception +10
+Senses truesight 120 ft., passive Perception 20
+Languages Common plus up to five other languages
+Challenge 17 (18,000 XP) Proficiency Bonus +6
+Actions
+Multiattack. The nagpa makes three Staff or Deathly Ray at­
+tacks. It can replace one attack with a use of Spellcasting.
+Staff. Melee Weapon Attack: +8 to hit, reach 5 ft., one tar­
+get. Hit: 9 (2d6 + 2) bludgeoning damage plus 24 (7d6) ne­
+crotic damage.
+Deathly Ray. Ranged Spell Attack: +12 to hit, range 120 ft., one
+target. Hit: 30 (7d6 + 6) necrotic damage.
+Spellcasting. The nagpa casts one of the following spells, using
+Intelligence as the spellcasting ability (spell save DC 20):
+At will: detect magic, mage hand, message, minor illusion
+2/day each: fireball, fiy, hold person, suggestion, wall offire
+1/day each: dominate person, etherealness,feeblemind
+Bonus Actions
+Corruption. The nagpa targets one creature it can see within
+90 feet of it. The target must make a DC 20 Charisma saving
+throw. An evil creature makes the save with disadvantage. On a
+failed save, the target is charmed by the nagpa until the start of
+the nagpa’s next turn. On a successful save, the target becomes
+immune to the nagpa’s Corruption for the next 24 hours.
+Paralysis (Recharge 6). The nagpa forces each creature within
+30 feet of it to make a DC 20 Wisdom saving throw, excluding
+Undead and Constructs. On a failed save, a target is paralyzed
+for 1 minute. A paralyzed target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on
+a success.
+--col--
+Long ago, the Raven Queen cursed a cabal of pow­
+erful wizards for meddling in a ritual that would
+have helped avert a war between the gods. She
+transformed them into the scabrous, birdlike crea­
+tures known as nagpas and rendered them able to
+acquire new lore and magical power only from the
+ruins of fallen civilizations and great calamities.
+Nagpas still fear the Raven Queen and do their
+best to avoid her and her agents. When it’s impossi­
+ble to do so, they become cringing, fawning things,
+eager to please and thereby escape further attention
+from her cold gaze. All the original thirteen remain
+alive, thanks to their cunning and their willingness
+to do whatever is necessary to survive.
+Hungry to claim more power despite the Ra­
+ven Queen’s curse, nagpas strive to bring about
+world-shaking destruction. From the shadows, they
+manipulate events to bring about ruin. They can
+bring to bear an array of spells to turn other crea­
+tures into their agents, influencing their decisions
+in subtle ways and making them unwitting accom­
+plices in their own destruction. Nagpas are extraor­
+dinarily patient and pursue several schemes simul­
+taneously, so if one plan goes awry, they can shift
+their focus to another. Typically, nagpas emerge
+from the shadows only when they can deliver a
+finishing blow. They then revel in the grand devasta­
+tion their plotting brought about—looting libraries,
+plundering vaults, and prying secrets of arcane lore
+and power from the wreckage.
+CHAPTER 2 | BESTIARY 189
+
+=== PAGE 190 ===
+Narzugon
+Paladins who make deals with devils and carry
+their twisted sense of honor into the afterlife are
+especially valuable to the archdukes of the Nine
+Hells. These narzugons act as horrific perversions
+of knights errant, carrying out their masters’ will.
+Narzugons wield hell-forged lances that shunt the
+souls of any they killed to the River Styx for rebirth
+as lemures (see the Monster Manual). Every lance
+bears the marks of both a narzugon and its master.
+-- - ..... 1 . .......................: . ---------
+Narzugon
+Medium Fiend (Devil), Typically Lawful Evil
+Armor Class 20 (plate armor, shield)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 10 (+0) 17 (+3) 16 (+3) 14(4-2) 19 (+4)
+Saving Throws Dex +5, Con +8, Cha +9
+Skills Perception +12
+Damage Resistances acid, cold; bludgeoning, piercing, and
+slashing from nonmagical attacks that arten’t silvered
+Damage Immunities fire, poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 22
+Languages Common, Infernal, telepathy 120 ft.
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Infernal Tack. The narzugon wears spurs that are part of infer­
+nal tack, which allow it to summon its nightmare companion as
+an action.
+Magic Resistance. The narzugon has advantage on saving
+throws against spells and other magical effects.
+Actions
+Multiattack. The narzugon makes three Hellfire Lance attacks.
+It also uses Infernal Command or Terrifying Command.
+Hellfire Lance. Melee Weapon Attack: +10 to hit, reach 10 ft.,
+one target. Hit: 11 (1 dl2 + 5) piercing damage plus 16 (3dl0)
+fire damage. If this damage kills a creature with a soul, the soul
+rises from the River Styx as a lemure (see the Monster Manual)
+in Avernus in 1 d4 hours. If the creature isn’t revived before
+then, only a wish spell or killing the lemure and casting true
+resurrection on the creature's original body can restore it to life.
+Constructs and devils are immune to this effect.
+Infernal Command. Each ally of the narzugon within 60 feet of
+it can’t be charmed or frightened until the end of the narzu-
+gon’s next turn.
+Terrifying Command. Each creature within 60 feet of the narzu­
+gon that isn't a Fiend must succeed on a DC 17 Charisma sav­
+ing throw or become frightened of the narzugon for 1 minute.
+A creature can repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success. A creature that
+makes a successful saving throw is immune to this narzugon’s
+Terrifying Command for 24 hours.
+Healing (1/Day). The narzugon, or one creature it touches, re­
+gains 100 hit points.
+. ......... - ----- . - .......i
+19° CHAPTER 2 | BESTIARY
+--col--
+Each narzugon claims a nightmare (see the Mon­
+ster Manual) as its mount. These steeds are bound
+by infernal tack (see below) and must respond to the
+summons and commands of the spurs’ wearer.
+Magic Item: Infernal Tack
+Wondrous Item, Legendary (Requires Attunement
+by a Creature of Evil Alignment)
+A rider binds a nightmare to its service with infernal
+tack, which consists of a bridle, bit, reins, saddle,
+and stirrups, along with spurs that are worn by the
+rider. A nightmare equipped with infernal tack must
+serve whoever wears the spurs until the wearer dies
+or the tack is removed.
+You can use an action to call a nightmare
+equipped with infernal tack by clashing the spurs
+together or scraping them through blood. The
+nightmare appears at the start of your next turn,
+within 20 feet of you. It acts as your ally and takes
+its turn on your initiative count. It remains for 1
+day, until you or it dies, or until you dismiss it as an
+action. If the nightmare dies, it reforms in the Nine
+Hells within 24 hours, after which you can sum­
+mon it again.
+The tack doesn’t conjure a nightmare; one must
+first be subdued so the tack can be placed on it. No
+nightmare accepts this forced servitude willingly,
+but some eventually form strong loyalties to their
+masters and become true partners in evil.
+
+=== PAGE 191 ===
+Neogi
+A neogi looks like an outsize spider with an eel’s
+neck and head. It can poison the body and the
+mind of its targets and can subjugate even be­
+ings that are physically superior.
+Neogi usually dwell in far-flung locations
+on the Material Plane, as well as in the
+Astral Plane and the Ethereal Plane. They
+left their home world long ago to conquer
+and devour creatures in other realms.
+During this era, they dominated umber
+hulks and used them to build sleek, spidery
+ships capable of traversing the multiverse.
+Neogi Hatchling
+A neogi lives about a century. When an in­
+dividual is rendered weak by advanced age,
+the other neogi in the group overpower it
+and inject it with a special poison. The toxin
+transforms the old neogi into a bloated mass
+of flesh. Younger neogi lay their eggs atop it,
+and when the hatchlings emerge, they devour
+the old neogi and one another until only a few
+of the strongest newborns are left. The surviving
+neogi hatchlings begin their lives under the control
+of adult neogi. They must learn about their society
+and earn a place in it, and each one starts its train­
+ing by gaining mastery over an umber hulk.
+Neogi (Adult)
+The mentality of neogi is alien to many other peo­
+ples. Because adult neogi have the power to con­
+trol minds, they consider doing so to be entirely
+appropriate. Their society makes no distinction
+between individuals, aside from the ability that a
+given creature has to control others, and they don’t
+comprehend the emotional aspects of existence that
+humans and similar beings experience. To a neogi,
+hatred is as foreign a sensation as love, and show­
+ing loyalty in the absence of authority is foolishness.
+Neogi mark themselves and those they capture
+through the use of dyes, transformational magic,
+and other markings intended to signify rank,
+achievements, and the identity of the individual’s
+leader. By these signs, neogi can identify each oth­
+ers’ place in the hierarchy—and they must defer to
+those of higher station or risk harsh punishment.
+Neogi Master
+Neogi masters use magic, as a result of a pact be­
+tween neogi and aberrant entities they met during
+their journey from their home world. These enti­
+ties—known by such names as Acamar, Caiphon,
+Gibbeth, and Hadar—resemble stars and embody
+the essence of evil.
+--col--
+Neogi Hatchling
+Tiny Aberration, Typically Lawful Evil
+Armor Class 11
+Hit Points 7 (3d4)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA
+3 (-4) 13 (+1) 10 (+0) 6 (-2) 10 (+0) 9 (-1)
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1/8 (25 XP) Proficiency Bonus +2
+Mental Fortitude. The neogi has advantage on saving throws
+against being charmed or frightened, and magic can’t put the
+neogi to sleep.
+Spider Climb. The neogi can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Actions
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 3 (1 d4 + 1) piercing damage plus 3 (1 d6) poison damage,
+and the target must succeed on a DC 10 Constitution saving
+throw or become poisoned for 1 minute. A target can repeat
+the saving throw at the end of each of its turns, ending the ef­
+fect on itself on a success.
+CHAPTER 2 | BESTIARY 191
+
+=== PAGE 192 ===
+Neogi
+Small Aberration, Typically Lawful Evil
+Armor Class 15 (natural armor)
+Hit Points 33 (6d6 + 12)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 16 (+3) 14 (+2) 13 (+1) 12 (+1) 15 (+2)
+Skills Intimidation +4, Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages Common, Deep Speech, Undercommon
+Challenge 3 (700 XP) Proficiency Bonus +2
+Mental Fortitude. The neogi has advantage on saving throws
+against being charmed or frightened, and magic can’t put the
+neogi to sleep.
+Spider Climb. The neogi can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Actions
+Multiattack. The neogi makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 6 (1 d6 + 3) piercing damage plus 14 (4d6) poison damage,
+and the target must succeed on a DC 12 Constitution saving
+throw or become poisoned for 1 minute. A target can repeat
+the saving throw at the end of each of its turns, ending the ef­
+fect on itself on a success.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) slashing damage.
+Bonus Actions
+Enslave (Recharges after a Short or Long Rest). The neogi
+targets one creature it can see within 30 feet of it. The target
+must succeed on a DC 14 Wisdom saving throw or be magically
+charmed by the neogi for 1 day, or until the neogi dies or is
+more than 1 mile from the target. The charmed target obeys
+the neogi’s commands and can't take reactions, and the neogi
+and the target can communicate telepathically with each other
+at a distance of up to 1 mile. Whenever the charmed target
+takes damage, it can repeat the saving throw, ending the effect
+on itself on a success.
+192 CHAPTER 2 | BESTIARY
+--col--
+Neogi Master
+Medium Aberration (Warlock), Typically Lawful Evil
+Armor Class 15 (natural armor)
+Hit Points 71 (lld8 + 22)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 16 (+3) 14 (+2) 16 (+3) 12 (+1) 18 (+4)
+Saving Throws Wis +3
+Skills Arcana +5, Deception +6, Intimidation +6, Perception +3,
+Persuasion +6
+Senses darkvision 120 ft., passive Perception 13
+Languages Common, Deep Speech, Undercommon,
+telepathy 30 ft.
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Devil’s Sight. Magical darkness doesn’t impede the neogi’s
+darkvision.
+Mental Fortitude. The neogi has advantage on saving throws
+against being charmed or frightened, and magic can't put the
+neogi to sleep.
+Spider Climb. The neogi can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Actions
+Multiattack. The neogi makes one Bite attack and one Claw
+attack, or it makes two Tentacle of Hadar attacks.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 6 (1 d6 + 3) piercing damage plus 14 (4d6) poison damage,
+and the target must succeed on a DC 12 Constitution saving
+throw or become poisoned for 1 minute. A target can repeat
+the saving throw at the end of each of its turns, ending the ef­
+fect on itself on a success.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) piercing damage.
+Tentacle of Hadar. Ranged Spell Attack: +6 to hit, range 120 ft.,
+one target. Hit: 14 (3d6 + 4) necrotic damage, and the target
+can’t take reactions until the end of the neogi’s next turn, as a
+spectral tentacle clings to the target.
+Spellcasting. The neogi casts one of the following spells, using
+Charisma as the spellcasting ability (spell save DC 14):
+At will: guidance, mage hand, minor illusion, prestidigitation
+1/day each: dimension door, hold person, hunger of Hadar
+Bonus Actions
+Enslave (Recharges after a Short or Long Rest). The neogi
+targets one creature it can see within 30 feet of it. The target
+must succeed on a DC 14 Wisdom saving throw or be magically
+charmed by the neogi for 1 day, or until the neogi dies or is
+more than 1 mile from the target. The charmed target obeys
+the neogi’s commands and can’t take reactions, and the neogi
+and the target can communicate telepathically with each other
+at a distance of up to 1 mile. Whenever the charmed target
+takes damage, it can repeat the saving throw, ending the effect
+on itself on a success.
+
+=== PAGE 193 ===
+Neothelid
+Gargantuan Aberration, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 232 (15d20+ 75)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+27 (+8) 7 (-2) 21 (+5) 3 (-4) 16 (+3) 12 (+1)
+Saving Throws Int +1, Wis +8, Cha +6
+Senses blindsight 120 ft. (blind beyond this radius), passive
+Perception 13
+Languages —
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Creature Sense. The neothelid is aware of the presence of crea­
+tures within 1 mile of it that have an Intelligence score of 4 or
+higher. It knows the distance and direction to each creature,
+as well as each creature’s Intelligence score, but can’t sense
+anything else about it. A creature protected by a mind blank
+spell, a nondetection spell, or similar magic can’t be perceived
+in this manner.
+Magic Resistance. The neothelid has advantage on saving
+throws against spells and other magical effects.
+Actions
+Tentacles. Melee Weapon Attack: +13 to hit, reach 15 ft., one tar­
+get. Hit: 21 (3d8 + 8) bludgeoning damage plus 11 (2dl0) psy­
+chic damage. If the target is a Large or smaller creature, it must
+succeed on a DC 18 Strength saving throw or be swallowed by
+the neothelid. A swallowed creature is blinded and restrained,
+it has total cover against attacks and other effects outside the
+neothelid, and it takes 21 (6d6) acid damage at the start of
+each of the neothelid’s turns.
+If the neothelid takes 30 damage or more on a single turn
+from a creature inside it, the neothelid must succeed on a DC
+18 Constitution saving throw at the end of that turn or regurgi­
+tate all swallowed creatures, which fall prone in a space within
+10 feet of the neothelid. If the neothelid dies, a swallowed
+creature is no longer restrained by it and can escape from the
+corpse by using 20 feet of movement, exiting prone.
+Acid Breath (Recharge 5-6). The neothelid exhales acid in a 60-
+foot cone. Each creature in that area must make a DC 18 Dex­
+terity saving throw, taking 35 (10d6) acid damage on a failed
+save, or half as much damage on a successful one.
+Spellcasting (Psionics). The neothelid casts one of the following
+spells, requiring no spell components and using Wisdom as
+the spellcasting ability (spell save DC 16):
+At will: levitate
+1/day each: confusion, feeblemind, telekinesis
+--col--
+Neothelid
+A slime-covered worm of immense size, a neo­
+thelid is the result of the mind flayer reproductive
+cycle gone horribly wrong. When an illithid colony
+collapses, typically after an external assault, and
+the elder brain (appears in this book) is killed, the
+colony’s tadpoles are suddenly freed from their fate.
+They no longer serve as food—and are no longer fed
+by their caretakers. Driven by hunger, they turn to
+devouring one another. Only one tadpole survives
+out of the thousands in the colony’s pool, and it
+emerges as a neothelid.
+Neothelids know nothing beyond their predatory
+existence. They prowl subterranean passages, using
+their rudimentary psionic abilities to search out and
+incapacitate brains to sate their constant hunger,
+growing ever more vicious. These creatures can
+spray tissue-dissolving enzymes from their tentacle
+ducts, reducing victims to puddles of slime and leav­
+ing only the pulsing brains unharmed. They have no
+knowledge of their link to illithids, so they’re just as
+likely to prey on mind flayers as on anything else.
+Mind flayers consider neothelids dangerous abom­
+inations—normally they eat or destroy any tadpoles
+that grow larger than a few inches in length without
+being implanted in a brain so they can’t become
+such threats. Neothelids are not intelligent enough
+for elder brains to detect, so mind flayers are always
+alert for signs of their presence and organize hunt­
+ing parties to exterminate any of these murderous
+worms they learn of.

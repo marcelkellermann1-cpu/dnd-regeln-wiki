@@ -1,0 +1,500 @@
+Dybbuk
+Dybbuks are demons that terrorize mortals on the
+Material Plane by possessing corpses and giving
+them a semblance of life, after which the demons
+use them to engage in a range of sordid activities.
+In their natural form, dybbuks appear as translu­
+cent flying jellyfish, trailing long tentacles as they
+move through the air. They rarely travel in this fash­
+ion, however. Instead, a dybbuk possesses a suitable
+corpse as a vehicle, rousing the body from death.
+Dybbuks delight in terrorizing other creatures
+by making their host bodies behave in horrifying
+ways—throwing up gouts of blood, excreting piles
+of squirming maggots, and contorting their limbs in
+impossible ways as they scuttle across the ground.
+Dybbuk
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 14
+Hit Points 37 (5d8 + 15)
+Speed 0 ft., 40 ft. (hover)
+STR DEX CON INT WIS CHA
+6 (-2) 19 (+4) 16 (+3) 16(+3) 15 (+2) 14(4-2)
+Skills Deception 4-6, Intimidation 4-4, Perception 4-4
+Damage Resistances acid, cold, fire, lightning, thunder;
+bludgeoning, piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 120 ft., passive Perception 14
+Languages Abyssal, Common, telepathy 120 ft.
+Challenge 4 (1,100 XP) Proficiency Bonus 4-2
+Incorporeal Movement. The dybbuk can move through other
+creatures and objects as if they were difficult terrain. It takes 5
+(IdlO) force damage if it ends its turn inside an object.
+Magic Resistance. The dybbuk has advantage on saving throws
+against spells and other magical effects.
+Action
+Tentacle. Melee Weapon Attack: 4-6 to hit, reach 5 ft., one tar­
+get. Hit: 13 (2d8 4- 4) necrotic damage. If the target is a crea­
+ture, its hit point maximum is also reduced by 3 (1 d6). This
+reduction lasts until the target finishes a short or long rest. The
+target dies if its hit point maximum is reduced to 0.
+Possess Corpse (Recharge 6). The dybbuk disappears into an
+intact corpse within 5 feet of it that belonged to a Large or
+smaller Beast or Humanoid. The dybbuk gains 20 temporary
+hit points. While possessing the corpse, the dybbuk adopts the
+corpse’s size and can’t use Incorporeal Movement. Its game
+statistics otherwise remain the same.
+--col--
+The possession lasts until the temporary hit points are lost
+or the dybbuk ends it as a bonus action. When the possession
+ends, the dybbuk appears in an unoccupied space within 5 feet
+of the corpse.
+Spellcasting. The dybbuk casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 12):
+At will: dimension door
+3/day: phantasmal force
+Bonus Actions
+Control Corpse. While Possess Corpse is active, the dybbuk
+makes the corpse do something unnatural, such as vomit
+blood, twist its head all the way around, or cause a quadruped
+to move as a biped. Any Beast or Humanoid that sees this
+behavior must succeed on a DC 12 Wisdom saving throw or
+become frightened of the dybbuk for 1 minute. The frightened
+creature can repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success. A creature that
+succeeds on a saving throw against this ability is immune to
+Control Corpse for 24 hours.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 114 ===
+Eidolon
+To protect sites they deem holy, gods often rely on e
+dolons, ghostly spirits bound to safeguard a sacred
+place. Forged from the souls of those with unwav­
+ering devotion, eidolons stalk temples and vaults to
+ensure that no enemy defiles, damages, or plunders
+these sites. If an enemy sets foot inside a warded
+location, the eidolon plunges into a statue specially
+prepared to house its soul; it then animates this ef­
+figy and uses the statue to drive out the intruders.
+Eidolon
+Medium Undead, Any Alignment
+Armor Class 9
+Hit Points 63 (18d8 - 18)
+Speed 0 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA
+7 (-2) 8(-l) 9 (-1) 14 (+2) 19 (+4) 16 (+3)
+Saving Throws Wis +8
+Skills Perception +8
+Damage Resistances acid, fire, lightning, thunder; bludgeoning
+piercing, and slashing from nonmagical attacks
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 18
+Languages the languages it knew in life
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+Incorporeal Movement. The eidolon can move through other
+creatures and objects as if they were difficult terrain. It takes
+5 (IdlO) force damage if it ends its turn inside an object other
+than a sacred statue.
+Sacred Animation (Recharge 5-6). When the eidolon moves
+into a space occupied by a sacred statue, the eidolon can disap
+pear, causing the statue to become a creature under the eido­
+lon’s control. The eidolon uses the sacred statue’s stat block in
+place of its own.
+Turn Resistance. The eidolon has advantage on saving throws
+against any effect that turns Undead.
+Unusual Nature. The eidolon doesn’t require air, food,
+drink, or sleep.
+Actions
+Divine Dread. Each creature within 60 feet of the eidolon that
+can see it must succeed on a DC 15 Wisdom saving throw or
+be frightened of it for 1 minute. While frightened in this way,
+the creature must take the Dash action and move away from
+the eidolon by the safest available route at the start of each of
+its turns, unless there is nowhere for it to move, in which case
+the creature also becomes stunned until it can move again. A
+frightened target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success. If a target’
+saving throw is successful or the effect ends for it, the target is
+immune to any eidolon’s Divine Dread for the next 24 hours.
+114 CHAPTER 2 | BESTIARY
+--col--
+ei­
+o
+s
+Sacred Statue
+Large Construct, As the Eidolon's Alignment
+Armor Class 19 (natural armor)
+Hit Points 95 (lOdlO + 40)
+Speed 25 ft.
+g,
+STR DEX CON INT WIS CHA
+19 (+4) 8 (-1) 19 (+4) 14 (+2) 19 (+4) 16 (+3)
+Saving Throws Wis +8
+Damage Resistances acid, fire, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 14
+Languages the languages the eidolon knew in life
+False Appearance. If the statue is motionless at the start of
+p­ combat, it has advantage on its initiative roll. Moreover, if a
+creature hasn’t observed the statue move or act, that creature
+n must succeed on a DC 18 Intelligence (Investigation) check to
+discern that the statue isn’t an object.
+Ghostly Inhabitant. The eidolon that enters the statue remains
+inside it until the statue drops to 0 hit points, the eidolon uses
+a bonus action to move out of the statue, or the eidolon is
+turned or forced out by an effect such as the dispel evil and good
+spell. When the eidolon leaves the statue, it appears in an un­
+occupied space within 5 feet of the statue.
+Inert. Without an eidolon inside, the statue is an object.
+Unusual Nature. The statue doesn't require air, food,
+drink, or sleep.
+Actions
+Multiattack. The statue makes two Slam or Rock attacks.
+Slam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+h
+Hit: 43 (6dl2 + 4) bludgeoning damage.
+’s
+s Rock. Ranged Weapon Attack: +8 to hit, range 60 ft./240 ft., one
+target. Hit: 37 (6dl0 + 4) bludgeoning damage.
+
+=== PAGE 115 ===
+l[ an autumn ela<Arin invites you over [or
+dinner, come with an empty stomach.
+Their goodwill extends to heaping portions-
+Note to $el[: Sen<{ Some o[ mi^ Spring elaitrin
+[rienJls to visit MoriAenlcainen. That'll teach
+him to lighten up.
+TASHA
+Eladrin
+Eladrin dwell in the verdant splendor of the Feywild.
+They are related to the elves found on the Material
+Plane. But while other elves can temper their wild
+impulses, eladrin are ruled by emotion—and due to
+their magical nature, they undergo physical changes
+to match their changes in temperament.
+Eladrin have spent centuries in the Feywild, and
+most of them have become Fey creatures as a re­
+sult—those presented here are of the Fey variety.
+Some are still Humanoid, however, similar in that
+respect to their other elven kin.
+The magic flowing through eladrin responds to
+their emotional state by transforming them into dif­
+ferent seasonal aspects, with behaviors and abilities
+that change with their forms. Some eladrin might
+remain in a particular aspect for years, while others
+run through the emotional spectrum each week.
+ChangeableJSTatures
+Whenever one of the eladrin presented here finishes
+a long rest, they can associate themself with a dif­
+ferent season, provided they aren’t incapacitated.
+When the eladrin makes this change, they use
+the stat block of the new season rather than their
+old stat block. Any damage the eladrin sustained
+in their previous form applies to the new form,
+as do any conditions or other ongoing effects af­
+fecting them.
+Autumn Eladrin
+Eladrin often enter the autumn season when they
+are overcome by feelings of goodwill. In this aspect,
+they defuse conflicts and alleviate suffering by using
+their magic to relieve any ailments that afflict the
+people who come to them for aid. They tolerate no
+violence in their presence and move quickly to settle
+disputes, to ensure that peace continues to reign.
+--col--
+Autumn Eladrin
+Medium Fey (Elf), Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 165 (22d8 + 66)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 16 (+3) 16 (+3) 14 (+2) 17 (+3) 18 (+4)
+Skills Insight +7, Medicine +7
+Damage Resistances psychic
+Senses darkvision 60 ft., passive Perception 13
+Languages Common, Elvish, Sylvan
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Enchanting Presence. Any non-eladrin creature that starts its
+turn within 60 feet of the eladrin must make a DC 16 Wisdom
+saving throw. On a failed save, the creature becomes charmed
+by the eladrin for 1 minute. On a successful save, the crea­
+ture becomes immune to any eladrin’s Enchanting Presence
+for 24 hours.
+Whenever the eladrin deals damage to the charmed creature,
+the charmed creature can repeat the saving throw, ending the
+effect on itself on a success.
+Magic Resistance. The eladrin has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The eladrin makes two Longsword or Longbow
+attacks. It can replace one attack with a use of Spellcasting.
+Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one tar­
+get. Hit: 5 (ld8 + 1) slashing damage, or 6 (IdlO + 1) slashing
+damage if used with two hands, plus 22 (5d8) psychic damage.
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft.,
+one target. Hit: 7 (1 d8 + 3) piercing damage plus 22 (5d8) psy­
+chic damage.
+Spellcasting. The eladrin casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 16):
+At will: hold person
+2/day each: cure wounds (as a 5th-level spell), lesser restoration
+1/day each: greater restoration, revivify
+Bonus Actions
+Fey Step (Recharge 4-6). The eladrin teleports, along with any
+equipment it is wearing or carrying, up to 30 feet to an unoccu­
+pied space it can see.
+Reactions
+Foster Peace. If a creature charmed by the eladrin hits with an
+attack roll while within 60 feet of the eladrin, the eladrin mag­
+ically causes the attack to miss, provided the eladrin can see
+the attacker.
+CHAPTER 2 | BESTIARY 115
+
+=== PAGE 116 ===
+Spring Eladrin
+Their hearts filled with joy, spring eladrin cavort
+through their sylvan realms, their songs and laugh­
+ter filling the air. These playful eladrin beguile other
+creatures to fill them with the joy of spring. Their
+antics can lead other creatures into danger and
+make mischief for them.
+Spring Eladrin
+Medium Fey (Elf), Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 165 (22d8 + 66)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 16 (+3) 16 (+3) 18 (+4) 11 (+0) 18 (+4)
+Skills Deception +8, Persuasion +8
+Damage Resistances psychic
+Senses darkvision 60 ft., passive Perception 10
+Languages Common, Elvish, Sylvan
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Joyful Presence. Any non-eladrin creature that starts its turn
+within 60 feet of the eladrin must make a DC 16 Wisdom saving
+throw. On a failed save, the creature becomes charmed by the
+eladrin for 1 minute. On a successful save, the creature be­
+comes immune to any eladrin's Joyful Presence for 24 hours.
+Whenever the eladrin deals damage to the charmed creature,
+the charmed creature can repeat the saving throw, ending the
+effect on itself on a success.
+Magic Resistance. The eladrin has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The eladrin makes two Longsword or Longbow
+attacks. It can replace one attack with a use of Spellcasting.
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one tar­
+get. Hit: 6 (1 d8 + 2) slashing damage, or 7 (IdlO + 2) slashing
+damage if used with two hands, plus 22 (5d8) psychic damage.
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft.,
+one target. Hit: 7 (1 d8 + 3) piercing damage plus 22 (5d8) psy­
+chic damage.
+Spellcasting. The eladrin casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 16):
+At will: Tasha’s hideous laughter
+1/day each: major image, suggestion
+Bonus Actions
+Fey Step (Recharge 4-6). The eladrin teleports, along with any
+equipment it is wearing or carrying, up to 30 feet to an unoccu­
+pied space it can see.
+CHAPTER 2 | BESTIARY
+--col--
+Summer Eladrin
+When angered, eladrin enter the season of summer,
+a burning, tempestuous state that transforms them
+into aggressive warriors eager to vent their wrath.
+Their magic responds to their fury and amplifies
+their fighting ability, helping them move with aston­
+ishing quickness and strike with terrible force.
+Summer Eladrin
+Medium Fey (Elf), Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 165 (22d8 + 66)
+Speed 50 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 21 (+5) 16 (+3) 14 (+2) 12 (+1) 18 (+4)
+Skills Athletics +8, Intimidation +8
+Damage Resistances fire
+Senses darkvision 60 ft., passive Perception 9
+Languages Common, Elvish, Sylvan
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Fearsome Presence. Any non-eladrin creature that starts its turn
+within 60 feet of the eladrin must make a DC 16 Wisdom saving
+throw. On a failed save, the creature becomes frightened of the
+eladrin for 1 minute. A creature can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on a
+success. If a creature’s saving throw is successful or the effect
+ends for it, the creature is immune to any eladrin’s Fearsome
+Presence for the next 24 hours.
+Magic Resistance. The eladrin has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The eladrin makes two Longsword or Long­
+bow attacks.
+Longsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one tar­
+get. Hit: 13 (2d8 + 4) slashing damage, or 15 (2dl0 + 4) slash­
+ing damage if used with two hands, plus 9 (2d8) fire damage.
+Longbow. Ranged Weapon Attack: +9 to hit, range 150/600
+ft., one target. Hit: 14 (2d8 + 5) piercing damage plus 9 (2d8)
+fire damage.
+Bonus Actions
+Fey Step (Recharge 4-6). The eladrin teleports, along with any
+equipment it is wearing or carrying, up to 30 feet to an unoccu­
+pied space it can see.
+Reactions
+Parry. The eladrin adds 3 to its AC against one melee attack
+that would hit it. To do so, the eladrin must see the attacker
+and be wielding a melee weapon.
+
+=== PAGE 117 ===
+Winter Eladrin
+When sorrow distresses eladrin, they enter the win­
+ter season, becoming figures of melancholy. Frozen
+tears drop from their cheeks, and their palpable sad­
+ness emanates from them as icy cold.
+i 1 1 1____'. _ ........... _ . ___
+Winter Eladrin
+Medium Fey (Elf), Typically Chaotic Neutral
+Armor Class 19 (natural armor)
+Hit Points 165 (22d8 + 66)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 16 (+3) 16 (+3) 18 (+4) 17(+3) 13 (+1)
+Damage Resistances cold
+Senses darkvision 60 ft., passive Perception 13
+Languages Common, Elvish, Sylvan
+Challenge 10 (5,900 XP) Proficiency Bonus 4-4
+Magic Resistance. The eladrin has advantage on saving throws
+against spells and other magical effects.
+Sorrowful Presence. Any non-eladrin creature that starts its
+turn within 60 feet of the eladrin must make a DC 13 Wisdom
+saving throw. On a failed save, the creature becomes charmed
+by the eladrin for 1 minute. While charmed in this way, the
+creature has disadvantage on ability checks and saving throws.
+The charmed creature can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success. If
+a creature’s saving throw is successful or the effect ends for it,
+the creature is immune to any eladrin’s Sorrowful Presence for
+the next 24 hours.
+Whenever the eladrin deals damage to the charmed creature,
+the charmed creature can repeat the saving throw, ending the
+effect on itself on a success.
+Actions
+Multiattack. The eladrin makes two Longsword or Longbow
+attacks. It can replace one attack with a use of Spellcasting.
+Longsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one tar­
+get. Hit: 4 (1 d8) slashing damage, or 5 (IdlO) slashing damage
+if used with two hands, plus 13 (3d8) cold damage.
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600
+ft., one target. Hit: 7 (1 d8 4- 3) piercing damage plus 13 (3d8)
+cold damage.
+Spellcasting. The eladrin casts one of the following spells, re­
+quiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 16):
+At will:/og cloud, gust of wind, sleet storm
+Bonus Actions
+Fey Step (Recharge 4-6). The eladrin teleports, along with any
+equipment it is wearing or carrying, up to 30 feet to an unoccu­
+pied space it can see.
+Reactions
+Frigid Rebuke. When the eladrin takes damage from a creature
+the eladrin can see within 60 feet of it, the eladrin can force that
+creature to make a DC 16 Constitution saving throw. On a failed
+save, the creature takes 11 (2dl0) cold damage.
+--col--
+
+
+=== PAGE 118 ===
+Elder Brain
+The ultimate expression of mind flayer domination,
+an elder brain sprawls within a vat of viscous brine,
+cared for by mind flayer minions as it touches the
+thoughts of creatures near and far. It scrawls upon
+the canvas of the creatures’ minds, rewriting their
+thoughts and authoring their dreams.
+An elder brain sustains itself by consuming the
+brains of other creatures. If its mind flayer servants
+don’t bring meals directly to it, the elder brain
+reaches out with tendrils of thought, compelling
+creatures to come to it so that it can feed on them.
+When a mind flayer perishes, the elder brain’s
+servants feed its brain to their master, which then
+absorbs the knowledge and experience contained
+therein. Mind flayers conceive of this oneness with
+the elder brain as a sacred state akin to an afterlife.
+Hive Mind
+Elder brains are so-called among non-illithids be­
+cause they act as the central communication hub for
+an entire mind flayer colony, just as a brain does for
+a living body. Linked to the elder brain, the colony
+acts like a single organism, acting in concert as if
+each illithid were the digit of a hand.
+An elder brain considers itself and its desires
+the most important things in the multiverse, and
+the mind flayers in its colony nothing more than
+extensions of its will. Each presides over its colony
+according to its own unique personality and store­
+house of collected knowledge and experience. Some
+elder brains reign as tyrants, while others serve
+as sages, counselors, and repositories of informa­
+tion and lore for the mind flayers that protect and
+nourish them.
+An Elder Brain’s Lair
+The lair of an elder brain lies deep in the heart of
+a mind flayer colony. The brain dwells in a dimly
+glowing brine pool filled with brackish water in­
+fused with its vital fluids and psionic energy.
+An elder brain’s ambitions are always tempered
+by its relative immobility. Although its telepathic
+senses can reach for miles, moving anywhere is
+always a dangerous proposition. If forced outside
+its brine pool, an elder brain swiftly expires, and
+transporting an elder brain in its pool through con­
+fining and tortuous subterranean tunnels frequently
+proves difficult or impossible.
+n8 CHAPTER 2 | BESTIARY
+--col--
+Lair Actions
+On initiative count 20 (losing initiative ties), an el­
+der brain can take one of the following lair actions;
+the elder brain can’t take the same lair action two
+rounds in a row:
+Force Wall. The elder brain casts wall of force.
+Psionic Anchor. The elder brain targets one crea­
+ture it can sense within 120 feet of it and anchors
+it by sheer force of will. The target must make a
+DC 18 Charisma saving throw. On a failed save,
+its speed is reduced to 0, and it can’t teleport. It
+can repeat the saving throw at the end of each of
+its turns, ending the effect on itself on a success.
+Psychic Inspiration. The elder brain targets one
+friendly creature it can sense within 120 feet of it.
+The target has a flash of inspiration and gains ad­
+vantage on one attack roll, ability check, or saving
+throw it makes before the end of its next turn.
+
+=== PAGE 119 ===
+
+--col--
+CHAPTER 2 | BESTIARY 119
+
+=== PAGE 120 ===
+Regional Effects
+The territory within 5 miles of an elder brain is al­
+tered by the creature’s psionic presence, which cre­
+ates one or more of the following effects:
+Paranoia. Creatures within 5 miles of an elder
+brain feel as if they are being followed, even when
+they’re not.
+Psychic Whispers. Any creature with which the el­

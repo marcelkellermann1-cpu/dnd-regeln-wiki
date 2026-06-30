@@ -1,0 +1,500 @@
+Kobold scale sorcerer, 165 Cave fisher, 73
+Martial arts adept, 172 Chitine, 75
+Master thief, 174 Choldrith, 77
+Necromancer wizard, 264 Deep scion, 88
+Shadar-kai gloom Female steeder, 231
+weaver, 213 Froghemoth, 130
+Shadar-kai shadow Giant strider, 137
+dancer, 213 Girallon, 139
+Shadar-kai soul monger, 214 Gnoll flesh gnawer, 144
+Swashbuckler, 238 Gnoll hunter, 144
+Tortle, 244 Gray render, 146
+Tortle druid, 244 Hungry sorrowsworn, 223
+Transmuter wizard, 265 Kraken priest, 167
+War priest, 254 Kruthik hive lord, 169
+Warlock of the Archfey, 255 Leucrotta, 170
+Warlock of the Fiend, 255 Lonely sorrowsworn, 223
+Warlock of the Great Lost sorrowsworn, 224
+Old One, 256 Male steeder, 231
+Warlord, 257 Meazel, 177
+Stat Blocks by Challenge
+Challenge o Challenge 1/2
+Cranium rat, 83 Chitine, 75
+Darkling, 84
+Challenge i/8
+Firenewt warrior, 125
+Boggle, 65
+Gazer, 134
+Dolphin, 97
+Gnoll hunter, 144
+Neogi hatchling, 191
+Nupperibo, 196
+Xvart, 267
+Skulk, 219
+Young kruthik, 168
+Stench kow, 72
+Swarm of rot grubs, 237
+Challenge 1/4
+Apprentice wizard, 259 Challenge 1
+Deep rothd, 71
+Choker, 76
+Derro, 91
+Clockwork bronze scout, 79
+Dimetrodon, 95
+Deinonychus, 95
+Gnoll witherling, 145
+Duergar soulblade, 109
+Grung, 149
+Female steeder, 231
+Hadrosaurus, 96
+Firenewt warlock
+Kobold inventor, 164
+of Imix, 125
+Male steeder, 231
+Giant strider, 137
+Oblex spawn, 197
+Gnoll flesh gnawer, 144
+Ox, 72
+Grung wildling, 150
+Star spawn grue, 227
+Kobold dragonshield, 163
+Tortle, 244
+Kobold scale sorcerer, 165
+Wretched sorrowsworn, 224
+Maw demon, 176
+Vegepygmy, 252
+Meazel, 177
+Velociraptor, 96
+Nilbog, 195
+284 APPENDIX I monster lists
+--col--
+Nagpa, 189 Plants
+Sea spawn, 211 Corpse flower, 82
+Shadow mastiff, 215 Thorny vegepygmy, 253
+Shadow mastiff alpha, 215 Vegepygmy, 252
+Skulk, 219 Vegepygmy chief, 253
+Tlincalli, 243 Wood woad, 266
+Trapper, 245
+Wretched sorrowsworn, 224 Undead
+Xvart, 267 Alhoon, 43
+Xvart warlock of Allip, 45
+Raxivort, 267 Bodak, 64
+Young kruthik, 168 Boneclaw, 66
+Yuan-ti anathema, 272 Deathlock, 86
+Yuan-ti broodguard, 273 Deathlock mastermind, 87
+Yuan-ti mind whisperer, 274 Deathlock wight, 87
+Yuan-ti nightmare Devourer, 93
+speaker, 275 Eidolon, 114
+Yuan-ti pit master, 276 Gnoll witherling, 145
+Nightwalker, 194
+Oozes Skull lord, 220
+Adult oblex, 198 Spawn of Kyuss, 225
+Elder oblex, 199 Sword wraith com­
+Oblex spawn, 197 mander, 239
+Slithering tracker, 221 Sword wraith warrior, 239
+Vampiric mist, 250
+e Rating
+Quickling, 207 Shadow mastiff, 215
+Sea spawn, 211 Tortle druid, 244
+Stone cursed, 233 Vegepygmy chief, 253
+Thorny vegepygmy, 253 Yuan-ti broodguard, 273
+Vargouille, 251
+Xvart warlock of
+Challenge 3
+Archer, 49
+Raxivort, 267
+Bulezau, 67
+Challenge 2 Cave fisher, 73
+Adult kruthik, 169 Choldrith, 77
+Aurochs, 71 Deathlock wight, 87
+Bard, 59 Deep scion, 88
+Berbalang, 61 Derro savant, 92
+Darkling elder, 84 Dolphin delighter, 97
+Duergar hammerer, 112 Duergar screamer, 112
+Duergar kavalrachni, 107 Flail snail, 126
+Duergar mind master, 108 Giff, 138
+Duergar stone guard, 110 Illusionist wizard, 263
+Duergar xarrorn, 111 Leucrotta, 170
+Grung elite warrior, 150 Martial arts adept, 172
+Guard drake, 151 Merrenoloth, 180
+Hobgoblin iron shadow, 154 Neogi, 192
+Meenlock, 178 Ogre chain brute, 201
+Ogre bolt launcher, 200 Redcap, 208
+Ogre howdah, 201 Shadow mastiff alpha, 215
+Quetzalcoatlus, 96 Slithering tracker, 221
+Rutterkin, 210 Swashbuckler, 238
+
+=== PAGE 285 ===
+Sword wraith warrior, 239 Challenge 7
+Trapper, 245 Air elemental
+Vampiric mist, 250 myrmidon, 122
+Armanite, 50
+Challenge 4
+Bheur hag, 62
+Babau, 52
+Black abishai, 38
+Barghest, 60
+Dhergoloth, 94
+Clockwork iron cobra, 79
+Draegloth, 98
+Clockwork stone
+Earth elemental
+defender, 80
+myrmidon, 122
+Deathlock, 86
+Fire elemental
+Dybbuk, 113
+myrmidon, 123
+Girallon, 139
+Korred, 166
+Hobgoblin devastator, 153
+Lost sorrowsworn, 224
+Merregon, 179
+Maurezhi, 175
+Neogi master, 192
+Shadar-kai shadow
+Ogre battering ram, 200
+dancer, 213
+Stegosaurus, 96
+Venom troll, 248
+Warlock of the Archfey, 255
+Warlock of the Fiend, 255
+Yeth hound, 271
+Water elemental
+Yuan-ti mind whisperer, 274
+myrmidon, 123
+Yuan-ti nightmare
+speaker, 275 Challenge 8
+Blackguard, 63
+Challenge 5
+Canoloth, 69
+Adult oblex, 198
+Corpse flower, 82
+Allip, 45
+Deathlock mastermind, 87
+Banderhobb, 56
+Diviner wizard, 261
+Brontosaurus, 95
+Howler, 155
+Catoblepas, 70
+Shoosuva, 216
+Clockwork oaken bolter, 80
+Sword wraith com­
+Enchanter wizard, 261
+mander, 239
+Kraken priest, 167
+Kruthik hive lord, 169 Challenge 9
+Master thief, 174 Abjurer wizard, 260
+Mindwitness, 181 Champion, 74
+Spawn of Kyuss, 225 Drow house captain, 101
+Star spawn mangier, 229 Evoker wizard, 262
+Swarm of cranium rats, 83 Flind, 127
+Tanarukk, 240 Frost salamander, 132
+Tlincalli, 243 Hydroloth, 158
+Transmuter wizard, 265 Lonely sorrowsworn, 223
+Wood woad, 266 Necromancer wizard, 264
+Yuan-ti pit master, 276 Rot troll, 247
+Shadar-kai gloom
+Challenge 6
+weaver, 213
+Annis hag, 47
+Ulitharid, 249
+Bodak, 64
+War priest, 254
+Conjurer wizard, 260
+Duergar warlord, 111 Challenge 10
+Cauth, 133 Alhoon, 43
+Mouth of Grolantor, 187 Autumn eladrin, 115
+Warlock of the Great Death kiss, 85
+Old One, 256 Elder oblex, 199
+White abishai, 41 Froghemoth, 130
+Githyanki gish, 140
+--col--
+Githzerai enlightened, 143 Challenge 16
+Orthon, 205 Githzerai anarch, 142
+Spring eladrin, 116 Hellfire engine, 152
+Star spawn hulk, 227 Phoenix, 206
+Stone giant dream­ Star spawn larva mage, 228
+walker, 234 Steel predator, 232
+Summer eladrin, 116 Storm giant quint-
+Winter eladrin, 117 essent, 235
+Titivilus, 242
+Challenge 11
+Alkilith, 44 Challenge 17
+Balhannoth, 55 Blue abishai, 39
+Cloud giant smiling one, 81 Nagpa, 189
+Drow shadowblade, 105
+Hungry sorrowsworn, 223
+Challenge 18
+Morkoth, 186 Amnizu, 46
+Shadar-kai soul monger, 214 Drow favored consort, 100
+Spirit troll, 247 Sibriex, 217
+Yagnoloth, 268
+Challenge 19
+Challenge 12 Bael, 54
+Archdruid, 48 Red abishai, 40
+Boneclaw, 66
+Challenge 20
+Duergar despot, 107
+Drow matron mother, 104
+Eidolon, 114
+Leviathan, 171
+Frost giant everlast­
+Nightwalker, 194
+ing one, 131
+Githyanki kith’rak, 140 Challenge 21
+Gray render, 146
+Astral dreadnought, 51
+Ki-rin, 162
+Hutijin, 157
+Oinoloth, 202
+Moloch, 183
+Warlord, 257
+Molydeus, 184
+Yuan-ti anathema, 272
+Challenge 22
+Challenge 13
+Geryon, 136
+Angry sorrowsworn, 222
+Zaratan, 278
+Devourer, 93
+Dire troll, 246 Challenge 23
+Drow arachnomancer, 99 Baphomet, 58
+Narzugon, 190 Elder tempest, 121
+Neothelid, 193 Fraz-Urb’luu, 129
+Star spawn seer, 230 juiblex, 160
+Wastrilith, 258 Zuggtmoy, 282
+Challenge 14 Challenge 24
+Cadaver collector, 68 Graz’zt, 148
+Drow inquisitor, 102 Yeenoghu,270
+Elder brain, 120
+Fire giant dreadnought, 124
+Challenge 25
+Githyanki supreme com­ Marut, 173
+mander, 141
+Challenge 26
+Retriever, 209
+Demogorgon, 90
+Challenge 15 Orcus, 204
+Green abishai, 40 Zariel, 280
+Nabassu, 188
+Skull lord, 220
+APPENDIX | MONSTER LISTS 285
+
+=== PAGE 286 ===
+Stat Blocks by Environme
+Arctic Creatures
+cr Creatures
+1/4 Gnoll witherling
+1/2 Gnoll hunter
+1 Gnoll flesh gnawer
+2 Guard drake
+3 Vampiric mist
+4 Warlock of the Archfey
+6 Warlock of the Great Old One
+7 Bheur hag, lost sorrowsworn, warlock of the Fiend
+9 Frost salamander
+10 Winter eladrin
+12 Boneclaw
+13 Dire troll
+20 Nightwalker
+23 Elder tempest
+Coastal Creatures
+cr Creatures
+1/8 Dolphin
+1/4 Dimetrodon, tortle
+1/2 Skulk
+1 Sea spawn
+2 Quetzalcoatlus, tortle druid
+3 Deep scion, dolphin delighter, merrenoloth,
+swashbuckler, vampiric mist
+5 Kraken priest
+8 Canoloth, shoosuva
+9 Flind, lonely sorrowsworn
+10 Stone giant dreamwalker
+11 Balhannoth, morkoth, spirit troll
+12 Eidolon, frost giant everlasting one, ki-rin
+13 Wastrilith
+16 Storm giant quintessent
+17 Blue abishai, nagpa
+20 Leviathan
+23 Elder tempest
+Desert Creatures
+cr Creatures
+1/8 Young kruthik
+1/2 Firenewt warrior
+1 Meazel, stone cursed, vargouille
+2 Adult kruthik, berbalang, guard drake, yuan-ti
+broodguard
+3 Leucrotta
+4 Dybbuk, yuan-ti mind whisperer, yuan-ti night­
+mare speaker
+286 APPENDIX | MONSTER LISTS
+--col--
+ent
+CR Creatures
+5 Kruthik hive lord, spawn of Kyuss, tlincalli, yuan-ti
+pit master
+7 Lost sorrowsworn, warlock of the Fiend
+8 Howler
+9 Champion, lonely sorrowsworn, necromancer wiz­
+ard, rot troll, war priest
+10 Githyanki gish, githzerai enlightened, orthon,
+summer eladrin
+12 Boneclaw, eidolon, githyanki kith’rak, ki-rin, oino-
+loth, yuan-ti anathema
+14 Githyanki supreme commander, retriever
+15 Skull lord
+16 Phoenix, storm giant quintessent
+17 Nagpa
+20 Nightwalker
+22 Zaratan
+Forest Creatures
+cr Creatures
+1/8 Boggle
+1/4 Gnoll witherling, grung, kobold inventor, vege-
+pygmy, velociraptor
+1/2 Darkling, gnoll hunter, skulk
+1 Choker, clockwork bronze scout, deinonychus,
+gnoll flesh gnawer, grung wildling, kobold drag­
+onshield, kobold scale sorcerer, meazel, nilbog,
+quickling, thorny vegepygmy
+2 Darkling elder, grung elite warrior, guard drake,
+hobgoblin iron shadow, meenlock, shadow mas-
+tiff, vegepygmy chief, yuan-ti broodguard
+3 Archer, flail snail, redcap, shadow mastiff alpha,
+vampiric mist
+4 Barghest, clockwork iron cobra, clockwork stone
+defender, girallon, hobgoblin devastator, stego­
+saurus, warlock of the Archfey, yeth hound, yuan-ti
+mind whisperer, yuan-ti nightmare speaker
+5 Brontosaurus, clockwork oaken bolter, wood
+woad, yuan-ti pit master
+7 Korred, lost sorrowsworn, shadar-kai shadow
+dancer, venom troll
+8 Corpse flower, shoosuva
+9 Flind, rot troll
+10 Autumn eladrin, spring eladrin, summer eladrin,
+winter eladrin
+11 Hungry sorrowsworn, spirit troll
+12 Archdruid, eidolon, gray render, yuan-ti anathema
+13 Dire troll
+14 Retriever
+17 Nagpa
+22 Zaratan
+
+=== PAGE 287 ===
+Grassland Creatures
+CR Creatures
+1/4 Gnoll witherling, hadrosaurus, ox, velociraptor
+1/2 Gnoll hunter, stench kow
+Clockwork bronze scout, deinonychus, gnoll flesh
+gnawer, meazel
+2 Aurochs, hobgoblin iron shadow, ogre bolt
+launcher, ogre howdah
+3 Leucrotta, ogre chain brute, sword wraith warrior,
+vampiric mist
+4 Barghest, clockwork iron cobra, clockwork stone
+defender, hobgoblin devastator, ogre battering
+ram, stegosaurus, yeth hound
+5 Brontosaurus, clockwork oaken bolter
+6 Mouth of Grolantor
+8 Howler, shoosuva, sword wraith commander
+9 Flind
+10 Spring eladrin
+12 Eidolon, ki-rin
+14 Cadaver collector
+22 Zaratan
+23 Elder tempest
+Hill Creatures
+CR Creatures
+1/8 Boggle, neogi hatchling, xvart
+1/4 Gnoll witherling, kobold inventor
+1/2 Firenewt warrior, gnoll hunter
+1 Clockwork bronze scout, deinonychus, firenewt
+warlock of Imix, giant strider, gnoll flesh gnawer,
+kobold dragonshield, kobold scale sorcerer, mea­
+zel, nilbog, xvart warlock of Raxivort
+2 Aurochs, hobgoblin Iron Shadow, ogre bolt
+launcher, ogre howdah, quetzalcoatlus, shadow
+mastiff
+3 Neogi, ogre chain brute, redcap, shadow mastiff
+alpha
+4 Barghest, clockwork iron cobra, clockwork stone
+defender, hobgoblin devastator, neogi master,
+ogre battering ram, yeth hound
+5 Clockwork oaken bolter, tanarukk
+6 Annis hag, mouth of Grolantor, warlock of the
+Great Old One
+8 Howler, shoosuva
+9 Flind
+10 Stone giant dreamwalker
+12 Gray render
+13 Dire troll
+22 Zaratan
+23 Elder tempest
+--col--
+Mountain Creatures
+CR Creatures
+1/8 Young kruthik
+1/4 Derro, kobold inventor, star spawn grue
+1/2 Firenewt warrior
+1 Clockwork bronze scout, choker, duergar
+soulblade, firenewt warlock of Imix, giant strider,
+kobold dragonshield, kobold scale sorcerer, mea­
+zel, stone cursed
+2 Adult kruthik, aurochs, duergar hammerer, du­
+ergar kavalrachni, duergar mind master, duergar
+stone guard, duergar xarrorn, guard drake, ogre
+bolt launcher, ogre howdah, quetzalcoatlus
+3 Duergar screamer, ogre chain brute, vampiric
+mist
+4 Barghest, clockwork iron cobra, clockwork stone
+defender, ogre battering ram, warlock of the
+Archfey
+5 Clockwork oaken bolter, kruthik hive lord,
+tanarukk
+6 Annis hag, duergar warlord, warlock of the Great
+Old One
+7 Lost sorrowsworn
+9 Lonely sorrowsworn
+10 Githyanki gish, githzerai enlightened, stone giant
+dreamwalker
+11 Balhannoth, cloud giant smiling one
+12 Archdruid, duergar despot, eidolon, githyanki
+kith’rak, ki-rin
+13 Dire troll, star spawn seer
+14 Fire giant dreadnought, githyanki supreme com­
+mander
+16 Phoenix, star spawn larva mage, storm giant
+quintessent
+19 Red abishai
+22 Zaratan
+23 Elder tempest
+Swamp Creatures
+CR Creatures
+1/4 Dimetrodon, hadrosaurus, oblex spawn, star
+spawn grue, vegepygmy, wretched sorrowsworn
+1/2 Darkling, skulk, swarm of rot grubs
+1 Meazel, vargouille, thorny vegepygmy
+2 Darkling elder, guard drake, meenlock, shadow
+mastiff, vegepygmy chief
+3 Flail snail, redcap, shadow mastiff alpha, sword
+wraith warrior, vampiric mist
+4 Warlock of the Archfey
+5 Adult oblex, allip, catoblepas
+6 Bodak
+7 Lost sorrowsworn, maurezhi, venom troll
+8 Corpse flower
+APPENDIX | MONSTER LISTS
+
+=== PAGE 288 ===
+CR Creatures
+9 Rot troll
+10 Elder oblex, froghemoth, sword wraith com­
+mander
+11 Spirit troll
+12 Archdruid
+13 Star spawn seer, wastrilith
+15 Nabassu, skull lord
+17 Nagpa

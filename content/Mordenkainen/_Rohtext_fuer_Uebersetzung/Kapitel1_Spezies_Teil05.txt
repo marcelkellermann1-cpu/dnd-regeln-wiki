@@ -1,0 +1,212 @@
+Created by the Cat Lord—a divine being of the Up­
+per Planes—to blend the qualities of humanoids
+and cats, tabaxi are a varied people in both attitude
+and appearance. In some lands, tabaxi live like the
+cats they resemble, naturally curious and at home in
+playful environments. In other places, tabaxi live as
+other folk do, not exhibiting the feline behavior the
+Cat Lord intended.
+Tabaxi’s appearance is as varied as their attitudes.
+Some tabaxi have features or patterning in their fur
+like tigers, jaguars, or other big cats, while others
+have appearances more like a house cat. Still others
+have unique patterns or might style their fur to their
+preferences—or might even be hairless!
+Tabaxi Traits
+As a tabaxi, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet, and you
+have a climbing speed equal to your walking speed.
+Cat's Claws. You can use your claws to make un­
+armed strikes. When you hit with them, the strike
+deals ld6 + your Strength modifier slashing dam­
+age, instead of the bludgeoning damage normal for
+an unarmed strike.
+Cat's Talent. You have proficiency in the Percep­
+tion and Stealth skills.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Feline Agility. Your reflexes and agility allow you
+to move with a burst of speed. When you move on
+your turn in combat, you can double your speed
+until the end of the turn. Once you use this trait,
+you can’t use it again until you move 0 feet on one of
+your turns.
+CHAPTER 1 | FANTASTICAL RACES 33
+
+=== PAGE 34 ===
+Tortles have a saying: “We wear our homes on our
+backs.” These turtle folk live on many worlds, most
+often journeying up and down coasts, along water­
+ways, and across the sea. Tortles don’t have a uni­
+fied story of how they were created, but they all have
+a sense of being mystically connected to the natural
+world. Carrying their shelter on their backs gives
+tortles a special feeling of security wherever they
+go, for even if they visit a far, unknown country, they
+have a place to lay their heads.
+Tortles exhibit the same range of coloration and
+patterns found among turtles, and many tortles en­
+joy adorning their shells in distinctive ways.
+Tortle Traits
+As a tortle, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Claws. You have claws that you can use to make
+unarmed strikes. When you hit with them, the strike
+deals ld6 + your Strength modifier slashing dam­
+age, instead of the bludgeoning damage normal for
+an unarmed strike.
+34 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Hold Breath. You can hold your breath for up
+to 1 hour.
+Natural Armor. Your shell provides you a base
+AC of 17 (your Dexterity modifier doesn’t affect this
+number). You can’t wear light, medium, or heavy ar­
+mor, but if you are using a shield, you can apply the
+shield’s bonus as normal.
+Nature's Intuition. Thanks to your mystical con­
+nection to nature, you gain proficiency with one of
+the following skills of your choice: Animal Handling,
+Medicine, Nature, Perception, Stealth, or Survival.
+Shell Defense. You can withdraw into your shell
+as an action. Until you emerge, you gain a +4 bonus
+to your AC, and you have advantage on Strength
+and Constitution saving throws. While in your shell,
+you are prone, your speed is 0 and can’t increase,
+you have disadvantage on Dexterity saving throws,
+you can’t take reactions, and the only action you can
+take is a bonus action to emerge from your shell.
+
+=== PAGE 35 ===
+Triton
+Originally from the Elemental Plane of Water, many
+tritons entered the Material Plane centuries ago in
+response to the growing threat of evil elementals.
+Those tritons spread across the worlds’ oceans,
+protecting the surface from terrors in the deep. Over
+time, triton have extended their stewardship over
+the sea floor to the ocean’s surface.
+Tritons have webbed hands and feet, small fins
+on their calves, and coloration that favors blues
+and greens.
+Triton Traits
+As a triton, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet, and
+you have a swimming speed equal to your
+walking speed.
+Amphibious. You can breathe air and water.
+Control Air and Water. You can cast fog cloud
+with this trait. Starting at 3rd level, you can cast
+the gust of wind spell with this trait. Starting at 5th
+level, you can also cast the water walk spell with it.
+Once you cast any of these spells with this trait, you
+can’t cast that spell with it again until you finish a
+long rest. You can also cast these spells using any
+spell slots you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+--col--
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Emissary of the Sea. You can communicate sim­
+ple ideas to any Beast, Elemental, or Monstrosity
+that has a swimming speed. It can understand your
+words, though you have no special ability to under­
+stand it in return.
+Guardian of the Depths. Adapted to the frigid
+ocean depths, you have resistance to cold damage.
+CHAPTER 1 | FANTASTICAL RACES 35
+
+=== PAGE 36 ===
+Yuan-ti
+Yuan-ti were originally humans who transformed
+themselves into serpent folk through ancient rituals.
+Most yuan-ti were corrupted into monsters by those
+rites, but some yuan-ti instead became a new people
+who mix characteristics of humans and snakes.
+Blessed with resistance to magical and poison­
+ous effects by the rituals that created them, each of
+these yuan-ti manifests their serpentine heritage
+in a variety of ways: a forked tongue, snake eyes, a
+snakelike nose, or some other ophidian characteris­
+tic. However a yuan-ti looks, they have the power to
+pursue great good or evil in the multiverse.
+Yuan-ti Traits
+As a yuan-ti, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+36 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Magic Resistance. You have advantage on saving
+throws against spells.
+Poison Resilience. You have advantage on sav­
+ing throws you make to avoid or end the poisoned
+condition on yourself. You also have resistance to
+poison damage.
+Serpentine Spellcasting. You know the poison
+spray cantrip. You can cast animal friendship an un­
+limited number of times with this trait, but you can
+target only snakes with it. Starting at 3rd level, you
+can also cast suggestion with this trait. Once you
+cast it, you can’t do so again until you finish a long
+rest. You can also cast it using any spell slots you
+have of 2nd level or higher.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+
+=== PAGE 37 ===
+B
+estiar
+HIS BESTIARY PROVIDES GAME STATISTICS
+and lore for more than 250 monsters, which
+are suitable for any D&D campaign. The
+chapter includes old favorites from past edi­
+tions of the game as well as creatures created for
+the current edition.
+This chapter is a companion to the Monster Man­
+ual and adopts a similar presentation. If you are un­
+familiar with the monster stat block format, read the
+introduction of the Monster Manual before proceed­
+ing further. It explains stat block terminology and
+gives rules for various monster traits—information
+that isn’t repeated here.
+The creatures in this bestiary are organized alpha­
+betically. A few are gathered under a group heading;
+for example, the “Dinosaurs” section contains stat
+blocks for various dinosaurs.
+--col--
+ry
+Herein you will find some weapons that deal un­
+usual damage types and spellcasting that functions
+in atypical ways. Such an exception is a special
+feature of a monster and represents how it uses
+the weapon or casts its spells; the exception has
+no affect on how a weapon or a spell functions for
+someone else.
+Finally, if a stat block contains the name of a class
+in the monster’s name or in parentheses under the
+name, the monster is considered a member of that
+class for the purpose of meeting prerequisites for
+magic items.
+A»9 JneH* ,loye
+wovxsiirous

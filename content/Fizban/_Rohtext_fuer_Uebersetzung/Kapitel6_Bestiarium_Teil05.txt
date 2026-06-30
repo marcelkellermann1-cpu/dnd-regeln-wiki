@@ -1,0 +1,600 @@
+LEGENDARY ACTIONS
+Bite. Melee Weapon Attack: +17 to hit, reach 15 ft., one
+The greatwyrm can take 3 legendary actions, choosing from
+target. Hit: 20 (2dl0 + 9) piercing damage plus 16 (3dl0)
+the options below. Only one legendary action option can be
+force damage.
+used at a time and only at the end of another creature's turn.
+Claw. Melee Weapon Attack: +17 to hit, reach 10 ft., one tar The greatwyrm regains spent legendary actions at the start
+get. Hit: 18 (2d8 + 9) slashing damage. If the target is a Huge of its turn.
+or smaller creature, it is grappled (escape DC 19) and is re
+Claw. The greatwyrm makes one Claw attack.
+strained until this grapple ends. The greatwyrm can have only
+Psionics (Costs 2 Actions). The greatwyrm uses Psychic Step or
+one creature grappled in this way at a time.
+Spellcasting.
+Breath Weapon (Recharge 5-6). The greatwyrm exhales crush Psychic Beam (Costs 3 Actions). The greatwyrm emits a beam
+ing force in a 300-foot cone. Each creature in that area must of psychic energy in a 90-foot line that is 10 feet wide. Each
+make a DC 25 Dexterity saving throw. On a failed save, the creature in that area must make a DC 26 Intelligence saving
+creature takes 71 (lldl2) force damage and is knocked prone. throw, taking 27 (5dl0) psychic damage on a failed save, or
+half as much damage on a successful one.
+CHAPTER 6 I BESTIARY 201
+=== PAGE 203 ===
+GEM STALKER
+A gem stalker has a four-legged body resem
+When a gem dragon kills an aberrant creature from bling that of a wingless dragon, but with a vaguely
+the Far Realm, the dragon sometimes reshapes the humanlike torso, head, and arms in place of the
+alien corpse into a gem stalker-a cunning predator dragon's head. Its eyes are milk white, it has no
+capable of traversing the Underdark, hunting Aber mouth, and its skin is studded with bright crystals
+rations, and guarding its creator's lair. A gem stalker that pulse with psychic energy. These crystals give
+is imbued with life, sapience, and purpose by the the gem stalker its telepathy, as well as its ability to
+mystical energy of the gem dragon's breath, and it is fling crystal darts and create a protective link that
+dedicated to its mission. can ward other creatures against harm.
+GEM STALKER Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) slashing damage.
+Large Monstrosity, Typically Neutral
+BONUS ACTIONS
+Armor Class 17 (natural armor)
+Hit Points 67 (9dl0 + 18) Crystal Dart. Ranged Spell Attack: +5 to hit, range 30 ft., one
+Speed 40 ft., climb 40 ft. target. Hit: 7 (ldl0 + 2) force damage, and one of the following
+effects occurs, determined by the kind of dragon that created
+STR DEX CON INT WIS CHA the gem stalker: ·
+17 (+3) 15 (+2) 14 (+2) 15 (+2) 10 (+0) 6 (-2)
+Amethyst. The gem stalker can teleport to an unoccupied
+space it can see within 30 feet of it.
+Saving Throws Dex +5, Int +5 Crystal. The gem stalker gains a number oftemporary hit
+Skills Perception +3, Stealth +5 points equal to the damage dealt.
+Damage Resistances psychic Emerald. The target must roll a d4 and subtract the number
+Senses darkvision 120 ft., passive Perception 13 rolled from the next attack roll it makes before the start of
+Languages understands Draconic but can't speak, the gem stalker's next turn.
+telepathy 60 ft. Sapphire. The target must succeed on a DC 13 Strength saving
+Challenge 5 (1,800 XP) Proficiency Bonus +3 throw or be pushed horizontally up to 10 feet away from the
+gem stalker and be knocked prone.
+Spider Climb. The gem stalker can climb difficult surfaces, in Topaz. The target must succeed on a DC 13 Constitution sav
+cluding upside down on ceilings, without needing to make an ing throw or be poisoned until the start of the gem stalker's
+ability check. next turn.
+Unusual Nature. The gem stalker doesn't require food or drink.
+REACTIONS
+ACTIONS Protective Link. When another creature the gem stalker can
+see within 30 feet of it is about to take damage, the gem stalker
+Multiattack. The gem stalker makes four Claw attacks.
+reduces that damage by 10 (3d6). The gem stalker then takes
+damage equal to that amount.
+202 CHAPTER 6 I BESTIARY
+=== PAGE 204 ===
+I'll have- ~ov /o'lovv, fiz.bar1 the- 'fabvlovc;
+ic; r1ot afyaid of gioc;tc;. I ar,\ ot'I the
+e-or1mv~, de-e-pl~ c;adde-r1e-d b~ the- ve-ali~
+of the-iv e-xic;te-r1e,,e,. Arid rY\a~be-jvc;t a
+li-ltle- bit ue-e-pe-d ovt
+-fiz.bar1
+GHOST DRAGON
+A dragon's attachment to a hoard can be strong
+enough to bind the dragon's spirit to existence after •
+•
+death. Such a ghost dragon haunts the hoard, often
+forming an attachment to a single priceless object
+that becomes the focus of the ghost dragon's Un
+dead existence.
+A ghost dragon is a translucent and incorporeal
+version of the original dragon. Though its breath
+weapon resembles ghostly flames, lightning, or acid,
+it carries an otherworldly curse. The breath's shad
+owy mist can induce waking nightmares.
+GHOST DRAGON Unusual Nature. The ghost dragon doesn't require air, food,
+drink, or sleep.
+Huge Undead, Any Alignment
+- . ACTIONS l·
+\"
+Armor Class 10 • .,... i.
+S H p it e e P d o i 4 n 0 ts f t 3 ., 2 4 fl y ( 2 8 4 0 d f 1 t 2 . ( + h o 1 v 68 er ) ) ', / ; ' , .• · .~ . . • .. " . ' .»~ ,/'( #: , . ~ ~ ;, . .. . . . - C M la u w lt i a a t t t t a a c c k k s . . T he ghost dragon makes one Bite attack and two
+.....
+Bite. Melee Weapon Attack:+1 1 to hit, reach 10 ft., one target.
+STR DEX CON INT Hit: 32 (6d8 + 5) cold damage, and the target's speed is halved
+20 (+5) 10 (+0} 25 (+7) 16 (+3}
+until the start of the dragon's next turn.
+Saving Throws Con +13, Wis +8, Cha +10 Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target.
+Skills Perception +14, Stealth +12 Hit: 14 (2d8 + 5) necrotic damage.
+Damage Resistances bludgeoning, piercing, slashing Terrifying Breath (Recharge 6). The ghost dragon exhales shad
+Damage Immunities acid, cold, necrotic, poison
+owy mist in a 90-foot cone. Each creature in that area must
+Condition Immunities charmed, exhaustion, frightened,
+make a DC 21 Constitution saving throw. On a failed save, the
+grappled, paralyzed, petrified, poisoned, prone, restrained
+creature takes 40 (9d8} cold damage and is frightened of the
+Senses blindsight 60 ft., darkvision 120 ft.,
+ghost dragon for 1 minute. On a successful save, the creature
+passive Perception 24
+takes half as much damage and isn't frightened.
+Languages Common, Draconic, telepathy 120 ft.
+While frightened of the ghost dragon, a creature is paralyzed.
+Challenge 17 (18,000 XP} Proficiency Bonus +6
+The frightened creature can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Incorporeal Movement. The ghost dragon can move through
+If a creature's saving throw is successful or the effect ends
+other creatures and objects as if they were difficult terrain. It
+for it, the creature is immune to this ghost dragon's Terrifying
+takes 5 (ldl0) force damage if it ends its turn inside an object.
+Breath for the next 24 hours.
+Legendary Resistance (3/Day). If the ghost dragon fails a saving
+throw, it can choose to succeed instead.
+CHAPTER 6 I BESTIARY 203
+=== PAGE 205 ===
+A horri /;>le- and vvonde-vfvl mth of ovY
+vvovld i~ that anfhi~ ha~ the- pote-ntial
+to /;>e, an e-ne-M~-C-onve-v~e-1~, an~i~ c...-an
+/;>e- a fvie-nd!.
+-fiz.ban
+HOARD MIMIC
+Kin to the common mimic described in the Monster
+Manual, hoard mimics are among the oldest and
+most cunning of their kind. A hoard mimic's mas
+sive, amorphous form and shape-shifting prowess
+allow it to take on the semblance of a vast trove of
+treasures, not just a single object. Like smaller mim
+ics, hoard mimics exude adhesive goo to trap prey.
+They can also vent a fine, caustic mist from their
+pores that burns and blinds creatures caught in it.
+Hoard mimics are so named because many enter
+into partnerships with dragons, each one serving
+as a false hoard in a dragon's lair to draw unwitting
+intruders away from the real riches-and into the
+mimic's maw. If faced with unexpectedly fierce op
+position, though, a hoard mimic might offer informa
+tion about the true hoard in exchange for its life.
+HOARD MIMIC ACTIONS
+Huge Monstrosity, Typically Neutral Multiattack. The mimic makes one Bite attack and two
+Pseudopod attacks.
+Armor Class 14 (natural armor)
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.
+Hit Points 123 (13dl2 + 39)
+Hit: 16 (2dl0 + 5) piercing damage plus 7 (2d6) acid damage.
+Speed 30 ft.
+Pseudopod. Melee Weapon Attack: +8 to hit, reach 10 ft., one
+STR DEX CON INT WIS CHA target. Hit: 12 (2d6 + 5) bludgeoning damage, and the mimic
+21 (+5) 12 (+l) 17 (+3) 10 (+0) 16 (+3) 10 (+0) adheres to the target. A creature adhered to the mimic is also
+grappled by it (escape DC 16). Until this grapple ends, the
+Saving Throws Con +6, Wis +6 target is restrained. Ability checks made to escape this grapple
+Skills Persuasion +3, Stealth +6 have disadvantage.
+Condition Immunities prone
+Senses darkvision 60 ft., passive Perception 13 Caustic Mist (Recharge 5-6). The mimic sprays a fine mist of
+Languages Common, Draconic, telepathy 120 ft. acid in a 30-foot cone. Each creature in that area must make
+Challenge 8 (3,900 XP) Proficiency Bonus +3 a DC 14 Dexterity saving throw. On a failed save, the creature
+takes 27 (6d8) acid damage and is blinded until the end of its
+False Appearance (Hoard Form Only). If the mimic is motion next turn. On a successful save, the creature takes half as much
+less at the start of combat, it has advantage on its initiative roll. damage and isn't blinded.
+Moreover, if a creature hasn't observed the mimic move or act, Shapechanger. The mimic transforms into a hoard or back
+that creature must succeed on a DC 18 Intelligence (Investiga into its true, amorphous form. Its statistics are the same in
+tion) check to discern that the mimic is animate. each form. Any equipment it is wearing or carrying isn't trans
+formed. It reverts to its true form if it dies.
+204 CHAPTER 6 J BESTIARY
+=== PAGE 206 ===
+HOARD SCARABS
+Hoard scarabs are beetle-like creatures that,
+through some feat of natural adaptation or alchemi
+cal ingenuity, blend in perfectly among piles of gold
+coins. They feed on tiny mites that infest a dragon's
+scales and lair, and their painful bite can be a strong
+deterrent to would-be treasure thieves.
+Hoard scarabs also produce a glittering metallic
+dust from their wings that coats intruders who get
+too close to them. The magic of this dust allows the
+lair's draconic owner to sense intruders' location as
+they move about the lair.
+SWARM OF HOARD SCARABS
+Medium Swarm of Tiny Monstrosities, Unaligned
+Armor Class 14 (natural armor)
+Hit Points 31 (7d8)
+Speed 20 ft., burrow 20 ft., fly 20 ft.
+STR DEX CON
+6 (-2) 16 (+3) 11 (+0)
+Damage Resistances bludgeoning, piercing, slashing
+Tiny Monstrosity, Unaligned
+Condition Immunities charmed, frightened, grappled,
+paralyzed, petrified, prone, restrained, stunned
+Armor Class 14 (natural armor)
+Senses darkvision 60 ft., tremorsense 60 ft.,
+Hit Points 7 (3d4)
+passive Perception 9 ii
+Speed 20 ft., burrow 20 ft., fly 20 ft.
+Languages-
+Challenge 2 (450 XP) Proficiency Bonus +2
+STR DEX CON INT WIS CHA
+4 (-3) 16 (+3) 11 (+O) 3 (-4) 8 (-1) 6 (-2)
+False Appearance. If the swarm is motionless at the start of
+combat, it has advantage on its initiative roll. Moreover, if a
+Senses darkvision 60 ft., tremorsense 60 ft.,
+creature hasn't observed the swarm move or act, that creature
+passive Perception 9
+must succeed on a DC 18 Intelligence (Investigation) check to
+Languages
+discern that the swarm is animate.
+Challenge 1/8 (25 XP) Proficiency Bonus +2
+Swarm. The swarm can occupy another creature's space and
+False Appearance. If the scarab is motionless at the start of vice versa, and the swarm can move through any opening large
+combat, it has advantage on its initiative roll. Moreover, if a enough for a Tiny scarab. The swarm can't regain hit points or
+creature hasn't observed the scarab move or act, that creature gain temporary hit points.
+must succeed on a DC 18 Intelligence (Investigation) check to
+discern that the scarab is animate. ACTIONS
+Swarm of Bites. Me lee Weapon Attack: +5 to hit, reach Oft., one
+ACTIONS creature in the swarm's space. Hit: 13 (3d6 + 3) piercing dam
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. age, or 6 (ld6 + 3) piercing damage if the swarm is at halfof its
+Hit: 5 (ld4 + 3) piercing damage. If the target is a creature, it hit points or fewer, and the target has disadvantage on attack
+has disadvantage on attack rolls until the start of its next turn. rolls until the start of its next turn.
+BONUS ACTIONS BONUS ACTIONS
+Scale Dust (1/Day). The scarab releases magical glittering dust Scale Dust (1/Day). The swarm releases magical glittering dust
+from its wings. Each creature within 5 feet of the scarab must from its wings. Each creature within 10 feet of the swarm must
+succeed on a DC 13 Dexterity saving throw or be outlined in succeed on a DC 13 Dexterity saving throw or be outlined in
+blue light for 10 minutes. While outlined in this way, a creature blue light for 10 minutes. While outlined in this way, a creature
+sheds dim light in a 10-foot radius and can't benefit from being sheds dim light in a 10-foot radius and can't benefit from being
+invisible. In addition, every Dragon within l mile of the creature invisible. In addition, every Dragon within l mile of the creature
+becomes aware ofit and can unerringly track the creature. Cast becomes aware of it and can unerringly track the creature. Cast
+ing dispel magic on the creature ends the effect on it. ing dispel magic on the creature ends the effect on it.
+CHAPTER 6 I BESTIARY 20$
+=== PAGE 207 ===
+'·
+HOLLOW DRAGON
+Unlike dragons who explore the magic of undeath
+for power, some metallic dragons see undeath as a
+means to pursue a noble purpose. For the sake of
+protecting an artifact or fulfilling an oath, a dragon
+might transform into a hollow dragon, accepting un
+death until that purpose is fulfilled.
+As the name suggests, a hollow dragon is the husk
+of a metallic dragon's hide, filled with radiant en
+ergy. Depending on the dragon's original kind, that
+energy might take the appearance of flames, light
+ning, or misty vapors.
+Hollow dragons don't suffer distractions from their
+undying purpose. So powerful is their drive that
+their bodies reconstitute if destroyed.
+When they fulfill their purpose, most hollow
+dragons embrace the death they have staved off for
+so long. But others seek new tasks to sustain them
+selves-or cling to undeath out of sheer stubborn
+ness or habit.
+HOLLOW DRAGON Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one tar
+Huge Undead, Any Alignment get. Hit: 17 (2dl0 + 6) piercing damage plus 9 (2d8) radi
+ant damage.
+Armor Class 19 (natural armor) Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit Points 241 (2ldl2 + 105) Hit: 13 (2d6 + 6) slashing damage.
+Speed 40 ft., fly 80 ft.
+Sapping Presence. Each creature of the hollow dragon's choice
+within 60 feet of it must make a DC 19 Wisdom saving throw.
+STR DEX CON INT WIS CHA
+On a failed save, the creature's speed is halved and it has dis
+23 (+6) 12 (+l) 21 (+5) 16 (+3) 13 (+l) 21 (+5)
+advantage on attack rolls until the end of its next turn. On a
+r~ ·:~•; successful save, the creature is immune to this hollow dragon's
+Saving Throws Con +11, lnt+9, Wis +7, Cha +11 ~: "·~ ,;;_.::-,
+Skills Arcana +9, History +15, Perception +13 ·•.' ~ Sapping Presence for 24 hours.
+Damage Resistances necrotic •, ' .... \~, ~~ Radiant Breath (Recharge 5-6). The hollow dragon exhales
+Damage Immunities poison, radiant ,, )ill . , radiant flames in a 60-foot cone. Each creature in that area \
+Condition Immunities charmed, deafened, exhaustion, 3:. l · must make a DC 19 Dexterity saving throw, taking 54 (12d8)
+frightened, paralyzed, poisoned radiant damage on a failed save, or half as much damage on a
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 23
+successful one.
+Languages Common, Draconic
+Challenge 18 (20,000 XP) Proficiency Bonus +6 LEGENDARY ACTIONS
+The hollow dragon can take 3 legendary actions, choosing from
+Legendary Resistance (3/Day). If the hollow dragon fails a sav
+the options below. Only one legendary action can be used at a
+ing throw, it can choose to succeed instead.
+time and only at the end of another creature's turn. The hollow
+Reconstruction. When the hollow dragon is reduced to O hit dragon regains spent legendary actions at the start of its turn.
+points, its body breaks into nine pieces: two arms, two legs,
+Claw. The hollow dragon makes one Claw attack.
+two wings, a tail, a torso, and a head. Each piece is a Large
+Ghostly Binding (Costs 2 Actions). The hollow dragon creates
+object with AC 19, 27 hit points, and immunity to psychic and
+ethereal bindings around a creature it can see within 60 feet
+poison damage. After ld6 days, if all pieces are still within 6
+ofit. The target must succeed on a DC 19 Strength saving
+miles of each other, they all teleport to the location of the head
+throw or be restrained until the end of the dragon's next turn.
+piece and merge with it, whereupon the hollow dragon regains
+Booming Scales (Costs 3 Actions). A sudden loud ringing noise,
+all its hit points and becomes active again. painfully intense, erupts from the hollow dragon's frame.
+Each creature within 10 feet of the hollow dragon must make
+ACTIONS
+a DC 19 Constitution saving throw, taking 24 (7d6) thunder
+Multiattack. The hollow dragon makes one Bite attack and two damage on a failed save, or half as much damage on a suc
+Claw attacks, and it can use Sapping Presence. cessful one.
+206 CHAPTER 6 I BESTIARY
+I
+=== PAGE 208 ===
+•
+•
+..
+,, .
+LION DR AKE .,,
+-~~
+Large Monstrosity, Typically Neutral
+,;
+Armor Class 16 (natural armor) ,,i ~ .;,,; ..
+Hit Points 119 (14dl0 + 42)
+Speed 40 ft., fly 60 ft.
+,'.J'
+STR DEX CON INT WIS
+19 (+4) 15 (+2) 17 (+3) 6 (-2) 12 (+l)
+Skills Perception +7
+Senses darkvision 60 ft., passive Perception 17
+Languages Draconic
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+ACTIONS
+Multiattack. The liondrake makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 15 (2dl0 + 4) piercing damage. If the target is a Medium or
+smaller creature, it must succeed on a DC 15 Strength saving
+LIONDRAKE
+throw or be knocked prone.
+A liondrake is a solitary and territorial predator with Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+the long neck and wings of a brass dragon and the Hit: 11 (2d6 + 4) slashing damage.
+head and body of a lion (including a luxurious mane
+Blood-Chilling Roar (Recharge 4-6). The liondrake lets out a
+on males). Sometimes known as dragonnes, lion
+terrifying roar audible out to 300 feet. Any creature within 30
+drakes rely on their ferocity and their frightful roar feet of the liondrake that can hear its roar must succeed on a
+to overcome prey and drive off rivals. DC 14 Wisdom saving throw or be frightened of the liondrake
+Liondrakes are voracious hunters that range for l minute. A creature that fails the save by 5 or more is
+across well-established territories. They don't typi also paralyzed for the same duration. A creature can repeat
+the saving throw at the end of its turns, ending the effect on
+cally seek out people as prey, but those folk who en
+itself on a success. If a target's saving throw is successful or
+croach into liondrake territory are fair game-which
+the effect ends for it, the target is immune to this liondrake's
+feeds the creature's reputation as hungering for
+Blood-Chilling Roar for the next 24 hours.
+Humanoid flesh.
+CHAPTER 6 j BESTIARY 207
+=== PAGE 209 ===
+METALLIC GREATWYRM
+Some of the oldest and wisest metallic dragons
+undergo a miraculous metamorphosis to become
+greatwyrms. This transformation is often wrought
+by Bahamut, who takes pride in elevating his wor
+thiest children to a status approaching his own
+greatness.
+A metallic greatwyrm's transformation often
+involves fusing the consciousness, the magic, and
+sometimes even the physical forms of multiple
+echoes of the same dragon across the worlds of the
+JUSTICE AND MERCY
+Material Plane. Several of the dragons identified as
+Lendys and Tamara are both silver greatwyrms, but
+dragon gods-including Aasterinian (described in
+they could not be more different from each other.
+the "Brass Dragons" section of chapter 5), Lendys,
+Lendys is renowned as an impartial judge who is
+and Tamara-are metallic greatwyrms who have equally ready to serve as jury and executioner when
+combined the essences of multiple forms to achieve dragons commit grave injustices against dragonkind.
+this godlike status. He is lawful neutral, and he is said to be incapable of
+Metallic greatwyrms are among the largest crea mercy or forgiveness.
+Tamara, by contrast, embodies the ideal of mercy.
+tures in the multiverse, overshadowing most other
+She heals the sick, tends the injured, and delivers a
+dragons. Mighty elemental forces swirl around them
+peaceful departure to dragons nearing the end of their
+in response to their wishes, and their breath weap
+natural lives. She has a particular loathing for dracoli
+ons can sap the strength from armies-or lay waste ches and other draconic Undead.
+to whole regions.
+208 CHAPTER 6 I BESTIARY
+l ........
+I
+=== PAGE 210 ===
+C-all bia~ed, bvt fhe- 11g-e-af' part
+Me-
+of <<Me-tallic--g-e-afw~vM>' fee-I~ a li-ttle
+vedvndant It fl~ vvifhovt ~a~i~
+-Azban
+-
+· METALLIC GREATWYRM creature, it must succeed on a DC 26 Strength saving throw or
+be knocked prone.
+· Gargantuan Dragon (Metallic), Typically Lawful Good
+Breath Weapon (Recharges 5-6). The greatwyrm uses one of
+Armor Class 22 (natural armor) the following breath weapons:
+Hit Points 565 (29d20 + 261)
+Elemental Breath. The greatwyrm exhales elemental energy in a
+Speed 60 ft., burrow 60 ft., fly 120 ft., swim 60 ft.
+300-foot cone. Each creature in that area must make a DC 25
+Dexterity saving throw, taking 84 (13dl2) damage of a type
+STR DEX CON INT WIS CHA
+determined by the greatwyrm's kind-acid (copper), cold
+30 (+10) 16 (+3) 29 (+9) 21 (+5) 22 (+6) 30 (+10)
+(silver), fire (brass or gold), or lightning (bronze)-on a failed
+save, or half as much damage on a successful one.
+Saving Throws Dex +11, Con +17, Int +13, Cha +18
+Sapping Breath. The greatwyrm exhales gas in a 300-foot cone.
+.. Skills Insight +14, Perception +22, Persuasion +18 Each creature in that area must make a DC 25 Constitution
+Damage Immunities acid (copper), cold (silver), fire (brass and saving throw. On a failed save, the creature falls unconscious
+gold), or lightning (bronze) for l minute. On a successful save, the creature has disad
+• Condition Immunities charmed, frightened, poisoned vantage on attack rolls and saving throws until the end of the
+Senses truesight 120 ft., passive Perception 32 greatwyrm's next turn. An unconscious creature can repeat
+• Languages Common, Draconic the saving throw at the end of each of its turns, ending the
+Challenge 28 (120,000 XP) Proficiency Bonus +8
+effect on itself on a success .
+Legendary Resistance (4/Day). If the greatwyrm fails a saving Change Shape. The greatwyrm magically transforms into any
+creature that is Medium or Small, while retaining its game
+throw, it can choose to succeed instead.
+statistics (other than its size). This transformation ends if the
+Metallic Awakening (Recharges after a Short or Long Rest). If dragon is reduced to O hit points or uses its action to end it.
+the greatwyrm would be reduced to O hit points, its current
+hit point total instead resets to 450 hit points, it recharges its LEGENDARY ACTIONS
+Breath Weapon, and it regains any expended uses of Legendary
+The greatwyrm can take 3 legendary actions, choosing from
+Resistance. Additionally, the greatwyrm can now use the op
+the options below. Only one legendary action option can be
+tions in the "Mythic Actions" section for l hour. Award a party
+used at a time and only at the end of another creature's turn.
+an additional 120,000 XP (240,000 XP total) for defeating the
+The greatwyrm regains spent legendary actions at the start
+greatwyrm after its Metallic Awakening activates.
+of its turn.
+Unusual Nature. The greatwyrm doesn't require food or drink.
+Attack. The greatwyrm makes one Claw or Tail attack.
+Wing Attack (Costs 2 Actions). The greatwyrm beats its wings.
+ACTIONS
+Each creature within 30 feet ofit must succeed on a DC 26
+Multiattack. The greatwyrm makes one Bite attack and two Dexterity saving throw or take 17 (2d6 + 10) bludgeoning
+Claw attacks. damage and be knocked prone. The greatwyrm can then fly
+up to half its flying speed.
+Bite. Melee Weapon Attack:+1 8 to hit, reach 15 ft., one tar
+get. Hit: 21 (2dl0 + 10) piercing damage plus 13 (2dl2)
+MYTHIC ACTIONS
+force damage.
+If the greatwyrm's Metallic Awakening trait has activated in the
+Claw. Melee Weapon Attack: +18 to hit, reach 10 ft., one target.
+last hour, it can use the options below as legendary actions.
+Hit: 19 (2d8 + 10) slashing damage. If the target is a Huge
+Bite. The greatwyrm makes one Bite attack.
+or smaller creature, it is grappled (escape DC 20) and is re
+Shattering Roar (Costs 2 Actions). The greatwyrm unleashes
+strained until this grapple ends. The greatwyrm can have only
+a magical roar. Each creature in a 120-foot-radius sphere
+one creature grappled in this way at a time.
+centered on the greatwyrm must succeed on a DC 26 Consti
+Tail. Melee Weapon Attack: +18 to hit, reach 20 ft., one target. tution saving throw or take 19 (3dl2) thunder damage and be
+Hit: 21 (2dl0 + 10) bludgeoning damage. If the target is a incapacitated until the end of its next turn.
+CHAPTER 6 I BESTIARY 209
+=== PAGE 211 ===
+\
+METALLIC SENTINELS
+A metallic sentinel is a guardian created by a metal
+lic dragon, forged from the metal associated with its
+creator and powered by the energy of the dragon's
+breath. An artificial being sculpted in elegant fili
+gree, it is dedicated to defusing tensions that could
+spiral into violence.
+•
+METALLIC PEACEKEEPER
+When a metallic dragon grows attached to a settle- ..,
+ment of smaller folk-often after dwelling there for
+a time in Humanoid form-the dragon might decide
+to create a metallic peacekeeper to protect the place.
+The peacekeeper can ward a community for centu-
+ries, standing in the place of its dragon creator and
+maintaining peace and order.
+METALLIC WARBLER
+Metallic warblers resemble songbirds and serve
+as clandestine agents of their creators, keeping
+watch over communities without directly interven
+ing. Their telepathic bond lets them summon their
+dragon creators in case of dire need.
+METALLIC PEACEKEEPER
+Medium Construct, Typically Neutral Good
+METALLIC WARBLER
+Tiny Construct, Typically Neutral Good
+Armor Class 17 (natural armor)
+Hit Points 68 (8d8 + 32)
+Armor Class 14 (natural armor)
+Speed 30 ft.
+Hit Points 14 (4d4 + 4)
+Speed 40 ft., fly 60 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 10 (+O) 18 (+4) 14 (+2) 12 (+l) 11 (+O)
+STR DEX CON
+4 (-3) 15 (+2) 12 (+1)
+Damage Immunities fire
+Condition Immunities charmed, exhaustion, frightened,
+Saving Throws Dex +4
+paralyzed, petrified, poisoned
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 11 ~
+Condition Immunities charmed, exhaustion, frightened,
+Languages Common, Draconic, telepathy 30 ft.
+paralyzed, petrified, poisoned
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Common and Draconic but can't speak
+Immutable Form. The peacekeeper is immune to any spell or
+Challenge 1/4 (SO XP) Proficiency Bonus +2
+effect that would alter its form.
+Telepathic Bond. While the peacekeeper is on the same plane of Immutable Form. The warbler is immune to any spell or effect
+existence as its master, it can magically convey what it senses that would alter its form.
+to its master, and the two can communicate telepathically with
+Telepathic Bond. While the warbler is on the same plane of
+each other.
+existence as its master, it can magically convey what it senses
+to its master, and the two can communicate telepathically with
+ACTIONS
+each other.
+Multiattack. The peacekeeper makes two Slam attacks.
+ACTIONS
+Slam. Melee Weapon Attack: +S to hit, reach S ft., one target.
+Hit: 16 (3d8 + 3) bludgeoning damage. Claw. Melee Weapon Attack: +4 to hit, reach S ft., one target.
+Hit: 4 (ld4 + 2) slashing damage.
+Calming Mist (Recharge 5-6). The peacekeeper releases a
+calming gas in a 30-foot-radius sphere centered on itself. Each Calming Mist (Recharge 5-6). The warbler releases a calming
+creature in that area must succeed on a DC 14 Charisma saving gas in a 5-foot-radius sphere centered on itself. Each creature
+throw or become charmed by the peacekeeper for l minute. in that area must succeed on a DC 11 Charisma saving throw or
+While charmed in this way, the creature is incapacitated and become charmed by the warbler for l minute. While charmed
+has a speed of 0. in this way, the creature is incapacitated and has a speed ofO.
+210 CHAPTER 6 I BESTIARY
+l .........
+I
+=== PAGE 212 ===
+MOONSTONE DRAGONS
+Ancient legends suggest that when the gods came
+to the First World and tried to populate it with their and spur adventurers to heroic deeds. They some
+Humanoid followers, a clever dragon fled to the times give guidance to those in need or request help
+Feywild to hide a clutch of eggs. The magic of that from adventurers to encourage them to greatness.
+faerie realm suffused the eggs, which hatched into As a rule, moonstone dragons are not particularly
+the first moonstone dragons. Their descendants are interested in gold or copper, but they love silver,
+now found throughout the Feywild. platinum, and mithral. They also cherish treasures
+Moonstone dragons are graceful and elegant whose value can't be easily quantified-a song sung
+creatures with opalescent scales and ruffs of from the heart, a lock of a loved one's hair, or a
+emerald-green fur running down their chins, chests, painting of a favorite place. A story of happy times
+backs, and tails. One horn arcs from the back of a fondly remembered is more precious to a moonstone
+moonstone dragon's skull and another at the tip of dragon than a sack of gold.
+the nose; the two horns together form a shape that's
+A MOONSTONE DRAGON'S LAIR
+reminiscent of a slender crescent moon. Moonstone
+dragons are playful and impetuous forces of mis For their lairs, moonstone dragons look for places
+chief in their early years, but the best of them ma kissed by the moon; lonely peaks, forest clearings,
+ture into wise teachers and storytellers who anchor and placid lakes are among their favorite sites.
+Feywild communities. The worst of them are pomp Their whimsical nature makes them more likely
+ous and ill behaved, but even those remain gentle than other dragons to establish multiple lairs even
+by nature and curious about all things-especially at a young age. They link their scattered sites with
+travelers from faraway places. magic portals, often splitting their time between the
+Moonstone dragons can project themselves into Feywild, the Material Plane, and the Ethereal Plane.
+the realm of dreams to communicate with the crea The challenge rating of a legendary moonstone
+tures that sleep near their lairs. In this way, they dragon increases by 1 when it's encountered
+inspire artists and poets, encourage great thinkers, in its lair.
+ANCIENT MOONSTONE DRAGON Tail. Melee Weapon Attack: +13 to hit, reach 20 ft., one target.
+Hit: 10 (ld8 + 6) bludgeoning damage. If the target is a crea
+Gargantuan Dragon, Typically Neutral
+ture, it must succeed on a DC 21 Strength saving throw or be
+knocked prone.
+Armor Class 20 (natural armor)
+Hit Points 330 (20d20 + 120) Breath Weapon (Recharge 5-6). The dragon uses one of the
+Speed 40 ft., fly 80 ft. following breath weapons:
+Dream Breath. The dragon exhales mist in a 90-foot cone. Each
+22 S T (+ R 6 ) 18 D E (+ X 4 ) 2 C 3 O (+ N 6 ) 20 IN (+ T 5 ) 22 W ( I + S 6 ) 2 C 6 H (+ A 8 ) . ., . creature in that area must succeed on a DC 21 Constitution
+saving throw or fall unconscious for 10 minutes. This effect
+ends for a creature if the creature takes damage or someone
+Saving Throws Int +12, Wis +13, Cha +15
+uses an action to wake it.
+Skills Perception + 13, Persuasion + 15, Stealth +1 1 ••,,..ti a•., Moonlight Breath. The dragon exhales a beam of moonlight in
+Condition Immunities charmed ~} ' a 120-foot line that is 10 feet wide. Each creature in that area
+Senses truesight 120 ft., passive Perception 23
+must make a DC 21 Dexterity saving throw, taking 60 (lldl0)
+Languages all, telepathy 120 ft.
+radiant damage on a failed save, or half as much damage on
+Challenge 21 (33,000 XP) Proficiency Bonus +7
+a successful one.
+Legendary Resistance (3/Day). If the dragon fails a saving Spellcasting. The dragon casts one of the following spells,
+throw, it can choose to succeed instead. requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 23):
+ACTIONS At will: faerie fire
+Multiattack. The dragon makes one Bite attack and two 2/day each: calm emotions, dispel magic, invisibility, revivify
+Claw attacks.
+LEGENDARY ACTIONS
+Bite. Melee Weapon Attack: +13 to hit, reach 15 ft., one tar
+The dragon can take 3 legendary actions, choosing from the
+get. Hit: 17 (2d10 + 6) piercing damage plus 11 (2dl0) radi
+options below. Only one legendary action option can be used
+ant damage.
+at one time and only at the end of another creature's turn. The

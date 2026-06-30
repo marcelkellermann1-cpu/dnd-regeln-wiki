@@ -1,0 +1,500 @@
+that is hit must also succeed on a DC 17 Dexterity saving throw
+or be knocked prone.
+CHAPTER 2 | BESTIARY 227
+
+=== PAGE 228 ===
+Star Spawn Larva Mage
+A larva mage is a nightmarish combination of a
+mortal body and otherworldly substance. When a
+powerful cultist of a wormlike entity such as Kyuss
+or Kezef—usually a warlock or other spellcaster—
+contacts the comet-borne emissary of an Elder Evil,
+the emissary can merge with a mortal conscious­
+ness to create a larva mage. None of the original
+cultist’s personality survives the transformation;
+what emerges is wholly alien.
+i .......—• _____________:
+Star Spawn Larva Mage
+Medium Aberration, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 168 (16d8 + 96)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 12 (+1) 23 (+6) 18 (+4) 12 (+1) 16 (+3)
+Saving Throws Dex +6, Wis +6, Cha +8
+Skills Perception +6
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Damage Immunities psychic
+Condition Immunities charmed, frightened, paralyzed,
+petrified, poisoned, restrained
+Senses darkvision 60 ft., passive Perception 16
+Languages Deep Speech
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+Return to Worms. When the mage is reduced to 0 hit points, it
+breaks apart into a swarm of insects (see the Monster Manual)
+in the same space. Unless the swarm is destroyed, the mage
+reforms from it 24 hours later.
+Actions
+Multiattack. The mage makes three Slam or Eldritch
+Bolt attacks.
+Slam. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 7 (ld8 + 3) bludgeoning damage, and the target must suc­
+ceed on a DC 19 Constitution saving throw or be poisoned until
+the end of its next turn.
+Eldritch Bolt. Ranged Spell Attack: +8 to hit, range 60 ft., one
+target. Hit: 19 (3dl0 + 3) force damage.
+Plague of Worms (Recharge 6). Each creature other than a star
+spawn within 10 feet of the mage must succeed on a DC 19
+Dexterity saving throw or take 22 (5d8) necrotic damage and
+be blinded and restrained by masses of swarming worms. The
+affected creature takes 22 (5d8) necrotic damage at the start
+of each of the mage’s turns. The creature can repeat the saving
+throw at the end of each of its turns, ending the effect on itself
+on a success.
+228 CHAPTER 2 | BESTIARY
+--col--
+Spellcasting. The mage casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 16):
+At will: mage hand, message, minor illusion
+1/day: dominate monster
+Reactions
+Feed on Weakness. When a creature within 20 feet of the mage
+fails a saving throw, the mage gains 10 temporary hit points.
+Legendary Actions
+The mage can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at a
+time and only at the end of another creature’s turn. The mage
+regains spent legendary actions at the start of its turn.
+Slam. The mage makes one Slam attack.
+Eldritch Bolt (Costs 2 Actions). The mage makes one Eldritch
+Bolt attack.
+Feed (Costs 3 Actions). Each creature restrained by the mage’s
+Plague of Worms takes 13 (3d8) necrotic damage, and the
+mage gains 6 temporary hit points.
+
+=== PAGE 229 ===
+Star Spawn Mangler
+A mangier is a low-slung, creeping horror with mul­
+tiple gangly arms—it most often has six arms but
+can have any number from four to eight. Manglers
+creep along the ground or the walls, sticking to
+shadows and hiding in spots that seem too shallow
+or well-lit to conceal anything. They appear smaller
+than their true size, thanks to their hunched posture
+and emaciated frames. Cultists summon these crea­
+tures to serve as guards and assassins, two roles at
+which they excel.
+--col--
+cvic
+ccni(
+Star Spawn Mangler
+Medium Aberration, Typically Chaotic Evil
+Armor Class 14
+Hit Points 71 (13d8 + 13)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 18 (+4) 12 (+1) 11 (+0) 12 (+1) 7 (-2)
+Saving Throws Dex +7, Con +4
+Skills Stealth +7
+Damage Resistances cold
+Damage Immunities psychic
+Condition Immunities charmed, frightened, prone
+Senses darkvision 60 ft., passive Perception 11
+Languages Deep Speech
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Ambusher. The mangier has advantage on initiative rolls.
+Actions
+Multiattack. The mangier makes two Claw attacks.
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 8 (1 d8 + 4) slashing damage. If the attack roll has advan­
+tage, the target also takes 7 (2d6) psychic damage.
+Flurry of Claws (Recharge 5-6). The mangier makes six Claw
+attacks. Either before or after these attacks, it can move up to
+its speed without provoking opportunity attacks.
+Bonus Actions
+Shadow Stealth. While in dim light or darkness, the mangier
+takes the Hide action.
+CHAPTER 2 | BESTIARY 229
+
+=== PAGE 230 ===
+Star Spawn Seer
+A star spawn seer is most often encountered as the
+leader of a cult dedicated to one or more Elder Evils.
+Usually, the seer is the only cult member that grasps
+the full extent of the horror the cult is venerating.
+The seer’s goal is to tap into vast energy sources
+and perform the dire rites that will extend a bridge
+between the Material Plane and the squirming
+chaos of an Elder Evil’s realm.
+An entity that appears as a star spawn seer in the
+Material Plane usually arrives disembodied. When
+a warlock or other spellcaster establishes commu­
+nication with it, the seer-entity takes control of the
+mortal, transforming it into a star spawn seer. Who­
+ever the mortal once was largely vanishes beneath
+the mass of tumorous skin than builds up in strange
+whorls all over the seer’s body. The mortal’s hands
+become bulky, flipper-like appendages able to grasp
+the seer’s strange staff formed of a blend of flesh,
+bone, and star stuff.
+230 CHAPTER 2 | BESTIARY
+--col--
+A star spawn seer is almost always accompanied
+by one or more star spawn hulks (also in this book).
+Not only is a hulk a powerful combatant, but when
+a seer deals psychic damage to a hulk, the hulk isn’t
+hurt, and the effect ricochets off and expands to as­
+sault other creatures.
+Star Spawn Seer
+Medium Aberration, Typically Neutral Evil
+Armor Class 17 (natural armor)
+Hit Points 153 (18d8 + 72)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 12 (+1) 18 (+4) 22 (+6) 19 (+4) 16 (+3)
+Saving Throws Dex +6, Int +11, Wis +9, Cha +8
+Skills Perception +9
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Damage Immunities psychic
+Condition Immunities charmed, frightened
+Senses darkvision 60 ft., passive Perception 19
+Languages Common, Deep Speech, Undercommon
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Out-of-Phase Movement. The seer can move through other
+creatures and objects as if they were difficult terrain, and its
+movement doesn’t provoke opportunity attacks.
+Each creature it moves through takes 5 (IdlO) psychic dam­
+age; no creature can take this damage more than once per turn.
+The seer takes 5 (1 d 10) force damage if it ends its turn inside
+an object.
+Actions
+Multiattack. The seer makes two Comet Staff or Psychic
+Orb attacks.
+Comet Staff. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target. Hit: 10 (1 d8 + 6) bludgeoning damage plus 18 (4d8)
+psychic damage, and if the target is a creature, it must succeed
+on a DC 19 Constitution saving throw or be incapacitated until
+the end of its next turn.
+Psychic Orb. Ranged Spell Attack: +11 to hit, range 120 feet, one
+creature. Hit: 27 (5dl0) psychic damage.
+Collapse Distance (Recharge 6). The seer warps space around
+one creature it can see within 30 feet of it. That creature must
+make a DC 19 Wisdom saving throw. On a failed save, the tar­
+get, along with any equipment it is wearing or carrying, is tele­
+ported up to 60 feet to an unoccupied space the seer can see,
+and then each creature within 10 feet of the target’s original
+space takes 39 (6dl2) psychic damage. On a successful save,
+the target takes 19 (3dl2) psychic damage and isn’t teleported.
+Reactions
+Bend Space. When the seer would be hit by an attack roll, it
+teleports, along with any equipment it is wearing or carrying,
+exchanging positions with another star spawn it can see within
+60 feet of it. The other star spawn is hit by the attack instead.
+
+=== PAGE 231 ===
+Steeders
+Giant hunting spiders, steeders prowl the depths of
+the Underdark. Female steeders grow larger and
+stronger than males, and the female often devours
+the male after breeding. Numerous Underdark folk
+domesticate steeders, particularly duergar (also in
+this book). Typically the females serve as steeds in
+battle, while the males are used as draft animals.
+Steeders attempt to tear apart perceived threats—
+and consider even other steeders enemies. When
+they’re put to work, their handlers must stable them
+separately from one another and place blinders on
+them to keep them from attacking each other.
+Steeders are intelligent enough to
+learn simple hand signals and vocal
+commands, but even a domesticated
+steeder might turn against its handler.
+Training a steeder requires a rider
+to bond with it, a process that begins
+shortly after the steeder hatches. As it
+grows, its rider works with it to direct
+its predatory instincts.
+Rather than spinning webs, steed­
+ers excrete a viscous substance from
+their legs. This goo allows them to
+creep along walls and ceilings and to
+grapple prey.
+Female Steeder
+Large Monstrosity, Unaligned
+Armor Class 14 (natural armor)
+Hit Points 30 (4dl0 + 8)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 16 (+3) 14 (+2) 2 (-4) 10 (+0) 3 (-4)
+Skills Stealth +7, Perception +4
+Senses darkvision 120 ft., passive Perception 14
+Languages —
+Challenge 1 (200 XP) Proficiency Bonus +2
+Extraordinary Leap. The distance of the steeder’s long jumps
+is tripled; every foot of its walking speed that it spends on the
+jump allows it to move 3 feet.
+Spider Climb. The steeder can climb difficult surfaces, in­
+cluding upside down on ceilings, without needing to make an
+ability check.
+Actions
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 7 (1 d8 + 3) piercing damage plus 9 (2d8) poison damage.
+Sticky Leg. Melee Weapon Attack: +5 to hit, reach 5 ft., one Me­
+dium or smaller creature. Hit: The target is stuck to the steed­
+er’s leg and grappled (escape DC 12). The steeder can have
+only one creature grappled at a time.
+L~ , . .. - ---------------- . ...------------
+--col--
+Male Steeder
+Medium Monstrosity, Unaligned
+Armor Class 12 (natural armor)
+Hit Points 13 (2d8 + 4)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 12 (+1) 14 (+2) 2 (-4) 10 (+0) 3 (-4)
+Skills Stealth +5, Perception +4
+Senses darkvision 120 ft., passive Perception 14
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Extraordinary Leap. The distance of the steeder’s long jumps
+is tripled; every foot of its walking speed that it spends on the
+jump allows it to jump 3 feet.
+Spider Climb. The steeder can climb difficult surfaces, in­
+cluding upside down on ceilings, without needing to make an
+ability check.
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 6 (ld8 + 2) piercing damage plus 4 (1 d8) poison damage.
+Sticky Leg. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+Small or Tiny creature. Hit: The target is stuck to the steeder’s
+leg and grappled (escape DC 12). The steeder can have only
+one creature grappled at a time.
+CHAPTER 2 | BESTIARY 231
+■
+
+=== PAGE 232 ===
+Steel
+Predator
+A steel predator is a mer-
+ciless machine with one
+purpose: to locate and kill
+its target regardless of dis­
+tance and obstacles.
+Steel predators are created by
+a unique modron, using a machine lo­
+cated in the city of Sigil. It wasn’t always
+headquartered in the City of Doors, however. On its
+original home, the plane of Mechanus, the ingenious
+modron was lauded for its invention—until it turned
+these creations against its superiors. Steel preda­
+tors wreaked havoc against the modron hierarchy
+until the rogue modron was trapped and exiled.
+Now it operates a shop in Sigil where, for a steep
+price, anyone can commission the manufacture of a
+steel predator.
+To create a steel predator, the modron’s machine
+must be fed something that identifies the predator’s
+target, such as a lock of hair, a well-worn glove, or a
+much-used weapon. The moment the newly manu­
+factured steel predator emerges, it bounds away in
+search of its prey. It senses the location of its target
+across planar boundaries, but such detection is ac­
+curate only to within a thousand yards; to close the
+remaining distance, the steel predator locates its
+prey by sight and smell.
+Once battle is joined, the predator ignores every
+other threat to attack its target, unless other crea­
+tures prevent it from reaching the target. In that
+case, it does what it must to fulfill its mission.
+If all goes according to plan, a steel predator
+slays its target and then voluntarily returns to Sigil,
+where it’s broken down into parts that can be used
+in another steel predator. Battle damage can cause
+this instinct to fail, however, in which case the steel
+predator lingers in the area, hunting and killing
+other creatures that resemble its target or that sim­
+ply live nearby. Such rogue predators are dangerous
+to anyone in the vicinity.
+232 CHAPTER 2 | BESTIARY
+--col--
+Steel Predator
+Large Construct, Typically Lawful Neutral
+Armor Class 20 (natural armor)
+Hit Points 207 (18dl0 + 108)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+24 (+7) 17 (+3) 22 (+6) 4 (-3) 14 (+2) 6 (-2)
+Skills Perception +7, Stealth +8, Survival +7
+Damage Resistances cold, lightning, necrotic, thunder
+Damage Immunities poison, psychic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned, stunned
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 17
+Languages understands Modron and the language of its owner
+but can’t speak
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+Magic Resistance. The steel predator has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The steel predator doesn’t require air, food,
+drink, or sleep.
+Actions
+Multiattack. The steel predator makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit: 18 (2dl0 + 7) lightning damage.
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit: 16 (2d8 + 7) force damage.
+Spellcasting. The steel predator casts one of the following
+spells, requiring no spell components and using Wisdom as
+the spellcasting ability:
+3/day each: dimension door (self only), plane shift (self only)
+Stunning Roar (Recharge 5-6). The steel predator emits a roar
+in a 60-foot cone. Each creature in that area must make a DC
+19 Constitution saving throw. On a failed save, a creature takes
+33 (6dl0) thunder damage, drops everything it’s holding, and
+is stunned for 1 minute. The stunned creature can repeat the
+saving throw at the end of each of its turns, ending the effect
+on itself on a success. On a successful save, a creature takes
+half as much damage and isn’t stunned.
+-........" 11 .. T- ■ ir- --
+
+=== PAGE 233 ===
+Stone Cursed
+Medium Construct, Typically Lawful Evil
+Armor Class 17 (natural armor)
+Hit Points 19 (3d8 + 6)
+Speed 10 ft.
+STR DEX CON INT WIS CHA
+16(+3) 5 (-3) 14 (+2) 5 (-3) 8 (-1) 7 (-2)
+Damage Vulnerabilities bludgeoning
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+petrified, poisoned
+Senses passive Perception 9
+Languages the languages it knew in life
+Challenge 1 (200 XP) Proficiency Bonus +2
+Cunning Opportunist. The stone cursed has advantage on the
+attack rolls of opportunity attacks.
+False Appearance. If the stone cursed is motionless at the start
+of combat, it has advantage on its initiative roll. Moreover, if
+a creature hasn’t observed the stone cursed move or act, that
+creature must succeed on a DC 18 Intelligence (Investigation)
+check to discern that the stone cursed isn’t a statue.
+Unusual Nature. The stone cursed doesn’t require air, food,
+drink, or sleep.
+Actions
+Petrifying Claws. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 12 (2d8 + 3) slashing damage. If the target is
+a creature, it must succeed on a DC 12 Constitution saving
+throw, or it begins to turn to stone and is restrained until the
+end of its next turn, when it must repeat the saving throw. The
+effect ends if the second save is successful; otherwise the tar­
+get is petrified for 24 hours.
+--col--
+Stone Cursed
+Stone cursed are spawned through a foul alchemi­
+cal ritual performed on a Humanoid that has been
+turned to stone. The ritual, which requires a mix­
+ture of basilisk blood and the ashes from the burned
+feathers of a cockatrice, awakens a dim echo of the
+petrified victim’s spirit, animating the statue and
+turning it into a useful guardian.
+Stone cursed possess a malevolent drive to slay
+the living, yet they are utterly loyal to whoever per­
+formed the ritual to animate them, and they obey
+that being’s orders to the best of their ability.
+In combat, stony claws that drip with thick, gray
+sludge emerge from a stone cursed’s fingers. This
+alchemical sludge transforms those slashed by the
+claws into statues.
+As part of the ritual used to create a stone cursed,
+a fist-sized obsidian skull forms within the crea­
+ture’s torso. The skull isn’t visible while the stone
+cursed is active, but when it is slain, the statue
+shatters and the skull clatters to the ground. Be­
+cause it is the nexus for the alchemy used to create
+these horrors, a faint echo of the original victim’s
+memories resonates within the skull. A skilled
+magic-wielder can attempt to extract memories
+from it to gain insight into the victim’s past or find
+lore that otherwise would be lost.
+Cryptic Whispers
+Even though a creature transformed into a stone
+cursed is long dead, a vague whisper of their memo­
+ries lives on in the obsidian skull embedded within
+the stone cursed’s body. At the end of a short rest, a
+character can make a DC 20 Intelligence (Arcana)
+check to attempt to extract a memory from the skull
+that is a response to a verbal question posed to the
+skull by the character. Once this check is made,
+whether it succeeds or fails, the skull can’t be used
+in this manner again.
+CHAPTER 2 | BESTIARY 233
+
+=== PAGE 234 ===
+Stone Giant
+Dreamwalker
+The surface of the world is an alien realm to stone
+giants: fluctuating, temporary, exposed to gusting
+wind and sudden rain. It is as wildly changeable as
+a dream, and that’s how they regard it—as a dream.
+Nothing there is permanent, so nothing there is
+real. What happens on the surface doesn’t matter.
+Promises and bargains made there needn’t be hon­
+ored. Life and even art hold less value there.
+Stone giants sometimes go on dream quests in
+the surface world, seeking inspiration for their art,
+a break from decades-long ennui, or satisfaction of
+simple curiosity. Some who go on these quests let
+themselves become lost in the dream. Other stone
+giants are banished to the surface as punishment.
+Regardless of the reason they ended up on the
+surface, if they don’t take shelter under stone, such
+stone giants can become dreamwalkers.
+Dreamwalkers occupy an odd place of respect out­
+side the stone giant ordning. They are considered
+outcasts, but their familiarity with the surface world
+makes them valuable guides, and their insights can
+help other stone giants grasp the dangers of living
+in a dream.
+234 CHAPTER 2 | BESTIARY
+--col--
+Dreamwalkers become divorced from reality by
+isolation, shame, and their unendingly alien sur­
+roundings, and this delirium leaches out into the
+world around them, affecting other creatures that
+get too close. Believing that they’re living in a dream
+and that their actions have no real consequences,
+dreamwalkers act as they please, becoming forces
+of chaos. As they travel the world, they collect ob­
+jects and creatures that seem especially significant
+to them. Over time, the collected things accrete to
+their bodies, becoming encased in stone.
+1 " .... : 1j.................... z
+Stone Giant Dreamwalker
+Huge Giant, Typically Chaotic Neutral
+Armor Class 18 (natural armor)
+Hit Points 161 (14dl2 + 70)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+23 (+6) 14 (+2) 21 (+5) 10 (+0) 8 (-1) 12 (+1)
+Saving Throws Dex +6, Con +9, Wis +3
+Skills Athletics +14, Perception +3
+Condition Immunities charmed, frightened
+Senses darkvision 60 ft., passive Perception 13
+Languages Common, Giant
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Dreamwalker’s Charm. An enemy that starts its turn within 30
+feet of the giant must make a DC 13 Charisma saving throw,
+provided that the giant isn’t incapacitated. On a failed save, the
+creature is charmed by the giant. A creature charmed in this
+way can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success. Once it succeeds on
+the saving throw, the creature is immune to this giant’s Dream­
+walker’s Charm for 24 hours.
+Actions
+Multiattack. The giant makes two Greatclub or Rock attacks.

@@ -1,0 +1,600 @@
+slashing from nonmagical attacks ••
+Damage Immunities cold, necrotic, poison, psychic
+,,,,
+,,,
+Condition Immunities charmed, exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone
+1~
+Senses blindsight 60 ft., darkvision 120 ft.,
+passive Perception 26
+Languages Common, Draconic, telepathy 120 ft. -
+Challenge 17 (18,000 XP) Proficiency Bonus +6
+Deflection. The shard's AC includes its Intelligence modifier.
+Incorporeal Movement. The shard can move through creatures
+and objects as if they were difficult terrain. If it ends its turn
+inside an object, it takes 5 (ldl0) force damage.
+Legendary Resistance (3/Day). If the shard fails a saving throw,
+it can choose to succeed instead.
+Rejuvenation. When it drops to 0 hit points, the shard disap
+pears and leaves a Tiny cracked gemstone in its space. The
+gemstone matches the kind of gem dragon it was in life and
+has AC 20, 15 hit points, and immunity to all damage except • Each of the creature's attacks deals an extra ld8 force dam-
+force. Unless the gemstone is destroyed, after ld20 days, the age on a hit.
+gemstone dissipates and the shard re-forms, regaining all its • The creature gains resistance to psychic damage.
+hit points and appearing in the place the gemstone once occu
+Psychic Crush (Recharge 5-6). The shard unleashes a pulse
+pied or in the nearest unoccupied space.
+of psychic power. Each creature of the shard's choice in a
+Unusual Nature. The shard doesn't require air, food, GO-foot-radius sphere centered on it must make a DC 20 In
+drink, or sleep. telligence saving throw. On a failed save, the creature takes
+55 (l0dl0) psychic damage and is stunned until the end of its
+ACTIONS next turn. On a successful save, the creature takes half as much
+Multiattack. The shard makes two Telekinetic Rend attacks. damage and isn't stunned.
+Telekinetic Rend. Me lee or Ranged Spell Attack: + 12 to hit, Spellcasting (Psionics). The shard casts one of the following
+reach 10 ft. or range 120 ft., one target. Hit: 15 (2d8 + 6) spells, requiring no spell components and using Intelligence as
+force damage. the spellcasting ability (spell save DC 20):
+Inhabit Object. The shard disappears as it pours its psychic At will: detect thoughts, invisibility, telekinesis
+essence into a Medium or smaller nonsentient object it can see
+LEGENDARY ACTIONS
+within 30 feet of it, magically possessing it. The object uses the
+shard's AC, and any damage dealt to the object applies to the The shard can take 3 legendary actions, choosing from the op
+shard's hit points. The shard inhabits the object until it uses tions below. Only one legendary action option can be used at a
+an action to leave; until it is turned; until it is reduced to 0 hit time and only at the end of another creature's turn. The shard
+points; or until an effect that ends possession, such as a dispel regains spent legendary actions at the start of its turn.
+evil and good spell, is used on it. When it leaves the object, it
+Rend. The shard makes one Telekinetic Rend attack.
+reappears in the nearest unoccupied space.
+Cast a Spell (Costs 2 Actions). The shard uses Spellcasting.
+While inhabited, the object becomes a magic item if it wasn't
+Commanding Thought (Costs 2 Actions). The shard targets a
+already, and a Tiny cracked gemstone matching the kind of gem
+creature it can see within 30 feet of it. The target must suc
+dragon the shard was in life appears somewhere on the object. ceed on a DC 20 Wisdom saving throw or be charmed until
+The shard can cause the object to fly using the shard's own fly the end of its next turn. While charmed in this way, the target
+ing speed, use its senses, speak verbally or telepathically, cast becomes the shard's puppet, acting and moving in accor
+spells, and use its legendary actions. dance with its telepathic commands. While under the shard's
+If a creature wears or carries the inhabited object, the shard control, the target can take only the Attack (shard chooses
+can grant the creature the following benefits: the target) or Dash action on its turn.
+CHAPTER 6 J BESTIARY 181
+=== PAGE 183 ===
+What to i;a~ abovt the- dva5°nblood
+ooz&? I c..ovld c..oMMe-nt on the- bad blood
+be-1we-e-n M_e- and TiaMat. I Mi&1t o~e-vve
+that ,ti; ae-atov ovi&nall~ inte-nde-d a
+blood i;avt;af? vwpe-. Bvt pe-vhapt; I t;hall
+I ,,
+i;iMpl~ i;a~, (< Yov ooz&, ~ov ot;e-.
+-fizban
+DRAG0NBL00D OOZE
+Large Ooze, Unaligned
+Armor Class 14 (natural armor)
+Hit Points 68 (8d10 + 24)
+Speed 20 ft., climb 20 ft. "l
+STR DEX CON INT WIS CHA
+18 (+4) 6 (-2) 17 (+3) 2 (-4) 12 (+1) 10 (+0)
+Skills Perception +4, Stealth +4
+Damage Resistances acid, cold, fire, lightning, poison
+Condition Immunities blinded, charmed, deafened, exhaustion,
+frightened, grappled, prone, restrained
+Senses blindsight 120 ft. (blind beyond this radius),
+passive Perception 14
+Languages understands Draconic and the languages of its
+creator but can't speak
+Challenge S (1,800 XP) Proficiency Bonus +3
+Amorphous. The ooze can move through a space as narrow as 1
+inch wide without squeezing.
+Spider Climb. The ooze can climb difficult surfaces, includ
+ing upside down on ceilings, without needing to make an
+ability check.
+ACTIONS
+DRAG0NBL00D OOZE
+Multiattack. The ooze makes two Pseudopod attacks. The
+Magic-minded artisans have long incorporated parts ooze can replace one Pseudopod attack with its Slime Breath,
+if available.
+of dragons' bodies into magic items, crafting dragon
+hide into armor and forging weapons from claws Pseudopod. Melee Weapon Attack: +7 to hit, reach 10 ft., one
+and teeth. Alchemists have found beneficial uses for target. Hit: 9 (ldl0 + 4) bludgeoning damage plus 14 (4d6) acid
+damage. If the target is a Large or smaller creature, it is grap
+dragon blood, but ill-advised experiments have also
+pled (escape DC 15). Until this grapple ends, the target takes 7
+given rise to dragonblood oozes.
+(2d6) acid damage at the start of each of its turns.
+The congealed blood of a dragon given mobility
+Slime Breath (Recharge 6). The ooze expels a spray of its gelat
+and hunger, the ooze tries to shape itself into a
+inous mass in a 30-foot cone. Each creature in that area must
+draconic form. It cannot hold a coherent shape for
+make a DC 14 Dexterity saving throw. On a failed save, the
+long and soon collapses into an amorphous heap.
+creature takes 22 (4d10) acid damage and is pulled up to 30
+Similarly, it tries to manifest a breath weapon but feet straight toward the ooze. On a successful save, the crea
+manages only to spew forth part of its own body that ture takes half as much damage and isn't pulled.
+it then reels back in.
+182 CHAPTER 6 I BESTIARY
+=== PAGE 184 ===
+DRAGONBONE GOLEM
+A dragonbone golem is composed of dragon bones
+linked together with adamantine wire into the form
+of a dragon, animated by drawing on the bones' in
+herent magic. Most dragonbone golems are created
+by powerful dragons from the bones of vanquished
+rivals. Each bone is etched with intricate glyphs
+that allow animating power to flow through the
+golem's form.
+Dragonbone golems' resilience and obedi
+ence make them excellent lair guardians for
+their dragon creators, and their supernaturally
+fearsome presence is a strong deterrent against
+intrusion.
+DRAGONBONE GOLEM Unusual Nature. The golem doesn't require air, food,
+drink, or sleep.
+Large Construct, Unaligned
+••
+ACTIONS •
+Armor Class 17 (natural armor)
+Hit Points 161 (19dl0 + 57) Multiattack. The golem makes one Pinion attack and two
+Speed 40 ft. Rend attacks.
+Pinion. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+STR DEX CON INT WIS CHA
+Hit: 12 (2d6 + 5) piercing damage. If the target is a Medium
+20 (+5) 10 (+0) 17 (+3) 3 (-4) 11 (+0) 10 (+0)
+or smaller creature, it is pinned beneath the bony pinion and
+restrained. The golem has two pinions, each of which can
+Damage Immunities poison
+restrain one target. If a creature is restrained by one of the pin
+Condition Immunities charmed, exhaustion, frightened,
+ions, the golem can't attack with it. Any creature restrained by
+paralyzed, petrified, poisoned
+a pinion can free itself at the start of its turn with a successful
+Senses darkvision 60 ft., passive Perception 10
+DC 17 Strength (Athletics) check.
+Languages understands Draconic and the languages of its
+creator but can't speak Rend. Melee Weapon Attack: +9 to hit, reach 5 ft., one tar
+Challenge 11 (7,200 XP) Proficiency Bonus +4 get. Hit: 12 (2d6 + 5) piercing damage plus 5 (ldl0) ne
+crotic damage.
+Fear Aura. Each creature of the golem's choice that starts its
+Petrifying Breath (Recharge 5-6). The golem emits a 60-foot
+turn within 20 feet of the golem must make a DC 15 Wisdom
+cone of petrifying gas from its mouth. Each creature in that
+saving throw unless the golem is incapacitated. On a failed
+area must succeed on a DC 15 Constitution saving throw or
+save, the creature is frightened until the start of its next turn.
+take 35 (10d6) poison damage and be restrained as it begins
+On a successful save, the creature is immune to this golem's
+to turn to stone. The restrained target must repeat the saving
+Fear Aura for the next 24 hours.
+throw at the end of its next turn. On a successful save, the ef
+Magic Resistance. The golem has advantage on saving throws fect ends on the target. On a failed save, the target is petrified.
+against spells and other magical effects.
+CHAPTER 6 I BESTIARY 183
+=== PAGE 185 ===
+champions are associated with the Inheritors of the
+First World (see chapter 3).
+Sardior's champions use telekinetic power to
+move their foes and even carry themselves through
+the air. Their breath weapon, a blast of heat, is be
+lieved to be an echo of long-lost Sardior's breath.
+DRAGONBORN OF TIAMAT
+Champions of the dragon queen are often called
+Talons of Tiamat. They work tirelessly to free their
+master from her imprisonment in Avernus, and
+Tiamat grants these pawns immense strength and
+a devastating breath weapon. Champions of Tia
+mat are sometimes associated with the Cult of the
+Dragon (described in chapter 3).
+DRAGONBORN OF BAHAMUT
+Medium Humanoid, Typically Lawful Good
+Armor Class 18 (half plate, shield)
+Hit Points 93 (lld8 + 44)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 13 (+1) 18 (+4) 12 (+l) 14 (+2) 17 (+3)
+DRAGONBORN CHAMPIONS
+The connection between dragonborn and their Saving Throws Con +7, Int +4, Wis +S, Cha +6
+draconic ancestors manifests in a variety of ways. Skills Athletics +7, Perception +S, Persuasion +6
+Condition Immunities frightened
+Some dragonborn identify with a particular kind of
+Senses passive Perception l S
+dragon and attempt to emulate such dragons' atti
+languages Common, Draconic
+tudes and behavior. Others consider their draconic Challenge 8 (3,900 XP) Proficiency Bonus +3
+heritage-chromatic, metallic, or gem-something
+like a large extended family. But for dragonborn Legendary Resistance (1/Day). If the dragon born fails a saving
+champions, this bond is spiritual as much as bio throw, it can choose to succeed instead.
+logical, and they devote themselves to their divine
+ACTIONS
+ancestor. Dragonborn champions advance the cause
+Multiattack. The dragonborn makes three Longsword attacks.
+of their dragon god among draconic creatures and
+other folk alike. Longsword. Me/ee Weapon Attack: +7 to hit, reach 5 ft., one tar
+get. Hit: 8 (ld8 + 4) slashing damage, or 9 (ldl0 + 4) slashing
+DRAGONBORN OF BAHAMUT damage if used with two hands, plus 13 (3d8) radiant damage.
+The dragonborn can cause the sword to flare with bright light,
+Often called platinum knights, dragonborn champi and the target must succeed on a DC 14 Constitution saving
+ons of Bahamut might belong to an order that exists throw or be blinded until the start of the dragonborn's next
+to protect the world from evil-and especially from turn. The sword can flare in this way only once per turn.
+evil dragons. A champion of Bahamut has a distinc Healing Touch (1/Day). The dragonborn touches another
+tive pair of platinum wings and a breath weapon creature within 5 feet ofit. The target magically regains 40 hit
+suffused with radiant energy. points. In addition, all diseases and poisons affecting the target
+are removed.
+DRAGONBORN OF SARDIOR
+Radiant Breath (Recharge 6). The dragonborn exhales fiery ra
+Sardior is said to have died in the destruction of the diance in a 30-foot cone. Each creature in that area must make
+a DC 15 Dexterity saving throw, taking 44 (8dl0) radiant dam
+First World. But many believe that Sardior's divine
+age on a failed save, or half as much damage on a successful
+essence survives within every gem dragon. This
+one. When the dragon born uses this action, it can choose up
+philosophy is central to the teachings of Sardior's
+to three creatures in the cone. These creatures take no damage
+dragonborn champions, who wield psionic power in from the radiance and instead regain 22 (4dl0) hit points each.
+the service of their mysterious cause. Many of these
+r84 CHAPTER 6 I BESTIARY
+=== PAGE 186 ===
+DRAGONBORN OF SARDIOR
+Medium Humanoid, Typically Neutral
+Armor Class 17 (Mental Defense)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS
+14 (+2) 16 (+3) 17 (+3) 18 (+4) 14 (+2)
+Saving Throws Con +6, Int +7, Wis +5, Cha +4
+Damage Resistances psychic DRAGONBORN OF TIAMAT
+Skills Arcana +7, History +7, Perception +5 Medium Humanoid, Typically Chaotic Evil •
+Condition Immunities frightened
+Senses passive Perception 15
+Armor Class 18 (plate)
+Languages Common, Draconic
+Hit Points 85 (10d8 + 40)
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+Speed 30 ft. "
+Legendary Resistance (1/Day). If the dragonborn fails a saving
+STR DEX CON INT WIS CHA ,
+throw, it can choose to succeed instead. .
+20 (+5) 11 (+0) 18 (+4) 10 (+0) 12 (+l) 16 (+3)
+Mental Defense. While the dragonborn is wearing no armor, its
+AC includes its Intelligence modifier. Saving Throws Str +8, Con +7, Wis +4, Cha +6 •
+Skills Athletics +8, Intimidation +6, Perception +4
+ACTIONS Condition Immunities frightened
+Multiattack. The dragonborn makes three Mind Blade attacks. Senses passive Perception 14
+Languages Common, Draconic
+Mind Blade. Melee or Ranged Weapon Attack: +7 to hit, reach 5 Challenge 7 (2,900 XP) Proficiency Bonus +3
+ft. or range 20/60 ft., one target. Hit: 6 (ld4 + 4) piercing dam
+age plus 10 (3d6) psychic damage. Legendary Resistance (1/Day). If the dragon born fails a saving
+Heat Breath (Recharge 6). The dragonborn exhales a wave of throw, it can choose to succeed instead.
+intense heat in a 30-foot cone. Each creature in that area must
+ACTIONS
+make a DC 14 Constitution saving throw, taking 27 (6d8) fire
+damage on a failed save, or half as much damage on a success Multiattack. The dragonborn makes two Greataxe attacks.
+ful one. Metal objects in that area glow red-hot until the end
+Greataxe. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+of the dragonborn's next turn. Any creature in physical contact
+target. Hit: 11 (ldl2 + 5) slashing damage plus 13 (3d8) ne
+with a heated object at the start of its turn must make a DC 14
+crotic damage.
+Constitution saving throw. On a failed save, the creature takes
+9 (2d8) fire damage and has disadvantage on attack rolls until Necrotic Breath (Recharge 6). The dragon born exhales shadowy
+the start of its next turn. fire in a 30-foot cone. Each creature in that area must make
+a DC 15 Wisdom saving throw. On a failed save, the creature
+Spellcasting (Psionics). The dragon born casts one of the fol
+takes 36 (8d8) necrotic damage and is frightened of the dragon
+lowing spells, requiring no spell components and using Intelli
+born for l minute. On a successful save, the creature takes half
+gence as the spellcasting ability (spell save DC 15, +7 to hit with
+as much damage and isn't frightened. A frightened creature
+spell attacks):
+can repeat the saving throw at end of each of its turns, ending
+1/day each: Bigby's hand, hypnotic pattern, telekinesis the effect on itself on a success.
+CHAPTER 6 I BESTIARY 185
+=== PAGE 187 ===
+Tue- b~t wa~ to ide-nfirJ one- of ~~e,
+g-aft-e-vt; ii; if ~ov t;e-e- t;orvte-one- vvnn,~
+avovnd wan-ti~ '<L--ook- at rvte-! l'rvt a
+P'
+dvagn! l'rvt a dvaaaaaagn.
+--fizban
+DRAGONFLESH GRAFTERS
+Dragonflesh grafters practice forbidden rituals and
+risky experiments on themselves, modifying their
+bodies and minds to emulate the dragons they re
+vere. They collect dragon parts-scales, teeth, skin,
+flesh, wings, and bones-that they scavenge from
+around dragon lairs, take from dragon corpses, or
+buy from merchants and adventurers. They stitch
+on, implant, or ingest these dragon parts, attempt
+ing to incorporate them into their own bodies
+and absorb the latent magic that lingers in a dra DRAGONFLESH GRAFTER
+conic corpse. Large Monstrosity, Typically Neutral Evil
+While most would-be grafters wind up hideously
+..
+Armor Class 14 (natural armor)
+scarred or dead, a few survive as wretched horrors. ...
+Hit Points 52 (7d10 + 14)
+Their minds become twisted by magical malevo
+Speed 30 ft.
+lence, with only a shadow of their former selves
+remaining. In the most extreme cases, the result STR DEX CON INT WIS CHA
+ing abomination holds no remnant of the person 16 (+3) 11 (+0) 14 (+2) 10 (+0) 10 (+0) 6 (-2)
+it once was and is utterly ruled by a dragon's lust
+Saving Throws Str +5, Con +4
+for treasure.
+Senses passive Perception 10
+Languages Common, Draconic
+D RAGONFLESH GRAFTER
+Challenge 3 (700 XP) Proficiency Bonus +2
+An ordinary dragonflesh grafter is a hulking fusion
+of draconic and bipedal characteristics, standing ACTIONS
+between 8 and 12 feet tall. As its original nature
+Multiattack. The grafter makes one Claw attack and one Great
+wanes, its draconic powers grow, giving it a thick
+club attack.
+layer of dragon scale armor that covers the grafted
+Claw. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+areas of its body. A dragonflesh grafter can belch
+Hit: 7 (ld8 + 3) slashing damage plus 5 (ldl0) poison damage.
+forth a gout of corrosive acid in a mockery of
+Creatclub. Melee Weapon Attack: +5 to hit, reach 10 ft., one tar
+dragon breath.
+get. Hit: 12 (2d8 + 3) bludgeoning damage.
+As a universal effect of their experimentation,
+grafters become obsessed with treasure. Their Acid Retch (Recharge 5-6). The grafter retches forth a spray of
+acidic bile in a 30-foot cone. Each creature in that area must
+greed compels them to gather any gold or gems they
+make a DC 12 Dexterity saving throw, taking 14 (4d6) acid
+can. After taking this treasure back to their lairs,
+... damage on a failed save, or half as much damage on a suc
+they gaze for hours on end at their glittering trinkets
+cessful one.
+and golden baubles.
+186 CHAPTER 6 I BESTIARY
+I ....Ill
+=== PAGE 188 ===
+•
+. ,
+•
+•
+DRAGONFLESH ABOMINATION
+A dragonflesh abomination is the final stage
+of a grafter's transformation-a hulking
+monster whose corrupted brain is ablaze
+with desire for treasure. Its abhorrent trans
+formation erases the last vestiges of its pre
+vious life. It sprouts a tail and clumsy wings
+and grows to enormous size, barely retain
+ing a bipedal shape. Its stomach chums with
+acid, causing noxious fumes to waft from its
+mouth and providing it with a caustic breath
+weapon. Its body is in a constant state of
+growth and change, allowing it to quickly
+heal from its wounds.
+These creatures are most often found in
+abandoned dragon lairs, temples to Tiamat, or other
+sites associated with the dragons they love.
+DRAGONFLESH ABOMINATION Regeneration. The abomination regains 10 hit points at the
+start of its turns if it has at least l hit point.
+Huge Monstrosity, Typically Neutral Evil
+ACTIONS
+Armor Class 15 (natural armor)
+Hit Points 66 (7dl2 + 21) Multiattack. The abomination makes three attacks using Claw,
+Speed 30 ft. fly 40 ft. Acidic Spit, or a combination of them. It can replace one of the
+attacks with a Tail attack.
+STR DEX CON INT WIS CHA Claw. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+18 (+4) 14 (+2) 17 (+3) 5 (-3) 12 (+l) 6 (-2)
+Hit: 8 (ld8 + 4) slashing damage plus 5 (ldl0) poison damage.
+Saving Throws Str +7, Con +6 Tail. Melee Weapon Attack: +7 to hit, reach 15 ft., one target.
+Condition Immunities charmed, frightened, poisoned Hit: 10 (ldl2 + 4) bludgeoning damage. If the target is a crea
+Senses passive Perception 11 ture, it must succeed on a DC 15 Strength saving throw or be
+Languages understands Common and Draconic but can't knocked prone.
+speak
+Acidic Spit. Ranged Weapon Attack: +5 to hit, range 60 ft., one
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+target. Hit: 10 (3d6) acid damage.
+Cloying Miasma. The abomination is surrounded by a noxious Acid Belch (Recharge 5-6). The abomination belches forth a
+stench. At the start of the abomination's turn, any creature cloud of acidic gas in a 30-foot cone. Each creature in that area
+within 5 feet ofit must succeed on a DC 14 Constitution sav must make a DC 14 Constitution saving throw, taking 28 (8d6)
+ing throw or be poisoned until the start of the abomination's acid damage on a failed save, or half as much damage on a
+next turn. successful one.
+CHAPTER 6 I BESTIARY 187
+.l
+=== PAGE 189 ===
+DRAGON FOLLOWERS
+Dragons boast many minions, students, employees,
+acolytes, and thralls. Dragon followers are those
+servitors whose devotion to a dragon approaches
+fanatical reverence and who receive magical power
+from the dragon in return.
+Dragon followers might serve and revere any kind
+of dragon, and their behavior and beliefs reflect the
+ethos of the dragon they follow. Many dragon fol
+lowers have personal stories of benevolent dragons
+sharing great knowledge, protecting their towns,
+or sparing their lives during some foolhardy adven
+ture. Other followers seek to uncover the mysteries
+of draconic nature and live a life worthy of their
+dragon's reward, and they dream of a world where
+dragons can live among them as their rulers.
+DRAGON BLESSED .,i •• '
+Medium Humanoid, Any Alignment .,
+Dragon blessed are the acolytes of dragons, whom
+they revere as gods. They wield magic to heal Armor Class 14 (scale mail)
+and support those who have earned their dragon Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+masters' favor-and scourge those who incur the
+dragons' wrath. Dragon blessed view their lives and
+STR DEX CON INT WIS CHA
+magical abilities as gifts bestowed by their dragon,
+12 (+1) 10 (+0) 16 (+3) 14 (+2) 17 (+3) 10 (+0)
+and they give life energy to save those they deem im
+portant to their masters' work. Saving Throws Con +6, Wis +6
+Skills Medicine +6, Religion +S
+DRAGON CHOSEN Condition Immunities frightened
+Senses passive Perception 13
+Dragon chosen are mighty warriors who offer their Languages Common, Draconic, and any two languages
+bodies as vessels for a dragon's might. They serve Challenge S (1,800 XP) Proficiency Bonus +3
+as enforcers of their masters' will; they often ac
+company dragon speakers-and are quick to defend ACTIONS
+them if they sense any ill intent. Dragon chosen are
+Multiattack. The blessed makes two Mace or Radiant
+skilled in close combat, using two weapons to tear
+Bolt attacks.
+at their foes.
+Mace. Me/ee Weapon Attack: +4 to hit, reach S ft., one target.
+Hit: 4 (ld6 + 1) bludgeoning damage plus 18 (4d8) radi-
+DRAGON SPEAKER
+ant damage.
+Dragon speakers are charismatic and persuasive
+Radiant Bolt. Ranged Spell Attack: +6 to hit, range 120 ft., one
+orators who serve as a dragon's ambassadors target. Hit: 22 (Sd8) radiant damage, and the blessed regains 5
+among other folk. Dragon speakers have loud and (ldl0) hit points.
+authoritative voices, which they use to gain valuable
+Spellcasting. The blessed casts one of the following spells, us
+resources, diplomatic connections, and donations of
+ing Wisdom as the spellcasting ability (spell save DC 14):
+treasure and magic for their dragons-as well as to
+At will: light, thaumaturgy
+weave magic both subtle and thundering. They use
+1/day each: enhance ability,Jlame strike, mass cure wounds, reviv
+...
+their commanding presence to instill awe and fear ify, tongues
+into the hearts of friends and foes alike.
+188 CHAPTER 6 I BESTIARY
+=== PAGE 190 ===
+DRAGON SPEAKER
+Small Humanoid, Any Alignment
+Medium Humanoid, Any Alignment Armor Class 13 (leather armor)
+Hit Points 36 (8d6 + 8)
+Speed 30 ft.
+Armor Class 17 (natural armor)
+Hit Points 45 (7d8 + 14)
+Speed 30 ft. STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+l) 13 (+l) 11 (+0) 17 (+3)
+STR DEX CON INT WIS CHA
+18 (+4) 18 (+4) 14 (+2) 10 (+0) 13 (+l) 14 (+2) Saving Throws Dex +4, Cha +5
+Skills Persuasion +5, Religion +3
+Condition Immunities charmed, frightened
+Saving Throws Str +6, Dex +6, Con +4
+Senses darkvision 60 ft., passive Perception 10
+Skills Athletics +6, Perception +3
+Languages Common, Draconic, and any two languages
+Condition Immunities frightened
+Challenge 2 (450 XP) Proficiency Bonus +2
+Senses passive Perception 13
+Languages Common, Draconic
+Challenge 3 (700 XP) Proficiency Bonus +2 ACTIONS
+Multiattack. The speaker makes two Thunder Bolt attacks.
+ACTIONS
+Thunder Bolt. Melee or Ranged Spell Attack: +5 to hit, reach 5
+Multiattack. The chosen makes one Handaxe attack and two ft. or range 60 ft., one target. Hit: 13 (3d8) thunder damage,
+Shortsword attacks. and the target is pushed horizontally up to 10 feet away from
+Handaxe. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. the speaker.
+or range 20/60 ft., one target. Hit: 7 (ld6 + 4) slashing damage. Spellcasting. The speaker casts one of the following spells, us
+Hit or Miss: The handaxe magically returns to the chosen's ing Charisma as the spellcasting ability (spell save DC 13):
+hand immediately after a ranged attack.
+At will: dancing lights
+Shortsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one 1/day each: calm emotions, charm person, command, compre
+target. Hit: 7 (ld6 + 4) piercing damage. hend languages
+REACTION REACTIONS
+Biting Rebuke. Immediately after the chosen takes damage Disarming Words (3/Day). When a creature the speaker can see
+from a creature within 5 feet of it, it can make a Shortsword within 60 feet of it makes a damage roll, the speaker can roll a
+attack with advantage against that creature. d6 and subtract the number rolled from that damage roll.
+CHAPTER 6 I BESTIARY 189
+=== PAGE 191 ===
+So,v1e- dva~n~ c..on~ide-v- it an honov- to
+be-av- a vvovfh~ v-ide-v- into ba-ttle-. othe-v-~
+fnd ,t de-Me-ani~ and vie-vv dva~nn~I~,
+~'fl'
+vvilli~~~ to ~e-vve- a~ ,v1ovnt~ a~ a
+of the-iv- de-ba~e-Me-nt.
+-fizban
+DRAGONNEL
+Dragonnels are distantly related to chromatic, gem,
+and metallic dragons and resemble them in basic
+form. Intelligent enough to understand speech but
+incapable of speaking themselves, they are willful DRAGONNEL
+creatures motivated by the desire for food and en Large Dragon, Typically Neutral
+tertainment. In the wild, they are picky eaters with
+Armor Class 13 (natural armor)
+mercurial moods, inclined to toy with their prey be
+Hit Points 58 (9dl0 + 9)
+fore going in for the kill.
+Speed 30 ft., fly 60 ft.
+In some regions, dragonnels are raised from eggs
+to be used as aerial mounts. These domesticated STR DEX CON INT WIS CHA
+dragonnels are loyal to the point of being overly pro 16 (+3) 15 (+2) 12 (+l) 8 (-1) 13 (+l) 10 (0)
+tective of their riders. However, efforts to break wild
+Skills Perception +3
+dragonnels to the saddle are perilous, as these crea
+Senses blindsight 30 ft., darkvision 120 ft., cJ,
+tures often feign compliance before throwing their
+passive Perception 13
+would-be riders from great heights. Languages understands Draconic and Common but can't speak
+A dragonnel is an agile mount and naturally in Challenge 2 (450 XP) Proficiency Bonus +2
+clined to flyby tactics, swooping in to make attacks
+with its beak and claws before flying out of reach. Flyby. The dragonnel doesn't provoke an opportunity attack
+when it flies out of an enemy's reach.
+DRACONNEL STEEDS ACTIONS
+With the DM's permission, a paladin can summon a
+Multiattack. The dragonnel makes two Rend attacks.
+spirit in the form of a dragonnel using the.find greater
+steed spell, which appears in Xanathar's Guide to Rend. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. 4
+Everything. Hit: 10 (2d6 + 3) slashing damage.
+190 CHAPTER 6 j BESTIARY
+J
+=== PAGE 192 ===
+• •
+DRAGON TURTLES
+Dragon turtles are mighty creatures whose inherent land-and indeed, legends suggest that many unwit
+magic is intimately linked with the oceans of the ting sailors wrecked at sea have mistaken slumber
+Material Plane. The dragon turtle presented in the ing dragon turtles for solid ground. Ancient dragon
+Monster Manual is a typical adult, at least a century turtles might sleep for years or decades while
+old and boasting a valuable hoard. You can use floating along the surface of the ocean, enjoying the
+the stat blocks in this section for older or younger warmth of the sun and letting vegetation take root
+dragon turtles. In addition, chapter 5 includes lair on their shells.
+actions and regional effects that can be used for An angry ancient dragon turtle is terrible to be
+adult or ancient dragon turtles. hold, radiating heat from the shell to boil the sur
+An ancient dragon turtle is a mythic creature rounding water-and any creatures in it. And even if
+akin to a greatwyrm, combining the power of mul an enemy wears down the dragon turtle's defenses,
+tiple echoes from across the worlds of the Material magical storms manifest to shield the dragon turtle
+Plane. Such a creature can be as large as an is- and strike at foes.
+ANCIENT DRAGON TuRTLE Claw. Melee Weapon Attack: +16 to hit, reach 10 ft., one target.
+•
+Hit: 18 (2d8 + 9) slashing damage.
+Gargantuan Dragon, Typically Neutral
+..
+Tail. Melee Weapon Attack: +16 to hit, reach 15 ft., one target. •
+Armor Class 22 (natural armor) Hit: 20 (2dl0 + 9) bludgeoning damage. If the target is a crea
+Hit Points 409 (2ld20 + 189) ture, it must succeed on a DC 24 Strength saving throw or be
+Speed 30 ft., swim 60 ft. knocked prone. •
+Steam Breath (Recharge 5-6). The dragon turtle exhales steam
+STR DEX CON INT WIS CHA
+in a 90-foot cone. Each creature in that area must make a DC
+28 (+9) 12 (+l) 29 (+9) 14 (+2) 19 (+4) 15 (+2)
+24 Constitution saving throw, taking 67 (15d8) fire damage on a
+failed save, or half as much damage on a successful one. Being
+Saving Throws Dex +8, Con +16, Wis +11
+underwater doesn't grant resistance against this damage.
+Skills Perception +11
+•
+Damage Immunities cold, fire
+LEGENDARY ACTIONS
+Condition Immunities charmed, frightened, poisoned
+Senses truesight 120 ft., passive Perception 21 The dragon turtle can take 3 legendary actions, choosing from
+Languages Aquan, Draconic the options below. Only one legendary action option can be
+Challenge 24 (62,000 XP) Proficiency Bonus +7 used at a time and only at the end of another creature's turn.
+The dragon turtle regains spent legendary actions at the start
+Amphibious. The dragon turtle can breathe air and water. of its turn.
+Blessing oft he Sea (Recharges after a Short or Long Rest). If Attack. The dragon turtle makes one Claw or Tail attack.
+the dragon turtle would be reduced to O hit points, its current Move. The dragon turtle moves up to its speed. If the dragon
+hit point total instead resets to 350 hit points, and it recharges turtle is swimming, this movement doesn't provoke opportu
+its Steam Breath. Additionally, the dragon turtle can now use nity attacks.
+the options in the "Mythic Actions" section for l hour. Award a Boiling Aura (Costs 3 Actions). The dragon turtle radiates in
+party an additional 62,000 XP (124,000 XP total) for defeating tense heat. Until the start of the dragon turtle's next turn,
+the dragon turtle after its Blessing of the Sea activates. whenever a creature starts its turn within 20 feet of the
+dragon turtle, that creature must succeed on a DC 24 Con
+Legendary Resistance (3/Day). If the dragon turtle fails a saving stitution saving throw or take 40 (9d8) fire damage. Being
+throw, it can choose to succeed instead. underwater doesn't grant resistance against this damage.
+Unusual Nature. The dragon turtle doesn't require
+MYTHIC ACTIONS
+food or drink.
+If the dragon turtle's Blessing of the Sea trait has activated in
+ACTIONS the last hour, it can use the options below as legendary actions.

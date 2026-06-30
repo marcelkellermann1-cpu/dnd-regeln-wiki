@@ -1,0 +1,500 @@
+der brain has formed a psychic link hears faint, in
+comprehensible whispers in the deepest recesses
+of its mind. This psychic detritus consists of the e
+Elder Brain
+Large Aberration (Mind Flayer), Typically Lawful Evil
+Armor Class 10
+Hit Points 210 (20dl0+ 100)
+Speed 5 ft., swim 10 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 10 (+0) 20 (+5) 21 (+5) 19 (+4) 24 (+7)
+Saving Throws Int +10, Wis +9, Cha +12
+Skills Arcana +10, Deception +12, Insight +14, Intimidation +12
+Persuasion +12
+Senses blindsight 120 ft., passive Perception 14
+Languages understands Common, Deep Speech, and
+Undercommon but can’t speak, telepathy 5 miles
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Creature Sense. The elder brain is aware of creatures within
+5 miles of it that have an Intelligence score of 4 or higher. It
+knows the distance and direction to each creature, as well as
+each one’s Intelligence score, but can’t sense anything else
+about it. A creature protected by a mind blank spell, a nondete
+tion spell, or similar magic can’t be perceived in this manner.
+Legendary Resistance (3/Day). If the elder brain fails a saving
+throw, it can choose to succeed instead.
+Magic Resistance. The elder brain has advantage on saving
+throws against spells and other magical effects.
+Telepathic Hub. The elder brain can use its telepathy to initiate
+and maintain telepathic conversations with up to ten creatures
+at a time. The elder brain can let those creatures telepathically
+hear each other while connected in this way.
+Actions
+Tentacle. Melee Weapon Attack: +7 to hit, reach 30 ft., one
+target. Hit: 20 (4d8 + 2) bludgeoning damage. If the target is
+a Huge or smaller creature, it is grappled (escape DC 15) and
+takes 9 (ld8 + 5) psychic damage at the start of each of its
+turns until the grapple ends. The elder brain can have up to
+four targets grappled at a time.
+Mind Blast (Recharge 5-6). Creatures of the elder brain’s
+choice within 60 feet of it must succeed on a DC 18 Intelli­
+gence saving throw or take 32 (5dl0 + 5) psychic damage and
+be stunned for 1 minute. A target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on
+a success.
+- - ------
+I2O CHAPTER 2 | BESTIARY
+--col--
+der brain’s stray thoughts commingled with those
+of other creatures to which it is linked.
+Telepathic Eavesdropping. The elder brain can
+­ overhear any telepathic conversation within 5
+miles of it. The creature that initiated the tele­
+pathic conversation makes a DC 18 Wisdom
+saving throw when telepathic contact is first es­
+n
+tablished. If the save is successful, the creature
+is aware that something is eavesdropping. The
+­
+nature of the eavesdropper isn’t revealed.
+n­
+s If the elder brain dies, these effects imme­
+el­ diately end.
+Spellcasting (Psionics). The elder brain casts one of the follow­
+ing spells, requiring no spell components and using Intelli­
+gence as the spellcasting ability (spell save DC 18):
+At will: detect thoughts, levitate
+3/day: modify memory
+1/day each: dominate monster, plane shift (self only)
+Bonus Actions
+Psychic Link. The elder brain targets one incapacitated creature
+it senses with its Creature Sense trait and establishes a psychic
+link with the target. Until the link ends, the elder brain can per­
+2,
+ceive everything the target senses. The target becomes aware
+that something is linked to its mind once it is no longer inca­
+pacitated, and the elder brain can terminate the link at any time
+(no action required). The target can use an action on its turn
+to attempt to break the link, doing so with a successful DC 18
+Charisma saving throw. On a successful save, the target takes
+10 (3d6) psychic damage. The link also ends if the target and
+the elder brain are more than 5 miles apart. The elder brain can
+form psychic links with up to ten creatures at a time.
+Sense Thoughts. The elder brain targets a creature with which it
+ec­ has a psychic link. The elder brain gains insight into the target’s
+emotional state and foremost thoughts (including worries,
+loves, and hates).
+Legendary Actions
+The elder brain can take 3 legendary actions, choosing from
+the options below. It can take only one legendary action at a
+e time and only at the end of another creature’s turn. The elder
+s brain regains spent legendary actions at the start of its turn.
+y Break Concentration. The elder brain targets one creature
+within 120 feet of it with which it has a psychic link. The elder
+brain breaks the creature’s concentration on a spell it has
+cast. The creature also takes 2 (1 d4) psychic damage per
+level of the spell.
+Psychic Pulse. The elder brain targets one creature within 120
+feet of it with which it has a psychic link. The target and ene­
+mies of the elder brain within 30 feet of target take 10 (3d6)
+psychic damage.
+Sever Psychic Link. The elder brain targets one creature within
+120 feet of it with which it has a psychic link. The elder brain
+ends the link, causing the creature to have disadvantage on
+all ability checks, attack rolls, and saving throws until the end
+of the creature's next turn.
+Tentacle (Costs 2 Actions). The elder brain makes one Tenta­
+cle attack.
+T- ■ -............. —- ........
+
+=== PAGE 121 ===
+Elder Tempest
+Terrifying storms manifest in the bodies of el­
+der tempests. Beings carved from clouds, wind,
+rain, and lightning, elder tempests assume the
+shape of serpents that slither through the sky.
+They drown the land beneath them with rain
+and stab the earth with lances of lightning.
+Punishing winds scream around them as they fly,
+feeding the chaos they create.
+Elder Tempest
+Gargantuan Elemental, Typically Neutral
+Armor Class 19
+Hit Points 264 (16d20 + 96)
+Speed 0 ft., fly 120 ft. (hover)
+STR DEX CON INT WIS CHA
+23 (+6) 28 (+9) 23 (+6) 2 (-4) 21 (+5) 18 (+4)
+Saving Throws Wis +12, Cha +11
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Damage Immunities lightning, poison, thunder
+Condition Immunities exhaustion, grappled, paralyzed,
+petrified, poisoned, prone, restrained, stunned
+Senses darkvision 60 ft., passive Perception 15
+Languages —
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+Air Form. The tempest can enter a hostile creature’s space and
+stop there. It can move through a space as narrow as 1 inch
+wide without squeezing.
+Flyby. The tempest doesn’t provoke opportunity attacks when
+it flies out of an enemy’s reach.
+Legendary Resistance (3/Day). If the tempest fails a saving
+throw, it can choose to succeed instead.
+Living Storm. The tempest is always at the center of a storm
+1 d6 + 4 miles in diameter. Heavy precipitation in the form of
+either rain or snow falls there, causing the area to be lightly ob­
+scured. Heavy rain also extinguishes open flames and imposes
+disadvantage on Wisdom (Perception) checks that rely on hear­
+ing. In addition, strong winds swirl in the area covered by the
+storm. The winds impose disadvantage on ranged attack rolls.
+They also extinguish open flames and disperse fog.
+Siege Monster. The tempest deals double damage to objects
+and structures.
+Actions
+Multiattack. The tempest makes two Thunderous Slam attacks.
+Thunderous Slam. Melee Weapon Attack: +16 to hit, reach 20 ft.,
+one target. Hit: 23 (4d6 + 9) thunder damage.
+Lightning Storm (Recharge 6). Each creature within 120 feet of
+the tempest must make a DC 21 Dexterity saving throw, taking
+27 (6d8) lightning damage on a failed save, or half as much
+damage on a successful one. If a target’s saving throw fails
+by 5 or more, the creature is also stunned until the end of its
+next turn.
+--col--
+Legendary Actions
+The tempest can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. The
+tempest regains spent legendary actions at the start of its turn.
+Move. The tempest moves up to its speed.
+Lightning Strike (Costs 2 Actions). The tempest can cause a bolt
+of lightning to strike a point on the ground anywhere under
+its storm. Each creature within 5 feet of that point must make
+a DC 21 Dexterity saving throw, taking 16 (3dl0) lightning
+damage on a failed save, or half as much damage on a suc­
+cessful one.
+Screaming Cale (Costs 3 Actions). The tempest releases a blast
+of thunder and wind in a line that is 300 feet long and 20 feet
+wide. Objects in that area take 22 (4dl0) thunder damage.
+Each creature there must succeed on a DC 21 Dexterity sav­
+ing throw or take 22 (4dl0) thunder damage and be flung up
+to 60 feet in a direction away from the line. If a thrown target
+collides with an immovable object (such as a wall or floor)
+or another creature, the target takes 3 (1 d6) bludgeoning
+damage for every 10 feet it was thrown before impact. If the
+target collides with another creature, that other creature must
+succeed on a DC 19 Dexterity saving throw or take the same
+impact damage and be knocked prone.
+CHAPTER 2 | BESTIARY 121
+
+=== PAGE 122 ===
+Elemental Myrmidons
+Elemental myrmidons are Elementals conjured and
+bound by magic into ritually created suits of plate
+armor. In this form, they possess no recollection of
+their former existence as free Elementals. They ex­
+ist only to follow the commands of their creators.
+Air Elemental Myrmidon
+Medium Elemental, Typically Neutral
+Armor Class 18 (plate)
+Hit Points 117 (18d8 +36)
+Speed 30 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 14 (+2) 9 (-1) 10 (+0) 10 (+0)
+Damage Resistances lightning, thunder; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities paralyzed, petrified, poisoned, prone
+Senses darkvision 60 ft., passive Perception 10
+Languages Auran, one language of its creator’s choice
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The myrmidon makes three Flail attacks.
+Flail. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 8 (1 d8 + 4) force damage.
+Lightning Strike (Recharge 6). The myrmidon makes one Flail
+attack. On a hit, the target takes an extra 18 (4d8) lightning
+damage, and the target must succeed on a DC 13 Constitution
+saving throw or be stunned until the end of the myrmidon’s
+next turn.
+122 CHAPTER 2 | BESTIARY
+--col--
+Earth Elemental Myrmidon
+Medium Elemental, Typically Neutral
+Armor Class 18 (plate)
+Hit Points 127 (17d8 + 51)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 17 (+3) 8 (-1) 10 (+0) 10 (+0)
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Damage Immunities poison
+Condition Immunities paralyzed, petrified, poisoned, prone
+Senses darkvision 60 ft., passive Perception 10
+Languages Terran, one language of its creator’s choice
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The myrmidon makes two Maul attacks.
+Maul. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) force damage.
+Thunderous Strike (Recharge 6). The myrmidon makes one
+Maul attack. On a hit, the target takes an extra 22 (4dl0) thun­
+der damage, and the target must succeed on a DC 14 Strength
+saving throw or be knocked prone.
+
+=== PAGE 123 ===
+Fire Elemental Myrmidon
+Medium Elemental, Typically Neutral
+Armor Class 18 (plate)
+Hit Points 123 (19d8 + 38)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 18 (+4) 15 (+2) 9 (-1) 10 (+0) 10 (+0)
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Damage Immunities fire, poison
+Condition Immunities paralyzed, petrified, poisoned, prone
+Senses darkvision 60 ft., passive Perception 10
+Languages Ignan, one language of its creator’s choice
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Illumination. The myrmidon sheds bright light in a 20-foot ra­
+dius and dim light in a 40-foot radius.
+Water Susceptibility. For every 5 feet the myrmidon moves in
+1 foot or more of water, it takes 2 (1 d4) cold damage.
+Actions
+Multiattack. The myrmidon makes three Scimitar attacks.
+Scimitar. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 7 (1 d6 + 4) force damage.
+Fiery Strikes (Recharge 6). The myrmidon uses Multiattack.
+Each attack that hits deals an extra 7 (2d6) fire damage.
+--col--
+Water Elemental Myrmidon
+Medium Elemental, Typically Neutral
+Armor Class 18 (plate)
+Hit Points 127 (17d8 + 51)
+Speed 40 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 15 (+3) 8 (-1) 10 (+0) 10 (+0)
+Damage Resistances acid; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Damage Immunities poison
+Condition Immunities paralyzed, petrified, poisoned, prone
+Senses darkvision 60 ft., passive Perception 10
+Languages Aquan, one language of its creator’s choice
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The myrmidon makes three Trident attacks.
+Trident. Melee or Ranged Weapon Attack: +7 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 7 (1 d6 + 4) force damage,
+or 8 (1 d8 + 4) force damage if used with two hands to make a
+melee attack.
+Freezing Strikes (Recharge 6). The myrmidon uses Multiattack.
+Each attack that hits deals an extra 5 (IdlO) cold damage. A
+target that is hit by one or more of these attacks has its speed
+reduced by 10 feet until the end of the myrmidon’s next turn.
+CHAPTER 2 | BESTIARY 123
+
+=== PAGE 124 ===
+Fire Giant Dreadnought
+Huge Ciant, Typically Lawful Evil
+Armor Class 21 (plate, Dual Shields)
+Hit Points 187 (15dl2 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+27 (+8) 9 (-1) 23 (+6) 8 (-1) 10 (+0) 11 (+0)
+Saving Throws Dex +4, Con +11, Cha +5
+Skills Athletics +13, Perception +5
+Damage Immunities fire
+Senses passive Perception 15
+Languages Giant
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Dual Shields. The giant carries two shields, which together give
+the giant +3 to its AC (accounted for above).
+Actions______________________________
+Multiattack. The giant makes two Fireshield or Rock attacks.
+Fireshield. Melee Weapon Attack: +13 to hit, reach 5 ft., one
+target. Hit: 22 (4d6 + 8) bludgeoning damage plus 7 (2d6) fire
+damage plus 7 (2d6) piercing damage.
+Rock. Ranged Weapon Attack: +13 to hit, range 60/240 ft., one
+target. Hit: 30 (4dl0 + 8) bludgeoning damage.
+Shield Charge (Recharge 5-6). The giant moves up to 30 feet in
+a straight line and can move through the space of any creature
+smaller than Huge. The first time it enters a creature’s space
+during this move, that creature must succeed on a DC 21
+Strength saving throw or take 36 (8d6 + 8) bludgeoning dam­
+age plus 14 (4d6) fire damage and be pushed up to 30 feet and
+knocked prone.
+124 CHAPTER 2 | BESTIARY
+--col--
+Fire Giant Dreadnought
+Most fire giants value not just strength but also
+skill at forgecraft. The foundry is the heart of any
+fire giant community. It is a temple, school, proving
+ground, and political hub rolled into one.
+Those whose primary virtue is brawn are usually
+consigned to the lowliest of tasks, such as work­
+ing forge bellows or moving coal. However, the
+strongest among these can excel at and gain rank
+through a specialized role: the dreadnought.
+Dreadnoughts are massively powerful fire giants
+who wield two huge shields like plow blades. These
+shields bear spikes on their exterior and have hol­
+low interiors into which the dreadnought pours hot
+coals at the first sign of danger. Armed with these
+two shields, the dreadnought can present a fiery
+wall to any attacker. When the dreadnought has
+finished, often all that is left of a foe is a smoking
+smear on the floor.
+When not called on to fight, dreadnoughts main­
+tain their strength by using their shields to shove
+huge quantities of coal, stone, or ore about the
+foundry. Occasionally, dreadnoughts are called on
+by their superiors to accompany a war or diplomatic
+delegation and use their fierce and intimidating de­
+meanor to strengthen the delegation’s position.
+
+=== PAGE 125 ===
+Firenewts
+Originally from the Elemental Plane of Fire, fire-
+newts can be found on the Material Plane near hot
+springs and volcanoes. These amphibians need hot
+water to live, becoming sluggish after spending a
+week away from a source of moist heat. Firenewts
+therefore delve for sources of heat in the earth, and
+a firenewt lair features a network of channels and
+sluices to circulate hot liquid through the area.
+Firenewt Warlock of Imix
+Firenewts who serve Imix, Prince of Evil Fire, live
+in militaristic theocracies that revere elemental fire
+in its most destructive incarnation and promote
+aggression and cruelty. Firenewt warlocks of Imix
+lead these theocracies or serve as advisors to a
+high priest.
+Firenewt Warrior
+A firenewt warrior can spew fire. Many of these
+warriors have a close relationship with giant strid-
+ers (in this book). They provide shelter, food, and
+breeding grounds in their lairs for giant striders,
+which then voluntarily serve them as mounts.
+Firenewt Warlock of Imix
+Medium Elemental, Typically Neutral Evil
+Armor Class 10 (13 with mage armor)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 11 (+0) 12 (+1) 9 (-1) 11 (+0) 14 (+2)
+Damage Immunities fire
+Senses darkvision 120 ft., passive Perception 10
+Languages Draconic, Ignan
+Challenge 1 (200 XP) Proficiency Bonus +2
+Amphibious. The firenewt can breathe air and water.
+Devil’s Sight. Magical darkness doesn’t impede the firenewt’s
+darkvision.
+/mix’s Blessing. When the firenewt reduces an enemy to 0 hit
+points, the firenewt gains 5 temporary hit points.
+Actions
+Multiattack. The firenewt makes three Morningstar or Fire
+Ray attacks.
+Morningstar. Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target. Hit: 5 (ld8 + 1) piercing damage.
+Fire Ray. Ranged Spell Attack: +4 to hit, range 120 ft., one tar­
+get. Hit: 5 (ld6 + 2) fire damage.
+Spellcasting. The firenewt casts one of the following spells, us­
+ing Charisma as the spellcasting ability (spell save DC 12):
+At will: guidance, light, mage armor, mage hand, prestidigitation
+--col--
+—---------------........................- —
+Firenewt Warrior
+Medium Elemental, Typically Neutral
+Armor Class 13 (shield)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 13 (+1) 12 (+1) 7 (-2) 11 (+0) 8 (-1)
+Damage Immunities fire
+Senses passive Perception 10
+Languages Draconic, Ignan
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+Amphibious. The firenewt can breathe air and water.
+Actions
+Multiattack. The firenewt makes two Scimitar attacks.
+Scimitar. Melee Weapon Attack: +3 to hit, reach 5 ft., one tar­
+get. Hit: 4 (ld6 + 1) slashing damage.
+Spit Fire (Recharges after a Short or Long Rest). The firenewt
+spits fire at a creature within 10 feet of it. The creature must
+make a DC 11 Dexterity saving throw, taking 9 (2d8) fire
+damage on a failed save, or half as much damage on a suc­
+cessful one.
+CHAPTER 2 | BESTIARY 125
+
+=== PAGE 126 ===
+Flail Snail
+A flail snail is a creature of elemental earth that is
+prized for its multihued shell. It may seem harm­
+less, but if a creature big enough to be a threat ap­
+proaches too close, the snail flashes a scintillating
+light and attacks with its mace-like tentacles.
+Left undisturbed, a flail snail moves slowly along
+the ground. It consumes everything on the surface,
+including rocks, sand, and soil, and it stops period­
+ically to relish crystal growths and other large min­
+eral deposits. It leaves behind a shimmering trail
+that quickly solidifies into a thin and nearly trans­
+parent layer. This glassy residue can be harvested
+and cut to form window panes. It can also be heated
+and spun into other glass objects. Some folk make a
+living from trailing flail snails to collect this glass.
+Using the Shell of a Flail Snail
+A flail snail shell weighs about 250 pounds and has
+numerous uses. An intact shell can sell for 5,000 gp.
+Many hunters seek the shell for its antimagic prop­
+erties. A skilled armorer can make three shields
+from one shell. For 1 month, each shield gives its
+wielder the snail’s Antimagic Shell trait. When the
+shield’s magic fades, it becomes an exotic shield
+that is the perfect item from which to make a spell­
+guard shield.
+A flail snail shell can also be used to make a
+robe of scintillating colors. The shell is ground and
+added to the dye applied to the fabric. The powder
+is also a material component of the ritual that en­
+chants the robe.
+i26
+CHAPTER 2 | BESTIARY
+--col--
+Flail Snail
+Large Elemental, Unaligned
+Armor Class 16 (natural armor)
+Hit Points 52 (5dl0 + 25)
+Speed 10 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 5 (-3) 20 (+5) 3 (-4) 10 (+0) 5 (-3)
+Damage Immunities fire, poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+Languages —
+Challenge 3 (700 XP) Proficiency Bonus +2
+Antimagic Shell. The snail has advantage on saving throws
+against spells, and any creature making a spell attack against
+the snail has disadvantage on the attack roll.
+If the snail succeeds on its saving throw against a spell or a
+spell’s attack roll misses it, the snail’s shell converts some of
+the spell’s energy into a burst of destructive force if the spell is
+of 1st level or higher; each creature within 30 feet of the snail
+must make a DC 15 Constitution saving throw, taking 3 (1 d6)
+force damage per level of the spell on a failed save, or half as
+much damage on a successful one.
+Actions
+Multiattack. The snail makes five Flail Tentacle attacks.
+Flail Tentacle. Melee Weapon Attack: +5 to hit, reach 10 ft., one
+target. Hit: 5 (1 d4 + 3) bludgeoning damage.
+­ Scintillating Shell (Recharges after a Short or Long Rest). The
+snail’s shell emits dazzling, colored light until the end of the
+snail’s next turn. During this time, the shell sheds bright light
+in a 30-foot radius and dim light for an additional 30 feet, and
+creatures that can see the snail have disadvantage on attack
+rolls against it. In addition, any creature within the bright light
+and able to see the snail when this power is activated must
+succeed on a DC 15 Wisdom saving throw or be stunned until
+the light ends.
+Shell Defense. The flail snail withdraws into its shell. Until it

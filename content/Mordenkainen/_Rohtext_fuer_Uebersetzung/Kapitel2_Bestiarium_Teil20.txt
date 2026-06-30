@@ -1,0 +1,500 @@
+At will: command, create or destroy water
+3/day each: control water, darkness, water breathing, water walk
+1/day: Evard’s black tentacles
+Voice of the Kraken (Recharges after a Short or Long Rest). A
+kraken speaks through the priest with a thunderous voice au­
+dible within 300 feet. Creatures of the priest’s choice that can
+hear the kraken’s words (which are spoken in Abyssal, Infernal,
+or Primordial) must succeed on a DC 14 Wisdom saving throw
+or be frightened of the priest for 1 minute. A frightened target
+can repeat the saving throw at the end of each of its turns, end­
+ing the effect on itself on a success.
+--col--
+CHAPTER 2 | BESTIARY
+
+=== PAGE 168 ===
+Kruthiks
+Kruthiks are chitin-covered reptiles that hunt in
+packs and nest in sprawling subterranean war­
+rens. They are attracted to sources of heat, such as
+dwarven forges and pools of molten lava, and carve
+out lairs as close to such locations as possible. As
+they burrow through the earth, they leave behind
+tunnels—evidence that is often the first clue to the
+nearby presence of a kruthik hive. Kruthiks also
+make use of preexisting underground chambers, in­
+corporating them into their lairs when they can.
+Kruthiks communicate with one another
+through a series of hisses and chittering noises.
+These sounds can often be heard in advance of
+a kruthik attack. Whenever their lair is invaded,
+kruthik guards send out an alarm by rapidly
+tapping the stone floor with their sharp legs.
+In addition to having an acute sense of
+smell, kruthiks can see in the dark and can
+detect vibrations in the earth around them.
+They take the scent of their own dead as a
+warning and avoid areas where many other kruth­
+iks have died. Slaying a sufficient number of kruth­
+iks in one area might cause the remaining hive
+members to move elsewhere.
+Although they can feed on carrion, kruthiks pre­
+fer live prey. They kill enemies by impaling them
+on their spiked limbs, then grind up the flesh and
+bones with mandibles strong enough to chew rock.
+When several kruthiks gang up on a single foe, they
+become frenzied and even more lethal.
+Kruthiks abide the presence of Constructs, El-
+ementals, Oozes, and Undead, and they use such
+creatures to help guard their hive. They are smart
+enough to barricade some tunnels and dig new ones
+that keep their neighbors away from their eggs.
+Young Kruthik
+Kruthiks hatch from eggs laid by female adults.
+Each egg is about the size of an adult human’s head
+and hatches within a month. Tiny kruthik hatch­
+lings are harmless and rarely stray far from the
+nest. They feed primarily on offal and one another.
+Within a month, the survivors become young kruth­
+iks large enough to hunt and defend themselves.
+jgg CHAPTER 2 | BESTIARY
+--col--
+Young Kruthik
+Small Monstrosity, Unaligned
+Armor Class 16 (natural armor)
+Hit Points 9 (2d6 + 2)
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 16 (+3) 13 (+1) 4 (-3) 10 (+0) 6 (-2)
+Skills Perception +4
+Senses darkvision 30 ft., tremorsense 60 ft.,
+passive Perception 14
+Languages Kruthik
+Challenge 1/8 (25 XP) Proficiency Bonus +2
+Pack Tactics. The kruthik has advantage on an attack roll
+against a creature if at least one of the kruthik’s allies is within
+5 feet of the creature and the ally isn’t incapacitated.
+Tunneler. The kruthik can burrow through solid rock at half
+its burrowing speed and leaves a 2V2-foot-diameter tunnel
+in its wake.
+Actions______________________________
+Stab. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 5 (ld4 + 3) piercing damage.
+
+=== PAGE 169 ===
+Adult Kruthik
+Medium Monstrosity, Unaligned
+Armor Class 18 (natural armor)
+Hit Points 39 (6d8 + 12)
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 16 (+3) 15 (+2) 7 H) 12 (+1) 8(-l)
+Skills Perception +5
+Senses darkvision 60 ft., tremorsense 60 ft.,
+passive Perception 15
+Languages Kruthik
+Challenge 2 (450 XP) Proficiency Bonus +2
+Pack Tactics. The kruthik has advantage on an attack roll
+against a creature if at least one of the kruthik’s allies is within
+5 feet of the creature and the ally isn't incapacitated.
+Tunneler. The kruthik can burrow through solid rock at half
+its burrowing speed and leaves a 5-foot-diameter tunnel
+in its wake.
+Actions
+Multiattack. The kruthik makes two Stab or Spike attacks.
+Stab. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 6 (1 d6 + 3) piercing damage.
+Spike. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one
+target. Hit: 5 (1 d4 + 3) piercing damage.
+--col--
+Adult Kruthik
+It takes six months of steady eating for a young
+kruthik to reach adult size. The natural life span of
+an adult kruthik is roughly seven years.
+Adult kruthiks grow spiky protrusions on their
+legs and can fling these dagger-sized spikes at ene­
+mies beyond the reach of their claws.
+Kruthik Hive Lord
+A hive lord rules each kruthik hive. When the hive
+lord dies, the surviving members of the hive aban­
+don their lair and search for a new one. When a
+suitable location is found, the largest kruthik in the
+hive undergoes a metamorphosis, forming a cocoon
+around itself and emerging several weeks later as
+a hive lord—a bigger and smarter kruthik with the
+ability to spray digestive acid from its maw. The
+hive lord claims the largest chamber of the lair and
+keeps several adult kruthiks nearby as bodyguards.
+Kruthik Hive Lord
+Large Monstrosity, Unaligned
+Armor Class 20 (natural armor)
+Hit Points 102 (12dl0 + 36)
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 16 (+3) 17 (+3) 10 (+0) 14 (+2) 10 (+0)
+Skills Perception +8
+Senses darkvision 60 ft., tremorsense 60 ft.,
+passive Perception 18
+Languages Kruthik
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Pack Tactics. The kruthik has advantage on an attack roll
+against a creature if at least one of the kruthik’s allies is within
+5 feet of the creature and the ally isn’t incapacitated.
+Tunneler. The kruthik can burrow through solid rock at half
+its burrowing speed and leaves a 10-foot-diameter tunnel
+in its wake.
+Actions
+Multiattack. The kruthik makes two Stab or Spike attacks.
+Stab. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+Hit: 9 (IdlO + 4) piercing damage.
+Spike. Ranged Weapon Attack: +6 to hit, range 30/120 ft., one
+target. Hit: 7 (1 d6 + 4) piercing damage.
+Acid Spray (Recharge 5-6). The kruthik sprays acid in a 15-foot
+cone. Each creature in that area must make a DC 14 Dexterity
+saving throw, taking 22 (4dl0) acid damage on a failed save, or
+half as much damage on a successful one.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 170 ===
+L
+eucrotta
+A leucrotta is what you would get if you took
+the head of a giant badger, the legs of a
+deer, and the body of a large hyena, then
+put them together and reanimated them
+with demon ichor without bothering to
+cover up the stink of death.
+The first leucrottas came into be
+ing alongside some gnolls during
+the rampages of Yeenoghu
+(appears in this book) on the
+Material Plane. While many of
+the hyenas that ate Yeenoghu’s
+kills transformed into gnolls,
+others underwent more bi­
+zarre changes; leucrottas were
+the most numerous of these.
+As clever as it is cruel, a
+leucrotta loves to deceive, torture, and kill. Crea­
+tures who venerate Yeenoghu—particularly his
+gnoll followers—view leucrottas with great respect.
+Although a leucrotta is unlikely to lead a gnoll war
+band, it can influence the leader and might agree to
+carry the leader into battle and offer advice during
+the fight. Followers of Yeenoghu also see leucrottas
+as a form of entertainment. They enjoy watching a
+leucrotta work almost as much as they like doing
+their own killing, since leucrottas are meticulous in
+their cruelty and able to draw out kills for better and
+longer sport. And when there are no victims to be
+had, a leucrotta can mimic the delightful squeals of
+a suffering victim.
+A leucrotta is so loathsome that few outside of
+its own kind can stand to be around one for long.
+Its horrific, hodgepodge body oozes a foul stench.
+This reek is outdone only by the creature’s breath,
+which issues from a maw that drips fluid corrupted
+with rot and digestive juices. In place of fangs, a
+leucrotta has bony ridges as hard as steel that can
+crush bones and lacerate flesh. These plates are so
+tough that a leucrotta can use them to peel plate ar­
+mor away from the body of a slain knight.
+A leucrotta’s stench would normally warn away
+prey long before the creature could attack. It has
+two natural capabilities, however, that give it an
+advantage. First, a leucrotta’s tracks are nearly
+impossible to distinguish from those of common
+deer. Second, it can duplicate the call or the vocal
+expressions of just about any creature it has heard.
+The monster uses its mimicry to lure in potential
+victims, then attacks while they are confused or un­
+aware of the actual threat.
+170 CHAPTER 2 | BESTIARY
+--col--
+Leucrotta
+Large Monstrosity, Typically Chaotic Evil
+Armor Class 14 (natural armor)
+Hit Points 67 (9dl0+ 18)
+Speed 50 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 15 (+2) 9 (-1) 12 (+1) 6 (-2)
+Skills Deception +2, Perception +5
+Senses darkvision 60 ft., passive Perception 15
+Languages Abyssal, Gnoll
+Challenge 3 (700 XP) Proficiency Bonus +2
+Mimicry. The leucrotta can mimic Beast sounds and Humanoid
+voices. A creature that hears the sounds can tell they are imita­
+tions only with a successful DC 14 Wisdom (Insight) check.
+Stench. Any creature other than a leucrotta or gnoll that starts
+its turn within 5 feet of the leucrotta must succeed on a DC 12
+Constitution saving throw or be poisoned until the start of the
+creature’s next turn. On a successful saving throw, the creature
+is immune to the Stench of all leucrottas for 1 hour.
+Actions
+Multiattack. The leucrotta makes one Bite attack and one
+Hooves attack.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 8 (1 d8 + 4) piercing damage. If the leucrotta scores a criti­
+cal hit, it rolls the damage dice three times, instead of twice.
+Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) bludgeoning damage.
+Bonus Actions
+Kicking Retreat. Immediately after the leucrotta makes a
+Hooves attack, it takes the Disengage action.
+
+=== PAGE 171 ===
+Leviathan
+A leviathan is an immense creature that acts as a
+force of nature, dragging ships down to the ocean’s
+depths and washing away coastal settlements.
+When called forth, a leviathan arises from a large
+body of water and takes on the form of a gigan­
+tic serpent.
+Usually found only on the Elemental Plane of
+Water, a leviathan sometimes swims through a por­
+tal to another world, where tritons, sea elves, and
+other aquatic folk attempt to contain it. Nihilistic
+cults have also been known to perform arduous
+rituals to summon a leviathan to a world, with the
+aim of using the creature to destroy coastal commu­
+nities. Those cultists often consider it a blessing to
+drown themselves in the elemental’s waters.
+Leviathan
+Gargantuan Elemental, Typically Neutral
+Armor Class 17
+Hit Points 328 (16d20+ 160)
+Speed 40 ft., swim 120 ft.
+STR DEX CON INT WIS CHA
+27 (+8) 24 (+7) 30 (+10) 2 (-4) 18 (4-4) 17 (4-3)
+Saving Throws Wis 4-10, Cha 4-9
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities exhaustion, grappled, paralyzed,
+petrified, poisoned, prone, restrained, stunned
+Senses darkvision 60 ft., passive Perception 14
+Languages —
+Challenge 20 (25,000 XP) Proficiency Bonus 4-6
+Legendary Resistance (3/Day). If the leviathan fails a saving
+throw, it can choose to succeed instead.
+Partial Freeze. If the leviathan takes 50 cold damage or more
+during a single turn, the leviathan partially freezes; until the
+end of its next turn, its speeds are reduced to 20 feet, and it
+makes attack rolls with disadvantage.
+Siege Monster. The leviathan deals double damage to objects
+and structures.
+Water Form. The leviathan can enter a hostile creature’s space
+and stop there. It can move through a space as narrow as 1
+inch wide without squeezing.
+--col--
+Actions
+Multiattack. The leviathan makes one Slam attack and one
+Tail attack.
+Slam. Melee Weapon Attack: 4-14 to hit, reach 20 ft., one tar­
+get. Hit: 21 (2dl2 4- 8) bludgeoning damage plus 13 (2dl2)
+acid damage.
+Tail. Melee Weapon Attack: 4-14 to hit, reach 20 ft., one tar­
+get. Hit: 19 (2dl0 4- 8) bludgeoning damage plus 10 (3d6)
+acid damage.
+Tidal Wave (Recharge 6). The leviathan magically creates a
+wave of water that extends from a point it can see within 120
+feet of itself. The wave is up to 250 feet long, up to 250 feet tall,
+and up to 50 feet wide. Each creature in the wave must make a
+DC 24 Strength saving throw. On a failed save, a creature takes
+45 (7dl2) bludgeoning damage and is knocked prone. On a
+successful save, a creature takes half as much damage and isn’t
+knocked prone. The water spreads out across the ground in all
+directions, extinguishing unprotected flames in its area and
+within 250 feet of it, and then it vanishes.
+Legendary Actions
+The leviathan can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. The le­
+viathan regains spent legendary actions at the start of its turn.
+Move. The leviathan moves up to its speed.
+Slam (Costs 2 Actions). The leviathan makes one Slam attack.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 172 ===
+11 (+0) 17 (+3) 13 (+1) 11 (+0) 16 (+3) 10 (+0)
+Skills Acrobatics +5, Insight +5, Stealth +5
+Senses passive Perception 13
+Languages any one language (usually Common)
+Challenge 3 (700 XP) Proficiency Bonus +2
+Unarmored Defense. While the adept is wearing no armor and
+wielding no shield, its AC includes its Wisdom modifier.
+Actions
+Multiattack. The adept makes three Unarmed Strike attacks or
+five Dart attacks.
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 7 (ld8 + 3) bludgeoning damage. Once per
+turn, the adept can cause one of the following additional effects
+(choose one or roll a d4):
+1-2: Knock Down. The target must succeed on a DC 13 Dexter­
+ity saving throw or be knocked prone.
+3-4: Push. The target must succeed on a DC 13 Strength
+saving throw or be pushed up to 10 feet directly away from
+the adept.
+Dart. Ranged Weapon Attack: +5 to hit, range 20/60 ft., one tar­
+get. Hit: 5 (1 d4 + 3) piercing damage.
+Reactions
+Deflect Missile. In response to being hit by a ranged weapon
+attack, the adept deflects the missile. The damage it takes from
+the attack is reduced by IdlO + 3. Ifthe damage is reduced to 0,
+the adept catches the missile if it’s small enough to hold in one
+hand and the adept has a hand free.
+172 CHAPTER 2 | BESTIARY
+--col--
+Martial Arts Adept
+Martial arts adepts are disciplined monks with
+extensive training in hand-to-hand combat. Some
+protect monasteries; others travel the world seeking
+enlightenment or new forms of combat to master. A
+few become bodyguards, trading their combat prow­
+ess and loyalty for food and lodging.
+Some martial artists adorn themselves with
+tattoos to honor inspirations or instructors, or to
+memorialize profound lessons, triumphs, or defeats.
+You may roll on the Martial Arts Adept Tattoos table
+to determine what sort of tattoo an adept bears.
+Martial Arts Adept Tattoos
+d8 Tattoo
+1 Patterning on the arms that make them look as
+though they were made of marble or granite
+2 Colorful dragon scales
+3 Collage of playful Elemental or Fey creatures
+4 Constellations on the palm of each hand
+5 Passage from a fighting manual
+6 Beautiful but poisonous flowers
+7 Two couatls swirling around each other, ren­
+dered in metallic ink
+8 Detailed landscape depicting natural beauty
+
+=== PAGE 173 ===
+Marut
+Large Construct (Inevitable), Typically Lawful Neutral
+Armor Class 22 (natural armor)
+Hit Points 432 (32dl0 + 256)
+Speed 40 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+28 (+9) 12 (+1) 26 (+8) 19 (+4) 15 (+2) 18 (+4)
+Saving Throws Int +12, Wis +10, Cha +12
+Skills Insight +10, Intimidation +12, Perception +10
+Damage Resistances thunder; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, frightened, paralyzed,
+poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 20
+Languages all but rarely speaks
+Challenge 25 (75,000 XP) Proficiency Bonus +8
+Immutable Form. The marut is immune to any spell or effect
+that would alter its form.
+Legendary Resistance (3/Day). If the marut fails a saving throw,
+it can choose to succeed instead.
+Magic Resistance. The marut has advantage on saving throws
+against spells and other magical effects.
+Unusual Nature. The marut doesn’t require air, food,
+drink, or sleep.
+Actions
+Multiattack. The marut makes two Unerring Slam attacks.
+Unerring Slam. Melee Weapon Attack: automatic hit, reach 5 ft.,
+one target. Hit: 60 force damage, and the target is pushed up
+to 5 feet away from the marut if it is Huge or smaller.
+Blazing Edict (Recharge 5-6). Arcane energy emanates from
+the marut's chest in a 60-foot cube. Every creature in that area
+takes 45 radiant damage. Each creature that takes any of this
+damage must succeed on a DC 20 Wisdom saving throw or be
+stunned until the end of the marut’s next turn.
+Plane Shift (3/Day). The marut casts plane shift, requiring no
+material components and using Intelligence as the spellcasting
+ability. The marut can cast the spell normally, or it can cast the
+spell on an unwilling creature it can see within 60 feet of it. If it
+uses the latter option, the targeted creature must succeed on a
+DC 20 Charisma saving throw or be banished to a teleportation
+circle in the Hall of Concordance in Sigil.
+--col--
+Marut
+The nigh-unstoppable inevitables serve a singular
+purpose: they enforce contracts forged in the Hall
+of Concordance in the city of Sigil. Primus, the
+leader of the modrons, created maruts and other in­
+evitables to bring order to dealings between planar
+folk. A wide array of disparate creatures, including
+yugoloths, will enter into a contract with inevita­
+bles if asked.
+The Hall of Concordance is an embassy of pure
+law in Sigil, the City of Doors. In the hall, parties
+who agree to mutual terms—and who pay the requi­
+site gold to the Kolyarut, a mechanical engine of ab­
+solute jurisprudence—can have their contract chis­
+eled onto a sheet of gold that is placed in the chest of
+a marut. From that moment until the contract is ful­
+filled, the marut is bound to enforce its terms and to
+punish any party who breaks them. A marut resorts
+to lethal force only if a contract calls for it, if the con­
+tract is fully broken, or if the marut is attacked.
+Inevitables care nothing for the spirit of an
+agreement, only the letter. A marut enforces what
+is written, not what was meant by or supposed to
+be understood from the writing. The Kolyarut re­
+jects contracts that contain vague, contradictory,
+or unenforceable terms. Beyond that, it doesn't
+care whether both parties understand what they're
+agreeing to.
+CHAPTER 2 | BESTIARY 173
+
+=== PAGE 174 ===
+Master Thief
+1 Medium Humanoid, Any Alignment
+Armor Class 16 (studded leather)
+Hit Points 84 (13d8 + 26)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 18 (+4) 14 (+2) 11 (+0) 11 (+0) 12 (+1)
+Saving Throws Dex +7, I nt +3
+Skills Acrobatics +7, Athletics +3, Perception +3, Sleight of
+Hand +7, Stealth +7
+Senses passive Perception 13
+Languages any one language (usually Common) plus
+thieves’ cant
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Evasion. If the thief is subjected to an effect that allows it to
+make a Dexterity saving throw to take only half damage, the
+thief instead takes no damage if it succeeds on the saving
+throw and only half damage if it fails, provided the thief isn’t
+incapacitated.
+Actions
+Multiattack. The thief makes three Shortsword or Short­
+bow attacks.
+Shortsword. Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target. Hit: 7 (1 d6 + 4) piercing damage plus 3 (1 d6) poi­
+son damage.
+Shortbow. Ranged Weapon Attack: +7 to hit, range 80/320 ft.,
+one target. Hit: 7 (ld6 + 4) piercing damage plus 3 (1 d6) poi­
+son damage.
+Bonus Actions
+Cunning Action. The thief takes the Dash, Disengage, or
+Hide action.
+Reactions
+Uncanny Dodge. The thief halves the damage that it takes from
+an attack that hits it. The thief must be able to see the attacker.
+174 CHAPTER 2 | BESTIARY
+--col--
+Master Thief
+Master thieves are known for perpetrating daring
+heists. They tend to develop a romanticized repu­
+tation. A master thief might “retire” from hands-on
+work to run a thieves’ guild, spearhead some covert
+enterprise, or enjoy a quiet life of luxury.
+When a master thief completes a challenging
+heist, they often leave behind a calling card to taunt
+their victims. You may roll on the Master Thief Call­
+ing Cards table to determine what a master thief
+leaves behind.
+Master Thief Calling Cards
+diO Calling Card
+1 Tiny, folded paper cat
+2 Red bird feather
+3 Rose petal
+4 Figurine made from twigs and twine

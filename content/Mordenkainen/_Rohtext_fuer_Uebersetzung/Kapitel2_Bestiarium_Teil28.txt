@@ -1,0 +1,500 @@
+Skills Stealth +8, Survival +6
+Damage Vulnerabilities cold, fire
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Condition Immunities blinded, deafened, exhaustion, grappled,
+paralyzed, petrified, prone, restrained, unconscious
+Senses blindsight 120 ft., passive Perception 12
+Languages understands languages it knew in its previous form
+but can’t speak
+Challenge 3 (700 XP) Proficiency Bonus +2
+False Appearance. If the slithering tracker is motionless at the
+start of combat, it has advantage on its initiative roll. Moreover,
+if a creature hasn’t observed the slithering tracker move or act,
+that creature must succeed on a DC 18 Intelligence (Investiga­
+tion) check to discern that the slithering tracker isn’t a puddle.
+Liquid Form. The slithering tracker can enter an enemy’s space
+and stop there. It can also move through a space as narrow as 1
+inch wide without squeezing.
+Spider Climb. The slithering tracker can climb difficult surfaces,
+including upside down on ceilings, without needing to make an
+ability check.
+Actions
+Slam. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (IdlO + 3) bludgeoning damage.
+Life Leech. One Large or smaller creature that the slithering
+tracker can see within 5 feet of it must succeed on a DC 13 Dex­
+terity saving throw or be grappled (escape DC 13). Until this
+grapple ends, the target is restrained and unable to breathe un­
+less it can breathe water. In addition, the grappled target takes
+16 (3dl 0) necrotic damage at the start of each of its turns. The
+slithering tracker can grapple only one target at a time.
+While grappling the target, the slithering tracker takes only
+half any damage dealt to it (rounded down), and the target
+takes the other half.
+Bonus Actions
+Watery Stealth. If underwater, the slithering tracker takes the
+Hide action, and it makes the Dexterity (Stealth) check with
+advantage.
+--col--
+Slithering Tracker
+The quest for revenge sometimes leads those terri­
+bly aggrieved to undergo a ritual whereby they trans­
+form into bodies of semiliquid sentience known as
+slithering trackers. Innocuous and insidious at the
+same time, a slithering tracker flows into places
+where a normal creature can’t go and brings its own
+brand of watery death down on its quarry.
+The ritual for creating a slithering tracker is
+known to hags, liches, and priests who worship
+gods of vengeance. It can be performed only on a
+willing creature that hungers for revenge. The ritual
+sucks all the moisture from the subject’s body, kill­
+ing it. Yet the subject’s mind lives on in the puddle
+that issues forth from the remains, and so too does
+its insatiable need for retribution.
+A slithering tracker tastes the ground it courses
+over, seeking any trace of its prey. To kill, a slither­
+ing tracker rises up and enshrouds a creature, at­
+tempting to drown the creature while also draining
+it of blood.
+Achieving revenge against its target doesn’t end a
+slithering tracker’s existence or its hunger for blood.
+Some slithering trackers remain aware of their pur­
+pose and extend their quest for vengeance to others,
+such as anyone who supported or befriended the
+original target. Most of the time, though, a tracker's
+mind can’t cope with being trapped in liquid form,
+unable to communicate, and driven by the desire for
+blood; after fulfilling its duty, the overwhelmed crea­
+ture attacks indiscriminately until it is destroyed.
+CHAPTER 2 | BESTIARY 221
+
+=== PAGE 222 ===
+SORROWSWORN
+The Shadowfell’s pervasive melancholy sometimes
+gives rise to strange incarnations of the plane’s
+bleak nature. Sorrowsworn embody the forms of
+suffering inherent to the shadowy landscape and
+visit horror on those who stumble into their midst.
+Each sorrowsworn personifies a different aspect of
+despair or distress.
+Angry Sorrowswqrn
+Relying on violence to sustain their existence, angry
+sorrowsworn—sometimes called the Angry—grow
+more powerful when their foes fight back. If a crea­
+ture opts not to attack, though, this sorrowsworn
+becomes confused, and its attacks weaken. It
+also has two heads, which bicker with each other
+incessantly.
+Hungry Sorrowsworn
+Horrible creatures with grasping claws and dis­
+tended jaws, hungry sorrowsworn—also known as
+the Hungry—do whatever is necessary to sate their
+appetites. These greedy devourers stuff their maws
+with flesh and drink in their victims’ screams. When
+they finish, they lurch away while their bright eyes
+resume the search for something else to consume.
+Lonely Sorrowsworn
+The sorrow of isolation afflicts many creatures that
+lurk in the Shadowfell, but the need for companion­
+ship is never manifested more dramatically than
+in the lonely sorrowsworn—also called the Lonely.
+When these sorrowsworn spot other creatures, they
+feel keenly the need for interaction and launch their
+harpoon-like arms to drag their victims closer.
+Lost Sorrowsworn
+The Shadowfell turns visitors around until they be­
+come marooned in its twisted landscape. Lost sor­
+rowsworn—often referred to as the Lost—are repre­
+sentations of the anxiety and fear people experience
+when they can’t find their way. These sorrowsworn
+appear desperate and panicked.
+Lost sorrowsworn grasp at any creatures they can
+reach. A victim experiences a flood of fear and panic
+as its mind buckles under the fury of this assault.
+The harder a victim’s allies fight to break the grasp,
+the more the victim suffers.
+Wretched Sorrowsworn
+Horrid little monsters, wretched sorrowsworn—or
+the Wretched—gather in packs to scour the Shadow­
+fell for prey. These desperate entities subsist on life
+force; when they find a creature, they surge forward
+to sink their fangs into their victims and drink deep.
+222 CHAPTER 2 | BESTIARY
+--col--
+Angry Sorrowsworn
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 18 (natural armor)
+Hit Points 255 (30d8 + 120)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 10 (+0) 19 (+4) 8 (-1) 13 (+1) 6 (-2)
+Skills Perception +11
+Damage Resistances bludgeoning, piercing, and slashing while
+in dim light or darkness
+Senses darkvision 60 ft., passive Perception 21
+Languages Common
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Two Heads. The sorrowsworn has advantage on saving throws
+against being blinded, charmed, deafened, frightened, stunned,
+or knocked unconscious.
+Rising Anger. If another creature deals damage to the sorrow­
+sworn, the sorrowsworn’s attack rolls have advantage until the
+end of its next turn, and the first time it hits with a Hook attack
+on its next turn, the attack’s target takes an extra 19 (3dl2)
+psychic damage.
+On its turn, the sorrowsworn has disadvantage on attack rolls
+if no other creature has dealt damage to it since the end of its
+last turn.
+Actions
+Multiattack. The sorrowsworn makes two Hook attacks.
+Hook. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 16 (2dl2 + 3) piercing damage.
+
+=== PAGE 223 ===
+Hungry Sorrowsworn
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 17 (natural armor)
+Hit Points 225 (30d8 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 10 (+0) 17 (+3) 6 (-2) 11 (+0) 6 (-2)
+Damage Resistances bludgeoning, piercing, and slashing while
+in dim light or darkness
+Senses darkvision 60 ft., passive Perception 10
+Languages Common
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+Life Hunger. If a creature within 60 feet of the sorrowsworn
+regains hit points, the sorrowsworn gains two benefits until
+the end of its next turn: it has advantage on attack rolls, and its
+Bite deals an extra 22 (4dl0) necrotic damage on a hit.
+Actions
+Multiattack. The sorrowsworn makes one Bite attack and one
+Claw attack.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one tar­
+get. Hit: 8 (ld8 + 4) piercing damage plus 13 (3d8) ne­
+crotic damage.
+Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 18 (4d6 + 4) slashing damage. If the target is Medium or
+smaller, it is grappled (escape DC 16), and it is restrained until
+the grapple ends. While grappling a creature, the sorrowsworn
+can’t make a Claw attack.
+--col--
+Lonely Sorrowsworn
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 16 (natural armor)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 12 (+1) 17 (+3) 6 (-2) 11 (+0) 6 (-2)
+Damage Resistances bludgeoning, piercing, and slashing while
+in dim light or darkness
+Senses darkvision 60 ft., passive Perception 10
+Languages Common
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Psychic Leech. At the start of each of the sorrowsworn’s turns,
+each creature within 5 feet of it must succeed on a DC 15 Wis­
+dom saving throw or take 10 (3d6) psychic damage.
+Thrives on Company. The sorrowsworn has advantage on attack
+rolls while it is within 30 feet of at least two other creatures. It
+otherwise has disadvantage on attack rolls.
+Actions__________________________________
+Multiattack. The sorrowsworn makes one Harpoon Arm at­
+tack, and it uses Sorrowful Embrace.
+Harpoon Arm. Melee Weapon Attack: +7 to hit, reach 60 ft.,
+one target. Hit: 21 (4d8 + 3) piercing damage, and the target is
+grappled (escape DC 15) if it is a Large or smaller creature. The
+sorrowsworn has two harpoon arms and can grapple up to two
+creatures at once.
+Sorrowful Embrace. Each creature grappled by the sorrowsworn
+must make a DC 15 Wisdom saving throw, taking 18 (4d8)
+psychic damage on a failed save, or half as much damage on a
+successful one. In either case, the sorrowsworn pulls each of
+those creatures up to 30 feet straight toward it.
+CHAPTER 2 | BESTIARY
+223
+
+=== PAGE 224 ===
+Lost Sorrowsworn
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 12 (+1) 15 (+2) 6 (-2) 7 (-2) 5 (-3)
+Skills Athletics +6
+Damage Resistances bludgeoning, piercing, and slashing while
+in dim light or darkness
+Senses darkvision 60 ft., passive Perception 8
+Languages Common
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The sorrowsworn makes two Arm Spike attacks.
+Arm Spike. Melee Weapon Attack: +6 to hit, reach 10 ft., one
+target. Hit: 14 (2dl0 + 3) piercing damage.
+Embrace (Recharge 4-6). Melee Weapon Attack: +6 to hit, reach
+5 ft., one target. Hit: 25 (4dl0 + 3) piercing damage, and the
+target is grappled (escape DC 14) if it is a Medium or smaller
+creature. Until the grapple ends, the target is frightened, and it
+takes 27 (6d8) psychic damage at the end of each of its turns.
+The sorrowsworn can grapple only one creature at a time.
+Reactions_______________________________
+Tightening Embrace. If the sorrowsworn takes damage, the
+creature grappled by Embrace takes 18 (4d8) psychic damage.
+224 CHAPTER 2 | BESTIARY
+--col--
+Wretched Sorrowsworn
+Small Monstrosity, Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 10 (4d6 - 4)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 12 (+1) 9(-l) 5 (-3) 6 (-2) 5 (-3)
+Damage Resistances bludgeoning, piercing, and slashing while
+in dim light or darkness
+Senses darkvision 60 ft., passive Perception 8
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Wretched Pack Tactics. The sorrowsworn has advantage on
+an attack roll against a creature if at least one of the sorrow-
+sworn’s allies is within 5 feet of the creature and the ally isn’t
+incapacitated. The sorrowsworn otherwise has disadvantage on
+attack rolls.
+Actions
+Bite. Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 6 (IdlO + 1) piercing damage, and the sorrowsworn at­
+taches to the target. While attached, the sorrowsworn can’t
+attack, and at the start of each of the sorrowsworn’s turns, the
+target takes 6 (IdlO + 1) necrotic damage.
+The attached sorrowsworn moves with the target whenever
+the target moves, requiring none of the sorrowsworn’s move­
+ment. The sorrowsworn can detach itself by spending 5 feet of
+its movement on its turn. A creature, including the target, can
+use its action to detach the sorrowsworn.
+
+=== PAGE 225 ===
+Spawn of Kyuss
+Medium Undead, Typically Chaotic Evil
+Armor Class 10
+Hit Points 76 (9d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 11 (+0) 18 (+4) 5 (-3) 7 (-2) 3 (-4)
+Saving Throws Wis +1
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 8
+Languages understands the languages it knew in life but can’t
+speak
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Regeneration. The spawn of Kyuss regains 10 hit points at the
+start of its turn if it has at least 1 hit point and isn’t in sunlight
+or a body of running water. If the spawn takes acid, fire, or
+radiant damage, this trait doesn't function at the start of the
+spawn’s next turn. The spawn is destroyed only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Worms. If the spawn of Kyuss is targeted by an effect that cures
+disease or removes a curse, all the worms infesting it wither
+away, and it loses its Burrowing Worm action.
+Unusual Nature. The spawn of Kyuss requires no air, food,
+drink, or sleep.
+Actions
+Multiattack. The spawn of Kyuss makes two Claw attacks, and
+it uses Burrowing Worm.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 6 (1 d6 + 3) slashing damage plus 7 (2d6) necrotic damage.
+Burrowing Worm. A worm launches from the spawn of Kyuss
+at one Humanoid that the spawn can see within 10 feet of it.
+The worm latches onto the target’s skin unless the target suc­
+ceeds on a DC 11 Dexterity saving throw. The worm is a Tiny
+Undead with AC 6, 1 hit point, a 2 (-4) in every ability score,
+and a speed of 1 foot. While on the target’s skin, the worm
+can be killed by normal means or scraped off using an action
+(the spawn can use Burrowing Worm to launch a scraped-off
+worm at a Humanoid it can see within 10 feet of the worm).
+Otherwise, the worm burrows under the target’s skin at the
+end of the target’s next turn, dealing 1 piercing damage to it. At
+the end of each of its turns thereafter, the target takes 7 (2d6)
+necrotic damage per worm infesting it (maximum of 1 Od6), and
+if it drops to 0 hit points, it dies and then rises 10 minutes later
+as a spawn of Kyuss. If a worm-infested target is targeted by
+an effect that cures disease or removes a curse, all the worms
+infesting it wither away.
+--col--
+Spawn of Kyuss
+Kyuss was a high priest of Orcus (appears in this
+book) who plundered corpses from necropolises to
+create the first spawn of Kyuss. Even centuries after
+Kyuss’s death, his malign disciples continue per­
+forming the horrific rites he perfected.
+From a distance or in poor light, a spawn of Ky­
+uss looks like an ordinary zombie. As it comes into
+clearer view, however, the scores of little green
+worms crawling in and out of it become visible.
+These worms jump onto nearby Humanoids and
+burrow into their flesh. A worm that penetrates a
+Humanoid body makes its way to the creature’s
+brain. Once inside the brain, the worm kills its host
+and animates the corpse, transforming it into a
+spawn of Kyuss, which breeds more worms.
+Spawn of Kyuss are expressions of Orcus’s intent
+to replace all life with undeath. Left to its own de­
+vices, a solitary spawn of Kyuss travels aimlessly.
+If it stumbles across a living creature, the spawn
+attacks with the sole intent of creating more spawn.
+Whether spawn are dispersed or clustered, they re­
+produce exponentially if nothing stops them.
+CHAPTER 2 | BESTIARY 225
+
+=== PAGE 226 ===
+Star Spawn
+The Material Plane represents only one small part
+of the multiverse. Beyond the best-known planes of
+existence lie realms alien to mortal life. Some are
+so hostile that even a moment’s contact is enough to
+break a mortal’s mind. Yet beings do exist that are
+native to these realms: entities that are ever hunger­
+ing, searching, warring, and sometimes dreaming.
+These Elder Evils are far older than most of the
+mortal peoples and always inimical to such crea­
+tures’ minds.
+However much they might desire to enter and
+dominate the Material Plane, the Elder Evils are
+unable or unwilling to leave their realms. Some are
+imprisoned in their dimensions by external forces,
+some are inextricably bound to their home realities,
+and others simply can’t find any way out.
+The creatures known as star spawn are the her­
+alds, servants, and soldiers of the Elder Evils, capa­
+ble of taking on forms that can journey to the Mate­
+rial Plane. They arrive most often in the wake of a
+comet—or perhaps this phenomenon merely signals
+that star spawn are in the vicinity and available for
+communication. When the signs are right, cultists
+gather together, read aloud their blasphemous texts,
+and conduct the mind-searing rituals that guide star
+spawn into the world.
+Elder Evil Blessings
+Disciples of certain Elder Evils can bestow super­
+natural gifts on those who serve that cult, including
+star spawn. The following powers are unique to spe­
+cific cults; typically a creature has only one.
+Cult of Atropus, the World Born Dead
+Gaze of Corruption (Recharge 6). The cultist targets one crea­
+ture it can see within 30 feet of it. The target must succeed on
+a DC 15 Constitution saving throw or take 16 (3dl0) necrotic
+damage and be poisoned for 1 minute. The poisoned target
+can repeat the saving throw at the end of each of its turns, end­
+ing the effect on itself on a success.
+Cult of Borem of the Lake of Boiling Mud
+Borem’s Embrace (1/Day). The cultist touches one creature
+within 5 feet of it. The target must succeed on a DC 15 Dexter­
+ity saving throw or be coated in sticky, steaming mud. While it
+is coated in this way, the target’s speed is halved, it can’t use
+reactions, and it takes 10 (3d6) fire damage at the start of each
+of its turns. The effect lasts for 1 minute, until the cultist is in­
+capacitated or dies, or until the target is immersed in water.
+226 CHAPTER 2 | BESTIARY
+--col--
+Cult of Haask, the Voice of Hargut
+Haask’s Presence (1/Day). The cultist transforms into a Tiny,
+slug-like being and teleports onto the shoulder of a Human­
+oid that it can see within 30 feet of it. The targeted Human­
+oid must succeed on a DC 15 Charisma saving throw or be
+charmed by the cultist. While the target is charmed, the cultist
+has control of it on the target’s next turn. At the end of that
+turn, the cultist teleports to an unoccupied space it can see
+within 30 feet of it and returns to its normal form. The cultist
+can’t be targeted directly by any attack or other effect while
+it’s in the slug-like form, but it is subject to areas of effect
+as normal.
+Cult of Tharizdun, the Chained Cod
+Tharizdun’s Spark (Recharge 6). As a bonus action, the cultist
+touches a simple or martial weapon or a natural weapon, if it
+has one. The next creature hit by the touched weapon must
+succeed on a DC 15 Wisdom saving throw or have disadvan­
+tage on all ability checks. The affected creature can repeat the
+saving throw at the end of each minute, ending the effect on
+itself on a success.
+Cult of Tyranthraxus, the Flamed One
+Radiant Flames (1/Day). Multihued flame surrounds the cultist
+for 1 minute, until the cultist is incapacitated or dies, or until
+the cultist extinguishes the flame (no action required). While
+inflamed, the cultist has telepathy with a range of 30 feet, and
+it can teleport as a bonus action up to 30 feet to an unoccupied
+space it can see. In addition, every creature that starts its turn
+within 5 feet of the cultist must make a DC 15 Dexterity saving
+throw, taking 16 (3dl0) radiant damage on a failed save, or half
+as much damage on a successful one.
+Star Spawn Grue
+Fanged and lipless, the ever-grinning, eerily staring
+grue lopes about on spindly legs and long arms.
+Bristles and spines project from odd patches of
+its grayish skin, and its long fingers end in bro­
+ken and dirty nails. Grues are the weakest of the
+star spawn. A host of writhing, scrambling grues
+typically accompanies more powerful star spawn.
+Their constant chittering and shrieking produce
+discordant psychic energy that disrupts thought pat­
+terns in other creatures, which experience flashing
+colors, hallucinations, disorientation, and waves of
+hopelessness.
+Star Spawn Hulk
+The hulk is one of the largest of the known star
+spawn, with glistening, translucent skin. Pale and
+seemingly lidless eyes glare balefully from a face
+distorted by too many teeth and too little nose.
+Hulks are seldom encountered without a com­
+manding star spawn seer (also in this book) nearby.
+A hulk appears to have little will of its own and is
+driven to protect its master.
+
+=== PAGE 227 ===
+Star Spawn Grue
+Small Aberration, Typically Neutral Evil
+Armor Class 11
+Hit Points 17 (5d6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 13 (+1) 10 (+0) 9 (-1) 11 (+0) 6 (-2)
+Damage Immunities psychic
+Senses darkvision 60 ft., passive Perception 10
+Languages Deep Speech
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Aura of Shrieks. Creatures within 20 feet of the grue that aren’t
+Aberrations have disadvantage on saving throws, as well as on
+attack rolls against creatures other than a star spawn grue.
+Actions
+Confounding Bite. Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target. Hit: 6 (2d4 + 1) piercing damage, and the target
+must succeed on a DC 10 Wisdom saving throw or attack rolls
+against it have advantage until the start of the grue’s next turn.
+--col--
+Large Aberration, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 136 (13dl0 + 65)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 8 (-1) 21 (+5) 7 (-2) 12 (+1) 9 (-1)
+Saving Throws Dex +3, Wis +5
+Skills Perception +5
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Condition Immunities charmed, frightened
+Senses darkvision 60 ft., passive Perception 15
+Languages Deep Speech
+Challenge 10 (5,900 XP) Proficiency Bonus +4
+Psychic Mirror. If the hulk takes psychic damage, each creature
+within 10 feet of the hulk takes that damage instead; the hulk
+takes none of the damage. In addition, the hulk’s thoughts and
+location can’t be discerned by magic.
+Actions
+Multiattack. The hulk makes two Slam attacks. If both attacks
+hit the same target, the target also takes 9 (2d8) psychic dam­
+age and must succeed on a DC 17 Constitution saving throw or
+be stunned until the end of the target’s next turn.
+Slam. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
+Hit: 14 (2d8 + 5) bludgeoning damage.
+Reaping Arms (Recharge 5-6). The hulk makes a separate Slam
+attack against each creature within 10 feet of it. Each creature

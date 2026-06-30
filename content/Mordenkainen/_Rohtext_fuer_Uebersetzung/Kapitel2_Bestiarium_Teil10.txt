@@ -1,0 +1,500 @@
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 15 (+2) 18 (+4) 13 (+1) 11 (+0) 11 (+0)
+Skills Perception +3, Stealth +5
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 13
+Languages Abyssal, Elvish, Undercommon
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Fey Ancestry. The draegloth has advantage on saving throws
+against being charmed, and magic can’t put it to sleep.
+Actions
+Multiattack. The draegloth makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.
+Hit: 16 (2dl0 + 5) piercing damage.
+Claw. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 16 (2dl0 + 5) slashing damage.
+Spellcasting. The draegloth casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 11):
+At will: dancing lights, darkness
+1/day each: confusion, faerie fire
+
+=== PAGE 99 ===
+Drow Arachnomancer
+Drow spellcasters who seek to devote themselves
+wholly to Lolth, the Spider Queen, sometimes walk
+the sinister path of the arachnomancer. By offering
+up body and soul to Lolth, they gain tremendous
+power and a supernatural connection to the ancient
+spiders of the Demonweb Pits, channeling magic
+from that dread place.
+Drow Arachnomanger
+Medium Humanoid (Elf), Typically Chaotic Evil
+Armor Class 15 (studded leather)
+Hit Points 162 (25d8 + 50)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 17 (+3) 14 (+2) 19 (+4) 14 (+2) 16 (+3)
+Saving Throws Con +7, I nt +9, Cha +8
+Skills Arcana +9, Nature +9, Perception +7, Stealth +8
+Damage Resistances poison
+Senses blindsight 10 ft., darkvision 120 ft., passive Perception 17
+Languages Elvish, Undercommon, can speak with spiders
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Spider Climb. The drow can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Web Walker. The drow ignores movement restrictions caused
+by webbing.
+Actions
+Multiattack. The drow makes three attacks, using Bite, Poison­
+ous Touch, Web, or a combination of them. One attack can be
+replaced by a use of Spellcasting.
+Bite (Spider Form Only). Melee Weapon Attack: +8 to hit, reach
+5 ft., one target. Hit: 12 (2d8 + 3) piercing damage, and the
+--col--
+target must make a DC 15 Constitution saving throw, taking 31
+(7d8) poison damage on a failed save, or half as much damage
+on a successful one. If the poison damage reduces the target
+to 0 hit points, the target is stable but poisoned for 1 hour,
+even after regaining hit points, and is paralyzed while poisoned
+in this way.
+Poisonous Touch (Humanoid Form Only). Melee Weapon
+Attack: +8 to hit, reach 5 ft., one target. Hit: 35 (1 Od6) poi­
+son damage.
+Web (Spider Form Only; Recharge 5-6). Ranged Weapon At­
+tack: +8 to hit, range 30/60 ft., one target. Hit: The target is
+restrained by webbing. As an action, the restrained target can
+make a DC 15 Strength check, bursting the webbing on a suc­
+cess. The webbing can also be attacked and destroyed (AC 10;
+hp 5; vulnerability to fire damage; immunity to bludgeoning,
+poison, and psychic damage).
+Spellcasting. The drow casts one of the following spells, re­
+quiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 17):
+At will: dancing lights, mage hand
+1/day each: darkness, dispel magic, etherealness, faerie fire, fly,
+insect plague, invisibility
+Bonus Actions
+Change Shape (Recharges after a Short or Long Rest). The drow
+magically transforms into a Large spider, remaining in that
+form for up to 1 hour, or back into its true form. Its statistics,
+other than its size, are the same in each form. It can speak and
+cast spells while in spider form. Any equipment it is wearing or
+carrying in Humanoid form melds into the spider form. It can’t
+activate, use, wield, or otherwise benefit from any of its equip­
+ment. It reverts to its Humanoid form if it dies.
+c
+CHAPTER 2 | BESTIARY
+
+=== PAGE 100 ===
+Drow Favored Consort
+Medium Humanoid (Elf, Wizard), Any Alignment
+Armor Class 15 (18 with mage armor)
+Hit Points 240 (32d8 + 96)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 20 (+5) 16 (+3) 18 (+4) 15 (+2) 18 (+4)
+Saving Throws Dex +11, Con +9, Cha +10
+Skills Acrobatics +11, Athletics +8, Perception +8, Stealth +11
+Senses darkvision 120 ft., passive Perception 18
+Languages Elvish, Undercommon
+Challenge 18 (20,000 XP) Proficiency Bonus +6
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+IOO CHAPTER 2 | BESTIARY
+--col--
+Drow Favored Consort
+Nearly every priestess of Lolth, including the pow­
+erful drow matron mother in this book, takes an at­
+tractive drow as consort. Chosen as much for beauty
+as for magical might, a drow favored consort can
+hold their own in both conversation and combat.
+Combining the roles of advisor, protector, and be­
+loved, some favored consorts are content with a sup­
+porting role, while more ambitious consorts aspire
+to be the power behind the throne—or even to claim
+the throne themselves.
+Those favored consorts who prove their cunning
+gain the ear, and perhaps even the heart, of their
+priestess and are relied on to provide useful advice.
+No position of consort is assured for long, though;
+Lolth’s priestesses are notoriously fickle, and a con­
+sort must often contend with rivals.
+Some favored consorts work behind the scenes
+to undermine the evils encouraged by Lolth. Oth­
+ers can be found in Underdark cities free of Lolth’s
+influence, where these powerful spellcasters apply
+their might toward ending her tyranny.
+Actions
+Multiattack. The drow makes three Scimitar or Arcane Erup­
+tion attacks. The drow can replace one of the attacks with a use
+of Spellcasting.
+Scimitar. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target. Hit: 8 (ld6 + 5) slashing damage plus 27 (6d8) poi­
+son damage.
+Arcane Eruption. Ranged Spell Attack: +10 to hit, range 120 ft.,
+one target. Hit: 36 (8d8) force damage, and the drow can push
+the target up to 10 feet away if it is a Large or smaller creature.
+Spellcasting. The drow casts one of the following spells, re­
+quiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 18):
+At will: dancing lights, mage armor, mage hand, message
+3/day each: dimension door, fireball, invisibility
+1/day each: darkness, faerie fire, levitate (self only)
+Reactions
+Protective Shield (3/Day). When the drow or a creature within
+10 feet of it is hit by an attack roll, the drow gives the target a
++5 bonus to its AC until the start of the drow’s next turn, which
+can cause the triggering attack roll to miss.
+
+=== PAGE 101 ===
+! ' .... ------------------------------------ - ■=
+Drow House Captain
+Medium Humanoid (Elf), Any Alignment
+Armor Class 16 (chain mail)
+Hit Points 162 (25d8 + 50)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 19 (+4) 15 (+2) 12 (+1) 14 (+2) 13 (+1)
+Saving Throws Dex +8, Con +6, Wis +6
+Skills Perception +6, Stealth +8
+Senses darkvision 120 ft., passive Perception 16
+Languages Elvish, Undercommon
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+Multiattack. The drow makes two Scimitar attacks and one
+Whip or Hand Crossbow attack.
+Scimitar. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 7 (1 d6 + 4) slashing damage plus 14 (4d6) poi­
+son damage.
+Whip. Melee Weapon Attack: +8 to hit, reach 10 ft., one target.
+Hit: 6 (1 d4 + 4) slashing damage.
+Hand Crossbow. Ranged Weapon Attack: +8 to hit, range 30/120
+ft., one target. Hit: 7 (ld6 + 4) piercing damage, and the target
+must succeed on a DC 13 Constitution saving throw or be poi­
+soned for 1 hour. If the saving throw fails by 5 or more, the tar­
+get is also unconscious while poisoned in this way. The target
+regains consciousness if it takes damage or if another creature
+takes an action to shake it.
+Spellcasting. The drow casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 13):
+At will: dancing lights
+1/day each: darkness, faerie fire, levitate (self only)
+Bonus Actions
+Battle Command. Choose one creature within 30 feet of the
+drow that the drow can see. If the chosen creature can see or
+hear the drow, that creature can use its reaction to make one
+melee attack or to take the Dodge or Hide action.
+Reactions
+Parry. The drow adds 3 to its AC against one melee attack roll
+that would hit it. To do so, the drow must see the attacker and
+be wielding a melee weapon.
+--col--
+House eaptAiul will b Prot“t .
+Umilu—whether W their birth how or the.r
+Ltoon of urupprj rebels. « to Amjthiw,
+(Sowretoes i«furi«M mother for m, choSeu
+Umilu, W I Mrvrire their AeWion.
+1 7 TASHA
+Drow House Captain
+A drow house captain leads the troops of an Un­
+derdark faction, whether defending a stronghold or
+leading forces against enemies. These officers make
+extensive study of strategy and tactics to become
+effective leaders in battle.
+Among Lolth’s devotees in the city of Menzober-
+ranzan in the Forgotten Realms, each noble house
+entrusts the leadership of its military forces to a
+house captain, who is typically the first or second
+son of a drow matron mother (appears in this book).
+Elsewhere drow house captains fight in the war
+against Lolth, often allying with duergar and others
+who also wish to rid their subterranean world of
+that god’s malevolence.
+CHAPTER 2 | BESTIARY IOI
+
+=== PAGE 102 ===
+Drow Inquisitor
+Lolth’s worshipers expect treachery—the Spider
+Queen encourages it, after all. A certain amount o
+backstabbing and double-crossing can be manage
+but too much can undermine an entire community
+To keep some semblance of order and to root out
+traitors, priestesses of Lolth employ inquisitors.
+Inquisitors are chosen from the ranks of the pries
+hood, and their authority is equaled only by that o
+the drow matron mothers (also in this book) of the
+noble houses. Anyone they decide is at odds with
+hierarchy faces painful interrogation and usually a
+excruciating death.
+VARIANT: DEMON SUMMONING
+Some drow inquisitors have an action that allows
+them to summon a yochlol.
+Summon Demon (1/Day). The drow attempts to magically
+summon a yochlol (see the Monster Manual), with a 50 perc
+chance of success. If the attempt fails, the drow takes 5 (IdlO
+psychic damage. Otherwise, the summoned demon appears
+an unoccupied space within 60 feet of its summoner, acts as
+an ally of its summoner, and can’t summon other demons. I
+remains for 10 minutes, until it or its summoner dies, or unt
+its summoner dismisses it as an action.
+102 CHAPTER 2 | BESTIARY
+--col--
+Drow Inquisitor
+Medium Humanoid (Cleric, Elf), Typically Neutral Evil
+Armor Class 16 (breastplate)
+Hit Points 149 (23d8 + 46)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+1) 15 (+2) 14 (+2) 16 (+3) 21 (+5) 20 (+5)
+Saving Throws Con +7, Wis +10, Cha +10
+Skills Insight +10, Perception +10, Religion +8, Stealth +7
+Condition Immunities frightened
+Senses darkvision 120 ft., passive Perception 20
+Languages Elvish, Undercommon
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Discern Lie. The drow discerns when a creature in earshot
+speaks a lie in a language the drow knows.
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+of
+Multiattack. The drow makes three Death Lance attacks.
+ed,
+Death Lance. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+y.
+target. Hit: 8 (1 d6 + 5) piercing damage plus 18 (4d8) necrotic
+damage. The target’s hit point maximum is reduced by an
+amount equal to the necrotic damage taken. This reduction
+st­ lasts until the target finishes a long rest. The target dies if its
+of hit point maximum is reduced to 0.
+e
+Spellcasting. The drow’s casts one of the following spells,
+the requiring no material components and using Charisma as the
+an spellcasting ability (spell save DC 18):
+At will: dancing lights, detect magic, message, thaumaturgy
+1/day each: clairvoyance, darkness, detect thoughts, dispel magic,
+faerie fire, levitate (self only), silence, suggestion, true seeing
+Bonus Actions
+Spectral Dagger (Recharges after a Short or Long Rest). The
+drow conjures a floating, spectral dagger within 60 feet of itself.
+cent The drow can make a melee spell attack (+10 to hit) against one
+O) creature within 5 feet of the dagger. On a hit, the target takes 9
+s in (1 d8 + 5) force damage.
+s The dagger lasts for 1 minute. As a bonus action on later
+It turns, the drow can move the dagger up to 20 feet and repeat
+til the attack against one creature within 5 feet of the dagger.
+
+=== PAGE 103 ===
+Drow Matron Mother
+Among drow followers of Lolth, each noble house
+is led by a matron mother, an influential priestess
+of Lolth charged with carrying out the god’s will
+while also advancing the interests of the family. Ma­
+tron mothers embody the scheming and treachery
+associated with the Queen of Spiders. Each stands
+at the center of a vast conspiratorial web, with de­
+mons, spiders, and conscripted soldiers positioned
+between them and their enemies. Although matron
+mothers command great power, that power depends
+on maintaining the Spider Queen’s favor, and the
+goddess sometimes capriciously takes back what
+she has given. The stat block here represents a ma­
+tron mother at the height of her power.
+A matron mother is almost never encountered
+alone. She is typically accompanied by a drow
+favored consort and a drow house captain, each
+of whom appears in this book. Other Underdark
+creatures might also be in the priestess’s presence,
+providing protection or advice.
+Mothers of Rebellion
+Some matron mothers renounce Lolth and join the
+war against their former goddess. Such drow could
+be of any alignment, and they lose the following abil­
+ities in the stat block: Lolth’s Fickle Favor, Summon
+Servant, and Compel Demon. Even without these
+abilities, drow matron mothers are formidable op­
+ponents, and several of them hold positions of great
+influence in the Underdark armies arrayed against
+the followers of Lolth.
+A Matron Mother’s Lair
+The palace of a drow matron mother is her home
+and fortress. Sigils throughout the building allow
+the matron mother to use the following lair actions
+while within it.
+Any temple of Lolth also functions as a matron
+mother’s lair while she is inside it, unless she has
+renounced Lolth or another matron mother is
+present. When two or more matron mothers gather
+within a temple of their goddess, none of them can
+use it as their lair.
+Lair Actions
+On initiative count 20 (losing initiative ties), the
+drow can take one of the following lair actions when
+in her lair; she can’t take the same lair action two
+rounds in a row:
+Perceive Interlopers. The drow projects her mind
+throughout her lair, marking any potential threats
+against her or her retinue. Until initiative count 20
+--col--
+of the next round, hostile creatures within the lair
+can’t become hidden from her and gain no benefit
+from the invisible condition against her.
+Spectral Web. A glistening spectral spider web
+erupts from a point the drow can see within 120
+feet of her. Each creature within 60 feet of that
+point must succeed a DC 19 Dexterity saving
+throw or be restrained for 1 minute. A creature
+can repeat the saving throw at the end of each of
+its turns, ending the effect on itself on a success.
+Telekinetic Throw. The drow targets one creature
+she can see within 60 feet of her and attempts
+to expel it from her presence. The target must
+succeed on a DC 19 Strength saving throw or be
+flung 2d6 x 10 feet through the air. A creature
+smashed into a solid object takes ld6 bludgeon­
+ing damage for every 10 feet moved. If released
+in midair, the creature takes falling damage
+as normal.
+CHAPTER 2 | BESTIARY IOg
+
+=== PAGE 104 ===
+Armor Class 17 (half plate)
+Hit Points 247 (33d8 + 99)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 18 (+4) 16 (+3) 17 (+3) 21 (+5) 22 (+6)
+Saving Throws Con +9, Wis +11, Cha +12
+Skills Insight +11, Perception +11, Religion +9, Stealth +10
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 21
+Languages Elvish, Undercommon
+Challenge 20 (25,000 XP) Proficiency Bonus +6
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Special Equipment. The drow wields a tentacle rod.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+Multiattack. The drow makes two Demon Staff attacks or one
+Demon Staff attack and three Tentacle Rod attacks.
+Demon Staff. Melee Weapon Attack: +10 to hit, reach 5 ft., one
+target. Hit: 7 (1 d6 + 4) bludgeoning damage, or 8 (1 d8 + 4)
+bludgeoning damage if used with two hands, plus 14 (4d6)
+psychic damage. The target must succeed on a DC 19 Wisdom
+saving throw or become frightened of the drow for 1 minute.
+The frightened target can repeat the saving throw at the end of
+each of its turns, ending the effect on itself on a success.
+Tentacle Rod. Melee Weapon Attack: +9 to hit, reach 15 ft., one
+creature. Hit: 3 (1 d6) bludgeoning damage. If the target is hit
+three times by the rod on one turn, the target must succeed
+on a DC 15 Constitution saving throw or suffer the following
+effects for 1 minute: the target’s speed is halved, it has disad­
+vantage on Dexterity saving throws, and it can’t use reactions.
+Moreover, on each of its turns, it can take either an action or
+104 CHAPTER 2 | BESTIARY
+--col--
+Divine Flame (2/Day). A 10-foot-radius, 40-foot-high column
+of divine fire sprouts in an area up to 120 feet away from the
+drow. Each creature in the column must make a DC 20 Dex­
+terity saving throw, taking 14 (4d6) fire damage and 14 (4d6)
+radiant damage on a failed save, or half as much damage on a
+successful one.
+Spellcasting. The drow casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 20):
+At will: command, dancing lights, detect magic, thaumaturgy
+2/day each: banishment, blade barrier, cure wounds, hold person,
+plane shift, silence
+1/day each: clairvoyance, darkness, detect thoughts, dispel magic,
+faerie fire, gate, levitate (self only), suggestion
+Bonus Actions
+Lolth’s Fickle Favor. The drow bestows the Spider Queen’s
+blessing on one ally she can see within 30 feet of her. The ally
+takes 7 (2d6) psychic damage but has advantage on the next
+attack roll it makes before the end of its next turn.
+Summon Servant (1/Day). The drow magically summons a
+glabrezu or a yochlol (both appear the Monster Manual). The
+summoned creature appears in an unoccupied space within
+60 feet of its summoner, acts as an ally of its summoner, and
+can’t summon other demons. It remains for 10 minutes, until
+it or its summoner dies, or until its summoner dismisses it as
+an action.
+Legendary Actions
+The drow can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at
+a time and only at the end of another creature’s turn. The drow
+regains spent legendary actions at the start of her turn.
+Compel Demon. An allied demon within 30 feet of the drow
+uses its reaction to make one attack against a target of the
+draw’s choice that she can see.
+Demon Staff. The drow makes one Demon Staff attack.
+Cast a Spell (Costs 2 Actions). The drow uses Spellcasting.
+
+=== PAGE 105 ===
+Drow Shadowblade
+Medium Humanoid (Elf), Any Alignment
+Armor Class 17 (studded leather)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 21 (+5) 16 (+3) 12 (+1) 14 (+2) 13 (+1)
+Saving Throws Dex +9, Con +7, Wis +6
+Skills Perception +6, Stealth +9
+Senses darkvision 120 ft., passive Perception 16
+Languages Elvish, Undercommon
+Challenge 11 (7,200 XP) Proficiency Bonus+4
+Devil's Sight. Magical darkness doesn’t impede the drow's
+darkvision.
+Fey Ancestry. The drow has advantage on saving throws against
+being charmed, and magic can’t put the drow to sleep.
+Sunlight Sensitivity. While in sunlight, the drow has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Actions
+Multiattack. The drow makes three Shadow Sword attacks.
+One of the attacks can be replaced by a Hand Crossbow attack.
+The drow can also use Spellcasting to cast darkness.
+Shadow Sword. Melee or Ranged Weapon Attack: +9 to hit,
+reach 5 ft. or range 30/60 ft., one target. Hit: 27 (7d6 + 5) ne­
+crotic damage.
+Hand Crossbow. Ranged Weapon Attack: +9 to hit, range 30/120
+ft., one target. Hit: 8 (ld6 + 5) piercing damage, and the target
+must succeed on a DC 13 Constitution saving throw or be poi­
+soned for 1 hour. If the saving throw fails by 5 or more, the tar­
+get is also unconscious while poisoned in this way. The target
+regains consciousness if it takes damage or if another creature
+takes an action to shake it.
+Spellcasting. The drow casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 13):
+At will: dancing lights, darkness
+1/day each: faerie fire, levitate (self only)
+Bonus Actions
+Shadow Step. While in dim light or darkness, the drow tele­
+ports, along with any equipment it is wearing or carrying, up
+to 60 feet to an unoccupied space it can see that is also in dim
+light or darkness. It then has advantage on the first melee at­

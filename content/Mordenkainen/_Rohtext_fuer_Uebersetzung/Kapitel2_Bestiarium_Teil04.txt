@@ -1,0 +1,500 @@
+..
+Baphomet
+Huge Fiend (Demon), Chaotic Evil
+Armor Class 22 (natural armor)
+Hit Points 319 (22dl2+ 176)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+30 (+10) 14 (+2) 26 (+8) 18 (+4) 24 (+7) 16 (+3)
+Saving Throws Dex +9, Con +15, Wis +14
+Skills Intimidation +17, Perception +14
+Damage Resistances cold, fire, lightning
+Damage Immunities poison; bludgeoning, piercing, and
+slashing that is nonmagical
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses truesight 120 ft., passive Perception 24
+Languages all, telepathy 120 ft.
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+Labyrinthine Recall. Baphomet can perfectly recall any path he
+has traveled, and he is immune to the maze spell.
+Legendary Resistance (3/Day). If Baphomet fails a saving throw,
+he can choose to succeed instead.
+Magic Resistance. Baphomet has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. Baphomet makes one Bite attack, one Gore
+attack, and one Heartcleaver attack. He also uses Fright­
+ful Presence.
+Bite. Melee Weapon Attack: +17 to hit, reach 10 ft., one target.
+Hit: 19 (2d8 + 10) piercing damage.
+CHAPTER 2 | BESTIARY
+--col--
+Cultists of Baphomet
+Baphomet grants his cultists special abilities. All his
+devotees gain the Labyrinthine Recall trait below.
+He grants his rank-and-file followers the Unerring
+Tracker trait, and cult leaders gain the Incite the
+Hunters trait.
+Labyrinthine Recall. This creature can perfectly recall any path
+it has traveled.
+Unerring Tracker. As a bonus action, this creature magically
+creates a psychic link with one creature it can see. For the
+next hour, as a bonus action this creature learns the current
+n­ distance and direction to the target if it is on the same plane of
+existence. The link ends if this creature is incapacitated or if it
+uses this ability on a different target.
+Incite the Hunters (Recharges after a Short or Long Rest). As an
+action, this creature allows each ally within 30 feet of it that has
+the Unerring Tracker trait to make one weapon attack as a reac­
+tion against the target of that ally’s Unerring Tracker.
+Core. Melee Weapon Attack: +17 to hit, reach 10 ft., one target.
+Hit: 17 (2d6 + 10) piercing damage. If Baphomet moved at
+least 10 feet straight toward the target immediately before the
+hit, the target takes an extra 16 (3dl 0) piercing damage. If the
+target is a creature, it must succeed on a DC 25 Strength sav­
+ing throw or be pushed up to 10 feet away and knocked prone.
+Heartcleaver. Melee Weapon Attack: +17 to hit, reach 15 ft., one
+target. Hit: 21 (2dl0 + 10) force damage.
+Frightful Presence. Each creature of Baphomet’s choice within
+120 feet of him and aware of him must succeed on a DC 18
+Wisdom saving throw or become frightened for 1 minute. A
+frightened creature can repeat the saving throw at the end of
+each of its turns, ending the effect on itself on a success. These
+later saves have disadvantage if Baphomet is within line of
+sight of the creature.
+If a creature succeeds on any of these saves or the effect ends
+on it, the creature is immune to Baphomet’s Frightful Presence
+for the next 24 hours.
+Spellcasting. Baphomet casts one of the following spells, re
+quiring no material components and using Charisma as the
+spellcasting ability (spell save DC 18):
+3/day each: dispel magic, dominate beast, maze, wall of stone
+,
+1/day: teleport
+Legendary Actions
+Baphomet can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at a
+time and only at the end of another creature’s turn. Baphomet
+regains spent legendary actions at the start of his turn.
+Heartcleaver Attack. Baphomet makes one Heartcleaver attack.
+Charge (Costs 2 Actions). Baphomet moves up to his speed
+without provoking opportunity attacks, then makes a
+Gore attack.
+
+=== PAGE 59 ===
+Saving Throws Dex +4, Wis +3
+Skills Acrobatics +4, Perception +5, Performance +6
+Senses passive Perception 15
+Languages any two languages
+Challenge 2 (450 XP) Proficiency Bonus +2
+Actions
+Multiattack. The bard makes two Shortsword or Shortbow at­
+tacks. It can replace one attack with a use of Spellcasting.
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target. Hit: 5 (1 d6 + 2) piercing damage.
+Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft.,
+one target. Hit: 5 (1 d6 + 2) piercing damage.
+Cacophony (Recharge 4-6). Each creature in a 15-foot cube
+originating from the bard must make a DC 12 Constitution
+saving throw. On a failed save, a creature takes 9 (2d8) thunder
+damage and is pushed up to 10 feet away from the bard. On
+a successful save, a creature takes half as much damage and
+isn’t pushed.
+Spellcasting. The bard casts one of the following spells, using
+Charisma as the spellcasting ability (spell save DC 12):
+At will: dancing lights, mage hand, prestidigitation
+1/day each: charm person, invisibility, sleep
+Bonus Actions
+Taunt (2/Day). The bard targets one creature within 30 feet of
+it. If the target can hear the bard, the target must succeed on a
+DC 12 Charisma saving throw or have disadvantage on ability
+checks, attack rolls, and saving throws until the start of the
+bard’s next turn.
+--col--
+B
+ard
+Bards are gifted poets, storytellers, and entertain­
+ers who travel far and wide. They’re commonly
+found in taverns or in the company of jolly bands of
+adventurers, rough-and-tumble mercenaries, and
+wealthy patrons.
+Each bard is a master of at least one type of per­
+formance. You may choose a bard’s main type, or
+you may roll on the Bard Performance Types table
+to determine it.
+Bard Performance Types
+diO Performance Type
+1 Poetry
+2 Singing
+3 Bagpipe
+4 Flute
+5 Dancing
+6 Drum
+7 Lute
+8 Puppetry
+9 Mime
+10 Acting
+CHAPTER 2 | BESTIARY 59
+
+=== PAGE 60 ===
+Barghest
+Long ago, the god Maglubiyet—conqueror and then
+lord of early goblinoids—bargained with the Genera
+of Gehenna for aid. The General provided yugoloths
+which then died in service to Maglubiyet. Yet when
+the time came to honor his part of the compact,
+Maglubiyet reneged on the deal. In vengeance, the
+General of Gehenna created the soul-devouring bar
+ghests to devour goblinoid souls.
+The mission of every barghest, implanted in it by
+the General of Gehenna, is to consume souls. It eat
+these souls by devouring the bodies of those it kills,
+preferring goblinoids.
+Barghest
+Large Fiend, Typically Neutral Evil
+Armor Class 17 (natural armor)
+Hit Points 60 (8dl0 + 16)
+Speed 60 ft. (30 ft. in goblin form)
+STR DEX CON INT WIS CHA
+19 (+4) 15 (+2) 14 (+2) 13 (+1) 12 (+1) 14 (+2)
+Skills Deception +4, Intimidation +4, Perception +5, Stealth +4
+Damage Resistances cold, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 60 ft., passive Perception 1
+Languages Abyssal, Common, Goblin, Infernal, telepathy 60 ft.
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Fire Banishment. When the barghest starts its turn engulfed
+in flames that are at least 10 feet high or wide, it must succeed
+on a DC 15 Charisma saving throw or be instantly banished
+to Gehenna.
+Soul Feeding. The barghest can feed on the corpse of a Fey or
+Humanoid it killed within the past 10 minutes. This feeding
+takes at least 1 minute, and it destroys the corpse. The victim’s
+soul is trapped in the barghest for 24 hours, after which time it
+-....... ...........
+6o CHAPTER 2 | BESTIARY
+--col--
+plete its mission, return to Gehenna, and serve
+the General directly in his yugoloth legions, but it
+n doesn’t kill goblinoids indiscriminately. By devour­
+al ing the souls of goblinoid leaders and other pow­
+s, erful individuals, a barghest earns elevated status
+in the afterlife. Barghests typically keep their true
+nature secret, preying on the occasional lone goblin
+when the opportunity arises, until they reach adult­
+r- hood and are capable of seeking out stronger prey.
+A barghest avoids contact with large, open fires.
+Any conflagration larger than its body acts as a gate­
+ts way to Gehenna and banishes it to that plane, where
+, it is likely to be slain or enslaved by a yugoloth for
+its failure.
+is digested and the person is incapable of being revived. If the
+barghest dies before the soul is digested, the soul is released.
+While a soul is trapped in the barghest, any magic that tries to
+restore the soul to life has a 50 percent chance of failing and
+being wasted.
+Actions
+Multiattack. The barghest makes one Bite attack and one
+Claw attack.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+4
+Hit: 13 (2d8 + 4) piercing damage.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 8 (1 d8 + 4) slashing damage.
+Spellcasting. The barghest casts one of the following spells,
+15
+requiring no material components and using Charisma as the
+.
+spellcasting ability (spell save DC 12):
+At will: levitate, minor illusion, pass without trace
+1/day each: charm person, dimension door, suggestion
+d
+Bonus Actions
+Change Shape. The barghest transforms into a Small goblin or
+back into its true form. Other than its size and speed, its sta­
+tistics are the same in each form. Any equipment it is wearing
+or carrying isn’t transformed. The barghest reverts to its true
+s
+form if it dies.
+t
+
+=== PAGE 61 ===
+Berbalang
+Berbalangs creep across the petrified remains of
+dead gods adrift on the Astral Plane. Obsessed with
+gathering secrets, both from the gods they inhabit
+and from the bones of dead creatures, they call forth
+the spirits of the dead and force them to divulge
+what they learned in life.
+Berbalangs prefer to speak only to dead things,
+and specifically only to the spirits they call forth in
+the hope of learning secrets. They record their sto­
+ries on the bones that once belonged to these crea­
+tures, thus preserving the information they gain.
+Pursuit of knowledge drives everything berbal­
+angs do. Although they mostly learn their secrets
+from the dead, they aren’t above spying on the living
+to take knowledge from them as well. A berbalang
+can create a spectral duplicate of itself and send
+the duplicate out to gather information on other
+planes by watching places where the gods and their
+servants gather. When a berbalang is perceiving its
+environment through its duplicate, its actual body is
+unconscious and can’t protect itself. Thus, a berbal­
+ang typically uses its duplicate for only a short time
+before returning its consciousness to its body.
+The knowledge that berbalangs accumulate
+makes them great sources of information for pow­
+erful people traveling the planes. Berbalangs ignore
+petitioners, however, unless they come bearing a
+choice secret or the bones of a particularly inter­
+esting creature. Some githyanki have been able to
+strike deals with the creatures, using berbalangs to
+spy on their enemies and to watch over their creches
+on the Material Plane.
+Berbalang
+Medium Aberration, Typically Neutral Evil
+Armor Class 14 (natural armor)
+Hit Points 49 (14d8 - 14)
+Speed 30 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 16 (+3) 9 (-1) 17 (+3) 11 (+0) 10 (+0)
+Saving Throws Dex +5, I nt +5
+Skills Arcana +5, History +5, Insight +2, Perception +2,
+Religion +5
+Senses truesight 120 ft., passive Perception 12
+Languages all
+Challenge 2 (450 XP) Proficiency Bonus +2
+Actions
+Multiattack. The berbalang makes one Bite attack and one
+Claw attack.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (IdlO + 3) piercing damage plus 4 (1 d8) psychic damage.
+1 . 1 1 . 1
+--col--
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) slashing damage.
+Spellcasting. The berbalang casts one of the following spells,
+requiring no material components and using Intelligence as the
+spellcasting ability:
+At will: speak with dead
+1/day: plane shift (self only)
+Bonus Actions
+Spectral Duplicate (Recharges after a Short or Long Rest). The
+berbalang creates one spectral duplicate of itself in an unoc­
+cupied space it can see within 60 feet of it. While the duplicate
+exists, the berbalang is unconscious. A berbalang can have only
+one duplicate at a time. The duplicate disappears when it or
+the berbalang drops to 0 hit points or when the berbalang dis­
+misses it (no action required).
+The duplicate has the same statistics and knowledge as
+the berbalang, and everything experienced by the duplicate is
+known by the berbalang. All damage dealt by the duplicate's
+attacks is psychic damage.
+CHAPTER 2 | BESTIARY 6l
+
+=== PAGE 62 ===
+Bheur Hag
+Bheur hags live in wintry lands, favoring snowy
+mountains. These hags become more active during
+winter, using their ice and weather magic to make
+life miserable for nearby settlements.
+A bheur hag’s skin has the bluish hue of a person
+who has frozen to death. The hag’s hair is white,
+and the hag is emaciated, with pale eyes surrounde
+by bruise-colored flesh. A bheur hag carries a
+twisted gray wooden staff that can be ridden like a
+flying broom and that augments the hag’s magic.
+Bheur hags are attracted to selfish actions in­
+spired by deadly cold, such as murdering a traveler
+for a winter coat or chopping down a dryad’s grove
+for firewood. These actions are especially sweet to
+a bheur if they are unwarranted, such as a greedy
+merchant hoarding excess food for the winter while
+others starve. Bheurs use their ability to manipulate
+weather to batter villages with freezing cold, hoping
+to instill a despair that turns folk against each other
+In combat, a bheur hag also strives to inspire
+horror. When near a recently slain foe, the hag may
+forgo an attack to feed on the corpse. The sight of
+this butchery is enough to terrify most witnesses.
+Hag Covens
+A bheur hag that is part of a coven (see the “Hag
+Covens” sidebar in the Monster Manual) has a chal­
+lenge rating of 9 (5,000 XP).
+62 CHAPTER 2 | BESTIARY
+--col--
+Bheur Hag
+Medium Fey, Typically Chaotic Evil
+Armor Class 17 (natural armor)
+Hit Points 91 (14d8 + 28)
+Speed 30 ft., fly 50 ft. (hover, Graystaff Magic)
+STR DEX CON INT WIS CHA
+13 (+1) 16 (+3) 14 (+2) 12 (+1) 13 (+1) 16 (+3)
+Saving Throws Wis +4
+Skills Nature +4, Perception +4, Stealth +6, Survival +4
+Damage Immunities cold
+Senses darkvision 60 ft., passive Perception 14
+Languages Auran, Common, Giant
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Control Weather (1/Day). The hag can cast the control weather
+spell, requiring no material components and using Charisma as
+the spellcasting ability.
+Craystaff Magic. The hag carries a graystaff, a magic staff. The
+hag can use its flying speed only while astride the staff. If the
+staff is lost or destroyed, the hag must craft another, which
+takes a year and a day. Only a bheur hag can use a graystaff
+Ice Walk. The hag can move across and climb icy surfaces with­
+g out needing to make an ability check, and difficult terrain com­
+posed of ice or snow doesn't cost the hag extra moment.
+Actions
+Multiattack. The hag makes two Slam or Frost Shard attacks.
+ed Slam. Melee Weapon Attack: +4 to hit, reach 5 ft., one tar­
+get. Hit: 10 (2d8 + 1) bludgeoning damage plus 18 (4d8)
+cold damage.
+Frost Shard. Ranged Spell Attack: +6 to hit, range 60 ft., one
+target. Hit: 30 (6d8 + 3) cold damage, and the target’s speed is
+reduced by 10 feet until the start of the hag’s next turn.
+Horrific Feast. The hag feeds on the corpse of one enemy
+within reach that died within the past minute. Each creature
+of the hag’s choice that is within 60 feet and able to see the
+feeding must succeed on a DC 15 Wisdom saving throw or be
+e
+frightened of the hag for 1 minute. While frightened in this way,
+e a creature is incapacitated, can’t understand what others say,
+g can’t read, and speaks only in gibberish. A creature can repeat
+r. the saving throw at the end of each of its turns, ending the
+effect on itself on a success. If a creature’s saving throw is suc­
+cessful or the effect ends for it, the creature is immune to the
+y
+hag’s Horrific Feast for the next 24 hours.
+Spellcasting. While holding or riding the graystaff, the hag
+casts one of the following spells, requiring no material com­
+ponents and using Charisma as the spellcasting ability (spell
+save DC 14):
+At will: hold person
+l­
+1/day each: cone of cold, ice storm, wall of ice
+
+=== PAGE 63 ===
+Blackguard
+Medium Humanoid (Paladin), Typically Neutral Evil
+Armor Class 18 (plate)
+Hit Points 119 (14d8 + 56)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 11 (+0) 18 (+4) 11 (+0) 14 (+2) 15 (+2)
+Saving Throws Wis +5, Cha +5
+Skills Athletics +7, Deception +5, Intimidation +5
+Senses passive Perception 12
+Languages any one language (usually Common)
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The blackguard makes three attacks, using Glaive,
+Shortbow, or both.
+Claive. Melee Weapon Attack: +7 to hit, reach 10 ft., one
+target. Hit: 9 (IdlO + 4) slashing damage plus 9 (2d8) ne­
+crotic damage.
+Shortbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft.,
+one target. Hit: 5 (1 d6 + 2) piercing damage.
+Dreadful Aspect (Recharges after a Short or Long Rest). Each
+enemy within 30 feet of the blackguard must succeed on a DC
+13 Wisdom saving throw or be frightened of the blackguard
+for 1 minute. If a frightened target ends its turn more than 30
+feet away from the blackguard, the target can repeat the saving
+throw, ending the effect on itself on a success.
+Spellcasting. The blackguard casts one of the following spells,
+using Charisma as the spellcasting ability (spell save DC 13):
+2/day each: command, dispel magic, f nd steed
+Bonus Actions
+Smite. Immediately after the blackguard hits a target with an
+attack roll, the blackguard can force that target to make a DC 13
+Constitution saving throw. On a failed save, the target suffers
+one of the following effects of the blackguard's choice:
+Blind. The target is blinded for 1 minute. The blinded target
+can repeat the save at the end of each of its turns, ending the
+effect on itself on a success.
+Shove. The target is pushed up to 10 feet away and
+knocked prone.
+--col--
+Blackguard
+Blackguards are paladins who broke their sacred
+oaths and now indulge their own villainous ambi­
+tions. They consort with Fiends and Undead, and
+they reject many of the goodly things from their
+former lives.
+Blackguards often adorn their armor and weapons
+with dread accoutrements or are marked by eerie
+phenomena. You may choose a blackguard’s accou­
+trement or roll on the Blackguard Accoutrements
+table to determine it.
+Blackguard Accoutrements
+d8 Accoutrement
+1 Armor etched with stylized depictions of grue­
+some battles
+2 Helm wrought in the shape of a demonic boar
+3 Helm wrought to resemble a death mask
+4 Cloak decorated with bloody handprints
+5 Curls of inky smoke seeping from armor at the
+joints
+6 Dozens of flies buzzing about the blackguard
+7 Severed hand hanging from a chain around the
+blackguard’s neck
+8 Glaive adorned with a length of cloth bearing
+the words “I choose violence”
+CHAPTER 2 | BESTIARY 63
+
+=== PAGE 64 ===
+Bodak
+A bodak is the undying remains of someone who
+revered Orcus (appears in this book). Devoid of life
+and soul, it exists only to cause death.
+A worshiper of Orcus can take ritual vows while
+carving the demon lord’s symbol on their chest
+over the heart. Orcus’s power flays body, mind, and
+soul, leaving behind a sentient husk that consumes
+life energy near it. Most bodaks come into being in
+this way, then are unleashed to spread death in Or
+cus’s name.
+Bodaks are extensions of Orcus’s will outside the
+Abyss, serving the demon prince’s aims and other
+minions. Orcus can recall anything a bodak sees o
+hears. If he so chooses, he can speak through a bo
+dak to address his enemies and followers directly.
+A bodak retains vague impressions of its past life
+It seeks out its former allies and enemies alike to
+destroy them, as its warped soul seeks to erase any
+thing connected to its former life. Minions of Orcus
+are the one exception to this compulsion; a bodak
+recognizes them as kindred souls and spares them
+from its wrath. Anyone who knew the individual
+before its transformation into a bodak can recog­
+nize mannerisms or other subtle clues to its origi­
+nal identity.
+64 CHAPTER 2 | BESTIARY
+--col--
+Bodak
+Medium Undead, Typically Chaotic Evil
+Armor Class 15 (natural armor)
+Hit Points 58 (9d8 + 18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15(+2) 16(4-3) 15 (+2) 7 (-2) 12(4-1) 12 (+1)
+Skills Perception 4-4, Stealth 4-6
+Damage Resistances cold, fire; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Damage Immunities necrotic, poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 14
+Languages Abyssal, the languages it knew in life
+Challenge 6 (2,300 XP) Proficiency Bonus 4-3
+Death Gaze. When a creature that can see the bodak’s eyes
+starts its turn within 30 feet of the bodak, the bodak can force
+it to make a DC 13 Constitution saving throw if the bodak isn’t
+incapacitated and can see the creature. If the saving throw fails
+by 5 or more, the creature is reduced to 0 hit points unless it
+is immune to the frightened condition. Otherwise, a creature
+takes 16 (3dl0) psychic damage on a failed save.

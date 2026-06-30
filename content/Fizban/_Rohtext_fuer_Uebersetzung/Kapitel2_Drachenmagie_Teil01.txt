@@ -1,0 +1,600 @@
+CHAPTER 2 I DRAGON MAGIC 19
+=== PAGE 21 ===
+Se-ho{ay<; have, e,nga~ in [e,?1
+cle,bate,<; oVe,y whe,fhe,y oY not fhi<; <;pe,/1
+<;hov[cl pYope,y/1 be, attYibvfocl to me,.
+ltone,<;t/~, l\1e, c.,ve,ate,cl <;o man1 fhi~, I
+e,,an,t ye,a/11 ke,e,p mc.k- of fhe,m al/.
+-nzban
+, Evasion. If the creature is subjected to an effect that
+allows it to make a Dexterity saving throw to take
+only half damage, the creature instead takes no
+damage if it succeeds on the saving throw, and
+only half damage if it fails.
+As a bonus action on subsequent turns, you can
+move the field to another creature within 60 feet of
+the field.
+NATHAIR'S MISCHIEF
+2nd-Level Illusion
+,I Casting Time: 1 action
+Range: 60 feet
+Components: S, M (a piece of crust from an
+apple pie)
+Breath Weapon. When you cast this spell, and as a Duration: Concentration, up to 1 minute
+bonus action on subsequent turns for the duration,
+You fill a 20-foot cube you can see within range
+you can exhale shimmering energy in a 60-foot
+with fey and draconic magic. Roll on the Mischie
+cone. Each creature in that area must make a
+vous Surge table to determine the magical effect
+Dexterity saving throw, taking 6d8 force damage
+produced, and roll again at the start of each of your
+on a failed save, or half as much damage on a suc
+turns until the spell ends. You can move the cube up
+cessful one.
+to 10 feet before you roll.
+Wings. Incorporeal wings sprout from your back,
+giving you a flying speed of 60 feet.
+MISCHIEVOUS SURGE
+FIZBAN'S PLATINUM SHIELD d4 Effect
+6th-Level Abjuration
+The smell of apple pie fills the air, and each crea
+Casting Time: 1 bonus action ture in the cube must succeed on a Wisdom saving
+Range: 60 feet throw or become charmed by you until the start of
+Components: V, S, M (a platinum-plated dragon
+your next turn.
+scale, worth at least 500 gp)
+2 Bouquets offlowers appear all around, and each
+Duration: Concentration, up to 1 minute
+creature in the cube must succeed on a Dexterity
+You create a field of silvery light that surrounds saving throw or be blinded until the start of your
+a creature of your choice within range (you can
+next turn as the flowers spray water in their faces.
+choose yourself). The field sheds dim light out to 5
+3 Each creature in the cube must succeed on a
+feet. While surrounded by the field, a creature gains
+Wisdom saving throw or begin giggling until the
+the following benefits:
+start of your next turn. A giggling creature is inca
+Cover. The creature has half cover.
+pacitated and uses all its movement to move in a
+Damage Resistance. The creature has resistance
+random direction.
+to acid, cold, fire, lightning, and poison damage.
+4 Drops of molasses hover in the cube, making it dif
+ficult terrain until the start of your next turn.
+20 CHAPTER 2 I DRAGON MAGIC
+=== PAGE 22 ===
+RAULOTHIM'S PSYCHIC LANCE Components: S, M (a vial of meltwater)
+4th-Level Enchantment Duration: Instantaneous
+Casting Time: 1 action A burst of cold energy emanates from you in a 30-
+Range: 120 feet foot cone. Each creature in that area must make a
+Components: V Constitution saving throw. On a failed save, a crea
+Duration: Instantaneous ture takes 3d8 cold damage and is hindered by ice
+formations for 1 minute, or until it or another crea
+You unleash a shimmering lance of psychic power
+ture within reach of it uses an action to break away
+from your forehead at a creature that you can see
+the ice. A creature hindered by ice has its speed
+within range. Alternatively, you can utter a crea
+reduced to 0. On a successful save, a creature takes
+ture's name. If the named target is within range, it
+half as much damage and isn't hindered by ice.
+becomes the spell's target even if you can't see it. If
+At Higher Levels. When you cast this spell using
+the named target isn't within range, the lance dissi
+a spell slot of 3rd level or higher, increase the cold
+pates without effect.
+damage by ld8 for each slot level above 2nd.
+The target must make an Intelligence saving
+throw. On a failed save, the target takes 7d6 psychic
+SUMMON DRACONIC SPIRIT
+damage and is incapacitated until the start of your
+5th-Level Conjuration
+next turn. On a successful save, the creature takes
+Casting Time: 1 action
+half as much damage and isn't incapacitated.
+Range: 60 feet
+At Higher Levels. When you cast this spell using
+Components: V, S, M (an object with the image of a
+a spell slot of 5th level or higher, the damage in
+dragon engraved on it, worth at least 500 gp)
+creases by ld6 for each slot level above 4th.
+Duration: Concentration, up to 1 hour
+RIME'S BINDING ICE
+2nd-Level Evocation
+Casting Time: 1 action
+Range: Self (30-foot cone)
+.,
+=== PAGE 23 ===
+MAGIC ITEMS
+DRACONIC SPIRIT
+Large Dragon, Neutral
+If 10v happe-n to fnd ~ovv~e-lf in po~~~~ion
+Armor Class 14 + the level of the spell (natural armor)
+of a plafit1vM ~c.-avFt be- pve-pave-d fov
+Hit Points 50 + 10 for each spell level above 5th (the dragon
+has a number of Hit Dice [dl0s] equal to the level of the spell)
+Speed 30 ft., fly 60 ft., swim 30 ft. ~ide- qfe,c.,t~: he-ad ~wive-I~, ~~p~ of
+adMivafiot1, and M1viad C-OMpliMe-nt(
+STR DEX CON INT WIS CHA
+19 (+4) 14 (+2) 17 (+3) 10 (+0) 14 (+2) 14 (+2) -fizban
+Damage Resistances (Chromatic and Metallic Only) acid, cold,
+fire, lightning, poison
+The following magic items are presented in alpha
+Damage Resistances (Gem Only) force, necrotic, psychic,
+betical order.
+radiant, thunder
+Condition Immunities charmed, frightened, poisoned
+AMETHYST LODESTONE
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 12
+Languages Draconic, understands the languages you speak Wondrous Item, Very Rare (Requires Attunement)
+Challenge - Proficiency Bonus equals your bonus This fist-sized chunk of amethyst is infused with
+an amethyst dragon's ability to bend gravitational
+Shared Resistances. When you summon the dragon, choose
+forces. While you are carrying the lodestone, you
+one of its damage resistances. You have resistance to the cho
+have advantage on Strength saving throws.
+sen damage type until the spell ends.
+The lodestone has 6 charges for the following
+ACTIONS properties, which you can use while you are holding
+Multiattack. The dragon makes a number of Rend attacks the stone. The stone regains ld6 expended charges
+equal to half the spell's level (rounded down), and it uses daily at dawn.
+Breath Weapon. Flight. As a bonus action, you can expend 1
+Rend. Melee Weapon Attack: your spell attack modifier to hit, charge to gain the power of flight for 10 minutes.
+reach 10 ft., one target. Hit: ld6 + 4 + the spell's level pierc For the duration, you gain a flying speed equal to
+ing damage. your walking speed, and you can hover.
+Breath Weapon. The dragon exhales destructive energy in a Gravitational Thrust. As an action, you can ex
+30-foot cone. Each creature in that area must make a Dexterity pend 1 charge to focus gravity around a creature
+saving throw against your spell save DC. A creature takes 2d6 you can see within 60 feet of you. The target must
+damage of a type this dragon has resistance to (your choice) on
+succeed on a DC 18 Strength saving throw or be
+a failed save, or half as much damage on a successful one.
+pushed up to 20 feet in a direction of your choice.
+Reverse Gravity. As an action, you can expend
+You call forth a draconic spirit. It manifests in an
+3 charges to cast reverse gravity from the stone
+unoccupied space that you can see within range.
+(save DC 18).
+This corporeal form uses the Draconic Spirit stat
+block. When you cast this spell, choose a family of
+CRYSTAL BLADE
+dragon: chromatic, gem, or metallic. The creature
+Weapon (Any Sword), Rare (Requires Attunement)
+resembles a dragon of the chosen family, which de
+This magic sword's blade is fashioned from a horn
+termines certain traits in its stat block. The creature
+or spine from a crystal dragon. When you hit with
+disappears when it drops to 0 hit points or when the
+an attack roll using this sword, the target takes an
+spell ends.
+extra ld8 radiant damage.
+The creature is an ally to you and your compan
+The sword has 3 charges and regains ld3 ex
+ions. In combat, the creature shares your initiative
+pended charges daily at dawn. When you hit a crea
+count, but it takes its turn immediately after yours.
+ture with an attack roll using the sword, you can ex
+It obeys your verbal commands (no action required
+pend 1 charge to regain a number of hit points equal
+by you). If you don't issue any, it takes the Dodge ac
+to the extra radiant damage the sword dealt.
+tion and uses its move to avoid danger.
+While you're holding the sword, you can use a
+At Higher Levels. When you cast this spell using
+bonus action to cause it to shed bright light in a 30-
+a spell slot of 6th level or higher, use the higher level
+foot radius and dim light for an additional 30 feet,
+wherever the spell's level appears in the stat block.
+to cause it to shed dim light in a 10-foot radius, or to
+douse the light.
+22 CHAPTER 2 I DRAGON MAGIC
+I I .a
+=== PAGE 24 ===
+DRAGONHIDE BELT attack and damage rolls made with this flail. When
+Wondrous Item, Uncommon (+1), Rare (+2), or Very you hit with an attack roll using it, the target takes
+Rare (+3) (Requires Attunement by a Monk) an extra 5d4 damage of your choice of one of the
+following damage types: acid, cold, fire, lightning,
+This finely detailed belt is made of dragonhide.
+or poison.
+While wearing it, you gain a bonus to the saving
+While holding the flail, you can use an action
+throw DCs of your ki features. The bonus is deter
+and speak a command word to cause the heads
+mined by the belt's rarity.
+to breathe multicolored flames in a 90-foot cone.
+In addition, you can use an action to regain ki
+Each creature in that area must make a DC 18 Dex
+points equal to a roll of your Martial Arts die. You
+terity saving throw. On a failed save, it takes 14d6
+can't use this action again until the next dawn.
+damage of one of the following damage types (your
+DRAGONLANCE choice): acid, cold, fire, lightning, or poison. On a
+Weapon (Lance or Pike), Legendary (Requires At successful save, it takes half as much damage. Once
+tunement) this action is used, it can't be used again until the
+next dawn.
+A dragonlance is a renowned weapon forged from
+rare metal with the aid of powerful artifacts asso
+GOLD CANARY FIGURINE OF
+ciated with Bahamut. Different lances are forged WONDROUS POWER
+for use by foot soldiers (as pikes) and by riders (as Wondrousitem,Legendary
+lances), but the magical properties of the weapons
+This gold statuette is carved in the likeness of a ca
+are the same.
+nary and is small enough to fit in a pocket. If you use
+You gain a +3 bonus to attack and damage rolls
+an action to speak the command word and throw
+made with this magic weapon.
+the figurine to a point on the ground within 60 feet
+When you hit a Dragon with this weapon, the
+of you, the figurine becomes a living creature in
+Dragon takes an extra 3d6 force damage, and any
+one of two forms (you choose). If there isn't enough
+Dragon of your choice that you can see within 30
+space for the creature where it would appear, the
+feet of you can immediately use its reaction to make
+figurine doesn't become a creature. The two forms
+a melee attack.
+are as follows:
+DRAGON WING Bow Giant Canary Form. The figurine becomes a giant
+Weapon (Any Bow), Rare (Requires Attunement) canary (see the accompanying stat block) for up
+The limb tips of this magic bow are shaped like a to 8 hours and can be ridden as a mount. Once
+dragon's wings, and the weapon is infused with the the figurine has become a giant canary, it can't be
+essence of a chromatic, gem, or metallic dragon's used this way again until the next dawn.
+breath. When you hit with an attack roll using this Gold Dragon Form. While you are missing half or
+magic bow, the target takes an extra ld6 damage more of your hit points, you can speak a different
+of the same type as the breath infused in the bow command word and the figurine becomes an
+acid, cold, fire, force, lightning, necrotic, poison, psy adult gold dragon (see its stat block in the Mon
+chic, radiant, or thunder. ster Manual) for up to 1 hour. The dragon can't
+If you load no ammunition in the weapon, it pro use any legendary actions or lair actions. Once the
+duces its own, automatically creating one piece of
+magic ammunition when you pull back the string. GIANT CANARY
+The ammunition created by the bow vanishes the Large Beast, Unaligned
+instant after it hits or misses a target.
+Armor Class 12
+EMERALD PEN Hit Points 26 (4dl0 + 4)
+Wondrous Item, Uncommon Speed 30 ft., fly 60 ft.
+This pen is tipped with an emerald nib and requires STR DEX CON
+no ink to write. While holding this pen, you can 10 (+0) 14 (+2) 12 (+l)
+cast illusory script at will, requiring no material
+components. Senses passive Perception 10
+Languages-
+Challenge 1/2 (100 XP)
+FLAIL OF TIAMAT
+Weapon (Flail), Legendary (Requires Attunement)
+ACTIONS
+This magic flail is made in the image of Tiamat,
+with five jagged heads shaped like the heads of five Peck. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (ldl0 + 2) piercing damage.
+different chromatic dragons. You gain a +3 bonus to
+CHAPTER 2 I DRAGON MAGIC 23
+=== PAGE 25 ===
+figurine has become an adult gold dragon, it can't own, but you retain your languages, personality, and
+be used this way again until 1 year has passed. memories. You can't use a dragon's Change Shape
+or its legendary or lair actions.
+In either form, the creature is friendly to you and
+your companions. It understands your languages
+RUBY WEAVE GEM
+and obeys your spoken commands. If you issue no
+Wondrous Item, Legendary (Requires Attunement
+commands, the creature defends itself but takes no
+by a Spellcaster)
+other actions.
+While you are holding this gem, you can use it as a
+The creature exists for a duration specific to each
+spellcasting focus for your spells.
+form. At the end of the duration, the creature reverts
+The gem has 3 charges and regains all expended
+to its figurine form. It reverts to a figurine early if it
+charges daily at dawn. When you cast a spell while
+drops to O hit points or if you use an action to speak
+holding this gem, you can expend up to 3 charges to
+the command word again while touching it. When
+ignore the spell's material components with a gold
+the creature becomes a figurine again, its property
+piece cost, up to 500 gp per charge expended.
+can't be used again until a certain amount of time
+When you finish a Jong rest, choose a spell from
+has passed, as specified in the description.
+any class list. The spell you choose must be of a
+PLATINUM SCARF level you can cast. You know the chosen spell and
+Wondrous Item, Legendary (Requires Attunement) can cast it with your spell slots of the appropriate
+level until the end of your next long rest.
+This scarf is made of sturdy cloth and covered in
+platinum-colored scales.
+SAPPHIRE BUCKLER
+As an action, you can pull a scale from the scarf
+Armor (Shield), Very Rare (Requires Attunement)
+and speak a command word. When you do so,
+This crystalline blue shield is fashioned from a sap
+choose one of the following effects:
+phire dragon's scale and is created to aid in rooting
+Breath of Life. The scale disappears, and you or a out the influence of Aberrations. While wielding the
+creature you touch regains 10d4 hit points. shield, you have resistance to psychic and thunder
+Platinum Shield. For 1 hour or until you dismiss damage. Also, when you take damage from a crea
+it (no action required), the scale becomes a +l ture that is within 5 feet of you, you can use your re
+shield, which you or another creature can use. A action to deal 2d6 thunder damage to that creature.
+creature wielding the shield has immunity to radi As an action, you can use the shield to help you
+ant damage. locate Aberrations until the end of your next turn. If
+Radiant Hammer. For 1 hour or until you dismiss any Aberrations are within 1 mile of you, the shield
+it (no action required), the scale becomes a magic emits a low humming tone for a moment, and you
+light hammer, which you or another creature know the direction of all Aberrations within that
+can use. The weapon deals 2d4 radiant damage, range. Once this property is used, it can't be used
+instead of the bludgeoning damage normal for a again until the next dawn.
+light hammer. It deals an extra 2d4 radiant dam
+age to chromatic dragons. TOPAZ ANNIHILATOR
+Weapon (Firearm), Legendary (Requires Attunement)
+Once three scales have been pulled from the scarf,
+This magic ranged weapon resembles a musket, but
+no more scales can be removed until the next dawn,
+in lieu of any ammunition, it holds a glowing yellow
+when all the missing scales grow back. If you pull
+scale from a topaz dragon in its heart.
+off a scale but don't speak a command word, it dis
+The weapon has a normal range of 100 feet and
+appears after 1 minute.
+a long range of 300 feet, and it has the two-handed
+POTION OF DRAGON'S MAJESTY property. It deals 2d6 necrotic damage on a hit. If
+Potion, Legendary this damage reduces a creature or object to O hit
+points, the target is reduced to dust. A creature re
+This potion looks like liquid gold, with a single
+duced to dust can be restored to life only by a true
+scale from a chromatic, gem, or metallic dragon
+resurrection or wish spell.
+suspended in it. When you drink this potion, you
+While the weapon is on your person, you can use
+transform into an adult dragon of the same kind as
+an action to cast the disintegrate spell (save DC 18).
+the dragon the scale came from. The transformation
+Once this property is used, it can't be used again un
+lasts for 1 hour. Any equipment you are wearing or
+til the next dawn.
+carrying melds into your new form or falls to the
+ground (your choice). For the duration, you use the
+game statistics of the adult dragon instead of your
+~
+24 CHAPTER 2 I DRAGON MAGIC
+=== PAGE 26 ===
+HOARD MAGIC ITEMS associated with the dragon's age-putting a Wak
+ened item in a slain adult dragon's hoard does not
+make it Ascendant, for example.
+I've. le.+ acive.rrtvve.v<; pvt the.iv +01<; in
+DECREASING POWER
+m1 hoavci to <;te.e.p onc.-e. ov fwic.-e.. I c..-an
+Just as hoard items can grow in power by absorbing
+ne.ve.v !Ft a 5°oc1 niyit~ <;le.e.p while. the ambient magic of a dragon's hoard, so too can
+these treasures fall back into slumber. If no creature
+the.1've. the.ve., thovy,. It~ like. an itc..-h.
+is attuned to a hoard item and that item isn't in a
+-riz.ban dragon's hoard, the item decreases in power by one
+state every 30 days until it is Slumbering.
+Certain magic items can absorb the ambient magic
+HOARDITEMQ;~U_I_R_K_S_ _____
+of a dragon's hoard. The mightier the dragon, the
+Hoard items often manifest strange qualities be
+more powerful the item becomes when it is steeped
+yond their intended function, regardless of the state
+in the dragon's hoard. These items, called hoard
+they're in. Roll once on the Draconic Quirks table to
+items, have four states, which are summarized on
+determine the quirk of a hoard item.
+the Hoard Item States table. A hoard item in its
+Slumbering state has certain base properties, and it
+DRACONIC QUIRKS
+gains additional properties when it enters the Stir
+ring, Wakened, or Ascendant state. d8 Quirk
+When resting on the ground, the item points in the
+HOARD ITEM STATES direction of the last hoard it steeped in.
+State Age 2 The item's bearer can speak and understand Dra
+Slumbering conic.
+Stirring Young 3 The item glows softly when within 60 feet of a
+Wakened Adult Dragon or another hoard item.
+Ascendant Ancient 4 The item's bearer gains a swimming speed equal to
+their walking speed.
+INCREASING POWER
+5 The item's bearer has advantage on Intelligence
+A hoard item left to steep in a dragon's hoard ab (History) checks.
+sorbs power from the hoard. Older dragons' hoards
+6 The item's bearer has advantage on Charisma (In
+are charged with more magic and can empower
+timidation) checks made against non-Dragons.
+hoard items to higher states.
+7 The item grants its bearer resistance to the damage
+Ordinarily, a hoard item must steep in a dragon's
+type of the breath weapon of the last dragon whose
+hoard for 1 year to reach the maximum possible
+state allowed by the age of the hoard's dragon, as hoard the item steeped in.
+shown on the Hoard Item States table. For exam 8 The item's bearer dreams of the dragon whose
+ple, a hoard item that steeps in a young dragon's hoard the item last steeped in.
+hoard for 1 year enters its Stirring state, while one
+that steeps in an ancient dragon's hoard for 1 year HOARD ITEM DESCRIPTIONS
+reaches the pinnacle of its power and enters its As
+Hoard items are presented here in alphabetical or
+cendant state. If there are one or more hoard items
+der. A hoard item's rarity changes depending on its
+steeping in a dragon's hoard, the dragon is aware
+current state, as shown in each item description.
+of them. The dragon also knows what these hoard
+items are and what state (Slumbering, Stirring, DRAGON'S WRATH WEAPON
+Wakened, or Ascendant) each of them is in. Weapon (Any), Rarity Varies (Requires Attunement)
+When a dragon is slain, the magic surrounding
+This weapon is decorated with dragon heads, claws,
+its hoard becomes volatile. This allows a hoard
+wings, scales, or Draconic letters. When it steeps in
+item to steep more quickly in the hoard. A hoard
+a dragon's hoard, it absorbs the energy of the drag
+item steeped in a dragon's hoard for 8 hours rises
+on's breath weapon and deals damage of that type
+one state (from Slumbering to Stirring, Stirring to
+with its special properties.
+Wakened, or Wakened to Ascendant), as long as the
+Slumbering (Uncommon). Whenever you roll
+steeping begins within 1 hour of the dragon's death
+a 20 on your attack roll with this weapon, each
+and occurs within the dragon's lair. Steeping in this
+creature of your choice within 5 feet of the target
+way can't raise the state of the item beyond the state
+CHAPTER 2 j DRAGON MAGIC 25
+=== PAGE 27 ===
+takes 5 damage of the type dealt by the dragon's DRAGON-TOUCHED Focus
+breath weapon. Wondrous Item, Rarity Varies (Requires Attunement
+Stirring (Rare). The Stirring weapon has the by a Spellcaster)
+Slumbering property. In addition, you gain a +1
+This wondrous item can be a scepter, an orb, an
+bonus to attack and damage rolls made using
+amulet, a crystal, or another finely crafted object. It
+the weapon. On a hit, the weapon deals an ex
+typically incorporates imagery of dragons' wings,
+tra ld6 damage of the type dealt by the dragon's
+claws, teeth, or scales.
+breath weapon.
+Slumbering (Uncommon). You have advantage
+Wakened (Very Rare). The Wakened weapon has
+on initiative rolls. While you are holding the fo
+the Slumbering property, and it improves on the
+cus, it can function as a spellcasting focus for all
+Stirring property. The bonus to attack and damage
+your spells.
+rolls increases to +2, and the extra damage dealt by
+Stirring (Rare). The Stirring focus has the Slum
+the weapon increases to 2d6.
+bering property, and it gains an additional property
+As an action, you can unleash a 30-foot cone of
+determined by the family of the dragon in whose
+destructive energy from the weapon. Each creature
+hoard it became Stirring:
+in that area must make a DC 16 Dexterity saving
+throw, taking 8d6 damage of the type dealt by the Chromatic. Whenever you use a spell slot to cast
+dragon's breath weapon on a failed save, or half as a spell that deals acid, cold, fire, lightning, or
+much damage on a successful one. Once this action poison damage, roll a d6, and you gain a bonus
+is used, it can't be used again until the next dawn. equal to the number rolled to one of the spell's
+Ascendant (Legendary). The Ascendant weapon damage rolls.
+has the Slumbering property, and it improves on the Gem. Whenever you use a spell slot to cast a spell,
+Stirring and Wakened properties. The bonus to at you can immediately teleport to an unoccupied
+tack and damage rolls increases to +3 , and the extra space you can see within 15 feet of you.
+damage dealt by the weapon increases to 3d6. Metallic. When a creature you can see within 30
+The cone of destructive energy the weapon cre feet of you makes a saving throw, you can use your
+ates increases to a 60-foot cone, the save DC in reaction to give that creature advantage on the
+creases to 18, and the damage increases to 12d6. saving throw.
+Wakened (Very Rare). The Wakened focus has
+the Slumbering and Stirring properties, and while
+you are holding a Wakened focus, you can use it to
+cast certain spells. Once the item is used to cast a
+given spell, it can't be used to cast that spell again
+until the next dawn. The spells are determined by
+the family of the dragon in whose hoard it became
+Wakened. An asterisk indicates a new spell that ap
+pears earlier in this chapter.
+Chromatic. Hold monster, Rime's binding ice*
+Gem. Rary's telepathic bond, Raulothim's
+psychic lance*
+Metallic. Fizban's platinum shield,* legend lore
+Ascendant (Legendary). The Ascendant focus
+has the Slumbering, Stirring, and Wakened prop
+erties. In addition, when you cast a spell of 1st level
+or higher while holding this focus, you can treat the
+spell as if it were cast using a 9th-level spell slot.
+Once this property is used, it can't be used again un
+til the next dawn.
+=== PAGE 28 ===
+DRAGON VESSEL DRACONIC GIFTS
+Wondrous Item, Rarity Varies (Requires Attunement)
+This vessel can be a potion bottle, drinking horn, or Yov /:::.now the- pvove-Yb: don, t look- a
+other container meant to hold a liquid.
+j.ft-
+Slumbering (Uncommon). As a bonus action, if clv-ac..onic..- in the- Movth. Some, ~a1 itt
+the vessel is empty, you can speak the command
+be,e,.av~e, of the- bve-ath we-apon. Bvt ve-a/11
+word to fill the vessel with one of the following (your
+choice): ale, olive oil, a potion ofh ealing, or a potion ,tt the, ~Me-II.
+of climbing. Once this property is used, it can't be
+-fizban
+used until the next dawn. A potion you create in this
+way loses its magical properties if it isn't imbibed
+within 24 hours.
+As described in chapter 3, the death of a dragon
+Stirring (Rare). In addition to the options for a
+can result in its power taking root in a character,
+Slumbering vessel, you can fill a Stirring vessel
+whether that person is the dragon's chosen heir
+with mead, a potion of fire breath, or a potion of
+or the dragon's killer. The result of this investiture
+healing (greater).
+can vary widely in power and impact, from a minor
+Wakened (Very Rare). In addition to the options
+charm to a complete transformation.
+for a Slumbering or Stirring vessel, you can fill a
+Sometimes, a draconic gift has an obvious visual
+Wakened vessel with wine, a potion of flying, or a
+manifestation, such as when a character is trans
+potion ofh ealing (superior).
+formed into a dragonborn. Other gifts are invisible,
+Ascendant (Legendary). In addition to the op
+but no less potent. But on some worlds, the inves
+tions for other states, you can fill an Ascendant
+titure of draconic power is accompanied by some
+vessel with whiskey, a potion ofh ealing (supreme),
+kind of physical manifestation, especially if it's
+or a potion ofd ragon's majesty (described earlier in
+derived from slaying a dragon. It might be small
+this chapter).
+and easily hidden, but those who know to look can
+usually identify a dragonslayer (or another character
+SCALED ORNAMENT
+who carries a draconic gift) by a telltale sign. The
+Wondrous Item, Rarity Varies (Requires Attunement)
+Draconic Marks table suggests some possibilities of
+This ornament can be jewelry, a cloak, or another
+what these marks might look like.
+wearable accessory. It appears to be fashioned from
+a dragon's scale, tooth, or claw, or it incorporates DRACONIC MARKS
+images in those shapes.
+d4 Visual Manifestation
+Slumbering (Uncommon). You have advantage
+One or both of the character's eyes change color
+on saving throws you make to avoid being charmed
+to resemble the dragon's eyes or scales.
+or frightened or to end those conditions on you.
+Stirring (Rare). You gain a +l bonus to AC, and 2 The character's hair {or a streak ofit) changes
+you can't be charmed or frightened. Moreover, each color to match the color of the dragon's scales.
+creature of your choice within 30 feet of you has 3 A mark like a stylized dragon eye or claw appears
+advantage on saving throws it makes to avoid being
+on the body.
+charmed or frightened or to end those conditions
+4 Patches of scales appear on the character's body,
+on itself.
+typically on the neck, shoulders, or forearms.
+Wakened (Very Rare). The Wakened ornament
+has the Stirring property. In addition, when you
+would take damage of the type dealt by the breath
+of the dragon in whose hoard the ornament became
+Wakened, you can use your reaction to take no dam
+age instead, and you regain hit points equal to the
+damage you would have taken. Once this property is
+used, it can't be used again until the next dawn.
+•
+Ascendant (Legendary). The Ascendant orna
+ment has the Stirring and Wakened properties. In
+addition, while you are wearing the ornament, you
+gain a flying speed equal to your walking speed and
+can hover. While you are flying using this speed,
+spectral dragon wings appear on your back.
+CHAPTER 2 I DRAGON MAGIC 27
+=== PAGE 29 ===
+DRACONIC GIFT DESCRIPTIONS the family of the dragon that is the source of this
+gift. You can keep any skill proficiencies you gained
+from your previous race, or you gain proficiency in
+Some- of the- /e-(;c; wmmon dvawnic..- two skills of your choice.
+51ft-c; l>ve, c;e-e-n b<½towe-cJ inc..-lvde, UJvbb1
+DRACONIC SENSES
+Draconic Gift, Rare
+e,he,e,k,c; and an adorable- nafvve-; the
+You gain keen senses like a dragon's.
+abilini to blow immac..-vlafo c;mofce, vi~;
+Blindsight. You have blindsight to a range of
+and the- innate- c;e-nc;e, of vvhe-n 1ovv ~ 10 feet. Within that range, you can effectively see
+anything that isn't behind total cover, even if you're
+ic; pe-vfe,c..-t/1 c;oft--boile-cJ. I wovldn>t mind blinded or in darkness. Moreover, you can see invisi
+ble creatures within that range, unless the creatures
+that /ac;t one- m~c;e-lf.
+successfully hide from you.

@@ -1,0 +1,600 @@
+CHAPTER 4 I LAIRS AND HOARDS 63
+=== PAGE 65 ===
+REGIONAL EFFECTS zle to a drenching downpour, and it lightly or heav
+ily obscures the area.
+M1 favovHe- laiv I've- e,ve,v vic;ite:-d wa<; WATER CHANGES
+A dragon's presence often affects nearby water, such
+a e,v-1<;1-al clVd5°nt. It fvvne:-d e-ve-v1one-t as the way black and red dragons can foul the water
+near their lairs. Other regional effects related to wa
+voie,e, into a higi-pitdie:-d <;fe,ak..
+ter include the following examples:
+R&Me-Mbe-~ not all laiv <;he-nani~n<; ave,
+Beguiling Water. When a creature drinks from a
+de-vac;tafi~ stream or lake within 1 mile of the dragon's lair,
+the creature must make a Wisdom saving throw
+-fizban
+against a DC equal to 8 + the dragon's proficiency
+bonus + its Charisma modifier. On a failed save,
+the creature is charmed by the dragon for 24
+The area around a legendary dragon's lair is al
+hours. On a successful save, the creature is im
+tered by the dragon's presence. The regional effects
+mune to this effect for the next 24 hours.
+described in the Monster Manual and chapters 5
+Icy Water. All streams and bodies of water within 6
+and 6 of this book are not the only ways a dragon's
+miles of the lair have a year-round covering of ice
+influence can manifest. You can add regional effects
+or are frozen solid, regardless of the local weather.
+to make a particular dragon's lair feel unique and
+Sweet Water. Any water within 6 miles of the lair
+wondrous. Adding regional effects to a dragon's lair
+is supernaturally pure. It tastes mildly sweet, and
+has no effect on the dragon's challenge rating, so
+if added to any other liquid, it changes an equal
+you can use them freely to set the tone you want for
+volume of that liquid into pure, drinkable water.
+your adventure.
+This neutralizes poisons and turns salt water and
+TERRAIN CHANGES contaminated water into fresh water.
+Plant growth creates difficult terrain, sinkholes ap
+pear, and hedge mazes or icy walls limit movement. CHANGES TO CREATURES
+A dragon's presence can alter the behavior or phys
+Additional regional effects in this category include
+ical characteristics of creatures dwelling near the
+the following examples:
+dragon's lair. The presence of a gem dragon draws
+Exposing Terrain. The terrain within 6 miles of the specific kinds of creatures to dwell nearby, and
+lair actively works to foil stealth, giving creatures other dragons sometimes influence animals near
+other than the dragon disadvantage on Dexterity their lairs to spy for them. Other creature-related re
+(Stealth) checks. Leaves change color to contrast gional effects include the following examples:
+with those trying to hide among them, branches
+Draconic Births. Beasts and Monstrosities that are
+move to reveal creatures, fog clears, and so on.
+born within 6 miles of the lair have a high likeli
+Smooth Roads. Difficult terrain within 12 miles
+hood of being half-dragons.
+of the dragon's lair is not considered difficult, as
+Draconic Tint. Creatures that live within 6 miles of
+undergrowth moves out of a traveler's way, slopes
+the lair develop coloration similar to the dragon's.
+are not as steep as they first appeared, and rough
+Pervasive Influence. People dwelling within 12
+ground levels out under a traveler's feet.
+miles of the dragon's lair develop personality traits
+Wilderness Hazards. Any of the wilderness haz
+inspired by the dragon-heightened suspicion,
+ards described in the Dungeon Master's Guide
+garrulousness, greed, placidity, or the like. Individ
+might manifest near the dragon's lair.
+uals manifest these tendencies in different ways
+WEATHER CHANGES and to different degrees. If the dragon dies or
+Fog, storms, precipitation, and supernatural mists leaves the area, these traits fade over ldlO days.
+can form around a dragon's lair, and some dragons
+PLANAR CONNECTIONS
+can alter the weather to even greater effect as they
+The powerful magic bound up in a dragon's lair
+see fit. Other weather-related regional effects in
+can forge connections to other worlds of the Mate
+clude the following examples:
+rial Plane or even other planes of existence. Magic
+Pleasant Weather. The weather within 6 miles of portals to the Elemental Plane of Fire often appear
+the dragon's lair is always sunny and pleasantly around a red dragon's lair, for example, and the lairs
+warm during the day. Rain falls only at night, and of crystal and topaz dragons are suffused with posi
+dew waters the ground in the early morning. tive and negative energy, respectively. Other planar
+....
+Unending Rain. Rain falls constantly within 6 connections that might appear around a dragon's
+miles of the dragon's lair, ranging from light driz- lair include the following effects:
+64 CHAPTER 4 I LAIRS AND HOARDS
+=== PAGE 66 ===
+Draconic Blessing. Bahamut or Tiamat has placed LAIR ACTIONS
+the lair under the effect of a hallow spell.
+Like regional effects, a dragon's lair actions reflect
+Planar Portals. Fissures, archways, or tunnels
+an intimate connection to the magical energy that
+within 1 mile of the dragon's lair form magic por
+flows through and around the lair. The broad scope
+tals to an appropriate Elemental Plane.
+of that magic means that a dragon need not be
+Windows to Other Worlds. Pools or passageways
+limited to the lair actions described in the Monster
+within the lair allow communication or travel
+Manual and chapter 6 of this book. Chapter 5 of this
+between different worlds in the Material Plane.
+book offers suggestions for additional lair actions
+The dragon uses these to converse with echoes on
+for various kinds of dragon, which are tailored to
+other worlds.
+those dragons and the example lair maps found in
+DRAGON MAGIC that chapter. Additional lair actions that might apply
+Regional effects sometimes give dragons unusual to any dragon in any lair include the following:
+magical capabilities. For example, gold dragons can Catch Breath. The dragon rolls a d6. On a 6, it re
+appear in the dreams of creatures that sleep near
+charges its breath weapon action.
+their lairs, green dragons can't be tracked near their Lair Rejuvenation. The dragon regains hit points
+lairs, brass dragons are aware of creatures that
+equal to the number of Hit Dice it has by drawing
+come near water in their territory, and gem dragons
+on the magical energy suffusing its lair.
+can use clairvoyance to observe particular features Lingering Breath. Any creature that took damage
+near their lairs. Similar effects include the follow
+from the dragon's breath weapon on the dragon's
+ing examples:
+previous turn immediately takes 10 (3d6) damage
+Death Warning. The dragon is instantly aware of of that type, as the breath weapon's energy lingers
+the death of any creature within 1 mile of its lair and clings to its targets.
+and can review the last moments of the creature's Toughened Scales. Glowing magical energy swirls
+life as seen through the creature's eyes. across the dragon's scales, granting the dragon
+Menacing Dreams. People who sleep within 6 resistance to bludgeoning, piercing, and slashing
+miles of the dragon's lair dream of the menac damage until initiative count 20 on the next round.
+ing dragon.
+Name Alerts. If the dragon's name is spoken within AGE AND A DRAGON'S LAIR
+1 mile of its lair, the dragon instantly knows it and Ordinarily, a dragon gains access to lair actions and
+hears everything said within 10 feet of that spot manifests regional effects around a lair only upon
+reaching adulthood and the legendary status that
+for the next 5 minutes.
+comes with that age. The close connections between
+a dragon and the fabric of the Material Plane take time
+COSMETIC ALTERATIONS
+to develop, so the dragon's power doesn't manifest in
+Regional effects around a dragon's lair might in
+the world until the dragon has spent nearly a century
+volve only minor visual or auditory phenomena. This
+in a lair. That said, if you want to give lair actions and
+includes such effects as the appearance of a copper regional effects to a young dragon or even a wyrm
+dragon's likeness on stone formations, the bright ling, you can.
+colors of underwater plants near a bronze dragon's Regional effects have no bearing on a dragon's chal ...
+lair, or the crystalline growths common near any lenge rating-they exist primarily to help you craft the
+proper atmosphere around a dragon's lair. So feel free
+gem dragon's lair. Other examples include the fol ..
+to have a younger dragon manifest these effects, albeit •
+lowing effects:
+perhaps in a smaller area than what's described in the
+Deceptive Reflections. At first glance, still water Monster Manual or this book and using lower DCs for
+any associated ability checks or saving throws.
+within 6 miles of the lair shows a reflection of
+Lair actions can have a more significant effect on a
+the dragon flying overhead; the image disappears
+younger dragon's challenge rating. For adult or ancient
+upon further examination. •
+dragons, who already benefit from legendary actions,
+Face in the Clouds. The dragon's visage appears in
+lair actions don't significantly impact their power or
+cloud formations above the lair, giving the impres how they function in play, but if you add lair actions
+sion that the dragon is watching intruders. to a dragon who doesn't already have legendary ac
+Starry Scenes. At night, the stars above the drag tions, those actions significantly change the way the
+dragon plays and probably adjust their challenge rating
+on's lair are surrounded by faint outlines of crea
+upward by 1 or more. Use the guidelines on creating
+tures that begin to move and act out scenes from
+monsters in the Dungeon Master's Guide to determine
+the dragon's dreams-including the dragon.
+whether you're making the dragon too much of a threat
+to a party.
+CHAPTER 4 I LAIRS AND HOARDS 65
+=== PAGE 67 ===
+DRAGON HOARDS WYRMLINGS
+Wyrmling dragons begin acquiring hoards as soon
+as they can fly, but their small scope of operations
+What i<; a dvagn withovt a hoav-d? The
+makes them unlikely to amass more than a few
+an<;we,~ it -tvv-n<; ovf; i<; 1'<.:i911f e,,antl~ hundred gold pieces worth of treasure and perhaps
+a handful of magic items. If sharing a lair with other
+dimini<;hw.1
+' wyrmlings or adult dragons, the wyrmlings stash
+-fiz.ban their hoards in their own distinct portions of the lair.
+Otherwise, they keep their treasure in secret caches
+near where they sleep.
+Hoarding treasure is an essential part of draconic
+nature. It's not that dragons are overwhelmingly YOUNG DRAGONS
+greedy, as other peoples understand the term As dragons transition from wyrmling to young age,
+though some dragons definitely are. Nor are they at around five years, they also begin to look for their
+simply attracted to shiny objects in the manner of first permanent lairs and amass more substantial
+magpies. Rather, hoards are extensions of dragons' hoards, which grow in value to many thousands of
+inherently magical nature-resonators that focus gold pieces. Young dragons keep their hoards safe
+their magic and link them to the magic of the Mate in the same central location where they sleep. Such
+rial Plane. dragons typically do not yet impose regional effects,
+but these effects might begin to manifest as the
+AGE, HOARDS, AND POWER ---- dragons' connections to their lairs develop. You can
+Dragons thrum with the magical energy that suf- add regional effects and even lair actions to young
+fuses the Material Plane, and this energy is ampli dragons, particularly for dragons who have acquired
+fied by their possession of material things. In prac an unusually large hoard. These dragons might
+tical terms, this means dragons' power is related not be old enough to fully step into the power of an
+to both age and the size of their hoards in ways adult, but gathering such a hoard makes them more
+that clever dragons-and would-be dragonslayers powerful than other dragons of a similar age.
+can exploit.
+=== PAGE 68 ===
+ADULT DRAGONS box whose empty spaces indicate the number of
+A dragon's transition to adulthood is measured by pieces missing.
+two milestones: a century of life and a hoard worth
+around 15,000 gp or more. A hoard of that size HOARD LINKING ITEMS
+binds dragon, lair, and territory together in a tangle d10 Linking Items
+of magical energy that makes the dragon truly leg The broken pieces of an artifact (such as the Rod of
+endary, empowering the dragon's legendary actions
+Seven Parts)
+and lair actions and spreading draconic influence
+2 A set of large gemstones, each engraved with the
+throughout the area as regional effects.
+seal of a particular nation or the symbol of a deity
+As dragons age and amass larger hoards, they
+tend to establish multiple lairs. This serves partly to 3 Numbered volumes of an encyclopedia or compre
+mitigate risk-there's less chance of a dragon losing hensive history
+an entire hoard in a single burglary if that hoard 4 Statuettes depicting different kinds of dragons
+is spread across multiple locations-and partly
+5 Portraits of the members of a well-known historical
+to extend the dragon's magical influence across a
+family
+growing territory. The treasure cache stored in each
+6 Ornate nesting dolls that feature a large gemstone
+lair anchors the dragon's power there even when
+the dragon isn't present, extending the reach of re egg at the heart of the set
+gional effects. 7 Regalia-an orb, a crown, a scepter, and so forth
+Dragons typically establish new caches as their belonging to a recently deposed monarch
+hoard reaches multiples of 15,000 gp. Throughout 8 Pieces of a full suit of armor that once belonged to
+their adult years, dragons can each assemble six
+an ancient hero
+to eight caches in multiple lairs spread across the
+9 A set of teeth from a rival dragon, a prophet, or a
+greater part of a continent.
+rare creature
+ANCIENT DRAGONS 10 Pieces of a chess set or another board game, or
+Around the age of eight hundred years, dragons cards from a deck of playing cards, a tarokka deck,
+take on ancient status, by which time they have typ or a deck of many things
+ically amassed eight to ten caches whose total value
+is at least 200,000 gp. Ancient dragons continue PLUNDERING A HOARD
+expanding their hoards as the centuries wear on,
+Because dragons' power is linked to treasure, it's
+increasing both the number of caches and the value
+possible to weaken a dragon by plundering the drag
+of each cache, until their total wealth can exceed a
+on's lair. By gaining access to a hoard and making
+million gold pieces.
+off with a significant portion of that wealth, charac
+ters can diminish the dragon's connection to both
+LINKING HOARDS
+that lair and its associated territory.
+A dragon dividing a hoard often apportions one or
+As a rule of thumb, if a dragon's lair no longer
+more pieces from a linked set of objects to each
+holds at least 10,000 gp worth of treasure, the site
+treasure cache. This practice strengthens the mys
+is no longer considered a lair. The dragon can't use
+tical link among the portions of the divided hoard,
+lair actions there, and the regional effects surround
+helping to maintain the dragon's claim of ownership
+ing the lair end or fade as if the dragon had died.
+over the parts of the hoard far from the dragon's
+This suggests an effective strategy that characters
+current location and unifying scattered caches into
+might hit on for confronting a dragon: find one of
+what is effectively a single hoard.
+the dragon's smaller lairs and plunder the treasure
+This linking can add the fun goal of having the
+there, removing it quickly. Disturbing a hoard in
+characters collect a complete set of divided treasure
+evitably attracts the dragon's attention, because
+as they try to find all the caches of a dragon's hoard.
+either minions or the dragon's magical connection
+The Hoard Linking Items table offers suggestions
+to the hoard alerts the dragon to intruders. A dragon
+for item sets that a dragon might use in this way.
+coming to investigate the disturbed lair has a strong
+Ideally, players should be able to deduce the total
+incentive to fight in reaction to the theft-and to pre
+number of items in the set after they've found one
+vent the loss of more treasure. The realization might
+or two caches, so they know how many more pieces
+come too late that the loss of treasure has left the
+need to be collected. Sometimes the correct number
+dragon vulnerable.
+is obvious (the number of pieces in a chess set or
+Theoretically, it's possible to strip an adult or an
+cards in a deck, for example), but consider having
+cient dragon of legendary status by plundering the
+z z w an item found early on be stored in a decorative dragon's entire hoard across all its locations. For
+«
+Q J: _ this to work, the dragon would have to be magically
+CHAPTER 4 I LAIRS AND HOARDS 67
+=== PAGE 69 ===
+bound or otherwise prevented from interfering with UNFINISHED BUSINESS
+the looting-but that sort of binding might be easier
+d6 Unfinished Business
+than killing a powerful legendary dragon.
+Entrust the haunted item to the ghost's heir
+HOARD Q;<U..:..._IR_K_ S _________ 2 Entomb the haunted item with the ghost's corpse
+A dragon's hoard has features similar to those of 3 Destroy the haunted item
+a powerful magic object, and plundering a hoard 4 Use the haunted item for a specific purpose
+can have lingering effects long after the death of its
+5 Reunite the haunted item with other items forming
+draconic owner. Any number of supernatural effects
+a set
+can linger in and around the hoard of a legendary
+6 Destroy the ghost's killer: a dragon who is an echo
+dragon, often concentrated in a few valuable pieces
+of the hoard's owner on another world
+of treasure-the most precious gems or art objects,
+or the rarest magic items, for example.
+A DRAGON'S CURSE
+A dragon's violent death sometimes causes a hoard
+REGIONAL EFFECTS
+The regional effects associated with legendary drag to carry a lingering curse. A dying dragon might
+pronounce a bitter magical oath upon any who
+ons' lairs are channeled into the environment from
+the dragons through their hoards. These effects can would plunder the dragon's hoard, or a living dragon
+linger to varying degrees when a hoard's treasure might inscribe a dire warning about the foul magic
+is moved somewhere else, as in any of the follow that will be unleashed on any who plunder the drag
+on's treasure. Such a curse typically affects not only
+ing examples:
+those who steal from the hoard, but anyone else
+Alter Water. An item from the hoard pollutes or pu
+who comes into contact with the treasure. Moreover,
+rifies any water it touches.
+breaking the curse is usually possible only if all the
+Alter Weather. An item from the hoard attracts
+treasure is gathered together again in one place.
+weather appropriate to the dragon's kind.
+Use the Hoard Curse Effects table to inspire possi
+Attract Animals. Tiny animals are irresistibly at
+ble effects for a dragon's lingering curse.
+tracted to an item from the hoard and constantly
+try to take it.
+HOARD CURSE EFFECTS
+Dragon Dreams. Creatures sleeping near the trea
+d6 Hoard Curse Effect
+sure dream of the dragon.
+Each affected creature gains l level of exhaustion
+Personality Shift. Characters wielding items from
+the hoard develop personality traits evocative of that can't be removed until the curse is broken.
+the dragon's traits. 2 Each affected creature automatically fails saving
+Seek Return. Sentient items from the hoard want throws against dragons' breath weapons and
+to return to the dragon's lair and cause characters Frightful Presence.
+to accidentally stray in that direction.
+3 Each affected creature gains vulnerability to the
+Verdant Influence. If coins from the hoard are
+damage type of the breath weapon of the dragon
+placed in soil, they encourage lush plant growth.
+who cursed the hoard.
+HAUNTED HOARDS 4 Each affected creature's speed is reduced by 10
+It's not unusual for one or more items in a dragon's feet.
+hoard to be haunted. Restless spirits might haunt
+5 Affected creatures can't spend Hit Dice to regain
+objects that held special significance to them in life,
+hit points during a short rest.
+and the death of the dragon who stole those items
+6 When an affected creature dies, its soul becomes
+might be an opportunity for such spirits to find rest
+imprisoned by the slain dragon's spirit, preventing
+at last. A haunting spirit might fully manifest as a
+ghost, a specter, a wraith, or a similar creature, or the creature from being raised from the dead.
+it might give the haunted item the characteristics of
+In general, ending the curse on a dragon's hoard is
+a sentient magic item.
+not as simple as casting a single spell. Magic can of
+The most certain way to end a haunting is to com
+fer temporary respite, though. A remove curse spell
+plete the unfinished business that keeps a spirit
+cast on any affected character suppresses the effect
+bound to the mortal world. In the case of a haunted
+of the curse for 1 hour, while a greater restoration
+hoard, you can use the Unfinished Business table to
+spell suppresses the curse until the victim finishes a
+help you decide what that might be.
+long rest.
+Returning the entire hoard to the dragon's lair
+ends the curse, but removing even a single coin
+68 CHAPTER 4 I LAIRS AND HOARDS
+=== PAGE 70 ===
+activates it again. Short of the drastic step of aban COMPETITION FOR A HOARD
+doning the treasure, gathering the entire hoard
+Shadowy cults, reclusive scholars, rival adventurers,
+together and performing some specific rite can end
+and mysterious organizations might seek out a drag
+the curse. Such a rite might involve any or all of
+on's hoard, either trying to claim it from a dragon or
+the elements suggested on the Breaking a Hoard
+trying to acquire it from characters who have slain a
+Curse table.
+dragon. Aside from greed, such groups can have any
+number of motivations for seeking a dragon's trea
+BREAKING A HOARD CURSE
+sure. Often, such groups seek to draw on the magic
+d4 Rite Elements
+of a dragon's hoard to perform some great ritual.
+Cast the hallow spell The Hoard Magic table suggests some possibilities.
+2 Make an offering of blood from everyone who par
+ticipated in killing the dragon {or those creatures' HOARD MAGIC
+nearest kin) d6 Magical Motivation
+3 Bathe or sprinkle the treasure in the dragon's blood Create a permanent protective ward covering a city
+4 Make a sacrifice to Bahamut, Tiamat, or both state or small kingdom
+2 Destroy a large magical ward protecting a region
+One other way to bypass a dragon's curse on a
+hoard is to have the treasure become part of another 3 Create a dead magic zone where spells and magic
+dragon's hoard, whereupon the previous owner's items won't function
+curse is nullified. Clever adventurers might work out 4 Repair the fabric of magic in a dead magic zone
+a bargain with a friendlier dragon involving a trade
+5 Reassert the dominance of the Material Plane in a
+of cursed treasure in exchange for a similar (but
+region, banishing influence that has been seeping
+probably smaller) amount of treasure freely given.
+in from another plane of existence
+6 Open a portal to another plane of existence or an
+other world of the Material Plane
+=== PAGE 71 ===
+WHAT'S IN A HOARD? You might decide that all the coins in a dragon's
+hoard have the same origin, but it's more likely
+(particularly in the hoard of an older dragon) that
+(:;1!ve-at pi/(½ of c..oiw; ave- all we-II and ~od, the coins have a variety of origins. If you aren't inter
+ested in explaining the details of coinage from a va
+bvt the- b(½t tve-a~vv(½ ave- the- on(½ with
+riety of contemporary and historical cultures in your
+me-movi(½ ame-he-d. kt me- te-11 10v abovt game's setting, it's enough to tell your players that
+some of the coins are unfamiliar in their size, shape,
+m1 c..ollu--fion of pie- plat(½!
+or inscription-but their value is unchanged.
+-fizban
+MUNDANE ITEMS
+A dragon's hoard often includes mundane items that
+The random treasure tables in the Dungeon Mas can be clues to their owner's personality and history,
+ter's Guide can help you quickly generate a hoard and that might inspire further investigation by curi
+for a dragon of any age. (As suggested in that book, ous adventurers. The Hoard Mundane Items table
+you should roll on the hoard tables at least twice in the "Creating a Hoard" section provides a quick
+for legendary dragons.) If you want a more detailed starting point for generating these items. You can
+hoard, the information under "Creating a Hoard" on find more inspiration on the Trinkets table in the
+the following pages can help you generate treasure Player's Handbook and the tables in the "Dungeon
+with more variety, which is especially appropriate Dressing" section of the Dungeon Master's Guide.
+for significant troves. The average monetary value of
+a hoard created using these guidelines is about the GEMS AND ART OBJECTS
+same as if you rolled twice on the tables in the Dun The Hoard Gems table and the Hoard Art Objects
+geon Master's Guide. table under "Creating a Hoard" let you randomly
+determine the value of each individual gem and art
+KINDS OF TREASURE object in a hoard. Use the tables in the Dungeon
+Master's Guide to help you describe these treasures.
+Use these guidelines in conjunction with the infor
+Chapter 5 of this book also includes tables you can
+mation in the Dungeon Master's Guide to detail the
+use to generate distinctive art objects for a particu
+treasures in a dragon's hoard. Feel free to swap
+lar dragon's hoard.
+coins, gems, and art objects in a dragon's hoard for
+different such items of equivalent value. Perhaps a
+MAGIC ITEMS
+sapphire dragon takes great pride in a hoard full of
+You can determine the specific magic items found in
+raw sapphires and jewelry featuring sapphires, or a
+a dragon's hoard in one of two ways. The Dungeon
+copper dragon might love sleeping on a vast bed of
+Master's Guide provides a full set of random magic
+copper coins!
+item tables, labeled A through I. Each entry on the
+Hoard Magic Items table under "Creating a Hoard"
+COINS
+includes a parenthetical reference to one of those ta
+The coins in a dragon's hoard might come from all
+bles in the Dungeon Master's Guide, so you can ran
+over the world and across uncountable ages of his
+domly roll an item from those tables. Alternatively,
+tory. To add flavor to the potentially enormous pile
+you can use the rarity and category (minor or major)
+of coins in a dragon's lair, you can use the Coin Or
+shown on the Hoard Magic Items table to pick an
+igins table to determine the origin of any particular
+item of your choice from the Dungeon Master's
+group of coins.
+Guide, chapter 2 of this book, or any other source.
+As described in Xanathar's Guide to Everything,
+COIN ORIGINS
+the items found on Magic Item Table A through
+dlO Origin
+Magic Item Table E in the Dungeon Master's Guide
+Equivalent value in trade goods (see the Player's are minor items, a category that includes common
+Handbook) rather than coins items, potions and scrolls (which can be used only
+2-3 Coins from an ancient culture local to this region, once), and other items whose impact on the game is
+ancestral to the people who live here now minor or utilitarian. The items on Magic Item Table
+F through Magic Item Table I are major items: per
+4-5 Coins from an ancient culture in a distant region
+manent items that can have significant long-term
+6-7 Coins from a nearby contemporary culture
+impact on the game.
+8-9 Coins from a local contemporary culture
+10 Coins from another world
+CHAPTER 4 I LAIRS AND HOARDS
+=== PAGE 72 ===
+
+=== PAGE 73 ===
+..
+CREATING A HOARD
+A dragon's hoard contains each of the items listed
+for the dragon's age category here. For each mun
+dane item, gem, art object, and magic item indi
+cated in the list, roll on the appropriate table on the
+next page.
+ADULT DRACON HOARDS
+WYRMLINC HOARDS 4,200 (12d6 x 100) cp
+4,200 (12d6 x 100) cp 14,000 (4d6 x 1,000) sp
+2,100 (6d6 x 100) sp 28,000 (8d6 x 1,000) gp
+140 (4d6 x 10) gp 3,500 (10d6 x 100) pp
+3 (ld6) mundane items 7 (2d6) mundane items
+9 (2d8) gems 21 (6d6) gems
+2 (ld4) art objects 10 (3d6) art objects
+4 (ld8) magic items 4 (1 d8) magic items
+YOUNC DRACON HOARDS ANCIENT DRACON HOARDS
+4,200 (12d6 x 100) cp 4,200 (12d6 x 100) cp
+14,000 (4d6 x 1,000) sp 14,000 (4d6 x 1,000) sp
+4,200 (12d6 x 100) gp 210,000 (6d6 x 10,000) gp
+210 (6d6 x 10) pp 42,000 (12d6 x 1,000) pp
+4 (ld8) mundane items 9 (2d8) mundane items
+21 (6d6) gems 21 (6d6) gems
+5 (2d4) art objects 11 (2dl 0) art objects
+4 (ld8) magic items 7 (2d6) magic items
+•
+=== PAGE 74 ===
+HOARD MUNDANE ITEMS HOARD GEMS
+Wyrmling Young Adult Ancient
+dl00 Mundane Items
+dl00 dl00 dl00 dl00 Gem Value
+01-04 A painting by an artist long forgotten by everyone
+01-43 01-51 01-18 01-14 10 gp
+except the dragon
+44-99 52-75 19-36 15-28 50 gp
+05-08 A hogshead (large cask) containing 65 gallons of
+00 76-99 37-54 29-42 100 gp
+clean drinking water
+00 55-77 43-58 500 gp
+09-12 Several embroidered throw pillows depicting
+wyrmling dragons 78-99 59-93 1,000 gp
+13-16 A funerary urn containing remains the dragon 00 94-00 5,000 gp
+can't identify
+HOARD ART OBJECTS
+17-20 A set of seven candlesticks bearing a god's holy
+symbol Wyrmling Young Adult Ancient
+dl00 dl00 dl00 dl00 Art Object Value
+21-24 A tarnished brazier with pleasant-smelling ash
+01-95 01-53 01-49 01-22 25 gp
+25-28 A drum for use in religious rites, with a forebod-
+96-00 54-99 50-75 23-42 250 gp
+ing echo to its beat
+00 76-99 43-58 750 gp
+29-32 A stuffed Monstrosity appropriate to the local
+terrain 00 59-93 2,500 gp
+33-36 The skull of a Fiend or Celestial 94-00 7,500 gp
+37-40 A spinning wheel
+HOARD MAGIC ITEMS
+41-44 An hourglass filled with sparkling sand
+Wyrmling Young Adult Ancient
+45-48 A crude flute with a pleasing sound
+dl00 dl00 dl00 dl00 Magic Items
+49-52 Hundreds or thousands of fake coins inter- 01-34 01-21 01-06 Common minor
+spersed with the real treasure
+item (Magic Item
+53-56 A treatise on alchemy etched on steel cylinders Table A*)
+57-60 The battle standard of one of the dragon's an- 35-61 22-49 07-18 Uncommon minor
+cient foes item (Magic Item
+61-64 A sketchbook from another world of the Material Table B*)
+Plane, depicting unfamiliar creatures and one 62-77 50-64 19-41 01-12 Rare minor item
+very familiar dragon (Magic Item Table
+65-68 A set of irregular polyhedral dice (wi!h 9, 13, 25, C*)
+and 34 sides) 65-72 42-64 13-56 Very rare minor
+69-72 A map showing the dragon's lair in relation to vii- item (Magic Item
+lages and other long-gone landmarks Table D*)
+73-76 A kneeling bench, which anyone addressing the 65-69 57-67 Legendary minor
+dragon is required to use item (Magic Item
+77-80 A scroll containing a long epic poem in praise of Table E*)
+the dragon 78-96 73-91 70-72 Uncommon major
+81-84 A star chart showing Bahamut and a one-headed item (Magic Item
+Tiamat as constellations, with "Elegy for the First Table F*)
+World" written between the stars 97-00 92-97 73-80 68-73 Rare major item
+85-88 A large, noisy wind chime (Magic Item Table
+89-92 A small shrine with a statuette, a brazier, and an G*)
+altar dedicated to a god worshiped by many of the 98-00 81-91 74-82 Very rare major
+dragon's minions item (Magic Item
+Table H*)
+93-96 A jar with a dead illithid tadpole floating in pre-
+serving chemicals 92-00 83-00 Legendary major
+item (Magic Item
+97-00 An extensive historical record in the form of care-
+Table I*)
+fully knotted strings
+*See the Dungeon Master's Guide.
+CHAPTER 4 I LAIRS AND HOARDS 73
+=== PAGE 75 ===
+fll.BAN ADDRESSES A COUNCIL OF METALLIC

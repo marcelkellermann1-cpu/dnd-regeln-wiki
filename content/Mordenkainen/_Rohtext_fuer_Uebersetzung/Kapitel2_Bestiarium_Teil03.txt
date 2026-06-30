@@ -1,0 +1,500 @@
+jon Visit. A creature can leave the demiplane only by using
+magic that enables planar travel, such as the plane shift spell.
+The demiplane resembles a stone cave roughly 1,000 feet in
+diameter with a ceiling 100 feet high. Like a stomach, it con­
+tains the remains of past meals. The dreadnought can’t be
+harmed from within the demiplane. If the dreadnought dies,
+the demiplane disappears, and everything inside it appears
+around the dreadnought’s corpse. The demiplane is otherwise
+indestructible.
+--col--
+Legendary Resistance (3/Day). If the dreadnought fails a saving
+throw, it can choose to succeed instead.
+Sever Silver Cord. If the dreadnought scores a critical hit
+against a creature traveling by means of the astral projection
+spell, the dreadnought can cut the target’s silver cord instead
+of dealing damage.
+Unusual Nature. The dreadnought doesn’t require air, food,
+drink, or sleep.
+Actions
+Multiattack. The dreadnought makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +16 to hit, reach 10 ft., one target.
+Hit: 36 (5dl 0 + 9) force damage. If the target is a Huge or
+smaller creature and this damage reduces it to 0 hit points or it
+is incapacitated, the dreadnought swallows it. The swallowed
+target, along with everything it is wearing and carrying, appears
+in an unoccupied space on the floor of the Demiplanar Donjon.
+Claw. Melee Weapon Attack: +16 to hit, reach 20 ft., one target.
+Hit: 19 (3d6 + 9) force damage.
+Legendary Actions
+The dreadnought can take 3 legendary actions, choosing from
+the options below. Only one legendary option can be used at a
+time and only at the end of another creature’s turn. The dread­
+nought regains spent legendary actions at the start of its turn.
+Claw. The dreadnought makes one Claw attack.
+Donjon Visit (Costs 2 Actions). One Huge or smaller creature
+that the dreadnought can see within 60 feet of it must suc­
+ceed on a DC 19 Charisma saving throw or be teleported to
+an unoccupied space on the floor of the Demiplanar Don­
+jon. At the end of the target’s next turn, it reappears in the
+space it left or in the nearest unoccupied space if that space
+is occupied.
+Psychic Projection (Costs 3 Actions). Each creature within 60
+feet of the dreadnought must make a DC 19 Wisdom saving
+throw, taking 26 (4dl0 + 4) psychic damage on a failed save,
+or half as much damage on a successful one.
+CHAPTER 2 | BESTIARY 51
+
+=== PAGE 52 ===
+B
+abau
+Demons and devils clash endlessly for control of
+the Lower Planes. One of these battles pitted the le­
+gions of the archdevil Glasya against the screaming
+hordes of the demon lord Graz’zt (appears in this
+book). It is said that when Glasya wounded Graz’zt
+with her sword, the first babaus arose where his
+blood struck the ground. Their sudden appearance
+helped rout Glasya and secured Graz’zt’s place as
+one of the preeminent demon lords of the Abyss.
+A babau demon has the cunning of a devil and the
+bloodthirstiness of a demon. It has leathery skin
+pulled tight over its gaunt frame and a curved horn
+protruding from the back of its elongated skull. A
+babau’s baleful glare can weaken a creature, and its
+talons gleam with acidic slime.
+52 CHAPTER 2 | BESTIARY
+--col--
+Babau
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 82 (lld8 + 33)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 16 (+3) 16 (+3) 11 (+0) 12 (+1) 13 (+1)
+Skills Perception +5, Stealth +5
+Damage Resistances cold, fire, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 15
+Languages Abyssal
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Actions
+Multiattack. The babau makes two Claw attacks. It can replace
+one attack with a use of Spellcasting or Weakening Gaze.
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 6 (1 d4 + 4) slashing damage plus 2 (1 d4) acid damage.
+Spellcasting. The babau casts one of the following spells,
+requiring no material components and using Wisdom as the
+spellcasting ability (spell save DC 11):
+At will: darkness, dispel magic, fear, heat metal, levitate
+Weakening Gaze. The babau targets one creature that it can
+see within 20 feet of it. The target must make a DC 13 Consti­
+tution saving throw. On a failed save, the target deals only half
+damage with weapon attacks that use Strength for 1 minute.
+The target can repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success.
+
+=== PAGE 53 ===
+Bael
+With the Blood War between devils and demons
+raging for eons and no end in sight, opportunities
+abound for ambitious archdevils to win fame, glory,
+and power in the ongoing struggle. Duke Bael, one
+of Mammon’s most important vassals, has won
+fame and acclaim for his victories. Charged with
+leading sixty-six companies of barbed devils (see the
+Monster Manual), Bael has proven to be a tactical
+genius, earning esteem for himself and his master
+as a result of victory after victory over the abyssal
+host. Mammon relies on Bael to safeguard his hold­
+ings because of Bael’s battle acumen. During a time
+when so many other archdevils have lost their posi­
+tions, Mammon has never been ousted, which is a
+testament to Bael’s skill on the battlefield.
+For his accomplishments, Bael has been granted
+the title of Bronze General. His accolades notwith­
+standing, he has had a difficult time navigating the
+quagmire of infernal politics. His critics call him
+naive, though never to his face. His primary interest
+has always been leading soldiers in battle, so he
+finds it frustrating to have his ambitions of ascend­
+ing to a higher rank constantly stymied by politically
+shrewd rivals.
+--col--
+Bael prefers to make servants out of his adver­
+saries, and mortals bound to his service earn their
+wretched place by falling victim to his superior strat­
+agems. Bael gladly spares the lives of those he de­
+feats—if they pledge their souls and service to him.
+Demons are an exception; although he is willing to
+corrupt almost any other foes, he always destroys
+demons he defeats.
+Bael also welcomes mortals into his service if they
+can provide him with an advantage in his politick­
+ing. He recruits savvy individuals and relies on them
+to represent his interests at Mammon’s court, which
+leaves him free to pursue his battle lust.
+Despite his lack of interest in affairs outside
+battle, or perhaps because of it, Bael has gained a
+small following of cultists. Those who worship at
+his altar call him the King of Hell, and the most
+deluded believe that he is the lord of all devils. In
+arcane circles, certain writings, such as the dreaded
+Book of Fire, say that Bael revealed the invisibility
+spell to the world, though some scholars of magic
+hotly refute such claims. Bael is sometimes depicted
+as a toad, a cat, a human, or some combination of
+these forms.
+CHAPTER 2 | BESTIARY 53
+
+=== PAGE 54 ===
+Bael
+Large Fiend (Devil), Lawful Evil
+Armor Class 18 (plate)
+Hit Points 189 (18dl0 + 90)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+24 (+7) 17 (+3) 20 (+5) 21 (+5) 24 (+7) 24 (+7)
+Saving Throws Dex +9, Con +11, Int +11, Cha +13
+Skills Intimidation +13, Perception +13, Persuasion +13
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities fire, poison
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses truesight 120 ft., passive Perception 23
+Languages all, telepathy 120 ft.
+Challenge 19 (22,000 XP) Proficiency Bonus +6
+Dread. Any creature, other than a devil, that starts its turn
+within 10 feet of Bael must succeed on a DC 22 Wisdom saving
+throw or be frightened of him until the start of its next turn. A
+creature succeeds on this saving throw automatically if Bael
+wishes it or if he is incapacitated.
+Legendary Resistance (3/Day). If Bael fails a saving throw, he
+can choose to succeed instead.
+Magic Resistance. Bael have advantage on saving throws
+against spells and other magical effects.
+Regeneration. Bael regains 20 hit points at the start of his turn.
+If he takes cold or radiant damage, this trait doesn’t function at
+the start of his next turn. Bael dies only if he starts his turn with
+0 hit points and doesn’t regenerate.
+Actions
+Multiattack. Bael makes two Hellish Morningstar attacks.
+Hellish Morningstar. Melee Weapon Attack: +13 to hit, reach
+20 ft., one target. Hit: 16 (2d8 + 7) force damage plus 9 (2d8)
+necrotic damage.
+Infernal Command. Each of Bael’s allies within 60 feet of him
+can’t be charmed or frightened until the end of his next turn.
+Spellcasting. Bael casts one of the following spells, requiring no
+material components and using Charisma as the spellcasting
+ability (spell save DC 21):
+At will: alter self (can become Medium), charm person, detect
+magic, invisibility, major image
+3/day each: dispel magic, fly, suggestion, wall off re
+1/day: dominate monster
+Teleport. Bael teleports, along with any equipment he is wearing
+or carrying, up to 120 feet to an unoccupied space he can see.
+Legendary Actions
+Bael can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. Bael regains
+spent legendary actions at the start of his turn.
+Fiendish Magic. Bael uses Spellcasting or Teleport.
+Infernal Command. Bael uses Infernal Command.
+Attack (Costs 2 Actions). Bael makes one Hellish Morning­
+star attack.
+54 CHAPTER 2 | BESTIARY
+--col--
+B
+alhannoth
+Native to the Shadowfell, the vicious, predatory
+balhannoth alters reality in its lair to make the
+place appear inviting to travelers. A limited form of
+telepathy enables a balhannoth to identify images
+of places where its prey expects their needs and de­
+sires to be met, such as an inn or a temple offering
+healing. It then warps reality around itself, hiding it­
+self and remaking its environment to resemble such
+a place. The imitation is imperfect, but it’s good
+enough to fool greedy or desperate creatures. Once
+its prey enters the trap, it snatches the targets and
+teleports away to feed on their fear and despair.
+Dungeon builders and Underdark tyrants some­
+times venture into the Shadowfell to capture bal-
+hannoths for use as guardians.
+A Balhannoth’s Lair
+In the Shadowfell, balhannoths make their lairs
+near places inhabited by creatures they hunt. They
+typically haunt well-traveled roads and paths,
+snatching people who come along. A balhannoth
+used as a guardian in the Underdark might lair in
+caves near Underdark passages and guard the ways
+in and out of its keepers’ enclave.
+Lair Actions
+On initiative count 20 (losing initiative ties), a bal­
+hannoth can take one of the following lair actions;
+the balhannoth can’t take the same lair action two
+rounds in a row:
+Teleport. The balhannoth targets one creature
+within 500 feet of it. The target must succeed on a
+DC 16 Wisdom saving throw, or the target, along
+with whatever it is wearing and carrying, teleports
+to an unoccupied space of the balhannoth’s choice
+within 60 feet of it.
+Vanish. The balhannoth targets one creature within
+500 feet of it. The target must succeed on a DC 16
+Wisdom saving throw, or the balhannoth becomes
+invisible to that creature for 1 minute. This effect
+ends if the balhannoth attacks the target.
+Warp Terrain. The balhannoth warps reality
+around it in an area up to 500 feet square. After
+10 minutes, the terrain in the area reshapes to
+assume the appearance of a location sought by
+one Humanoid whose desires the balhannoth has
+sensed (see Regional Effects below). The transfor­
+mation affects nonliving material only and can’t
+create anything with moving parts or magical
+properties. Any object created in this area is, upon
+
+=== PAGE 55 ===
+close inspection, revealed as a fake. Books are
+filled with empty pages, golden items are obvious
+counterfeits, and so on. The transformation lasts
+until the balhannoth dies or takes this lair ac­
+tion again.
+Regional Effects
+A region containing a balhannoth’s lair becomes
+warped by the creature’s unnatural presence, which
+creates one or more of the following effects:
+Sense Desires. The balhannoth can sense the
+strongest desires of any Humanoid within 1 mile
+of it and learns whether those desires involve a
+place: a safe location to rest, such as a temple, a
+home, or somewhere else.
+Supernatural Lure. Creatures within 1 mile of the
+balhannoth’s lair experience the sensation of be­
+ing close to whatever they desire most. The sensa­
+tion grows stronger the closer the creatures come
+to the balhannoth’s lair.
+If the balhannoth dies, these effects end
+immediately.
+--col--
+Balhannoth
+Large Aberration, Typically Chaotic Evil
+Armor Class 17 (natural armor)
+Hit Points 114 (12dl0 + 48)
+Speed 25 ft., climb 25 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 8(-l) 18 (+4) 6 (-2) 15 (+2) 8 (-1)
+Saving Throws Con +8
+Skills Perception +6
+Condition Immunities blinded
+Senses blindsight 500 ft. (blind beyond this radius),
+passive Perception 16
+Languages understands Deep Speech, telepathy 1 mile
+Challenge 11 (7,200 XP) Proficiency Bonus+4
+Legendary Resistance (2/Day). If the balhannoth fails a saving
+throw, it can choose to succeed instead.
+Actions
+Multiattack. The balhannoth makes one Bite attack and two
+Tentacle attacks.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit:
+19 (3dl0 + 3) piercing damage.
+Tentacle. Melee Weapon Attack: +7 to hit, reach 10 ft., one tar­
+get. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is
+grappled (escape DC 15) and is moved up to 5 feet toward the
+balhannoth. Until this grapple ends, the target is restrained,
+and the balhannoth can’t use this tentacle against other tar­
+gets. The balhannoth has four tentacles.
+Legendary Actions
+The balhannoth can take 3 legendary actions, choosing from
+the options below. Only one legendary action can be used at a
+time and only at the end of another creature's turn. The balhan­
+noth regains spent legendary actions at the start of its turn.
+Bite. The balhannoth makes one Bite attack against one crea­
+ture it has grappled.
+Teleport. The balhannoth teleports, along with any equipment
+it is wearing or carrying and any creatures it has grappled, up
+to 60 feet to an unoccupied space it can see.
+Vanish. The balhannoth magically becomes invisible for up to
+10 minutes or until immediately after it makes an attack roll.
+CHAPTER 2 | BESTIARY 55
+
+=== PAGE 56 ===
+Banderhobb
+A banderhobb is a hybrid of shadow and flesh.
+Through vile magic, these components take on an
+enormous and horrific upright shape resembling a
+bipedal toad. In this form, a banderhobb temporarily
+serves its creator as a thug, a thief, and a kidnapper
+that swallows the unwary.
+Hags have devised a ritual for creating bander-
+hobbs—a hag who knows the ritual might be willing
+to teach it for the right price. Some other wicked
+Fey and powerful Fiends also know of the process,
+as do a few mortal mages.
+During its brief existence, a banderhobb attempts
+to carry out its creator’s bidding. It accomplishes
+its mission with no concern for the harm it suffers
+or causes. Its only desire is to serve and succeed. A
+banderhobb that is assigned to track down a target
+is particularly dangerous when it is provided with a
+lock of hair, a personal belonging, or another object
+connected to the target. Possession of such an item
+allows it to sense the creature’s location from as far
+as a mile away.
+A banderhobb fulfills its duties until its existence
+ends. When it expires, usually several days after
+its birth, it leaves behind only tarry goo and wisps
+of shadow. Legends tell of an ominous tower in the
+Shadowfell where the shadows sometimes reform
+and banderhobbs roam.
+=======
+Banderhobb
+Large Monstrosity, Typically Neutral Evil
+Armor Class 15 (natural armor)
+Hit Points 84 (8dl0 + 40)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 12 (+1) 20 (+5) 11 (+0) 14 (+2) 8 (-1)
+Skills Athletics +8, Stealth +7
+Condition Immunities charmed, frightened
+Senses darkvision 120 ft., passive Perception 12
+Languages understands Common and the languages of its
+creator but can’t speak
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Resonant Connection. If the banderhobb has even a tiny piece
+of a creature or an object in its possession, such as a lock of
+hair or a splinter of wood, it knows the most direct route to that
+creature or object if it is within 1 mile of the banderhobb.
+Actions
+Multiattack. The banderhobb makes one Bite attack and
+one Tongue attack. It can replace one attack with a use of
+Shadow Step.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 15 (3d6 + 5) piercing damage, and the target is grappled
+CHAPTER 2 | BESTIARY
+--col--
+==================================
+(escape DC 16) if it is a Large or smaller creature. Until this
+grapple ends, the target is restrained, and the banderhobb
+can’t use its Bite attack or Tongue attack on another target.
+Tongue. Melee Weapon Attack: +8 to hit, reach 15 ft., one crea­
+ture. Hit: 10 (3d6) necrotic damage, and the target must make
+a DC 16 Strength saving throw. On a failed save, the target is
+pulled to a space within 5 feet of the banderhobb.
+Shadow Step. The banderhobb teleports up to 30 feet to an un
+occupied space of dim light or darkness that it can see.
+Swallow. Melee Weapon Attack: +8 to hit, reach 5 ft., one Me­
+dium or smaller creature grappled by the banderhobb. Hit: 15
+(3d6 + 5) piercing damage. The creature is also swallowed,
+and the grapple ends. The swallowed creature is blinded and
+restrained, it has total cover against attacks and other effects
+outside the banderhobb, and it takes 10 (3d6) necrotic dam­
+age at the start of each of the banderhobb's turns. A creature
+reduced to 0 hit points in this way stops taking the necrotic
+damage and becomes stable.
+The banderhobb can have only one creature swallowed at a
+time. While the banderhobb isn’t incapacitated, it can regur­
+gitate the creature at any time (no action required) in a space
+within 5 feet of it. The creature exits prone. If the banderhobb
+dies, it likewise regurgitates a swallowed creature.
+Bonus Actions
+Shadow Stealth. While in dim light or darkness, the bander­
+hobb takes the Hide action.
+
+=== PAGE 57 ===
+Baphomet
+Civilization is weakness and brutality is strength
+in the credo of Baphomet, the Horned King and the
+Prince of Beasts. He is worshiped by those who
+want to break the confines of civility and unleash
+their bestial natures, for Baphomet envisions a
+world without restraint, where creatures live out
+their most bloodthirsty desires.
+Cults devoted to Baphomet use mazes and com­
+plex knots as their emblems. They create secret
+places to indulge themselves, including labyrinths
+of the sort their master favors. Bloodstained crowns
+and weapons of iron and brass decorate their pro­
+fane altars.
+Over time, a cultist of Baphomet becomes tainted
+by his influence, gaining bloodshot eyes and coarse,
+thickening hair. Small horns eventually sprout from
+the cultist’s forehead. In time, a devoted cultist
+might transform entirely into a minotaur, which is
+considered the greatest gift of the Prince of Beasts.
+Baphomet appears as a fearsome, 20-foot-tall mi­
+notaur with six iron horns. A fiendish light burns in
+his red eyes. Although he is filled with bestial blood
+lust, there lies within him a cruel and cunning intel­
+lect devoted to subverting all civilization.
+Baphomet wields a great glaive called Heart­
+cleaver. He also charges his enemies and gores
+them with his horns, trampling his foes into the
+earth and rending them with his teeth like a beast.
+Baphomejt’s Lair
+Baphomet’s lair is his palace, the Lyktion, which is
+on the layer of the Abyss called the Endless Maze.
+Nestled within the twisting passages of the plane­
+wide labyrinth, the Lyktion is immaculately main­
+tained and surrounded by a moat constructed in the
+fashion of a three-dimensional maze. The palace is
+a towering structure whose interior is as labyrin­
+thine as the plane on which it stands; it is populated
+by minotaurs, goristros, and quasits, all of which
+appear in the Monster Manual.
+Lair Actions
+On initiative count 20 (losing initiative ties),
+Baphomet can take one of the following lair
+actions; he can’t take the same lair action two
+rounds in a row:
+Illusory Room. Baphomet casts mirage arcane,
+affecting a room within the lair
+that is no larger in any dimension
+than 100 feet. The effect ends on
+the next initiative count 20. Cha­
+risma is Baphomet’s spellcasting
+ability for this spell.
+Reverse Gravity. Baphomet
+chooses a room within the lair
+--col--
+that is no larger in any dimension than 100 feet.
+Until the next initiative count 20, gravity is re­
+versed within that room. Any creatures or objects
+in the room when this happens fall in the direction
+of the new pull of gravity, unless they have some
+means of remaining aloft. Baphomet can ignore
+the gravity reversal if he’s in the room, although
+he likes to use this action to land on a ceiling to
+attack targets flying near it.
+Seal the Way. Baphomet seals one doorway or
+other entryway within the lair. The opening must
+be unoccupied. It is filled with solid stone for
+1 minute or until Baphomet takes this lair ac­
+tion again.
+CHAPTER 2 | BESTIARY 57
+
+=== PAGE 58 ===
+Regional Effects
+The region containing Baphomet’s lair is warped
+by his magic, creating one or more of the follow­
+ing effects:
+Beguiling Realm. Within 6 miles of the lair, all
+Charisma (Persuasion) and Charisma (Perfor­
+mance) checks have disadvantage, and all Cha­
+risma (Deception) and Charisma (Intimidation)
+checks have advantage.
+Hedge Mazes. Plant life within 1 mile of the lair
+grows thick and forms walls of trees, hedges, and
+other flora in the form of small mazes.
+Panicked Beasts. Beasts within 1 mile of the lair
+become frightened and disoriented, as though con
+stantly under threat of being hunted, and might
+lash out or panic even when no visible threat
+is nearby.
+If Baphomet dies, these effects fade over the course
+of Id 10 days.

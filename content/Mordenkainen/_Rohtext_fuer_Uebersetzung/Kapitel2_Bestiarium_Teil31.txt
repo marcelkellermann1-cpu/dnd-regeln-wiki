@@ -1,0 +1,500 @@
+needn’t take the Dash action. The target can repeat the saving
+throw at the end of each of its turns, ending the effect on itself
+on a success.
+Spellcasting. Titivilus casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 21):
+At will: alter self, major image, nondetection, sending, suggestion
+3/day each: mislead, modify memory
+Teleport. Titivilus teleports, along with any equipment he is
+wearing or carrying, up to 120 feet to an unoccupied space
+he can see.
+Twisting Words. Titivilus targets one creature he can see within
+60 feet of him. The target must succeed on a DC 21 Charisma
+saving throw or become charmed by Titivilus for 1 minute. The
+charmed target can repeat the saving throw if Titivilus deals
+any damage to it. A creature that succeeds on the saving throw
+is immune to Titivilus’s Twisting Words for 24 hours.
+Legendary Actions
+Titivilus can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at
+a time and only at the end of another creature’s turn. Titivilus
+regains spent legendary actions at the start of his turn.
+Corrupting Guidance. Titivilus uses Twisting Words. Alterna­
+tively, he targets one creature charmed by him that is within
+60 feet of him; that charmed target must succeed on a DC
+21 Charisma saving throw, or Titivilus decides how the target
+acts during its next turn.
+Teleport. Titivilus uses Teleport.
+Assault (Costs 2 Actions). Titivilus makes one Silver Sword at­
+tack, or he uses Frightful Word.
+
+=== PAGE 243 ===
+SILOPOTPECNOC
+Tlincalli
+Tlincallis, also called scorpion
+folk, are chitin-covered creatures
+with a humanlike upper body and
+the lower body of an enormous scorpion,
+complete with a stinger at the end of a long
+tail. These desert creatures range across
+arid lands, hunting at dawn and dusk. In the
+hours between, they wait out the day’s heat or
+the night’s cold by burying themselves in loose
+sand or earth or, if the terrain proves too inflexi­
+ble, lurking in ruins or shallow caves.
+Tlincallis stay in one place for only as long as the
+hunting is good in the immediate area, though they
+might visit the same way stations over and over
+during their wanderings. They also settle down tem­
+porarily whenever it’s time to lay eggs and hatch a
+new brood of young.
+These scorpion folk deposit their eggs in warm
+places out of direct sunlight, often amid a stand of
+cacti near their present encampment. The eggs are
+protected by hard shells coated in paralytic poison
+similar to that produced by their stingers. This
+poison leaves most would-be predators that dare to
+break an egg defenseless when the tlincalli parents
+come to investigate.
+Tlincallis eat what they kill, whether their hunt
+nets desert animals or a caravan, but when they
+have new mouths to feed, they are careful to take
+some of their prey alive. After using their stingers
+to paralyze victims and their spiked chains to bind
+them, tlincallis take these captives back to their en­
+campment and tie them to cacti or rock formations.
+When the sun sets, the newly hatched young emerge
+from the lair to eat the captives alive.
+These predators see themselves as great hunters,
+and respect others with such skills. If a tlincalli
+encounters a more powerful hunter, such as a blue
+dragon, they carefully weigh whether to serve the
+superior hunter, move on, or fight to the death to re­
+move it as competition.
+Tlincallis rarely build cities, make clothing, or
+mine metals. Instead, they scavenge much of what
+they need or want. They do, however, melt down
+scavenged metal to forge crude weapons, armor,
+and tools.
+--col--
+Tlincalli
+Large Monstrosity, Typically Neutral
+Armor Class 15 (natural armor)
+Hit Points 85 (10dl0 + 30)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 13 (+1) 16 (+3) 8 (-1) 12 (+1) 8 (-1)
+Skills Perception +4, Stealth +4, Survival +4
+Senses darkvision 60 ft., passive Perception 14
+Languages Tlincalli
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Actions
+Multiattack. The tlincalli makes one Longsword or Spiked
+Chain attack and one Sting attack.
+Longsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one tar­
+get. Hit: 7 (1 d8 + 3) slashing damage, or 8 (IdlO + 3) slashing
+damage if used with two hands.
+Spiked Chain. Melee Weapon Attack: +6 to hit, reach 10 ft., one
+target. Hit: 6 (1 d6 + 3) piercing damage, and the target is grap­
+pled (escape DC 11) if it is a Large or smaller creature. Until
+this grapple ends, the target is restrained, and the tlincalli can’t
+use the spiked chain against another target.
+Sting. Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+Hit: 6 (1 d6 + 3) piercing damage plus 14 (4d6) poison damage,
+and the target must succeed on a DC 14 Constitution saving
+throw or be poisoned for 1 minute. If it fails the saving throw by
+5 or more, the target is also paralyzed while poisoned. The tar­
+get can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success. Q
+-■ ■ ■ .......~ • ---------------
+CHAPTER 2 | BESTIARY 243
+
+=== PAGE 244 ===
+Tortles
+Tortles are omnivorous, turtle-like bipeds with
+shells that cover most of their bodies. Because they
+carry their homes on their backs, tortles feel little
+need to stay put for long.
+Most tortles like to see how other folk live. A tortle
+can spend decades away from their native land with­
+out feeling homesick, often viewing their current
+companions as their family.
+Tortle
+The generic tortle stat block here represents a war­
+rior, especially the sort who travels far and wide.
+Tortle Druid
+Many tortles view the world as a place of wonder.
+They live for the chance to hear a soft wind blowing
+through trees, to watch a frog croaking on a lily pad,
+or to stand in a crowded marketplace. A tortle druid
+savors such things more than most, channeling the
+natural magic of the world around them.
+t. •...- —...... -
+Tortle
+Medium Humanoid, Any Alignment
+Armor Class 17 (natural)
+Hit Points 22 (4d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 10 (+0) 12 (+1) 11 (+0) 13 (+1) 12 (+1)
+Skills Athletics +4, Survival +3
+Senses passive Perception 11
+Languages Aquan, Common
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Hold Breath. The tortle can hold its breath for 1 hour.
+Actions
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1 d4 + 2) slashing damage.
+Spear. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or
+range 20/60 ft., one target. Hit: 5 (1 d6 + 2) piercing damage, or
+6 (1 d8 + 2) piercing damage if used with two hands in melee.
+Light Crossbow. Ranged Weapon Attack: +2 to hit, range 80/320
+ft., one target. Hit: 4 (1 d8) piercing damage.
+Shell Defense. The tortle withdraws into its shell. Until it
+emerges, it gains a +4 bonus to AC and has advantage on
+Strength and Constitution saving throws. While in its shell, the
+tortle is prone, its speed is 0 and can’t increase, it has disad­
+vantage on Dexterity saving throws, it can’t take reactions, and
+the only action it can take is a bonus action to emerge.
+244 CHAPTER 2 | BESTIARY
+--col--
+Tortle Druid
+Medium Humanoid, Any Alignment
+Armor Class 17 (natural)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 10 (+0) 12 (+1) 11 (+0) 15 (+2) 12 (+1)
+Skills Animal Handling +4, Nature +2, Survival +4
+Senses passive Perception 12
+Languages Aquan, Common
+Challenge 2 (450 XP) Proficiency Bonus +2
+Hold Breath. The tortle can hold its breath for 1 hour.
+Actions
+Multiattack. The tortle makes four Claw attacks or two Na­
+ture’s Wrath attacks.
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1 d4 + 2) slashing damage.
+Nature’s Wrath. Ranged Spell Attack: +4 to hit, range 90 ft., one
+target. Hit: 9 (2d6 + 2) damage of a type chosen by the tortle:
+cold, fire, lightning, or thunder.
+Shell Defense. The tortle withdraws into its shell. Until it
+emerges, it gains a +4 bonus to AC and has advantage on
+Strength and Constitution saving throws. While in its shell, the
+tortle is prone, its speed is 0 and can’t increase, it has disad­
+vantage on Dexterity saving throws, it can’t take reactions, and
+the only action it can take is a bonus action to emerge.
+Spellcasting. The tortle casts one of the following spells, using
+Wisdom as the spellcasting ability (spell save DC 12):
+At will: druidcraft, guidance
+2/day each: cure wounds, hold person, speak with animals,
+thunderwave
+
+=== PAGE 245 ===
+Trapper
+Large Monstrosity, Unaligned
+Armor Class 13 (natural armor)
+Hit Points 68 (8dl0 + 24)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 10 (+0) 17 (+3) 2 (-4) 13 (+1) 4 (-3)
+Skills Stealth +2
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 11
+Languages —
+Challenge 3 (700 XP) Proficiency Bonus +2
+False Appearance. If the trapper is motionless on a floor, wall,
+or ceiling at the start of combat, it has advantage on its initia­
+--col--
+Trapper
+A trapper is a manta-like creature that usually lurks
+in subterranean environments. It can change the
+color and texture of its tough, outward-facing side to
+help it blend in with its surroundings, while its soft,
+inward-facing side clings to the floor, wall, or ceiling
+in its hunting territory. It remains motionless as it
+waits for prey to come close. When a target is within
+its reach, it peels itself away from the surface and
+wraps around its prey, crushing, smothering, and
+then digesting it. Only a scattering of bones, metal,
+treasure, and other indigestible bits is left behind.
+A trapper’s ability to alter the color and texture of
+its outer side enables it to blend in with any surface
+made of stone, earth, or wood, masking its presence
+to any but the most rigorous scrutiny. It can’t change
+its texture to that of a grassy or snow-covered sur­
+face, but it is just cunning enough to change its color
+to match and then conceal itself under a thin layer of
+vegetation or actual snow.
+A trapper that lurks on the floor of its hunting
+grounds can cover any remains there with its body,
+making them look like irregularities in the surface.
+The creature might instead attach itself to a nearby
+wall or a ceiling, using the remnants as bait; any
+creature that stops to investigate the bones for valu­
+ables becomes the trapper’s next meal.
+A trapper needs to eat a halfling-sized meal once
+per week to remain sated. Given a steady supply of
+food, trappers are content to stay in one place, mak­
+ing them a threat along well-traveled dungeon corri­
+dor and on routes through the wilderness that see a
+lot of traffic. When prey is scarce, a trapper enters a
+state of hibernation that can last for months, though
+it is still aware when prey comes near. A trapper on
+the verge of starvation might defy its instincts and
+abandon its old territory in search of better hunting.
+tive roll. Moreover, if a creature hasn’t observed the trapper
+move or act, that creature must succeed on a DC 18 Intelli­
+gence (Investigation) check to discern that the trapper isn’t
+part of the floor, wall, or ceiling.
+Spider Climb. The trapper can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Actions
+Smother. One Large or smaller creature within 10 feet of the
+trapper must succeed on a DC 13 Dexterity saving throw or
+be grappled (escape DC 13). Until the grapple ends, the target
+takes 13 (3d6 + 3) bludgeoning damage plus 3 (1 d6) acid dam­
+age at the start of each of its turns. While grappled in this way.
+the target is restrained, blinded, and deprived of air. The trap­
+per can smother only one creature at a time.
+CHAPTER 2 | BESTIARY 245
+
+=== PAGE 246 ===
+Trolls
+Trolls that are nearly obliterated but survive and
+regenerate from mere scraps of flesh can display bi­
+zarre features. Radically transformed trolls like the
+rot trolls, spirit trolls, and venom trolls that follow
+are especially likely to arise when trolls regener­
+ate in the presence of magical emanations, planar
+energy, disease, or death on a vast scale, or if their
+bodies were damaged by elemental forces. These
+unusual forms can also be produced and shaped by
+the ritual magic of evil spellcasters or by trolls’ own
+practices, as is the case for dire trolls.
+Dire Troll
+Huge Ciant, Typically Chaotic Evil
+Armor Class 15 (natural armor)
+Hit Points 172 (15dl2+ 75)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 15 (+2) 21 (+5) 9 (-1) 11 (+0) 5 (-3)
+Saving Throws Wis +5, Cha +2
+Skills Perception +10
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks
+Condition Immunities frightened, poisoned
+Senses darkvision 60 ft., passive Perception 20
+Languages Giant
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Regeneration. The troll regains 10 hit points at the start of its
+turn. If the troll takes acid or fire damage, it regains only 5 hit
+points at the start of its next turn. The troll dies only if it is hit
+by an attack that deals 10 or more acid or fire damage while the
+troll has 0 hit points.
+Actions
+Multiattack. The troll makes one Bite attack and four
+Claw attacks.
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one
+target. Hit: 10 (1 d8 + 6) piercing damage plus 5 (IdlO) poi­
+son damage.
+Claw. Melee Weapon Attack: +11 to hit, reach 10 ft., one target.
+Hit: 16 (3d6 + 6) slashing damage.
+Whirlwind of Claws (Recharge 5-6). Each creature within 10
+feet of the troll must make a DC 19 Dexterity saving throw, tak­
+ing 44 (8dl0) slashing damage on a failed save, or half as much
+damage on a successful one.
+246 CHAPTER 2 | BESTIARY
+--col--
+Vaprak the Destroyer
+Although trolls are rarely devout and seldom pon­
+der spiritual questions, some fear and venerate the
+entity known as Vaprak the Destroyer. Vaprak’s
+true nature is something of a mystery, but Vaprak is
+always portrayed as a horrid, misshapen, greenish
+creature strongly resembling a troll. Vaprak is given
+to fits of mindless destruction and uncontrollably
+fears the plots and ambitions of other deities.
+Vaprak’s troll worshipers believe this god devours
+the souls of those who have been cooked or digested
+(slain by fire or acid). Otherwise, the god spits the
+soul back into the world to regenerate a new body.
+Dire Troll
+Trolls kill and eat almost anything—including, in
+rare cases, other trolls. This cannibalism has the
+effect of causing a troll to grow to an unusually large
+size. The resulting dire trolls crave more and more
+troll flesh to fuel their continued growth.
+Dire trolls also increase their size by grafting
+flesh onto themselves. When a slab of quivering troll
+flesh is bound against a fresh wound on a dire troll,
+the dire troll’s regenerative capacity incorporates
+the new mass into the troll’s own musculature. Even
+more horrifying are the multiple arms, eyes, claws,
+and organs that dire trolls tear from their victims
+and graft onto themselves in this manner.
+
+=== PAGE 247 ===
+Rot Troll
+Large Giant, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 138 (12dl0+ 72)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 22 (+6) 5 H) 8(-l) 4 (-3)
+Skills Perception +3
+Damage Immunities necrotic
+Senses darkvision 60 ft., passive Perception 13
+Languages Giant
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Rancid Degeneration. At the end of each of the troll’s turns,
+each creature within 5 feet of it takes 11 (2dl 0) necrotic dam­
+age, unless the troll has taken acid or fire damage since the end
+of its last turn.
+Actions
+Multiattack. The troll makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +8 to hit, reach 5 ft., one tar­
+get. Hit: 9 (IdlO + 4) piercing damage plus 16 (3dl0) ne­
+crotic damage.
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 + 4) slashing damage plus 7 (2d6) ne
+erotic damage.
+--col--
+Rot Troll
+A troll infused with waves of necroti r -r. is :
+regenerates can develop a symbiotic rela: . - -' :
+with that deathly power. The troll's body wither?
+and the flesh falls away from the body as quick?, as
+it forms. Eventually a rot troll becomes unable to
+regenerate, though the troll still heals normally. The
+creature courses with necrotic energy; simply stand­
+ing near a rot troll exposes other creatures to lethal
+emanations.
+Spirit Troll
+A troll blasted with psychic energy can take a non­
+physical form upon regenerating. The troll’s psyche
+survives, but the body is as insubstantial as shadow.
+The troll might be unaware of the transition—the
+creature still moves and attacks with teeth and
+claws as ever—but now the troll strikes at vic­
+tims’ minds.
+Spirit Troll
+Large Giant, Typically Chaotic Evil
+Armor Class 17 (natural armor)
+Hit Points 130 (20dl0 + 20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+1 (-5) 17 (+3) 13 (+1) 8 (-1) 9 (-1) 16 (+3)
+Skills Perception +3
+Damage Resistances acid, cold, fire; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, grappled, paralyzed,
+petrified, prone, restrained, unconscious
+Senses darkvision 60 ft., passive Perception 13
+Languages Giant
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+Incorporeal Movement. The troll can move through other
+creatures and objects as if they were difficult terrain. It takes 5
+(IdlO) force damage if it ends its turn inside an object.
+Regeneration. The troll regains 10 hit points at the start of its
+turn. If the troll takes psychic or force damage, this trait doesn’t
+function at the start of the troll’s next turn. The troll dies only if
+it starts its turn with 0 hit points and doesn't regenerate.
+Actions
+Multiattack. The troll makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
+Hit: 19 (3dl0 + 3) psychic damage, and the target must suc­
+ceed on a DC 15 Wisdom saving throw or be stunned for 1 min­
+ute. The stunned target can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
+Hit: 19 (3dl0 + 3) psychic damage.
+CHAPTER 2 | BESTIARY 247
+
+=== PAGE 248 ===
+—...
+Venom Troll
+Large Ciant, Typically Chaotic Evil
+Armor Class 15 (natural armor)
+Hit Points 94 (9dl0 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 20 (+5) 7 (-2) 9(-l) 7 (-2)
+Skills Perception +5
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 15
+Languages Giant
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Poison Splash. When the troll takes damage of any type but
+psychic, each creature within 5 feet of the troll takes 9 (2d8)
+poison damage.
+Regeneration. The troll regains 10 hit points at the start of its
+turn. If the troll takes acid or fire damage, this trait doesn't
+function at the start of the troll’s next turn. The troll dies only if
+it starts its turn with 0 hit points and doesn't regenerate.
+24.8 CHAPTER 2 | BESTIARY
+--col--
+Venom Troll
+A troll that survives massive doses of poison might
+transform into a venom troll. Lingering poison in­
+fuses the troll’s blood and tissue, and poison leaks
+from the pores to coat the troll’s fangs and claws.
+These creatures are especially dangerous in close
+combat because poison drips off their flesh and
+sprays out from every wound they receive.
+Actions
+Multiattack. The troll makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one creature.
+Hit: 7 (1 d6 + 4) piercing damage plus 4 (1 d8) poison damage,
+and the target is poisoned until the start of the troll’s next turn.
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage plus 4 (1 d8) poison damage.
+Venom Spray (Recharge 6). The troll slices itself with a claw,
+releasing a spray of poison in a 15-foot cube. The troll takes
+7 (2d6) slashing damage, which can’t be reduced in any way.
+Each creature in the area must make a DC 16 Constitution
+saving throw. On a failed save, a creature takes 18 (4d8) poison
+damage and is poisoned for 1 minute. On a successful save,
+the creature takes half as much damage and isn’t poisoned.
+A poisoned creature can repeat the saving throw at the end of
+each of its turns, ending the effect on itself on a success.
+
+=== PAGE 249 ===
+Very rarely, when a tadpole from the brine pool of an
+elder brain (appears in this book) is implanted into a
+creature, that creature transforms into an ulitharid:
+a larger and more potent mind flayer with six tenta­
+cles. Illithids innately recognize that an ulitharid’s
+survival is more important than their own. An elder
+brain’s reaction to the rise of an ulitharid varies.
+In most colonies, the ulitharid becomes an elder
+brain’s most favored servant, invested with power
+and authority. In others, the elder brain perceives
+an ulitharid as a potential rival and manipulates or
+quashes the ulitharid’s ambitions accordingly.
+When an ulitharid finds sharing leadership with
+an elder brain insufferable, it breaks off from the
+colony, taking a group of mind flayers with it, and
+moves to another location to form a new colony.
+After the death of the ulitharid’s body, a special pro­
+cess transforms its brain into a new elder brain for
+the colony.
+This process doesn’t work on the brain of an uli­
+tharid that dies a natural death, as such brains are
+too decrepit to be used. Instead, each ulitharid car­
+ries a psionically enhanced staff; when the ulitharid
+is ready to give up its life, it attaches the staff to the
+back of its head, and the staff cracks open its skull,
+enabling its brain to be extracted. The brain and the
+staff are then planted in the ulitharid’s corpse, caus­
+ing it to dissolve into ichor. This psionically potent
+slime helps to fuel the transformation of the area
+into a brine pool for the embryonic elder brain.
+--col--
+Ulitharid
+Large Aberration (Mind Flayer), Typically Lawful Evil

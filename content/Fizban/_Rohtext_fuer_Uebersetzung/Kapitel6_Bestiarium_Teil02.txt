@@ -1,0 +1,600 @@
+that area are made with advantage.
+ence. As an action, the dragon can cast the clair
+voyance spell, requiring no spell components and If the dragon dies, the animal population near the
+targeting any ice or quartz crystals in that region. lair returns to normal levels over the course of ldlO
+Positive Energy. Any creature that finishes a long days. The increased Hit Die recovery ends imme
+rest within 6 miles of the lair regains two addi diately. The existing abundance of quartz crystals
+tional spent Hit Dice. remains, but new crystals form at a normal rate.
+ADULT CRYSTAL DRAGON radiant damage on a failed save, or half as much damage on a
+successful one. The dragon then gains 15 temporary hit points
+Huge Dragon (Gem), Typically Chaotic Neutral
+by absorbing a portion of the radiant energy.
+Armor Class 16 (natural armor) Spe/lcasting (Psionics). The dragon casts one of the following
+Hit Points 172 (l 5dl2 + 75) spells, requiring no spell components and using Intelligence as
+Speed 40 ft., burrow 40 ft., climb 40 ft., fly 80 ft. the spellcasting ability (spell save DC 16):
+At will: dancing lights, guidance
+STR DEX CON INT WIS CHA
+1/day each: command, divination, hypnotic pattern, lesser
+21 (+5) 12 (+l) 21 (+5) 18 (+4) 15 (+2) 19 (+4)
+restoration
+Saving Throws Dex +5, Con +9, Wis +6, Cha +8
+BONUS ACTIONS
+Skills Perception +10, Stealth +9, Survival +6
+Damage Resistances cold, radiant Change Shape. The dragon magically transforms into any crea
+Senses blindsight 60 ft., darkvision 120 ft., ture that is Medium or Small, while retaining its game statistics
+passive Perception 20 (other than its size). This transformation ends if the dragon is
+Languages Common, Draconic, telepathy 120 ft. reduced to O hit points or uses a bonus action to end it.
+Challenge 12 (8,400 XP) Proficiency Bonus +4 Psychic Step. The dragon magically teleports to an unoccupied
+space it can see within 60 feet of it.
+Legendary Resistance (3/Day). If the dragon fails a saving
+throw, it can choose to succeed instead. LEGENDARY ACTIONS
+The dragon can take 3 legendary actions, choosing from the
+ACTIONS
+options below. Only one legendary action option can be used
+Multiattack. The dragon makes one Bite attack and two
+at a time and only at the end of another creature's turn. The
+Claw attacks.
+dragon regains spent legendary actions at the start of its turn.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one tar Claw. The dragon makes one Claw attack.
+get. Hit: 16 (2dl0 + 5) piercing damage plus 4 (ld8) radi Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+ant damage. Spellcasting.
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Starlight Strike (Costs 3 Actions). The dragon releases a searing
+beam of starlight at a creature that it can see within 60 feet
+Hit: 9 (ld8 + 5) slashing damage.
+ofit. The target must succeed on a DC 17 Dexterity saving
+Scintillating Breath (Recharge 5-6). The dragon exhales a burst throw or take 31 (9d6) radiant damage.
+of brilliant radiance in a 60-foot cone. Each creature in that area
+must make a DC 17 Constitution saving throw, taking 40 (9d8)
+CHAPTER 6 I BESTIARY 171
+=== PAGE 173 ===
+YOUNG CRYSTAL DRAGON \
+Large Dragon (Gem), Typically Chaotic Neutral
+Armor Class 15 (natural armor)
+Hit Points 95 (lOdlO + 40)
+Speed 40 ft., burrow 20 ft., climb 40 ft., fly 80 ft.
+STR DEX CON INT WIS CHA
+CRYSTAL DRAGON WYRMLING
+17 (+3) 12 (+1) 18 (+4) 16 (+3) 14 (+2) 17 (+3) ,, "
+Medium Dragon (Gem), Typically Chaotic Neutral
+Saving Throws Dex +4, Con +7, Wis +5, Cha +6
+Skills Perception +8, Stealth +7, Survival +5 Armor Class 14 (natural armor) , ~~~
+Damage Resistances cold, radiant Hit Points 32 (5d8 + 10)
+Senses blindsight 30 ft., darkvision 120 ft., Speed 30 ft., burrow 15 ft., climb 30 ft., fly 60 ft.
+passive Perception 18
+Languages Common, Draconic, telepathy 120 ft. STR DEX CON INT WIS CHA
+Challenge 5 (1,800 XP) Proficiency Bonus +3 14 (+2) 12 (+1) 14 (+2) 14 (+2) 13 (+1) 15 (+2)
+."
+r· Saving Throws Dex +3, Con +4, Wis +3, Cha +4
+ACTIONS
+Skills Perception +5, Stealth +5, Survival +3
+Multiattack. The dragon makes one Bite attack and two Damage Resistances cold, radiant
+Claw attacks. Senses blindsight 10 ft., darkvision 60 ft., passive Perception 15
+Languages Draconic, telepathy 120 ft.
+Bite. Melee Weapon Attack: +6 to hit, reach 10 ft., one
+Challenge 2 (450 XP) Proficiency Bonus +2
+target. Hit: 14 (2d10 + 3) piercing damage plus 4 (ld8)
+radiant damage.
+ACTIONS
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 6 (ld6 + 3) slashing damage. Bite. Me lee Weapon Attack: +4 to hit, reach l Oft., one target.
+Hit: 7 (ldlO + 2) piercing damage plus 2 (ld4) radiant damage.
+Scintillating Breath (Recharge 5-6). The dragon exhales a burst
+of brilliant radiance in a 30-foot cone. Each creature in that area Scintillating Breath (Recharge 5-6). The dragon exhales a burst
+must make a DC 15 Constitution saving throw, taking 27 (6d8) of brilliant radiance in a 15-foot cone. Each creature in that area
+radiant damage on a failed save, or half as much damage on a must make a DC 12 Constitution saving throw, taking 18 (4d8)
+successful one. The dragon then gains 10 temporary hit points radiant damage on a failed save, or half as much damage on a
+by absorbing a portion of the radiant energy. successful one. The dragon then gains 5 temporary hit points
+by absorbing a portion of the radiant energy.
+Spel/casting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as Spel/casting (Psionics). The dragon casts one of the following
+the spellcasting ability (spell save DC 14): spells, requiring no spell components and using Intelligence as
+the spellcasting ability:
+At will: dancing lights, guidance
+1/day each: hypnotic pattern, lesser restoration At will: dancing lights, guidance
+172 CHAPTER 6 I BESTIARY
+=== PAGE 174 ===
+DEEP DRAGONS
+Making their lairs in the depths of the Underdark, selves in combat. Deep dragons look down on any
+deep dragons are nightmarish cousins of chromatic creature that isn't useful to them, though they are
+dragons. The warped magical energy of their sub willing to bargain for knowledge they lack.
+terranean realm gives them the ability to exhale
+A DEEP DRAGON'S LAIR
+magical spores that instill fear and scar the mind.
+Deep dragons' black-and-gray hide is smooth like Deep dragons make their lairs in well-hidden caves
+a salamander's, and their eyes are pale. As they age, or sunless beaches in the Underdark, and these
+their spore breath causes fungi to bloom across sites are often inaccessible without the ability to
+their skin, especially around the head and neck. fly or dive underwater. They fill their lairs with se
+Their wings are attached to their front legs and can cret passages and hiding places that allow them
+fold in close to the body, allowing deep dragons to to escape or ambush visitors if the need arises. A
+easily maneuver through relatively narrow tunnels. well-cultivated lair abounds with Underdark fungi
+Deep dragons often hoard secrets, delighting and plants, with the floor, walls, and ceiling covered
+in knowledge of far-off lands. Many seek out new in carpets of mold and moss, or featuring larger
+insights and tricks that they can use against other mushrooms and plants in neatly organized displays.
+denizens of the Underdark, preferring social ma The challenge rating of a legendary deep dragon
+nipulation and crafty dealmaking to exerting them- increases by 1 when it's encountered in its lair.
+ANCIENT DEEP DRAGON Change Shape. The dragon magically transforms into any crea
+ture that is Medium or Small, while retaining its game statistics
+Gargantuan Dragon, Typically Neutral Evil
+(other than its size). This transformation ends if the dragon is
+reduced to O hit points or uses its action to end it.
+Armor Class 20 (natural armor)
+Hit Points 201 (l 3d20 + 65) Nightmare Breath (Recharge 5-6). The dragon exhales a cloud
+Speed 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft. of spores in a 90-foot cone. Each creature in that area must
+make a DC 19 Wisdom saving throw. On a failed save, the crea
+STR DEX CON INT WIS CHA ture takes 49 (9dl0) psychic damage, and it is frightened of the
+23 (+6) 16 (+3) 20 (+5) 19 (+4) 18 (+4) 21 (+5) dragon for l minute. On a successful save, the creature takes
+half as much damage with no additional effects. A frightened
+Saving Throws Dex +9, Con + 11, Wis+ l 0, Cha +1 1 creature can repeat the saving throw at the end of each of its
+Skills Perception +10, Persuasion +17, Stealth +15 turns, ending the effect on itself on a success.
+Damage Resistances poison, psychic
+Condition Immunities charmed, frightened, poisoned LEGENDARY ACTIONS
+Senses blindsight 60 ft., darkvision 300 ft.,
+The dragon can take 3 legendary actions, choosing from the
+passive Perception 20
+options below. Only one legendary action can be used at a time
+Languages Common, Draconic, Undercommon
+Challenge 18 (20,000 XP) Proficiency Bonus +6 and only at the end of another creature's turn. The dragon re
+gains spent legendary actions at the start of its turn.
+Legendary Resistance (3/Day). If the dragon fails a saving .~ Commanding Spores. The dragon releases spores around a
+throw, it can choose to succeed instead. t '' creature within 30 feet of it that it can see. The target must
+succeed on a DC 19 Wisdom saving throw or use its reaction
+ACTIONS to make a melee weapon attack against a random creature
+Multiattack. The dragon makes one Bite attack and two within reach. If no creatures are within reach, or the target
+can't take a reaction, it takes 11 (2dl0) psychic damage.
+Claw attacks.
+Tail. The dragon makes one Tail attack.
+Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one tar Spore Salvo (Costs 2 Actions). The dragon releases poisonous
+get. Hit: 17 (2dl0 + 6) piercing damage plus 11 (2dl0) poi spores around a creature within 30 feet ofit that it can see.
+son damage. The target must succeed on a DC 19 Constitution saving
+throw or take 28 (8d6) poison damage and become poisoned
+Claw. Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+for l minute. The poisoned creature can repeat the saving
+Hit: 13 (2d6 + 6) slashing damage.
+throw at the end of each of its turns, ending the effect on
+Tail. Melee Weapon Attack: +12 to hit, reach 15 ft., one target. itself on a success.
+Hit: 10 (ld8 + 6) bludgeoning damage. If the target is a crea
+ture, it must succeed on a DC 20 Strength saving throw or be
+knocked prone.
+CHAPTER 6 I BESTIARY 173
+=== PAGE 175 ===
+LAIR ACTIONS
+REGIONAL EFFECTS
+On initiative count 20 (losing initiative ties), the
+The region surrounding a legendary deep dragon's
+dragon can take one of the following lair actions;
+lair is altered by the dragon's magic, creating one or
+the dragon can't take the same lair action two
+more of the following effects:
+rounds in a row:
+Preservation of Knowledge. Books, letters, and
+Deep Torpor. The dragon casts the slow spell, re
+any other physical forms of writing within 6 miles
+quiring no spell components and using Charisma
+of the dragon's lair become magically charged and
+as the spellcasting ability (spell save DC 16 for an
+can't be damaged by nonmagical means.
+adult dragon or DC 19 for an ancient dragon). The
+Restless Sleep. When a creature finishes a long
+spell ends early if the dragon uses this lair action
+rest within 6 miles of the lair, the creature must
+again or if the dragon dies.
+first succeed on a DC 10 Constitution saving
+Mossy Sludge. The dragon conjures sludge-like
+throw or be unable to reduce its level of exhaus
+moss that briefly covers surfaces in the lair. The
+tion. Creatures immune to the poisoned condition
+ceiling, floor, and walls of the lair become difficult
+are immune to this effect.
+terrain until initiative count 20 on the next round.
+Verdant Growth. Vegetation and fungi within 6
+Toxic Spores. The dragon fills a 20-foot cube it
+miles of the dragon's lair grow faster and cover a
+can see within 120 feet of itself with toxic spores.
+greater area than they normally would. Foraging
+Each creature in that area must succeed on a DC
+in this area yields twice the usual amount of food.
+15 Constitution saving throw or take 14 (4d6) poi
+son damage and be poisoned until the end of its If the dragon dies, these effects fade over the course
+next turn. of ldlO days.
+ADULT DEEP DRAGON Change Shape. The dragon magically transforms into any crea
+ture that is Medium or Small, while retaining its game statistics
+Huge Dragon, Typically Neutral Evil
+(other than its size). This transformation ends if the dragon is
+reduced to 0 hit points or uses its action to end it.
+Armor Class 17 (natural armor)
+Hit Points 147 (14dl2 + 56) Nightmare Breath (Recharge 5-6). The dragon exhales a cloud
+Speed 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft. of spores in a 60-foot cone. Each creature in that area must
+make a DC 16 Wisdom saving throw. On a failed save, the crea
+STR DEX CON INT WIS CHA ture takes 33 (6dl0) psychic damage, and it is frightened of the
+20 (+5) 14 (+2) 18 (+4) 16 (+3) 16 (+3) 18 (+4) dragon for l minute. On a successful save, the creature takes
+half as much damage with no additional effects. A frightened
+Saving Throws Dex +6, Con +8, Wis +7, Cha +8 creature can repeat the saving throw at the end of each of its
+Skills Perception +7, Persuasion +1 2, Stealth +1 0 turns, ending the effect on itself on a success.
+Damage Resistances poison, psychic
+Condition Immunities charmed, frightened, poisoned LEGENDARY ACTIONS
+Senses blindsight 60 ft., darkvision 150 ft.,
+The dragon can take 3 legendary actions, choosing from the
+passive Perception 17
+Languages Common, Draconic, Undercommon options below. Only one legendary action can be used at a time
+Challenge 11 (7,200 XP) Proficiency Bonus +4 and only at the end of another creature's turn. The dragon re
+gains spent legendary actions at the start of its turn.
+Legendary Resistance (3/Day). If the dragon fails a saving Commanding Spores. The dragon releases spores around a
+throw, it can choose to succeed instead. ... creature within 30 feet of it that it can see. The target must
+succeed on a DC 16 Wisdom saving throw or use its reaction
+ACTIONS to make a melee weapon attack against a random creature
+within reach. If no creatures are within reach, or the target
+Multiattack. The dragon makes one Bite attack and two
+can't take a reaction, it takes 5 (ldl0) psychic damage.
+Claw attacks.
+Tail. The dragon makes one Tail attack.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one tar Spore Salvo (Costs 2 Actions). The dragon releases poisonous
+get. Hit: 16 (2dl0 + 5) piercing damage plus 5 (ldl0) poi spores around a creature within 30 feet ofit that it can see.
+son damage. The target must succeed on a DC 16 Constitution saving
+throw or take 17 (5d6) poison damage and become poisoned
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+for 1 minute. The poisoned creature can repeat the saving
+Hit: 8 (ld6 + 5) slashing damage.
+throw at the end of each of its turns, ending the effect on
+Tail. Melee Weapon Attack: +9 to hit, reach 15 ft., one target. itself on a success.
+Hit: 9 (1 d8 + 5) bludgeoning damage. If the target is a crea
+ture, it must succeed on a DC 17 Strength saving throw or be
+knocked prone.
+174 CHAPTER 6 I BESTIARY
+=== PAGE 176 ===
+Tue- vl-ffo,,ate- pavadox: ~ome- de-e-p dvagn~
+ave- acAvall~ v'e-Y~ ~hallow.
+-fiz.han
+YOUNG DEEP DRAGON
+Large Dragon, Typically Neutral Evil
+Armor Class 16 (natural armor)
+Hit Points 93 (11 dl 0 + 33)
+Speed 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+DEEP DRAGON WYRMLING
+STR DEX CON INT WIS CHA Medium Dragon, Typically Neutral Evil
+18 (+4) 13 (+l) 16 (+3) 12 (+l) 14 (+2) 16 (+3)
+Armor Class 15 (natural armor)
+Saving Throws Dex +4, Con +6, Wis +5, Cha +6 Hit Points 27 (5d8 + 5)
+Skills Perception +5, Persuasion +6, Stealth +7 Speed 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+'
+Damage Resistances poison, psychic (
+Condition Immunities charmed, frightened, poisoned STR DEX CON INT WIS CHA
+Senses blindsight 30 ft., darkvision 150 ft., 14 (+2) 11 (+0) 12 (+l) 11 (+0) 12 (+1) 13 (+l)
+passive Perception 15
+Languages Common, Draconic, Undercommon Saving Throws Dex +2, Con +3, Wis +3, Cha +3
+Challenge 5 (1,800 XP) Proficiency Bonus +3 Skills Perception +3, Persuasion +3, Stealth +4
+Damage Resistances poison, psychic
+Condition Immunities charmed, frightened, poisoned
+ACTIONS
+Senses blindsight 10 ft., darkvision 90 ft., passive Perception 13
+Multiattack. The dragon makes one Bite attack and two Languages Draconic
+Claw attacks. Challenge l (200 XP) Proficiency Bonus +2
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+Hit: 9 (ldl0 + 4) piercing damage plus 3 (ld6) poison damage. ACTIONS
+Claw. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (ld6 + 4) slashing damage. Hit: 7 (ldl0 + 2) piercing damage.
+Nightmare Breath (Recharge 5-6). The dragon exhales a cloud Nightmare Breath (Recharge 5-6). The dragon exhales a cloud
+of spores in a 30-foot cone. Each creature in that area must of spores in a 15-foot cone. Each creature in that area must
+make a DC 14 Wisdom saving throw. On a failed save, the crea make a DC 11 Wisdom saving throw. On a failed save, the crea
+ture takes 22 (4dl0) psychic damage, and it is frightened of the ture takes 5 (1 dl 0) psychic damage, and it is frightened of the
+dragon for l minute. On a successful save, the creature takes dragon for 1 minute. On a successful save, the creature takes
+half as much damage with no additional effects. A frightened half as much damage with no additional effects. A frightened
+creature can repeat the saving throw at the end of each of its creature can repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success. turns, ending the effect on itself on a success.
+CHAPTER 6 I BESTIARY 175
+=== PAGE 177 ===
+I onu. ~pe-nt Month~ f-v-~irig- to te-ad, a
+clvac.oh~civa to pe-v-fov-M a ~ixte,e,n-&ar;
+f
+Ve--pav-f- hav-Mon~. The- ~i~ng-cJicJn't
+fa~ &v+ the- iMa~ of all it~ he-acJ~
+we-av-irig-the- litf-(e- hat~ ancJ Mv~iad,~ /
+~Ve, the-M ~fill fie-kl~ Me- to thi~ cia~.
+-Azban
+DRACOHYDRA
+The dracohydra is the result of arcane experimenta
+tion dedicated to recreating Tiamat's power. Amal
+gamating the magic of chromatic dragons with the
+blood of a hydra resulted in a many-headed draconic
+monster with wings and multiple snakelike tails.
+The dracohydra's breath weapon is a multicolored
+mass of energy that contains the essence of a chro
+matic dragon's elemental power.
+These gluttonous creatures' appearance heralds
+disaster for any region they settle in, as they feed re
+lentlessly-with each head demanding a feast of its
+own. If left alone, they hunt the local fauna almost
+to extinction, then move on to threatening the folk of
+nearby settlements.
+A dracohydra can sometimes be found in the ser
+vice of the spellcaster who created it, kept obedient
+by the rituals of their creation.
+DRACO HYDRA each of its heads that died since its last turn, unless it has
+taken radiant damage since its last turn. The dracohydra re
+Huge Monstrosity, Typically Chaotic Evil
+gains 10 hit points for each head regrown this way.
+Armor Class 17 (natural armor) Reactive Heads. For each head the dracohydra has beyond
+Hit Points 218 (19dl2 + 95) one, it gets an extra reaction that can be used only for opportu
+Speed 30 ft., swim 30 ft., fly 30 ft. nity attacks.
+Wakeful. While the dracohydra sleeps, at least one of its
+STR DEX CON INT WIS CHA
+heads is awake.
+20 (+5) 12 (+l) 20 (+5) 6 (-2) 12 (+l) 12 (+l)
+ACTIONS
+Skills Perception +9
+Senses darkvision 60 ft., passive Perception 19 Multiattack. The dracohydra makes as many Bite attacks as it
+Languages understands Draconic but can't speak has heads.
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
+Hit: 10 (ldl0 + 5) damage of a type chosen by the dracohydra:
+Multiple Heads. The dracohydra has five heads. While it has
+acid, cold, fire, lightning, or poison.
+more than one head, the dracohydra has advantage on saving
+throws against being blinded, charmed, deafened, frightened, Prismatic Breath (Recharge 4-6). The dracohydra's heads ex
+stunned, and knocked unconscious. hale a single breath of multicolored energy in a 60-foot cone.
+Whenever the dracohydra takes 30 or more damage in a Each creature in that area must make a DC 17 Dexterity saving
+single turn, one of its heads dies. If all its heads die, the draco throw. On a failed save, the creature takes 33 (6dl0) damage
+hydra dies. of a type chosen by the dracohydra: acid, cold, fire, lightning,
+,. At the end of its turn, the dracohydra grows two heads for or poison. On a successful save, the creature takes half as
+much damage.
+176 CHAPTER 6 I BESTIARY
+=== PAGE 178 ===
+THIS DRACONIAN DREADNOUGHT \VAS
+MADE FR:OM A SILVER DRAGON'S EGG.
+DRACONIANS
+Draconians are bipedal monsters born from dragon
+eggs that have been corrupted or warped by power
+ful magic. Most often, this corruption is a deliberate
+act, the work of an aspiring tyrant seeking to trans
+form stolen eggs into a draconian army. A single
+corrupted egg yields several draconians of the same
+kind. A draconian might be taken for a dragonborn
+at first glance, though most kinds of draconians
+have wings.
+When draconians die, they do not go quietly. In
+stead, their lifeless bodies unleash a last act of mag
+ical violence.
+..
+DRACONIAN DREADNOUGHT
+Large Monstrosity, Any Alignment
+Armor Class 16 (natural armor) DRACONIAN DREADNOUGHT
+Hit Points 57 (6d10 + 24)
+Speed 30 ft., fly 60 ft. The largest of the draconians are the dreadnoughts,
+who are born from the eggs of silver, blue, or sap
+STR DEX CON INT WIS CHA phire dragons. They fly on mighty wings over the
+18 (+4) 10 (+0) 18 (+4) 10 (+0) 10 (+0) 10 (+0) battlefield to wherever the fighting is the thickest.
+Their magical ability to change their appearance to
+Saving Throws Str +6, Wis +2
+mimic those they've slain allows them to sow confu
+Senses darkvision 60 ft., passive Perception 10 , ,
+Languages Common, Draconic sion and despair among their enemies. When dread
+Challenge 4 (1,100 XP) Proficiency Bonus +2 noughts are killed, their bodies burst into flames,
+scorching everything around them.
+Death Throes. When the draconian is reduced to O hit points, it On the world of Krynn, draconian dreadnoughts
+bursts into flames and is reduced to ashes. Each creature in a
+formed from silver dragon eggs are called sivak
+10-foot-radius sphere centered on the draconian must succeed
+draconians.
+on a DC 13 Dexterity saving throw or take 10 (3d6) fire damage.
+DRACONIAN FOOT SOLDIER
+ACTIONS
+Multiattack. The draconian makes two Serrated Sword attacks The most numerous draconians are the foot sol
+and one Tail attack. diers, who are born from brass, white, or crystal
+Serrated Sword. Melee Weapon Attack: +6 to hit, reach 5 ft., one dragon eggs. They are the smallest of their kind,
+target. Hit: 13 (2d8 + 4) slashing damage. and their slight wings are incapable of flight
+though they do afford the draconians some control
+Tail. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 8 (ld8 + 4) bludgeoning damage. If the target is a Large or when falling. These wings are small enough to be
+smaller creature, it must succeed on a DC 14 Strength saving hidden beneath a cloak or robe, so foot soldiers
+throw or be knocked prone. sometimes disguise themselves to get close to ene
+mies before springing an ambush. When draconian
+REACTIONS
+foot soldiers die, they unleash clouds of petrifying
+Shape Theft. After the draconian kills a Medium or smaller gas, turning their corpses-and any creatures
+Humanoid, the draconian can magically transform itself to look
+within the clouds-to stone.
+and feel like that creature while retaining its game statistics
+On the world of Krynn, draconian foot soldiers
+(other than its size). This transformation lasts until the draco
+formed from brass dragon eggs are called baaz
+nian dies or uses an action to end it.
+draconians.
+CHAPTER 6 I BESTIARY 177
+=== PAGE 179 ===
+THIS ORIICONIIIN FOOT SOLOIER WAS
+MIIOE FROM II BRASS ORIIGON'S EGG.
+DRACONIAN INFILTRATOR
+Copper, black, and topaz dragon eggs yield these
+sly and stealthy draconians, who often serve their
+creators as scouts and spies. They use the paralytic
+venom of their saliva to coat their weapons, making
+them formidable assassins as well. Their wings
+allow them to turn a fall into a rough glide. When
+draconian infiltrators die, their bodies dissolve into
+pools of acid.
+On the world of Krynn, draconian infiltrators
+formed from copper dragon eggs are called kapak
+draconians.
+DRACONIAN INFILTRATOR
+Medium Monstrosity, Any Alignment
+_.'\>
+_,":::.,_J ..
+Armor Class 15 (natural armor) .. , ...... \"
+Hit Points 39 (6d8 + 12)
+Speed 40 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 17 (+3) 14 (+2) 9 (-1) 13 (+l) 11 (+0)
+DRACONIAN FOOT SOLDIER
+Medium Monstrosity, Any Alignment Saving Throws Dex +5
+Skills Perception +3, Stealth +7
+Armor Class 14 (natural armor) Damage Immunities poison
+Hit Points 22 (4d8 + 4) Condition Immunities poisoned
+Speed 30 ft. Senses darkvision 60 ft., passive Perception 13
+Languages Common, Draconic
+STR DEX CON INT WIS CHA Challenge 3 (700 XP) Proficiency Bonus +2
+13 (+l) 11 (+0) 13 (+l) 8 (-1) 8 (-1) 10 (+0)
+Death Throes. When the draconian is reduced to O hit points, it
+Senses darkvision 60 ft., passive Perception 9 turns into a puddle of acid and splashes acid on those around
+Languages Common, Draconic it. Each creature within 5 feet of the draconian must succeed on
+Challenge 1/2 (100 XP) Proficiency Bonus +2 a DC 12 Dexterity saving throw or be covered in acid for l min
+ute. A creature can use its action to scrape or wash the acid off
+Controlled Fall. When the draconian falls and isn't incapaci itself or another creature. A creature covered in the acid takes 7
+tated, it subtracts up to 100 feet from the fall when calculating (2d6) acid damage at the start of each of its turns.
+the fall's damage.
+Glide. When the draconian falls and isn't incapacitated, it sub
+Death Throes. When the draconian is reduced to O hit points, tracts up to 100 feet from the fall when calculating the fall's
+its body turns to stone and releases a petrifying gas. Each crea damage, and it can move up to 2 feet horizontally for every l
+ture within 5 feet of the draconian must succeed on a DC 11 foot it descends.
+Constitution saving throw or be restrained as it begins to turn
+to stone. The restrained creature must repeat the saving throw ACTIONS
+at the end of its next turn. On a success, the effect ends; other Multiattack. The draconian makes two Dagger attacks. If both
+wise the creature is petrified for l minute. After l minute, the attacks hit the same creature, the target must succeed on a DC
+body of the draconian crumbles to dust. 12 Constitution saving throw or become poisoned until the end
+of the target's next turn. While poisoned in this way, the target
+ACTIONS
+--------------------r is also paralyzed.
+Multiattack. The draconian makes two Shortsword attacks.
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft.
+Shortsword. Melee Weapon Attack: +3 to hit, reach 5 ft., one or range 20/60 ft., one target. Hit: 5 (ld4 + 3) piercing damage
+target. Hit: 4 (ld6 + 1) piercing damage. plus 7 (2d6) poison damage.
+178 CHAPTER 6 I BESTIARY
+=== PAGE 180 ===
+THIS DRACONIAN MAGE
+WAS MADE FROM A
+• BRON1.E DRAGON'S EGG .
+THIS DRACONIAN INFILTRATOR
+WAS MADE FROM A BLACK DRAGQN'S EGG.
+Medium Monstrosity, Any Alignment
+DRACONIAN MAGE Armor Class l S (natural armor)
+Hit Points 40 (9d8)
+Draconians born from the eggs of bronze, green,
+Speed 30 ft.
+and emerald dragons have some ability to wield
+magic. They often lead small groups of draconian STR DEX CON INT WIS CHA
+foot soldiers, using their magic to snipe across 14 (+2) 10 (+0) 11 (+0) 11 (+0) 10 (+0) 14 (+2)
+the battlefield or aid their allies' incursions and
+Saving Throws Int +2, Wis +2, Cha +4
+attacks. They have wings that allow them to glide
+Senses darkvision 60 ft., passive Perception 10
+during a fall.
+Languages Common, Draconic
+When draconian mages die, their flesh shrivels Challenge 2 (450 XP) Proficiency Bonus +2
+away before their bones explode, sending a shower
+of magical splinters in all directions. Death Throes. When the draconian is reduced to O hit points,
+On the world of Krynn, draconian mages its scales and flesh immediately shrivel away and its bones ex
+plode. Each creature within 10 feet ofit must succeed on a DC
+formed from bronze dragon eggs are called bozak
+10 Dexterity saving throw or take 9 (2d8) force damage.
+draconians.
+Glide. When the draconian falls and isn't incapacitated, it sub
+DRACONIAN MASTERMIND tracts up to 100 feet from the fall when calculating the fall's
+damage, and it can move up to 2 feet horizontally for every 1
+The rarest and most powerful of the draconians are
+foot it descends.
+the masterminds-spellcasters and strategists who
+most often serve as military commanders or as advi ACTIONS
+sors to those who created them. They emerge from Multiattack. The draconian makes two Trident or Necrotic
+gold, red, or amethyst dragon eggs, wingless but Ray attacks.
+possessed of an arsenal of eldritch power. Like their Trident. Melee or Ranged Weapon Attack: +4 to hit, reach S ft. or
+dragon progenitors, masterminds have a breath range 20/60 ft., one target. Hit: 5 (ld6 + 2) piercing damage, or
+weapon-a billowing cloud of poisonous gas. They 6 (ld8 + 2) piercing damage if used with two hands to make a
+also have formidable claws and teeth they use to melee attack.
+rend foes in close combat. Necrotic Ray. Ranged Spell Attack: +4 to hit, range 60 ft., one
+Dying draconian masterminds are a sight to be target. Hit: 10 (3d6) necrotic damage.
+hold, as their magical essence coalesces as a ball of Spellcasting. The draconian casts one of the following spells,
+lightning that arcs out at those nearby. requiring no material components and using Charisma as the
+On the world of Krynn, draconian masterminds spellcasting ability (spell save DC 12):
+formed from gold dragon eggs are called aurak 1/day each: enlarge/reduce, invisibility, stinking cloud
+draconians.
+CHAPTER 6 I BESTIARY 179
+=== PAGE 181 ===
+•
+•
+t·
+-
+,.\ _
+••
+•
+•
+•
+•
+•
+T><IS DRACONIAN MASTERMIND WAS MADE
+FROM AN AMETHYST DRAGON'S EGG. ~
+•
+•
+•
+DRACONIAN MASTERMIND
+Medium Monstrosity, Any Alignment
+'
+Armor Class 17 (natural armor) '
+Hit Points 67 (9d8 + 27) .. •
+Speed 35 ft.
+•
+STR DEX CON INT WIS CHA •
+13 (+1) 14 (+2) 16 (+3) 15 (+2) 11 (+0) 17 (+3)
+Saving Throws Int +5, Wis +3, Cha +6
+Skills Perception +3
+Condition Immunities charmed ' t. •• "
+Senses truesight 60 ft., passive Perception 13
+•
+Languages Common, Draconic 11
+Challenge 6 (2,300 XP) Proficiency Bonus +3 • ,,
+,.
+Death Throes. When the draconian is reduced to 0 hit points,
+•
+its magical essence lashes out as a ball of lightning at the
+closest creature within 30 feet of it before arcing out to up to "'
+two other creatures within 15 feet of the first. Each creature •
+must make a DC 14 Dexterity saving throw. On a failed save,
+g,
+the creature takes 9 (2d8) lightning damage and is stunned
+until the end of its next turn. On a successful save, the creature
+takes half as much damage and isn't stunned.
+ACTIONS
+Multiattack. The draconian makes three Rend or Energy
+Ray attacks.
+DRACONIC SHARD
+Rend. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 5 (ld6 + 2) slashing damage. Gem dragons wield psionic power, and when a pow
+erful gem dragon perishes, the force of the dragon's
+Energy Ray. Ranged Spell Attack: +6 to hit, range 60 ft., one tar
+get. Hit: 8 (ldl0 + 3) force damage. will and mind sometimes refuses to pass on. This
+essence lingers in the form of a psychic remnant
+Noxious Breath (Recharge 5-6). The draconian exhales a
+called a draconic shard.
+15-foot cone of noxious gas. Each creature in that area must
+A draconic shard in its true form resembles a
+make a DC 14 Constitution saving throw. On a failed save, the
+creature takes 21 (6d6) poison damage and gains 1 level of ex shimmering, spectral image of the dragon. More
+haustion. On a successful save, the creature takes half as much often, though, a shard inhabits an object the gem
+damage, doesn't gain exhaustion, and is immune to all draconi dragon poured psionic power into- typically a
+ans' Noxious Breath for 24 hours.
+weapon or other item from the dragon's hoard. In
+Spellcasting. The draconian casts one of the following spells, this vessel, a draconic shard continues to pursue the
+requiring no material components and using Charisma as the interests and struggles that drove the dragon, per
+spellcasting ability (spell save DC 14): haps even accompanying adventurers in the guise of
+At will: invisibility, mage hand an intelligent magic item and steering them to fulfill
+2/day each: dimension door, disguise self, sending the dragon's designs.
+A draconic shard is difficult to destroy. Destroying
+REACTIONS
+the shard's spectral form or an object the shard
+Magic Shield (3/Day). When the draconian is hit by an attack
+inhabits forces the spirit into the form of a cracked
+roll, it can create an invisible barrier of magical force around
+gemstone while the spirit slowly regains strength.
+itself, granting it a +5 bonus to its AC against that attack and
+potentially causing the attack to miss. Only if that stone is destroyed can the shard be
+put to rest.
+180 CHAPTER 6 / BESTIARY
+=== PAGE 182 ===
+DRACONIC SHARD
+Huge Undead, Typically Neutral
+Armor Class 17 (Deflection)
+Hit Points 168 (16dl2 + 64)
+Speed Oft., fly 80 ft. (hover)
+STR DEX CON INT WIS CHA
+l (-5) 12 (+l) 18 (+4) 22 (+6) 18 (+4) 22 (+6) ' •, •~
+,,I
+Saving Throws Dex +7, Int +12, Wis +10, Cha +12
+Skills Arcana +12, History +12, Stealth +7, Perception +16 ✓ /
+Damage Resistances acid, fire; bludgeoning, piercing, and

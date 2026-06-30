@@ -1,0 +1,500 @@
+Hobgoblin Devastator
+Medium Fey (Coblinoid), Typically Lawful Neutral
+Armor Class 13 (studded leather)
+Hit Points 45 (7d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 12 (+1) 14 (+2) 16 (+3) 13 (+1) 11 (+0)
+Skills Arcana +5
+Senses darkvision 60 ft., passive Perception 11
+Languages Common, Goblin
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Army Arcana. When the hobgoblin casts a spell that causes
+damage or that forces other creatures to make a saving throw,
+it can choose itself and any number of allies to be immune to
+the damage caused by the spell and to succeed on the required
+saving throw.
+Actions
+Multiattack. The hobgoblin makes two Quarterstaff or Devas­
+tating Bolt attacks.
+Quarterstaff. Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target. Hit: 4 (1 d6 + 1) bludgeoning damage, or 5 (1 d8 + 1)
+bludgeoning damage if used with two hands, plus 13 (3d8)
+force damage.
+Devastating Bolt. Ranged Spell Attack: +5 to hit, range 60 ft.,
+one target. Hit: 21 (4d8 + 3) force damage, and the target is
+knocked prone.
+Spellcasting. The hobgoblin casts one of the following spells,
+using Intelligence as the spellcasting ability (spell save DC 13):
+At will: mage hand, prestidigitation
+2/day each: fireball, fly, fog cloud, gust of wind, lightning bolt
+CHAPTER 2 | BESTIARY 153
+
+=== PAGE 154 ===
+Hobgoblin Iron Shadow
+Iron shadows are hobgoblin martial artists who
+serve fey and mortal courts as secret police, scouts,
+and assassins. They spy to ferret out treachery,
+rebellion, and betrayal and deal with it ruthlessly.
+Iron shadows possess agility and stamina matched
+only by their ironclad commitment to the will of
+their masters. They wield a deadly combination of
+unarmed fighting techniques and shadow magic to
+deceive and defeat their foes. While on secret mis­
+sions, they wear masks crafted to resemble mon­
+sters, both to conceal their identities and to strike
+fear into their foes.
+An iron shadow is usually recruited from the
+ranks of the Feywild’s hobgoblin armies or from
+among the hobgoblins who have resided in the Ma­
+terial Plane for centuries. A candidate for admission
+undergoes a series of tests designed to reveal any
+potential for treachery. Those who fail are slain,
+154 CHAPTER 2 | BESTIARY
+--col--
+while those who pass receive secret training in the
+arts of magic and stealth. This indoctrination is a
+slow and arduous process; many aspirants don’t
+finish it, and years might go by during which the
+iron shadows welcome no new members into their
+ranks. When a recruit’s training is complete, they
+are tasked with conducting assassinations and
+spy missions.
+Hobgoblin Iron Shadow
+Medium Fey (Goblinoid), Typically Lawful Neutral
+Armor Class 15 (Unarmored Defense)
+Hit Points 32 (5d8 + 10)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 16 (+3) 15 (+2) 14 (+2) 15 (+2) 11 (+0)
+Skills Acrobatics +5, Athletics +4, Stealth +5
+Senses darkvision 60 ft., passive Perception 12
+Languages Common, Goblin
+Challenge 2 (450 XP) Proficiency Bonus +2
+Unarmored Defense. While the hobgoblin is wearing no armor
+and wielding no shield, its AC includes its Wisdom modifier.
+Actions
+Multiattack. The hobgoblin makes four attacks, each of which
+can be an Unarmed Strike or a Dart attack. It can also use
+Shadow Jaunt once, either before or after one of the attacks.
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 5 (1 d4 + 3) bludgeoning damage.
+Dart. Ranged Weapon Attack. +5 to hit, range 20/60 ft., one tar­
+get. Hit: 5 (1 d4 + 3) piercing damage.
+Shadow Jaunt. The hobgoblin teleports, along with any equip­
+ment it is wearing or carrying, up to 30 feet to an unoccupied
+space it can see. Both the space it leaves and its destination
+must be in dim light or darkness.
+Spellcasting. The hobgoblin casts one of the following spells,
+using Intelligence as the spellcasting ability (spell save DC 12):
+At will: minor illusion, prestidigitation
+1/day each: charm person, disguise self, silent image
+
+=== PAGE 155 ===
+Howler
+A far-off wail precedes the sight of a howler. Even
+at a distance, listeners’ minds cringe at the sound
+and fill with horror at the realization that the noise
+is drawing closer. When howlers go on the prowl,
+courage isn’t enough to stand up against them.
+These nightmare creatures are native to Pan­
+demonium, but they can be found on most of the
+Lower Planes, where they are trained as war
+hounds. Howlers can be domesticated, after a
+fashion, but they respond only to brutal training in
+which they are forced to recognize the trainer as
+the pack’s undisputed leader. A trained pack then
+follows its leader without hesitation. Howler packs
+course over the battlefields of the Blood War and
+also serve evil mortals powerful and vicious enough
+to command their loyalty.
+Howlers rely on speed, numbers, and their
+mind-numbing howling to corner prey before they
+tear it apart. Their howls flood the minds of their
+victims, making complex thought impossible. Lis­
+teners can do little more than stare in horror and
+stumble around the battlefield in a search for safety.
+Fiends especially prize howlers for this reason,
+because for a few crucial moments in a battle, their
+howls can neutralize an enemy.
+--col--
+Howler
+Large Fiend, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 90 (12dl0 + 24)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 16 (+3) 15 (+2) 5 (-3) 14 (+2) 6 (-2)
+Skills Perception +5
+Damage Resistances cold, fire, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities frightened
+Senses darkvision 60 ft., passive Perception 15
+Languages understands Abyssal but can't speak
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+Pack Tactics. A howler has advantage on attack rolls against a
+creature if at least one of the howler's allies is within 5 feet of
+the creature and the ally isn’t incapacitated.
+Actions
+Multiattack. The howler makes two Rending Bite attacks.
+Rending Bite. Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target. Hit: 10 (2d6 + 3) piercing damage, plus 22 (4dl0)
+psychic damage if the target is frightened. This attack ignores
+damage resistance.
+Mind-Breaking Howl (Recharge 4-6). The howler emits a keen­
+ing howl in a 60-foot cone. Each creature in that area must
+succeed on a DC 13 Wisdom saving throw or take 16 (3dl0)
+psychic damage and be frightened until the end of the howler’s
+next turn. While a creature is frightened in this way, its speed is
+halved, and it is incapacitated. A target that successfully saves
+is immune to the Mind-Breaking Howl of all howlers for the
+next 24 hours.
+CHAPTER 2 | BESTIARY 155
+
+=== PAGE 156 ===
+Hutijin
+Politics in the Nine Hells are anything but predict­
+able. Alliances form all the time, but most wind up
+unraveling due to treachery. Nevertheless, for all
+their backbiting and betrayal, devils do occasionally
+display loyalty, offering unwavering service to their
+masters. One such example is Hutijin, a duke of Ca-
+nia and loyal servant of Mephistopheles.
+Across the Hells, Hutijin’s name fills lesser devils
+with fear and loathing, for this duke commands two
+companies of pit fiends (see the Monster Manual).
+With such soldiers under his command, Hutijin can
+easily crush any rival who gets in his way while also
+defending Mephistopheles against armies seek­
+ing to contest his dominion. Hutijin has amassed
+enough power to challenge the lord of Cania, but he
+has never wavered in his support for his master-
+suggesting, perhaps, that Mephistopheles has some
+hold over him.
+jKg CHAPTER 2 | BESTIARY
+--col--
+Outside the Nine Hells, Hutijin is a relatively
+obscure figure, known only to the most learned in­
+fernal scholars. He has no cults of his own, and his
+servants are few in number. The reason is simple:
+Hutijin hates mortals. When summoned from the
+Hells, he repays the instigator with a long and ago­
+nizing death.
+Mephistopheles forbids Hutijin from making
+too many forays into the Material Plane, since the
+duke’s absence leaves him vulnerable to his rivals.
+Other archdevils know how much Hutijin despises
+mortals and have secretly disseminated the means
+to call him from the Nine Hells in the hope of
+distracting the archdevil long enough for them to
+assail Mephistopheles. Hutijin sends devils into the
+Material Plane to eradicate mention of his name
+and destroy those who have learned of him, but the
+summonings still occur. When called from his post,
+he negotiates as quickly as he can, usually closing a
+deal with little cost to the summoner. However, once
+the deal has been fulfilled, Hutijin repays the inter­
+ruption with death.
+
+=== PAGE 157 ===
+Hutijin
+Large Fiend (Devil), Lawful Evil
+Armor Class 19 (natural armor)
+Hit Points 200 (16dl0 + 112)
+Speed 30 ft., fly 60 ft.
+STR DEX CON INT WIS CHA
+27 (+8) 15 (+2) 25 (+7) 23 (+6) 19 (+4) 25 (+7)
+Saving Throws Dex +9, Con +14, Wis +11
+Skills Intimidation +14, Perception +11
+Damage Resistances cold; bludgeoning, piercing, and slashing
+from nonmagical attacks that aren’t silvered
+Damage Immunities fire, poison
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses truesight 120 ft., passive Perception 21
+Languages all, telepathy 120 ft.
+Challenge 21 (33,000 XP) Proficiency Bonus+7
+Infernal Despair. Each creature within 30 feet of Hutijin that
+isn’t a devil makes saving throws with disadvantage.
+Legendary Resistance (3/Day). If Hutijin fails a saving throw, he
+can choose to succeed instead.
+Magic Resistance. Hutijin has advantage on saving throws
+against spells and other magical effects.
+Regeneration. Hutijin regains 20 hit points at the start of his
+turn. If he takes radiant damage, this trait doesn’t function at
+the start of his next turn. Hutijin dies only if he starts his turn
+with 0 hit points and doesn’t regenerate.
+Actions
+Multiattack. Hutijin makes one Bite attack, one Claw attack,
+one Mace attack, and one Tail attack.
+Bite. Melee Weapon Attack: +15 to hit, reach 5 ft., one target.
+Hit: 15 (2d6 + 8) fire damage. The target must succeed on a DC
+22 Constitution saving throw or become poisoned. While poi­
+soned in this way, the target can’t regain hit points, and it takes
+10 (3d6) poison damage at the start of each of its turns. The
+poisoned target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.
+--col--
+—
+Claw. Melee Weapon Attack: +15 to hit, reach 10 ft., one target.
+Hit: 17 (2d8 + 8) cold damage.
+Mace. Melee Weapon Attack: +15 to hit, reach 5 ft., one target.
+Hit: 15 (2d6 + 8) force damage.
+Tail. Melee Weapon Attack: +15 to hit, reach 10 ft., one target.
+Hit: 19 (2dl0 + 8) thunder damage.
+Spellcasting. Hutijin casts one of the following spells, requiring
+no material components and using Charisma as the spellcast­
+ing ability (spell save DC 22):
+At will: alter self (can become Medium when changing his ap­
+pearance), detect magic, hold monster, invisibility (self only),
+lightning bolt, suggestion, wall of fire
+3/day: dispel magic
+Teleport. Hutijin teleports, along with any equipment he is
+wearing and carrying, up to 120 feet to an unoccupied space
+he can see.
+Reactions
+Fearful Voice (Recharge 5-6). In response to taking damage,
+Hutijin utters a dreadful word of power. Each creature within 30
+feet of him that isn’t a devil must succeed on a DC 22 Wisdom
+saving throw or become frightened of him for 1 minute. A crea­
+ture can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success. A creature that saves
+against this effect is immune to his Fearful Voice for 24 hours.
+Legendary Actions
+Hutijin can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at
+a time and only at the end of another creature’s turn. Hutijin
+regains spent legendary actions at the start of his turn.
+Attack. Hutijin makes one Claw, Mace, or Tail attack.
+Teleport. Hutijin uses Teleport.
+Lightning Storm (Costs 2 Actions). Hutijin releases lightning in
+a 30-foot radius, blocked only by total cover. All other crea­
+tures in that area must each make a DC 22 Dexterity saving
+throw, taking 18 (4d8) lightning damage on a failed save, or
+half as much damage on a successful one.
+
+=== PAGE 158 ===
+Hydroloth
+Like the thought-stealing waters of the River
+Styx they inhabit, hydroloths filch the memories
+of creatures they attack, stealing away thoughts
+for delivery to whatever master they happen to
+serve. Hydroloths also savor finding lost things,
+especially those that have been swallowed up in
+the deeps.
+For amphibious assaults or underwater
+conflicts, hydroloths have no equal among
+yugoloths. They sometimes hire them­
+selves out to attack and scuttle ships and
+raid coastal settlements.
+Hydroloth
+Medium Fiend (Yugoloth), Typically Neutral Evil
+Armor Class 15
+Hit Points 135 (18d8 + 54)
+Speed 20 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 21 (+5) 16 (+3) 19 (+4) 10 (+0) 14 (+2)
+Skills Insight +4, Perception +4
+Damage Vulnerabilities fire
+Damage Resistances cold, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 60 ft., passive Perception 14
+Languages Abyssal, Infernal, telepathy 60 ft.
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Amphibious. The hydroloth can breathe air and water.
+Magic Resistance. The hydroloth has advantage on saving
+throws against spells and other magical effects.
+Secure Memory. The hydroloth is immune to the waters of the
+River Styx, as well as any effect that would steal or modify its
+memories or detect or read its thoughts.
+Watery Advantage. While submerged in liquid, the hydroloth
+has advantage on attack rolls.
+CHAPTER 2 | BESTIARY
+--col--
+Actions
+Multiattack. The hydroloth makes two Bite or Claw attacks. It
+can replace one attack with a use of Spellcasting.
+Bite. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 16 (2dl0 + 5) force damage plus 9 (2dl0) psychic damage.
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 14 (2d8 + 5) force damage plus 9 (2dl0) psychic damage.
+Spellcasting. The hydroloth casts one of the following spells,
+requiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 16):
+At will: darkness, detect magic, dispel magic, invisibility (self only)
+3/day each: control water, crown of madness, fear, suggestion
+Steal Memory (1/Day). The hydroloth targets one creature it
+can see within 60 feet of it. The target takes 14 (4d6) psychic
+damage, and it must make a DC 16 Intelligence saving throw.
+On a successful save, the target becomes immune to this
+hydroloth’s Steal Memory for 24 hours. On a failed save, the
+target loses all proficiencies; it can’t cast spells; it can’t under­
+stand language; and if its Intelligence and Charisma scores are
+higher than 5, they become 5. Each time the target finishes a
+long rest, it can repeat the saving throw, ending the effect on
+itself on a success. A greater restoration or remove curse spell
+cast on the target ends this effect early.
+Teleport. The hydroloth teleports, along with any equipment
+it is wearing or carrying, up to 60 feet to an unoccupied space
+it can see.
+
+=== PAGE 159 ===
+JUIBLEX
+Called the Faceless Lord and the Oozing Hunger
+in ancient grimoires, Juiblex is demon lord of slime
+and ooze, a noxious creature that doesn’t care about
+the plots and schemes of others of its kind. It exists
+only to consume, digesting and transforming living
+matter into more of itself.
+A true horror, Juiblex is a mass of bubbling slime,
+swirling black and green, with glaring red eyes
+floating and shifting within it. It can rise up like a
+20-foot hill, lashing out with dripping pseudopods
+to drag victims into its bulk. Those consumed by
+Juiblex are obliterated.
+Juiblex’s Lair
+Juiblex’s principal lair is known as the Slime Pits, a
+realm that Juiblex shares with Zuggtmoy (who also
+appears in this book). This layer of the Abyss, which
+is also known as Shedaklah, is a bubbling morass
+of fetid sludge. The landscape is covered in vast ex­
+panses of caustic slimes, and strange organic forms
+rise from the oceans of ooze at Juiblex’s command.
+Juiblex’s challenge rating is 24 (62,000 XP) when
+encountered in its lair.
+Lair Actions
+On initiative count 20 (losing initiative ties), Juiblex
+can take one of the following lair actions; it can’t
+take the same lair action two rounds in a row:
+Green Slime. A green slime (see the Dungeon Mas­
+ter’s Guide) appears on a spot on the ceiling that
+Juiblex chooses within the lair. The slime disinte­
+grates after 1 hour.
+Slippery Slime. Juiblex slimes a square area of
+ground it can see within the lair. The area can be
+up to 10 feet on a side. When the slime appears,
+each creature on it must succeed on a DC 21
+Dexterity saving throw or fall prone and slide 10
+feet in a random direction determined by a d8 roll.
+When a creature enters the area for the first time
+on a turn or ends its turn there, that creature must
+make the same save.
+The slime lasts for 1 hour or until it is burned
+away with fire. If the slime is set on fire, it burns
+away after 1 round. Any creature that starts
+its turn in the burning slime takes 22 (4dl0)
+fire damage.
+Sticky Slime. Juiblex slimes a square area of
+ground it can see within the lair. The area can be
+up to 10 feet on a side. When the slime appears,
+each creature in that area must succeed on a DC
+21 Strength saving throw or become restrained.
+When a creature enters the area for the first time
+on a turn or ends its turn there, that creature must
+make the same save.
+--col--
+CHAPTER 2 | BESTIARY 159
+
+=== PAGE 160 ===
+A restrained creature is stuck as long as it re­
+mains in the slimy area or until it breaks free. The
+restrained creature, or another creature that can
+reach it, can use its action to try to break free and
+must succeed on a DC 21 Strength check.
+The slime lasts for 1 hour or until it is burned
+away with fire. If the slime is set on fire, it burns
+away after 1 round. Any creature that starts
+its turn in the burning slime takes 22 (4dl0)
+fire damage.
+Regional Effects
+The region containing Juiblex’s lair is warped by its
+magic, creating one or more of the following effects:
+Acidic Water. Small bodies of water, such as ponds
+or wells, within 1 mile of the lair turn highly
+acidic, corroding any object that touches them.
+Corrupted Nature. Within 6 miles of the lair, all
+Wisdom (Medicine) and Wisdom (Survival) checks
+have disadvantage.
+Juiblex
+Huge Fiend (Demon), Chaotic Evil
+Armor Class 18 (natural armor)
+Hit Points 350 (28dl2+ 168)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+24 (+7) 10 (+0) 23 (+6) 20 (+5) 20 (+5) 16 (+3)
+Saving Throws Dex +7, Con +13, Wis +12
+Skills Perception +12
+Damage Resistances cold, fire, lightning
+Damage Immunities acid, poison; bludgeoning, piercing, and
+slashing that is nonmagical
+Condition Immunities blinded, charmed, deafened, exhaustion,
+frightened, grappled, paralyzed, petrified, poisoned, prone,
+restrained, stunned, unconscious
+Senses truesight 120 ft., passive Perception 22
+Languages all, telepathy 120 ft.
+Challenge 23 (50,000 XP) Proficiency Bonus +7
+Foul. Any creature other than an Ooze that starts its turn within
+10 feet ofJuiblex must succeed on a DC 21 Constitution saving
+throw or be poisoned until the start of the creature’s next turn.
+Legendary Resistance (3/Day). If Juiblex fails a saving throw, it
+can choose to succeed instead.
+Magic Resistance. Juiblex has advantage on saving throws
+against spells and other magical effects.
+Regeneration. Juiblex regains 20 hit points at the start of its
+turn. If it takes fire or radiant damage, this trait doesn’t func­
+tion at the start of its next turn. Juiblex dies only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Spider Climb. Juiblex can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+CHAPTER 2 | BESTIARY
+--col--
+Slime. Surfaces within 6 miles of the lair are fre­
+quently covered by a thin film of slime, which is
+slick and sticks to anything that touches it.
+If Juiblex dies, these effects fade over the course of
+Id 10 days.
+Cultists ofJuiblex
+The Faceless Lord grants its cultists special abili­
+ties. Lesser followers can gain the Liquid Movement
+trait. The most dedicated devotees of ooze can also
+gain the Slimy Organs trait.
+Liquid Movement. As an action, this creature can move up to
+20 feet through spaces no more than an inch in diameter. It
+must end this movement in a space that can accommodate its
+full size. Otherwise, it takes 5 force damage and returns to the
+space where it began this movement.
+Slimy Organs. This creature has resistance to bludgeoning,
+piercing, and slashing damage from nonmagical attacks.
+Whenever this creature suffers a critical hit or is reduced to 0
+hit points, it sprays acid; each creature within 5 feet of it takes
+acid damage equal to its number of Hit Dice.
+Actions
+Multiattack. Juiblex makes three Acid Lash attacks.
+Acid Lash. Melee or Ranged Weapon Attack: +14 to hit, reach 10
+ft. or range 60/120 ft., one target. Hit: 21 (4d6 + 7) acid dam­
+age. Any creature killed by this attack is drawn into Juiblex’s
+body, where the corpse is dissolved after 1 minute.
+Eject Slime (Recharge 5-6). Juiblex spews out a corrosive slime,
+targeting one creature that it can see within 60 feet of it. The
+target must succeed on a DC 21 Dexterity saving throw or take
+55 (lOdlO) acid damage. Unless the target avoids taking all of
+this damage, any metal armor worn by the target takes a per­
+manent -1 penalty to the AC it offers, and any metal weapon
+the target is carrying or wearing takes a permanent -1 penalty
+to damage rolls. The penalty worsens each time a target is sub­
+jected to this effect. If the penalty on an object drops to -5, the
+object is destroyed. The penalty on an object can be removed
+by the mending spell.
+Spellcasting. Juiblex casts one of the following spells, requiring
+no material components and using Wisdom as the spellcasting
+ability (spell save DC 20):
+At will: detect magic
+3/day each: contagion, gaseousform
+Legendary Actions
+Juiblex can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. Juiblex regains
+spent legendary actions at the start of its turn.

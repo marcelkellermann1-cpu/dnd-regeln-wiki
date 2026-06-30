@@ -1,0 +1,500 @@
+accurate memories. None of them can remember
+the origin of the first kenku, however, and they often
+joke that there are as many kenku origin stories as
+there are kenku. Some of them paint their genesis
+as a curse, being a flightless bird people doomed to
+mimic other people’s creations. Other kenku recite
+cryptic but beautiful poems about their advent being
+a blessed event in which they were sent into the mul­
+tiverse to observe and catalog its many wonders.
+Whatever their true origin, kenku are most often
+found in the Shadowfell and the Material Plane, and
+they tend to have the coloration typical of ravens.
+Kenku Traits
+As a kenku, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. Your size is Medium or Small. You choose
+the size when you select this race.
+24 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Speed. Your walking speed is 30 feet.
+Expert Duplication. When you copy writing or
+craftwork produced by yourself or someone else,
+you have advantage on any ability checks you make
+to produce an exact duplicate.
+Kenku Recall. Thanks to your supernaturally
+good memory, you have proficiency in two skills of
+your choice.
+Moreover, when you make an ability check using
+any skill in which you have proficiency, you can give
+yourself advantage on the check before rolling the
+d20. You can give yourself advantage in this way a
+number of times equal to your proficiency bonus,
+and you regain all expended uses when you finish a
+long rest.
+Mimicry. You can accurately mimic sounds you
+have heard, including voices. A creature that hears
+the sounds you make can tell they are imitations
+only with a successful Wisdom (Insight) check
+against a DC of 8 + your proficiency bonus + your
+Charisma modifier.
+
+=== PAGE 25 ===
+Kobold
+Some of the smallest draconic creatures in the
+multiverse, kobolds display their draconic ances­
+try in the glint of their scales and in their roars.
+Legends tell of the first kobolds emerging from the
+Underdark near the lairs of the earliest dragons.
+In some lands, kobolds serve chromatic or metallic
+dragons—even worshiping them as divine beings.
+In other places, kobolds know too well how danger­
+ous those dragons can be and help others defend
+against draconic destruction.
+Whatever their relationship to dragons, kobold
+scales tend to be rust colored, although the occa­
+sional kobold sports a scale color more akin to that
+of a chromatic or a metallic dragon. A kobold’s cry
+can express a range of emotion: anger, resolve,
+elation, fear, and more. Regardless of the emotion
+expressed, their cry resonates with draconic power.
+Kobold Traits
+As a kobold, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Small.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Draconic Cry. As a bonus action, you let out a cry
+at your enemies within 10 feet of you. Until the start
+of your next turn, you and your allies have advan­
+tage on attack rolls against any of those enemies
+who could hear you. You can use this trait a number
+of times equal to your proficiency bonus, and you re­
+gain all expended uses when you finish a long rest.
+Kobold Legacy. Kobolds’ connection to dragons
+can manifest in unpredictable ways in an individual
+kobold. Choose one of the following legacy options
+for your kobold:
+--col--
+Craftiness. You have proficiency in one of the fol­
+lowing skills of your choice: Arcana, Investigation,
+Medicine, Sleight of Hand, or Survival.
+Defiance. You have advantage on saving throws to
+avoid or end the frightened condition on yourself.
+Draconic Sorcery. You know one cantrip of your
+choice from the sorcerer spell list. Intelligence,
+Wisdom, or Charisma is your spellcasting ability
+for that cantrip (choose when you select this race).
+CHAPTER 1 | FANTASTICAL RACES 25
+
+=== PAGE 26 ===
+Lizardfolk
+The saurian lizardfolk are thought by some sages to
+be distant cousins of dragonborn and kobolds. De­
+spite their resemblance to those other scaled folk,
+however, lizardfolk are their own people and have
+lived on the worlds of the Material Plane since the
+worlds’ creation. Gifted by the gods with remarkable
+physical defenses and a mystical connection to the
+natural world, lizardfolk can survive with just their
+wits in situations that would be deadly for other folk.
+Because of that fact, many lizardfolk myths state
+that their people were placed by the gods in the Ma­
+terial Plane to guard its natural wonders.
+Lizardfolk have colorful scales and exhibit a wide
+array of scale patterns. Their individual facial fea­
+tures are as varied as those of lizards.
+Lizardfolk Traits
+As a lizardfolk, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet, and
+you have a swimming speed equal to your
+walking speed.
+26 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Bite. You have a fanged maw that you can use to
+make unarmed strikes. When you hit with it, the
+strike deals ld6 + your Strength modifier slashing
+damage, instead of the bludgeoning damage normal
+for an unarmed strike.
+Hold Breath. You can hold your breath for up to
+15 minutes at a time.
+e
+HungryJaws. You can throw yourself into a feed­
+ing frenzy. As a bonus action, you can make a spe­
+cial attack with your Bite. If the attack hits, it deals
+.
+its normal damage, and you gain temporary hit
+points equal to your proficiency bonus. You can use
+this trait a number of times equal to your proficiency
+bonus, and you regain all expended uses when you
+finish a long rest.
+Natural Armor. You have tough, scaly skin. When
+you aren’t wearing armor, your base AC is 13 + your
+Dexterity modifier. You can use your natural armor
+to determine your AC if the armor you wear would
+leave you with a lower AC. A shield’s benefits apply
+as normal while you use your natural armor.
+Nature's Intuition. Thanks to your mystical con­
+nection to nature, you gain proficiency with two of
+the following skills of your choice: Animal Handling,
+Medicine, Nature, Perception, Stealth, or Survival.
+
+=== PAGE 27 ===
+Minotaur
+Minotaurs are barrel-chested humanoids
+with heads resembling those of bulls.
+Blessed with a supernaturally strong sense
+of direction, minotaurs make great navigators.
+Some sages believe minotaurs were first created by
+the Lady of Pain to patrol the magical mazes that
+she uses to trap her foes.
+Minotaur horns range in size from about 1 foot
+long to easily three times that length. Minotaurs
+often carve their horns to sharpen their edges,
+etch symbols of power into them, or sheathe
+them in bronze to prevent them from shattering
+during battle.
+Thick hair extends down minotaurs’ necks and
+powerful backs, and some have long patches of hair
+on their chins and cheeks. Their legs end in heavy,
+cloven hooves, and they have long, tufted tails.
+Minotaur Traits
+As a minotaur, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Horns. You have horns that you can use to make
+unarmed strikes. When you hit with them, the
+strike deals ld6 + your Strength modifier piercing
+damage, instead of the bludgeoning damage normal
+for an unarmed strike.
+--col--
+Goring Rush. Immediately after you take the
+Dash action on your turn and move at least 20 feet,
+you can make one melee attack with your Horns as
+a bonus action.
+Hammering Horns. Immediately after you hit a
+creature with a melee attack as part of the Attack
+action on your turn, you can use a bonus action to
+attempt to push that target with your horns. The
+target must be within 5 feet of you and no more
+than one size larger than you. Unless it succeeds
+on a Strength saving throw against a DC equal to 8
++ your proficiency bonus + your Strength modifier,
+you push it up to 10 feet away from you.
+Labyrinthine Recall. You always know which di­
+rection is north, and you have advantage on any Wis­
+dom (Survival) check you make to navigate or track.
+CHAPTER 1 | FANTASTICAL RACES
+
+=== PAGE 28 ===
+Orc
+Orcs trace their creation to the one-eyed god
+Gruumsh, an unstoppable warrior and powerful
+leader. The divine qualities of Gruumsh resonate
+within orcs, granting them a reflection of his tough­
+ness and tenacity that can’t be matched, and the
+god equipped his children to be able to live above or
+below ground.
+On some worlds, such as Eberron, orcs were
+among the first defenders of the natural order from
+the encroachments of Fiends and other extrapla-
+nar threats. Gruumsh’s blessings have made orcs
+tireless guardians and mighty allies wherever they
+are found, even when they turn their devotion to
+other gods.
+Orc Traits
+As an orc, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+--col--
+Adrenaline Rush. You can take the Dash action
+as a bonus action. You can use this trait a number
+of times equal to your proficiency bonus, and you re­
+gain all expended uses when you finish a long rest.
+Whenever you use this trait, you gain a num­
+ber of temporary hit points equal to your profi­
+ciency bonus.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Powerful Build. You count as one size larger
+when determining your carrying capacity and the
+weight you can push, drag, or lift.
+Relentless Endurance. When you are reduced to
+0 hit points but not killed outright, you can drop to
+1 hit point instead. Once you use this trait, you can’t
+do so again until you finish a long rest.
+
+=== PAGE 29 ===
+Satyr
+Originating in the Feywild—a realm of pure emo­
+tion-satyrs thrive on the energy of merriment. They
+resemble elves but have goatlike legs, cloven hooves,
+and ram or goat horns. The magic of the fey realm
+has given them an innate ability to perform, to de­
+light, and to resist magical intrusion. While they’re
+usually found in the Feywild, satyrs do wander to
+other planes of existence, most often to the Material
+Plane. There they seek to bring a bit of their home
+plane’s splendor to other worlds.
+Satyr Traits
+As a satyr, you have the following racial traits.
+Creature Type. You are a Fey.
+Size. You are Medium.
+Speed. Your walking speed is 35 feet.
+ANADRQj
+EKIM
+--col--
+Ram. You can use your head and horns to make
+unarmed strikes. When you hit with them, the strike
+deals ld6 + your Strength modifier bludgeoning
+damage, instead of the bludgeoning damage normal
+for an unarmed strike.
+Magic Resistance. You have advantage on saving
+throws against spells.
+Mirthful Leaps. Whenever you make a long
+jump or a high jump, you can roll a d8 and add the
+number rolled to the number of feet you cover, even
+when making a standing jump. This extra distance
+costs movement as normal.
+Reveler. As an embodiment of revelry, you have
+proficiency in the Performance and Persuasion
+skills, and you have proficiency with one musical
+instrument of your choice.
+CHAPTER 1 | FANTASTICAL RACES 29
+
+=== PAGE 30 ===
+Sea Elf
+Sea elves fell in love with the wild beauty of the
+ocean in the earliest days of the multiverse. While
+other elves traveled from realm to realm, sea elves
+navigated the currents and explored the waters
+of many worlds. Today these elves can be found
+wherever oceans exist, as well as in the Elemental
+Plane of Water.
+Like other elves, sea elves can live to be over 750
+years old.
+Sea Elf Traits
+As a sea elf, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered an elf for any prerequisite or effect that
+requires you to be an elf.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet, and
+you have a swimming speed equal to your
+walking speed.
+Child of the Sea. You can breathe air and water,
+and you have resistance to cold damage.
+30 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Elves of Many Realms
+Created by the god Corelion, the first elves were Fey
+beings who cavorted on various planes of existence,
+changing their physical forms at will. Outside the glory
+of Arvandor, their favorite place was the Feywild—a
+realm of unbridled passion. It was to that place of
+splendors that elves fled after they were exiled from
+Corellon’s presence for plotting with their god’s rival,
+Lolth. And it was there that they transformed from
+Fey creatures into Humanoids and lost their ability to
+shape-shift at will. Afterward, they often wept as they
+realized what they had lost, their sorrow made even
+deeper by the Feywild’s influence. But in the Feywild,
+they also discovered the potential joys of being people
+of fixed forms, and they rediscovered hope once they
+renounced Lolth’s treachery.
+Most elves eventually spread from the Feywild to
+other worlds, as wanderlust and curiosity drove them
+to the far reaches of the multiverse. In those other
+worlds, elves developed the physical forms now as­
+sociated with them. Because of their original mutable
+nature, each group of elves mystically took on charac­
+teristics of the environment with which they bonded,
+whether forests (wood elves), fey crossings in the
+Material Plane (high elves), the Underdark (drow),
+the Shadowfell (shadar-kai), the Feywild (eladrin), or
+oceans (sea elves).
+In some places, Corellon has passed from elves’
+memory, but the god’s blood flows within them still,
+even if they know nothing of its source. That blood is
+what causes them to evolve after spending centuries
+connected to a particular environment, so it is only a
+matter of time before other kinds of elves emerge.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+Friend of the Sea. Aquatic animals have an
+extraordinary affinity with your people. You can
+communicate simple ideas to any Beast that has a
+swimming speed. It can understand your words,
+though you have no special ability to understand it
+in return.
+Keen Senses. You have proficiency in the Percep­
+tion skill.
+Trance. You don’t need to sleep, and magic can’t
+put you to sleep. You can finish a long rest in 4
+hours if you spend those hours in a trancelike medi­
+tation, during which you retain consciousness.
+Whenever you finish this trance, you can gain two
+proficiencies that you don’t have, each one with a
+weapon or a tool of your choice selected from the
+Player’s Handbook. You mystically acquire these
+proficiencies by drawing them from shared elven
+memory, and you retain them until you finish your
+next long rest.
+
+=== PAGE 31 ===
+Shadar-kai
+Shadar-kai are the elves of the
+Shadowfell, originally drawn to that
+dread realm by the Raven Queen.
+Over the centuries, some of them have
+continued to serve her, while others have
+ventured into the Material Plane to forge
+their own destinies.
+Once shadar-kai were Fey like the rest of their
+elven kin; now they exist in a state between life and
+death, thanks to being transformed by the Shadow-
+fell’s grim energy.
+Shadar-kai have ashen skin tones, and while
+they’re in the Shadowfell, they also become
+wizened, reflecting the somber nature of that
+gloomy plane.
+Like other elves, shadar-kai can live to be over
+750 years old.
+Shadar-kai Traits
+As a shadar-kai, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered an elf for any prerequisite or effect that
+requires you to be an elf.
+Size. You are Medium. <|
+Speed. Your walking speed is 30 feet.
+Blessing of the Raven Queen. As a bonus action,
+you can magically teleport up to 30 feet to an un­
+occupied space you can see. You can use this trait
+a number of times equal to your proficiency bonus,
+and you regain all expended uses when you finish a
+long rest.
+Starting at 3rd level, you also gain resistance
+to all damage when you teleport using this trait.
+The resistance lasts until the start of your next
+turn. During that time, you appear ghostly and
+translucent.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+--col--
+Keen Senses. You have proficiency in the Percep­
+tion skill.
+Necrotic Resistance. You have resistance to ne­
+crotic damage.
+Trance. You don’t need to sleep, and magic can’t
+put you to sleep. You can finish a long rest in 4
+hours if you spend those hours in a trancelike medi­
+tation, during which you retain consciousness.
+Whenever you finish this trance, you can gain two
+proficiencies that you don’t have, each one with a
+weapon or a tool of your choice selected from the
+Player’s Handbook. You mystically acquire these
+proficiencies by drawing them from shared elven
+memory, and you retain them until you finish your
+next long rest.
+CHAPTER 1 | FANTASTICAL RACES 31
+
+=== PAGE 32 ===
+Shifter
+Shifters are sometimes called weretouched, as they
+are descendants of people who contracted full or
+partial lycanthropy. Humanoids with a bestial as­
+pect, shifters can’t fully change shape, but they can
+temporarily enhance their animalistic features by
+entering a state they call shifting.
+Shifters are similar to humans in height and build
+but are typically more lithe and flexible. Their facial
+features have a bestial cast, often with large eyes
+and pointed ears; most shifters also have prominent
+canine teeth. They grow fur-like hair on nearly every
+part of their bodies. While a shifter’s appearance
+might remind an onlooker of an animal, they remain
+clearly identifiable as shifters even when at their
+most feral.
+Most shifters resemble a particular kind of ly-
+canthrope. You can choose the kind of lycanthrope
+in your past, or you can determine it randomly by
+rolling on the Lycanthrope Ancestor table. The table
+also provides a suggestion for the Shifting option
+you might have as a result of your ancestry.
+32 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Lycanthrope Ancestor
+d6 Ancestor Suggested Shifting Option
+1 Werebear Beasthide
+2 Wereboar Beasthide
+3 Wererat Swiftstride
+4 Weretiger Swiftstride
+5 Werewolf (wolflike) Longtooth
+6 Werewolf (doglike) Wildhunt
+Shifter Traits
+As a shifter, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Bestial Instincts. Channeling the beast within,
+you have proficiency in one of the following skills
+of your choice: Acrobatics, Athletics, Intimidation,
+or Survival.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Shifting. As a bonus action, you can assume a
+more bestial appearance. This transformation lasts
+for 1 minute, until you die, or until you revert to your
+normal appearance as a bonus action. When you
+shift, you gain temporary hit points equal to 2 x your
+proficiency bonus. You can shift a number of times
+equal to your proficiency bonus, and you regain all
+expended uses when you finish a long rest.
+Whenever you shift, you gain an additional benefit
+based on one of the following options (choose when
+you select this race):
+Beasthide. You gain ld6 additional temporary hit
+points. While shifted, you have a +1 bonus to your
+Armor Class.
+Longtooth. When you shift and as a bonus action
+on your other turns while shifted, you can use
+your elongated fangs to make an unarmed strike.
+If you hit with your fangs, you can deal piercing
+damage equal to ld6 + your Strength modifier,
+instead of the bludgeoning damage normal for an
+unarmed strike.
+Swiftstride. While shifted, your walking speed in­
+creases by 10 feet. Additionally, you can move up
+to 10 feet as a reaction when a creature ends its
+turn within 5 feet of you. This reactive movement
+doesn’t provoke opportunity attacks.
+Wildhunt. While shifted, you have advantage on
+Wisdom checks, and no creature within 30 feet
+of you can make an attack roll with advantage
+against you unless you’re incapacitated.
+
+=== PAGE 33 ===
+
+--col--
+Tabaxi

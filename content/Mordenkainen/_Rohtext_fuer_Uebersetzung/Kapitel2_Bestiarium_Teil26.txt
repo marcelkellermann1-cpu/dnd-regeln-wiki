@@ -1,0 +1,500 @@
+quicklings constantly pace and shift in place, as
+though they can’t wait to be off again.
+Quicklings have a capricious nature that goes
+well with their energy level: they think as fast as
+they run, and they are always up to something.
+They spend most of their time perpetrating acts of
+mischief on slower creatures. One rarely passes up
+an opportunity to tie a person’s bootlaces together,
+move the stool a creature is about to sit on, or un­
+buckle a saddle while no one’s looking.
+Tricks of that sort are hardly the limit of quick­
+lings’ artful malice, however. They don’t commit
+outright murder, but they can ruin lives in plenty
+of other ways: stealing an important letter, swiping
+coins collected for the poor, planting a stolen item
+in someone’s bag. Quicklings enjoy causing suffer­
+ing that transcends mere mischief, especially when
+the blame for their actions falls on others and cre­
+ates discord.
+--col--
+Quickling
+Tiny Fey, Typically Chaotic Evil
+Armor Class 16
+Hit Points 10 (3d4+3)
+Speed 120 ft.
+STR DEX CON INT WIS CHA
+4 (-3) 23 (+6) 13(+1) 10(4-0) 12(4-1) 7 (-2)
+Skills Acrobatics 4-8, Sleight of Hand 4-8, Stealth 4-8,
+Perception 4-5
+Senses darkvision 60 ft., passive Perception 15
+Languages Common, Sylvan
+Challenge 1 (200 XP) Proficiency Bonus +2
+Blurred Movement. Attack rolls against the quickling have dis­
+advantage unless it is incapacitated or its speed is 0.
+Evasion. If the quickling is subjected to an effect that allows it
+to make a Dexterity saving throw to take only half damage, it
+instead takes no damage if it succeeds on the saving throw and
+only half damage if it fails, provided it isn’t incapacitated.
+Actions
+Multiattack. The quickling makes three Dagger attacks.
+Dagger. Melee or Ranged Weapon Attack: 4-8 to hit, reach 5 ft. or
+range 20/60 ft., one target. Hit: 8 (1 d4 4- 6) piercing damage.
+CHAPTER 2 | BESTIARY 207
+
+=== PAGE 208 ===
+Redcap
+A redcap is a homicidal Fey creature born of blood
+lust. Redcaps, although small, have formidable
+strength, which they use to hunt and kill without
+hesitation or regret.
+In the Feywild, or where that plane touches
+the material world at a fey crossing, if a
+sentient creature acts on an intense desire
+for bloodshed, one or more redcaps might
+appear where the blood of a slain person
+soaks the ground. At first, new redcaps look
+like tiny bloodstained mushrooms just push­
+ing their caps out of the soil. When moonlight
+shines on one of these caps, a creature that
+resembles a wizened and undersized gnome with
+a hunched back and a sinewy frame springs from
+the earth. The creature has a pointed leather cap,
+clothing of similar material, heavy iron boots, and
+a heavy bladed weapon. From the moment redcaps
+awaken, they desire only murder and carnage, and
+they constantly seek to satisfy these cravings.
+Redcaps lack subtlety. They live for direct con­
+frontation and the mayhem of mortal combat. Even
+if a redcap wanted to be stealthy, the creature’s
+iron boots force them to take ponderous, thunder­
+ous steps. When a redcap is near potential prey,
+though, they can close the distance quickly and get
+in a vicious swing of their weapon before the target
+can react.
+Redcaps’ desire to slay is rooted in their will to
+survive. To sustain their unnatural existence, they
+must soak their hats in the fresh blood of their vic­
+tims. When redcaps are born, their hats are coated
+with wet blood, and they know that if the blood isn’t
+replenished at least once every three days, they will
+vanish as if they had never been.
+Some redcaps can sense the being whose murder­
+ous acts led to their birth. They typically use this in­
+nate connection to find their creator and make that
+creature their first victim, though they might instead
+seek out their maker to enjoy proximity to a kindred
+spirit. Although redcaps don’t usually operate in
+groups, an individual responsible for the creation
+of multiple redcaps at the same site could attract
+the entire group to serve as cohorts, emulating that
+individual’s murderous handiwork. Some hags and
+wicked mages know methods to call redcaps out of
+the Feywild and might likewise put teams of them
+to work as grisly servants.
+In any case, if a redcap works with another being,
+the redcap demands to be paid in victims. A patron
+who tries to stifle a redcap’s natural and neces­
+sary urge for blood risks becoming the redcap’s
+next target.
+208 CHAPTER 2 | BESTIARY
+--col--
+Redcap
+Small Fey, Typically Chaotic Evil
+Armor Class 14 (natural armor)
+Hit Points 45 (6d6 + 24)
+Speed 25 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 18 (+4) 10 (+0) 12 (+1) 9 (-1)
+Skills Athletics +6, Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages Common, Sylvan
+Challenge 3 (700 XP) Proficiency Bonus +2
+Iron Boots. The redcap has disadvantage on Dexterity
+(Stealth) checks.
+Outsize Strength. While grappling, the redcap is considered
+to be Medium. Also, wielding a heavy weapon doesn’t impose
+disadvantage on its attack rolls.
+Actions
+Multiattack. The redcap makes three Wicked Sickle attacks.
+Wicked Sickle. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 9 (2d4 + 4) slashing damage.
+Ironbound Pursuit. The redcap moves up to its speed to a crea­
+ture it can see and kicks with its iron boots. The target must
+succeed on a DC 14 Dexterity saving throw or take 20 (3dl0 +
+4) bludgeoning damage and be knocked prone.
+
+=== PAGE 209 ===
+Retriever
+The retriever is a potent, spider-like Con­
+struct conceived and built by Underdark fol­
+lowers of Lolth for one original purpose—to
+prowl the Abyss and capture demons for
+these cultists to enslave or use in their rituals.
+The automatons proved so effective and so
+fearsome that they now perform many differ­
+ent missions.
+Though retrievers were created to operate
+only in the Abyss, they are sometimes dis­
+patched when a powerful devotee of Lolth
+needs some creature or object captured and
+brought back alive and intact. Only under the
+rarest of circumstances is a retriever handed
+over or sold to others, since Lolth’s cultists
+don’t want to take the chance that their cre­
+ations will be turned against them.
+Retriever
+Large Construct, Typically Lawful Evil
+Armor Class 19 (natural armor)
+Hit Points 210 (20dl0+ 100)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 16 (+3) 20 (+5) 3 (-4) 11 (+0) 4 (-3)
+Saving Throws Dex +8, Con +10, Wis +5
+Skills Perception +5, Stealth +8
+Damage Immunities necrotic, poison, psychic; bludgeoning,
+piercing, and slashing from nonmagical attacks that aren’t
+adamantine
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, poisoned
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 15
+Languages understands Abyssal, Elvish, and Undercommon
+but can’t speak
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Faultless Tracker. The retriever is given a quarry by its master.
+The quarry can be a specific creature or object the master is
+personally acquainted with, or it can be a general type of crea­
+ture or object the master has seen before. The retriever knows
+the direction and distance to its quarry as long as the two of
+them are on the same plane of existence. The retriever can have
+I . ■ ■ =
+--col--
+only one such quarry at a time. The retriever also always knows
+the location of its master.
+Actions
+Multiattack. The retriever makes two Foreleg attacks, and it
+uses Force Beam or Paralyzing Beam, if available.
+Foreleg. Melee Weapon Attack: +11 to hit, reach 10 ft., one tar­
+get. Hit: 15 (2d8 + 6) slashing damage.
+Force Beam. The retriever targets one creature it can see within
+60 feet of it. The target must make a DC 16 Dexterity saving
+throw, taking 27 (5dl0) force damage on a failed save, or half
+as much damage on a successful one.
+Paralyzing Beam (Recharge 5-6). The retriever targets one
+creature it can see within 60 feet of it. The target must suc­
+ceed on a DC 18 Constitution saving throw or be paralyzed for
+1 minute. The paralyzed target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself on
+a success.
+If the paralyzed creature is Medium or smaller, the retriever
+can pick it up as part of the retriever’s move and walk or climb
+with it at full speed.
+Spellcasting. The retriever casts one of the following spells,
+requiring no material components and using Wisdom as the
+spellcasting ability (spell save DC 13):
+3/day each: plane shift (only self and up to one incapacitated
+creature, which is considered willing for the spell), web
+- • - - ....... ....—
+CHAPTER 2 | BESTIARY 209
+
+=== PAGE 210 ===
+Rutterkin
+Rutterkins are warped demons that roam the Abyss
+in mobs, constantly searching for intruders to sur­
+round and devour. These Fiends protect the Abyss
+from non-demons. When they spot any interlopers,
+they gather in a crowd and surge forward, emitting
+a wave of fear in advance of their attacks that leaves
+their victims terrified and rooted in place.
+Creatures bitten by rutterkins are exposed to a
+terrible disease that infects them with the corrupt­
+ing influence of the Abyss. Victims afflicted with the
+disease experience tremendous pain as their bodies
+become disfigured, flesh twisting around the bones,
+until they transform to join the mass of manes de­
+mons (see the Monster Manual) that follow in the
+wake of the rutterkin mob that laid them low.
+---------------- . ■. ---------i ........ - - .
+Rutterkin
+Medium Fiend (Demon), Typically Chaotic Evil
+Armor Class 12
+Hit Points 37 (5d8+ 15)
+Speed 20 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 15 (+2) 17 (+3) 5 (-3) 12 (+1) 6 (-2)
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages understands Abyssal but can’t speak
+Challenge 2 (450 XP) Proficiency Bonus +2
+Immobilizing Fear. When a creature that isn’t a demon starts
+its turn within 30 feet of one or more rutterkins, that creature
+must make a DC 11 Wisdom saving throw. The creature has
+disadvantage on the save if it’s within 30 feet of six or more
+rutterkins. On a failed save, the creature becomes frightened
+of the rutterkins for 1 minute. While frightened in this way, the
+creature is restrained. At the end of each of the frightened crea­
+ture’s turns, it can repeat the saving throw, ending the effect
+on itself on a success. On a successful save, the creature is im­
+mune to the Crippling Fear of all rutterkins for 24 hours.
+Actions
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 12 (3d6 + 2) piercing damage. Ifthe target is a creature,
+it must succeed on a DC 13 Constitution saving throw against
+disease or become poisoned. At the end of each long rest, the
+poisoned target can repeat the saving throw, ending the effect
+on itself on a success. If the target is reduced to 0 hit points
+while poisoned in this way, it dies and instantly transforms into
+a living manes (see the Monster Manual). The transformation
+can be undone only by a wish spell.
+210 CHAPTER 2 | BESTIARY
+--col--
+u you've
+€u<)k, tu « ' A sequel,
+crowA-
+M wkeu you W. Kisses/)
+
+=== PAGE 211 ===
+Sea Spawn
+Many of the stories sung as sea chanteys and re­
+counted in dockside taverns tell of people lost to the
+sea—but not merely drowned and gone. Some un­
+fortunates taken by the ocean live on as sea spawn,
+haunting the waves like tortured reflections of their
+former selves. Coral encrusts them. Barnacles cling
+to their cold skin. Lungs that once filled with air can
+now breathe in water as well.
+Tales provide myriad reasons for these strange
+transformations. Folklore warns against falling
+in love with a sea elf or merfolk, braving storms
+in hopes of a bounteous catch, and promising
+your heart to a sea god. Such cautionary tales
+disguise the deeper truth: things lurking beneath
+the waves strive to claim the hearts and minds of
+land dwellers.
+Krakens, morkoths, sea hags, marids, storm gi­
+ants, dragon turtles (morkoths appear in this book;
+the others appear in the Monster Manual')—all of
+these and more can mark mortals as their own and
+claim them as minions. Unlucky folk might become
+beholden to such a master through a bleak bargain,
+or they might find themselves cursed by one. Once
+warped into a fishlike form, a sea spawn can’t leave
+the water for long without courting death.
+Sea spawn come in a wide variety of forms. An
+individual might have a tentacle for an arm, the jaws
+of a shark, a sea urchin’s spines, a whale’s fin, octo­
+pus eyes, seaweed hair, or any combination of such
+qualities. Some of these piscine body parts provide
+them with special abilities.
+The Sea Spawn of Purple Rocks
+Visitors to a string of islands called the Purple
+Rocks (in the Forgotten Realms setting) might
+notice one curious fact about the islands’ human
+inhabitants: no infants or elderly are among them.
+This is because babies born to the Rocklanders
+are claimed by a kraken (see the Monster Manual)
+named Slarkrethel. The experience transforms the
+children into fanatics dedicated to the kraken. They
+return from the sea as humans, but when they reach
+old age, they transform into sea spawn and rejoin
+their master in the depths. Some children return
+having suffered partial transformations and must
+conceal themselves from strangers until their full
+transformation in order to keep the secret of the
+Purple Rocks.
+Kraken priests (in this book) tend to the kraken’s
+flock. Most of the priests are island natives, but
+some are other sorts of creatures that live in the
+water around the Purple Rocks, such as merfolk or
+merrow (both of which appear in the Monster Man­
+ual), or even sea elves.
+--col--
+Sea Spawn
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 11 (natural armor)
+Hit Points 32 (5d8 + 10)
+Speed 20 ft., swim 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 8 (-1) 15 (+2) 6 (-2) 10 (+0) 8 (-1)
+Senses darkvision 120 ft., passive Perception 10
+Languages understands Aquan and Common but can’t speak
+Challenge 1 (200 XP) Proficiency Bonus +2
+Limited Amphibiousness. The sea spawn can breathe air and
+water, but it needs to be submerged in the sea at least once a
+day for 1 minute to avoid suffocating.
+Actions
+Multiattack. The sea spawn makes two Unarmed Strike attacks
+and one Piscine Anatomy attack.
+Unarmed Strike. Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target. Hit: 4 (1 d4 + 2) bludgeoning damage.
+Piscine Anatomy. The sea spawn uses one of the following op­
+tions (choose one or roll a d6):
+1-2: Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one tar­
+get. Hit: 4 (ld4 + 2) piercing damage.
+3-4: Poison Quills. Melee Weapon Attack: +4 to hit, reach 5
+ft., one creature. Hit: 3 (1 d6) poison damage, and the tar­
+get must succeed on a DC 12 Constitution saving throw or
+be poisoned for 1 minute. The target can repeat the saving
+throw at the end of each of its turns, ending the effect on
+itself on a success.
+5-6: Tentacle. Melee Weapon Attack: +4 to hit, reach 10 ft., one
+target. Hit: 5 (1 d6 + 2) bludgeoning damage, and the target is
+grappled (escape DC 12) if it is a Medium or smaller creature.
+Until this grapple ends, the sea spawn can’t use this tentacle
+on another target.
+- - -....................... —■ . , .
+CHAPTER 2 | BESTIARY 211
+
+=== PAGE 212 ===
+Shadar-kai
+In the gloom of the Shadowfell live shadar-kai, elves
+whose ancestors served the Raven Queen, a god of
+death and memory. They were brought to that realm
+in ages past, so long ago that they’re now adapted
+to its cheerless environment, both physically
+and mentally.
+Eons of exposure to the influence of the Shadow­
+fell has left shadar-kai often joyless and mournful.
+In that realm, they have pale hair, wrinkled gray
+skin, and swollen joints that give them a corpse­
+like aspect. They appear more youthful while on
+other planes, but their skin always retains a deathly
+ashen hue. When in the Shadowfell, they detest mir­
+rors and avoid keeping things that remind them of
+their age.
+Shadar-kai of the Raven Queen watch over both
+the Shadowfell and the Material Plane, scouting out
+choice souls and tragedies that might please their
+deity. They are rumored to be able to coax worldly
+events along tragic paths for her amusement. The
+Raven Queen is famously cryptic even to her most
+devoted followers, however; their efforts are re­
+warded only with vague omens they interpret as
+best they can.
+212 CHAPTER 2 | BESTIARY
+--col--
+Fortress of Memories
+The shadar-kai who are most devoted to the Raven
+Queen serve her at the Fortress of Memories, her
+twisted castle in the Shadowfell. The fortress is a
+mournful place, filled with incessant echoes of the
+past. Flocks of ravens that act as the Raven Queen’s
+eyes and ears darken the skies around it when they
+emerge from within, bearing her cryptic messages
+and omens far and wide across the multiverse.
+Within the fortress are items that the Raven
+Queen finds irresistible: objects invested with deep
+feelings of sorrow, longing, or remorse. These items
+are brought to her as gifts from the shadar-kai,
+and include furniture, clocks, mirrors, jewels, and
+toys. Ghostly visions of people, places, and pets
+also appear in the fortress. Any of these things can
+spontaneously appear about her lair, every object
+and apparition being a metaphoric representation of
+some story—great or small—that was saturated with
+raw emotion.
+Shadar-kai encountered outside the Shadowfell
+are often on quests to find the most sorrow-touched
+items they can find to bring back to their queen’s
+gloomy castle.
+
+=== PAGE 213 ===
+Gloom Weaver
+Although they’re formidable warriors, gloom weav­
+ers are often content to hide in the shadows, watch­
+ing as their very presence affects their victims.
+Their bleak energy weighs down the heart, causing
+those nearby to feel the approach of death. If de­
+tected, gloom weavers use their shadow magic to
+reduce enemies to ghastly corpses.
+Shadow Dancer
+Those who have fought shadow dancers describe
+the experience as similar to fighting a living dark­
+ness. Every dim alcove and darkened nook is a place
+Shadar-kai Gloom Weaver
+Medium Humanoid (Elf), Typically Neutral Evil
+Armor Class 14 (17 with mage armor)
+Hit Points 104 (16d8 + 32)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+ll(+0) 18 (+4) 14 (+2) 15(4-2) 12(4-1) 18 (+4)
+Saving Throws Dex 4-8, Con 4-6
+Damage Immunities necrotic
+Condition Immunities charmed, exhaustion
+Senses darkvision 60 ft., passive Perception 11
+Languages Common, Elvish
+Challenge 9 (5,000 XP) Proficiency Bonus 4-4
+Burden of Time. Beasts and Humanoids (except elves) have
+disadvantage on saving throws while within 10 feet of the
+shadar-kai.
+Fey Ancestry. The shadar-kai has advantage on saving throws
+against being charmed, and magic can’t put it to sleep.
+Actions
+Multiattack. The shadar-kai makes three Shadow Spear at­
+tacks. It can replace one attack with a use of Spellcasting.
+Shadow Spear. Melee or Ranged Weapon Attack: 4-8 to hit,
+reach 5 ft. or range 30/120, one target. Hit: 7 (1 d6 4- 4) piercing
+damage plus 26 (4dl 2) necrotic damage. Hit or Miss: The spear
+magically returns to the shadar-kai’s hand immediately after a
+ranged attack.
+Spellcasting. The shadar-kai casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 16):
+At will: arcane eye, mage armor, minor illusion, prestidigitation,
+speak with dead
+1/day each: arcane gate, bane, confusion, darkness, fear, major
+image, true seeing
+Reactions______________________________
+Misty Escape (Recharge 6). When the shadar-kai takes damage,
+it turns invisible and teleports, along with any equipment it is
+wearing or carrying, up to 60 feet to an unoccupied space it can
+see. It remains invisible until the start of its next turn or until it
+attacks or casts a spell.
+. - Ll ------ ■ ■ ....
+--col--
+the lithe and acrobatic shadow dancers can emerge
+from to ambush their prey. Using this tactic, they
+attack their enemies from all angles with a flurry
+of entangling chains that hold fast and corrupt the
+flesh. When their quarry is helpless, they dispatch
+it and then loot the corpse for trinkets, particularly
+anything colorful and lively to gaze at after they re­
+turn to the gloom of the Shadowfell.
+Soul Monger
+Wracked with despair over the loss of memories of a
+brighter time, soul mongers crave the vitality of oth­
+ers. The aching void within a soul monger radiates
+outward, manifesting as an unbearable weight that
+drains the vigor of anyone unfortunate enough to be
+in their presence. Those who have escaped the on­
+slaught of a soul monger can hardly shake the mem­
+ory of the sound they make—the moan of a tortured
+soul, lost in a bottomless well of tragedy.
+I ■ _ ... . .......— ...... I
+Shadar-kai Shadow Danger
+Medium Humanoid (Elf), Any Alignment
+Armor Class 15 (studded leather)
+Hit Points 71 (13d8 + 13)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 16 (+3) 13(4-1) 11 (+0) 12 (+1) 12 (+1)
+Saving Throws Dex 4-6, Cha -t-4
+Skills Stealth 4-6
+Damage Resistances necrotic
+Condition Immunities charmed, exhaustion
+Senses darkvision 60 ft., passive Perception 11
+Languages Common, Elvish
+Challenge 7 (2,900 XP) Proficiency Bonus 4-3
+Fey Ancestry. The shadar-kai has advantage on saving throws
+against being charmed, and magic can’t put it to sleep.
+Actions
+Multiattack. The shadar-kai makes three Spiked Chain attacks.
+It can use Shadow Jump after one of these attacks.
+Spiked Chain. Melee Weapon Attack: 4-6 to hit, reach 10 ft.,
+one target. Hit: 10 (2d6 4- 3) piercing damage. The target must
+succeed on a DC 14 Dexterity saving throw or suffer one of the
+following effects (choose one or roll a d6):
+1-2: Decay. The target takes 22 (4dl0) necrotic damage.
+3-4: Crappie. The target is grappled (escape DC 14) if it is

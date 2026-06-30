@@ -1,0 +1,500 @@
+A firbolg’s magic is an obscuring sort, which al­
+lowed their ancestors to pass through a forest with­
+out disturbing it. So deep is the connection between
+a firbolg and the wild places of the world that they
+can communicate with flora and fauna.
+Firbolgs can live up to 500 years.
+--col--
+Firbolg Traits
+As a firbolg, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Firbolg Magic. You can cast the detect magic and
+disguise self spells with this trait. When you use this
+version of disguise self, you can seem up to 3 feet
+shorter or taller. Once you cast either of these spells
+with this trait, you can’t cast that spell with it again
+until you finish a long rest. You can also cast these
+spells using any spell slots you have.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Hidden Step. As a bonus action, you can magi­
+cally turn invisible until the start of your next turn
+or until you attack, make a damage roll, or force
+someone to make a saving throw. You can use this
+trait a number of times equal to your proficiency
+bonus, and you regain all expended uses when you
+finish a long rest.
+Powerful Build. You count as one size larger
+when determining your carrying capacity and the
+weight you can push, drag, or lift.
+Speech of Beast and Leaf. You
+have the ability to communicate in a lim­
+ited manner with Beasts, Plants, and
+vegetation. They can understand
+the meaning of your words,
+though you have no special
+ability to understand them in
+return. You have advantage
+on all Charisma
+checks you make
+to influence them.
+As a childl, I learned ihai playing hide-
+and-seek wi+h disappearing jirbol^s is
+|un |u+ile.
+TASHA
+CHAPTER 1 | FANTASTICAL RACES 15
+
+=== PAGE 16 ===
+Left to Right: Earth Genasi, Water
+Genasi
+Tracing their ancestry to the genies of the Elemental
+Planes, each genasi can tap into the power of one of
+the elements. Air, earth, fire, and water—these are
+the four pillars of the Material Plane and the four
+types of genasi. Some genasi are direct descendants
+of a genie, while others were born to non-genasi
+parents who lived near a place suffused by a ge­
+nie’s magic.
+A typical genasi has a life span of 120 years.
+Air Genasi Traits
+Air genasi are descended from djinn, the genies of
+the Elemental Plane of Air. Embodying many of the
+airy traits of their otherworldly ancestors, air genasi
+can draw upon their connection to the winds.
+Air genasi’s skin tones include many shades
+of blue, along with the full range of human skin
+tones, with bluish or ashen casts. Sometimes their
+skin is marked by lines that seem like cracks with
+bluish-white energy spilling out. An air genasi’s hair
+might blow in a phantom wind or be made entirely
+of clouds or vapor.
+As an air genasi, you have the following traits.
+jg CHAPTER 1 | FANTASTICAL RACES
+--col--
+r Genasi, Fire Genasi, ano Air Genasi
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 35 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Unending Breath. You can hold your breath indef­
+initely while you’re not incapacitated.
+Lightning Resistance. You have resistance to
+lightning damage.
+Mingle with the Wind. You know the shocking
+grasp cantrip. Starting at 3rd level, you can cast the
+feather fall spell with this trait, without requiring a
+material component. Starting at 5th level, you can
+also cast the levitate spell with this trait, without re­
+quiring a material component. Once you cast feather
+fall or levitate with this trait, you can’t cast that spell
+with it again until you finish a long rest. You can
+also cast either of those spells using any spell slots
+you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+SAZOP
+OIDUALI
+
+=== PAGE 17 ===
+Earth Genasi Traits
+Tracing their ancestry to dao, the genies of the El­
+emental Plane of Earth, earth genasi inherit dao’s
+steadfast strength and control over earth.
+An earth genasi’s skin can be the colors of stone
+and earth or a human skin tone with glittering
+sparkles like gem dust. Some earth genasi have
+lines marking their skin like cracks, either showing
+glimmering gemlike veins or a dim, yellowish glow.
+Earth genasi hair can appear carved of stone or
+crystal or resemble strands of spun metal.
+As an earth genasi, you have the following traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Earth Walk. You can move across difficult terrain
+without expending extra movement if you are using
+your walking speed on the ground or a floor.
+Merge with Stone. You know the blade ward
+cantrip. You can cast it as normal, and you can also
+cast it as a bonus action a number of times equal to
+your proficiency bonus, regaining all expended uses
+when you finish a long rest.
+Starting at 5th level, you can cast the pass without
+trace spell with this trait, without requiring a mate­
+rial component. Once you cast that spell with this
+trait, you can’t do so again until you finish a long
+rest. You can also cast it using any spell slots you
+have of 2nd level or higher.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Fire Genasi Traits
+Descended from efreet, the genies of the Elemental
+Plane of Fire, fire genasi channel the flamboyant
+and often destructive nature of flame. They show
+their heritage in their skin tones, which can range
+from deep charcoal to shades of red and orange.
+Some bear skin tones common to humanity but with
+fiery marks, such as slowly swirling lights under
+their skin that resemble embers or glowing red lines
+tracing over their bodies like cracks. Fire genasi
+hair can resemble threads of fire or sooty smoke.
+As a fire genasi, you have the following traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+--col--
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fire Resistance. You have resistance to
+fire damage.
+Reach to the Blaze. You know the produce flame
+cantrip. Starting at 3rd level, you can cast the burn­
+ing hands spell with this trait. Starting at 5th level,
+you can also cast the flame blade spell with this
+trait, without requiring a material component. Once
+you cast burning hands or flame blade with this
+trait, you can’t cast that spell with it again until you
+finish a long rest. You can also cast either of those
+spells using any spell slots you have of the appro­
+priate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Water Genasi Traits
+Water genasi descend from marids, aquatic genies
+from the Elemental Plane of Water. Water genasi
+are perfectly suited to life underwater and carry the
+power of the waves inside themselves.
+Their skin is often shades of blue or green, some­
+times a blend of the two. If they have a human skin
+tone, there is a glistening texture that catches the
+light, like water droplets or nearly invisible fish
+scales. Their hair can resemble seaweed, waving as
+if in a current, or it can even be like water itself.
+As a water genasi, you have the following traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet, and
+you have a swimming speed equal to your
+walking speed.
+Acid Resistance. You have resistance to
+acid damage.
+Amphibious. You can breathe air and water.
+Call to the Wave. You know the acid splash can­
+trip. Starting at 3rd level, you can cast the create or
+destroy water spell with this trait. Starting at 5th
+level, you can also cast the water walk spell with
+this trait, without requiring a material component.
+Once you cast create or destroy water or water walk
+with this trait, you can’t cast that spell with it again
+until you finish a long rest. You can also cast either
+of those spells using any spell slots you have of the
+appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light, and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+CHAPTER 1 | FANTASTICAL RACES
+
+=== PAGE 18 ===
+Once members of a people who escaped servitude
+to mind flayers, githyanki split from their cousins,
+githzerai, and fled to the Astral Plane. In that time­
+less, silvery realm, githyanki honed their psionic
+powers and built a great city called Tu’narath.
+They have since spread throughout the multiverse,
+starting in outposts outside the Astral Plane, called
+creches, where time passes and their children can
+reach adulthood.
+A lanky people with skin tones of yellows, greens,
+and browns, githyanki complement their physical
+prowess with psionic might, instilled in them by
+mind flayers and cultivated over eons in the Astral
+Plane. Now all githyanki can use their psychic bond
+with that plane to access splinters of knowledge left
+behind by beings who travel, live, and die among the
+silver astral clouds.
+Githyanki who reside in the Astral Plane can live
+indefinitely.
+Githyanki Traits
+As a githyanki, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+j8 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Astral Knowledge. You can mystically access a
+reservoir of experiences of entities connected to the
+Astral Plane. Whenever you finish a long rest, you
+gain proficiency in one skill of your choice and with
+one weapon or tool of your choice, selected from the
+Player’s Handbook, as you momentarily project your
+consciousness into the Astral Plane. These profi­
+ciencies last until the end of your next long rest.
+Githyanki Psionics. You know the mage hand
+cantrip, and the hand is invisible when you cast the
+cantrip with this trait.
+Starting at 3rd level, you can cast the jump spell
+with this trait. Starting at 5th level, you can also
+cast the misty step spell with it. Once you cast jump
+or misty step with this trait, you can’t cast that spell
+with it again until you finish a long rest. You can
+also cast either of those spells using any spell slots
+you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+None of these spells require spell components when
+you cast them with this trait.
+Psychic Resilience. You have resistance to psy­
+chic damage.
+
+=== PAGE 19 ===
+Githzerai
+Githzerai migrated to the Everchanging Chaos
+of Limbo after the ancient schism that split their
+ancestors from their cousins, githyanki. Limbo is
+a roiling maelstrom of matter and energy, collaps­
+ing and reforming without purpose or direction,
+until a creature exerts deliberate will to stabilize
+it. Through their potent psionic power, githzerai
+carved a home for themselves amid the chaos. As
+the ages passed, githzerai explorers ranged out to
+other planes and worlds of the multiverse.
+Githzerai are generally slender, with speckled
+skin in shades of yellow, green, or brown. Eons of
+cultivating their mental powers within the endless
+chaos of Limbo have imbued githzerai with the
+ability to shape psionic energy to protect themselves
+and probe minds.
+Githzerai Traits
+As a githzerai, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+--col--
+Githzerai Psionics. You know the mage hand
+cantrip, and the hand is invisible when you cast the
+cantrip with this trait.
+Starting at 3rd level, you can cast the shield spell
+with this trait. Starting at 5th level, you can also
+cast the detect thoughts spell with it. Once you cast
+shield or detect thoughts with this trait, you can’t
+cast that spell with it again until you finish a long
+rest. You can also cast either of those spells using
+any spell slots you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+None of these spells require spell components when
+you cast them with this trait.
+Mental Discipline. Your innate psychic defenses
+grant you advantage on saving throws you make to
+avoid or end the charmed and frightened conditions
+on yourself.
+Psychic Resilience. You have resistance to psy­
+chic damage.
+
+=== PAGE 20 ===
+Goblin
+A subterranean folk, goblins can be found in every
+corner of the multiverse, often beside their bugbear
+and hobgoblin kin. Long before the god Maglubiyet
+conquered them, early goblins served in the court of
+the Queen of Air and Darkness, one of the Feywild’s
+archfey. Goblins thrived in her dangerous domain
+thanks to a special boon from her—a supernatural
+knack for finding the weak spots in foes larger than
+themselves and for getting out of trouble. Goblins
+brought this fey boon with them to worlds across
+the Material Plane, even if they don’t remember the
+fey realm they inhabited before Maglubiyet’s rise.
+Now many goblins pursue their own destinies, es­
+caping the plots of both archfey and gods.
+Goblin Traits
+As a goblin, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered a goblinoid for any prerequisite or effect
+that requires you to be a goblinoid.
+--col--
+Size. You are Small.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+Fury of the Small. When you damage a creature
+with an attack or a spell and the creature’s size is
+larger than yours, you can cause the attack or spell
+to deal extra damage to the creature. The extra
+damage equals your proficiency bonus.
+You can use this trait a number of times equal to
+your proficiency bonus, regaining all expended uses
+when you finish a long rest, and you can use it no
+more than once per turn.
+Nimble Escape. You can take the Disengage or
+Hide action as a bonus action on each of your turns.
+
+=== PAGE 21 ===
+Goliath
+The first goliaths lived on the highest mountain
+peaks—far above the tree line, where the air is thin
+and frigid winds howl. Distantly related to giants
+and infused with the supernatural essence of their
+ancestors’ mountainous home, goliaths stand be­
+tween 7 and 8 feet tall and have a wide array of skin
+tones resembling different types of stone.
+Goliath Traits
+As a goliath, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Little Giant. You have proficiency in the Athletics
+skill, and you count as one size larger when deter­
+mining your carrying capacity and the weight you
+can push, drag, or lift.
+--col--
+Mountain Born. You have resistance to cold dam­
+age. You also naturally acclimate to high altitudes,
+even if you’ve never been to one. This includes eleva­
+tions above 20,000 feet.
+Stone’s Endurance. You can supernaturally draw
+on unyielding stone to shrug off harm. When you
+take damage, you can use your reaction to roll a
+dl2. Add your Constitution modifier to the number
+rolled and reduce the damage by that total.
+You can use this trait a number of times equal to
+your proficiency bonus, and you regain all expended
+uses when you finish a long rest.
+2i
+
+=== PAGE 22 ===
+Harengon
+Harengons originated in the Feywild, where they
+spoke Sylvan and embodied the spirit of freedom
+and travel. In time, these rabbitfolk hopped into
+other worlds, bringing the fey realm’s exuberance
+with them and learning new languages as they went.
+Harengons are bipedal, with the characteristic
+long feet of the rabbits they resemble and fur in a
+variety of colors. They share the keen senses and
+powerful legs of leporine creatures and are full
+of energy, like a wound-up spring. Harengons are
+blessed with a little fey luck, and they often find
+themselves a few fortunate feet away from dangers
+during adventures.
+22 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Harengon Traits
+As a harengon, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Hare-Trigger. You can add your proficiency bonus
+to your initiative rolls.
+Leporine Senses. You have proficiency in the Per­
+ception skill.
+Lucky Footwork. When you fail a Dexterity sav­
+ing throw, you can use your reaction to roll a d4 and
+add it to the save, potentially turning the failure into
+a success. You can’t use this reaction if you’re prone
+or your speed is 0.
+Rabbit Hop. As a bonus action, you can jump a
+number of feet equal to five times your proficiency
+bonus, without provoking opportunity attacks. You
+can use this trait only if your speed is greater than
+0. You can use it a number of times equal to your
+proficiency bonus, and you regain all expended uses
+when you finish a long rest.
+
+=== PAGE 23 ===
+Hobgoblin
+Hobgoblins trace their origins to the ancient courts
+of the Feywild, where they first appeared with their
+goblin and bugbear kin. Many of them were driven
+from the Feywild by the conquering god Maglubiyet,
+who marshaled them as soldiers, but the fey realm
+left its mark; wherever they are in the multiverse,
+they continue to channel an aspect of the Feywild’s
+rule of reciprocity, which creates a mystical bond
+between the giver and the receiver of a gift.
+On some worlds, such bonds lead hobgoblins to
+form communities with deep ties to one another. In
+Eberron and the Forgotten Realms, vast hobgoblin
+legions have emerged, with ranks of devoted sol­
+diers famed for their unity.
+Hobgoblins are generally taller than their goblin
+cousins but not quite as big as bugbears. They have
+curved, pointed ears and noses that turn bright red
+• or blue during displays of emotion.
+Hobgoblin Traits
+As a hobgoblin, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered a goblinoid for any prerequisite or effect
+that requires you to be a goblinoid.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+Fey Gift. You can use this trait to take the Help ac­
+tion as a bonus action, and you can do so a number
+of times equal to your proficiency bonus. You regain
+all expended uses when you finish a long rest.
+Starting at 3rd level, choose one of the options
+below each time you take the Help action with
+this trait:
+Hospitality. You and the creature you help each
+gain a number of temporary hit points equal to
+ld6 plus your proficiency bonus.
+Passage. You and the creature you help each in­
+crease your walking speeds by 10 feet until the
+start of your next turn.
+Spite. Until the start of your next turn, the first time
+the creature you help hits a target with an attack
+roll, that target has disadvantage on the next at­
+tack roll it makes within the next minute.
+--col--
+Fortune from the Many. If you miss with an at­
+tack roll or fail an ability check or a saving throw,
+you can draw on your bonds of reciprocity to gain a
+bonus to the roll equal to the number of allies you
+can see within 30 feet of you (maximum bonus of
++3). You can use this trait a number of times equal
+to your proficiency bonus, and you regain all ex­
+pended uses when you finish a long rest.
+CHAPTER 1 | FANTASTICAL RACES 23
+
+=== PAGE 24 ===
+Kenku
+Feathered folk who resemble ravens, kenku are
+blessed with keen observation and supernaturally

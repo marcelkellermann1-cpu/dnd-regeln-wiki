@@ -1,0 +1,500 @@
+emies toward traps or melee-oriented clockworks—
+and at shorter ranges, burst with explosive force.
+Stone Defender
+The thick plates of stone riveted onto a stone de­
+fender give it substantial protection. Its chief role is
+as a bodyguard.
+Individual Designs
+Gnome artisans prefer unique clockworks over
+perfectly functioning ones that copy too much from
+other creations. A clockwork can be customized by
+adding one of the following enhancements and one
+potential malfunction to its stat block. You can se­
+lect randomly or choose a pair of modifications that
+fit the temperament of the clockwork’s builder.
+Clockwork Enhancements
+diO Enhancement
+1 Camouflaged. The clockwork gains proficiency in
+Stealth if it lacks that proficiency. While motionless,
+it is indistinguishable from a stopped machine.
+2 Sensors. The range of the clockwork’s darkvision
+increases by 60 feet, and it gains proficiency in Per­
+ception if it lacks that proficiency.
+3 Fortified. The clockwork’s AC increases by 2.
+4 Increased Speed. The clockwork’s speed increases
+by 10 feet.
+CHAPTER 2 | BESTIARY
+--col--
+diO Enhancement
+5 Reinforced Construction. The clockwork has resis­
+o tance to force, lightning, and thunder damage.
+6 Self-Repairing. If the clockwork starts its turn with
+fewer than half its hit points but at least 1 hit point,
+it regains 5 hit points. If it takes lightning damage,
+this ability doesn’t function at the start of its next
+turn.
+7 Sturdy Frame. The clockwork’s hit point maximum
+.
+increases by an amount equal to its number of Hit
+e
+Dice.
+8 Suction. The clockwork gains a climbing speed of
+30 feet.
+9 Vocal Resonator. The clockwork gains the ability to
+speak rudimentary Common or Gnomish.
+10 Water Propulsion. The clockwork gains a swimming
+speed of 30 feet.
+n
+Clockwork Malfunctions
+d8 Malfunction
+1 Faulty Sensors. Roll a d6 at the start of the clock­
+work’s turn. If you roll a 1, the clockwork is blinded
+until the end of its turn.
+—
+2 Flawed Targeting. Roll a d6 at the start of the clock­
+work’s turn. If you roll a 1, the clockwork makes
+attack rolls with disadvantage until the end of its
+turn.
+3 Ground Fault. The clockwork has vulnerability to
+lightning damage.
+4 Imprinting Loop. Roll a d6 at the start of the clock­
+work’s turn. If you roll a 1, the clockwork mistakes
+one creature it can see within 30 feet for its creator.
+The clockwork won’t willingly harm that creature
+for 1 minute or until that creature attacks or dam­
+ages it.
+5 Limited Steering. The clockwork must move in a
+t
+straight line. It can turn up to 90 degrees before
+moving and again at the midpoint of its movement.
+It can rotate freely if it doesn’t use any of its speeds
+on its turn.
+6 Overactive Sense of Self-Preservation. If the clock­
+work has half its hit points or fewer at the start
+,
+of its turn in combat, roll a d6. If you roll a 1, it
+retreats from combat if possible. It otherwise keeps
+fighting.
+7 Overheats. Roll a d6 at the start of the clockwork’s
+turn. If you roll a 1, the clockwork is incapacitated
+until the end of its turn.
+8 Rusty Gears. The clockwork has disadvantage on
+initiative rolls, and its speed decreases by 10 feet.
+
+=== PAGE 79 ===
+Clockwork Bronze Scout
+Medium Construct, Unaligned
+Armor Class 13
+Hit Points 36 (8d8)
+Speed 30 ft., burrow 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16(+3) 11(4-0) 3 (-4) 14 (+2) 1 (-5)
+Skills Perception 4-6, Stealth 4-7
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 16
+Languages understands one language of its creator but can’t
+speak
+Challenge 1 (200 XP) Proficiency Bonus 4-2
+Earth Armor. The clockwork doesn’t provoke opportunity at­
+tacks when it burrows.
+Magic Resistance. The clockwork has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The clockwork doesn’t require air, food,
+drink, or sleep.
+Actions
+Bite. Melee Weapon Attack: 4-5 to hit, reach 5 ft., one target.
+Hit: 5 (1 d4 4- 3) piercing damage plus 3 (1 d6) lightning damage.
+Lightning Flare (Recharges after a Short or Long Rest). Each
+creature in contact with the ground within 15 feet of the clock­
+work must make a DC 13 Dexterity saving throw, taking 14
+(4d6) lightning damage on a failed save, or half as much dam­
+age on a successful one.
+--col--
+Armor Class 13
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (4-1) 16 (+3) 14 (4-2) 3 (-4) 10 (4-0) 1 (-5)
+Skills Stealth 4-7
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands one language of its creator but can’t
+speak
+Challenge 4 (1,100 XP) Proficiency Bonus 4-2
+Magic Resistance. The clockwork has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The clockwork doesn’t require air, food,
+drink, or sleep.
+Actions
+Bite. Melee Weapon Attack: 4-5 to hit, reach 5 ft., one target.
+Hit: 6 (ld6 4- 3) piercing damage. If the target is a creature, it
+must succeed on a DC 13 Constitution saving throw or suffer
+one random effect (roll a d6):
+1-2: Confusion. On its next turn, the target must use its action
+to make one weapon attack against a random creature it can
+see within 30 feet of it, using whatever weapon it has in hand
+and moving beforehand if necessary to get in range. If it’s
+holding no weapon, it makes an unarmed strike. If no crea­
+ture is visible within 30 feet, it takes the Dash action, moving
+toward the nearest creature.
+3-4: Paralysis. The target is paralyzed until the end of its
+next turn.
+5-6: Poison. The target takes 13 (3d8) poison damage.
+CHAPTER 2 | BESTIARY 79
+
+=== PAGE 80 ===
+Clockwork Oaken Bolter
+Medium Construct, Unaligned
+Armor Class 16 (natural armor)
+Hit Points 117 (18d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 18 (+4) 15 (+2) 3 (-4) 10 (+0) 1 (-5)
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands one language of its creator but can’t
+speak
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Magic Resistance. The clockwork has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The clockwork doesn’t require air, food,
+drink, or sleep.
+Actions
+Multiattack. The clockwork makes two Lancing Bolt attacks or
+one Lancing Bolt attack and one Harpoon attack.
+Lancing Bolt. Melee or Ranged Weapon Attack: +7 to hit, reach
+5 ft. or range 100/400 ft., one target. Hit: 15 (2dl0 + 4) pierc­
+ing damage.
+Harpoon. Ranged Weapon Attack: +7 to hit, range 50/200 ft.,
+one target. Hit: 9 (IdlO + 4) piercing damage, and the target
+is grappled (escape DC 12). While grappled in this way, a crea­
+ture’s speed isn’t reduced, but it can move only in directions
+that bring it closer to the clockwork. A creature takes 5 (IdlO)
+slashing damage if it escapes from the grapple or if it tries and
+fails. The clockwork can grapple only one creature at a time
+with its harpoon.
+Explosive Bolt (Recharge 5-6). The clockwork launches an
+explosive charge at a point within 120 feet. Each creature in a
+20-foot-radius sphere centered on that point must make a DC
+15 Dexterity saving throw, taking 17 (5d6) fire damage on a
+failed save, or half as much damage on a successful one.
+Bonus Actions
+Reel In. The clockwork pulls the creature grappled by its Har­
+poon up to 20 feet closer.
+8o CHAPTER 2 | BESTIARY
+--col--
+Clockwork Stone Defender
+Medium Construct, Unaligned
+Armor Class 16 (natural armor)
+Hit Points 105 (14d8 + 42)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 10 (+0) 17 (+3) 3 (-4) 10 (+0) 1 (-5)
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened,
+paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands one language of its creator but can't
+speak
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Magic Resistance. The clockwork has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The clockwork doesn’t require air, food,
+drink, or sleep.
+Actions
+Slam. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) bludgeoning damage, and if the target is Large
+or smaller, it is knocked prone.
+Reactions
+Intercept Attack. In response to another creature within 5 feet
+of it being hit by an attack roll, the clockwork gives that creature
+a +5 bonus to its AC against that attack, potentially causing a
+miss. To use this ability, the clockwork must be able to see the
+creature and the attacker.
+
+=== PAGE 81 ===
+Cloud Giant Smiling One
+Huge Giant, Typically Chaotic Neutral
+Armor Class 15 (natural armor)
+Hit Points 250 (20dl2 + 120)
+Speed 40 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA
+26 (+8) 12 (+1) 22 (+6) 15 (+2) 16 (+3) 17 (+3)
+Saving Throws Con +10, I nt +6, Cha +7
+Skills Deception +11, Insight +7, Perception +11,
+Sleight of Hand +9
+Senses passive Perception 21
+Languages Common, Ciant
+Challenge 11 (7,200 XP) Proficiency Bonus+4
+Control Weather (8th-level Spell). The giant can cast the control
+weather spell, requiring no material components and using
+Charisma as the spellcasting ability.
+Actions
+Multiattack. The giant makes two Slam attacks or two Teleki­
+netic Strike attacks.
+Slam. Melee Weapon Attack: +12 to hit, reach 10 ft., one tar­
+get. Hit: 21 (3d8 + 8) bludgeoning damage plus 5 (IdlO) psy­
+chic damage.
+Telekinetic Strike. Ranged Spell Attack: +7 to hit, range 240 ft.,
+one target. Hit: 25 (4dl0 + 3) force damage.
+Change Shape. The giant magically transforms to look and feel
+like a Beast or a Humanoid it has seen or to return to its true
+form. Any equipment the giant is wearing or carrying is ab­
+sorbed by the new form. Its statistics, other than its size, don't
+change. It reverts to its true form if it dies.
+Spellcasting. The giant casts one of the following spells, requir­
+ing no material components and using Charisma as the spell­
+casting ability (spell save DC 15):
+At will: detect magic, fog cloud, light, minor illusion
+3/day each: invisibility, silent image, suggestion, tongues
+1/day each: gaseous form, major image
+Bonus Actions
+Cloud Step (Recharge 4-6). The giant teleports, along with any
+equipment it is wearing or carrying, up to 60 feet to an unoccu­
+pied space it can see.
+--col--
+Cloud Giant Smiling One
+Smiling ones are cloud giants who honor and em­
+ulate the craftiness and deceit of the deity Memnor
+above all else. They are tricksters supreme who use
+sleight of hand, deception, misdirection, and magic
+in their pursuit of wealth. They also possess a flair
+for unpredictability and a wicked sense of humor.
+Smiling ones overstep all bounds of decorum with
+their behavior, doing and saying things that even
+other knavish folk consider beneath their dignity.
+Smiling ones take their name from the strange
+two-faced masks they wear. The smiling half of the
+face often looks more like a smirk or a triumphant
+sneer than a pleasant grin. The frowning half rep­
+resents the displeasure smiling ones feel about
+cloud giants’ place in the ordning—second to storm
+giants. The masks serve as symbols of smiling ones’
+devotion and also conceal their wearers' true facial
+expressions.
+CHAPTER 2 | BESTIARY 8l
+
+=== PAGE 82 ===
+Corpse Flower
+Large Plant, Typically Chaotic Evil
+Armor Class 12
+Hit Points 127 (15dl0 + 45)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 14 (+2) 16 (+3) 7 (-2) 15 (+2) 3 (-4)
+Condition Immunities blinded, deafened, poisoned
+Senses blindsight 120 ft. (blind beyond this radius),
+passive Perception 12
+Languages —
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+Corpses. When first encountered, a corpse flower contains the
+corpses of 1 d6 + 3 Humanoids. A corpse flower can hold the
+remains of up to nine Humanoids. These remains have total
+cover against attacks and other effects outside the corpse
+flower. If the corpse flower dies, the corpses within it can be
+pulled free.
+Spicier Climb. The corpse flower can climb difficult surfaces,
+including upside down on ceilings, without needing to make an
+ability check.
+Stench of Death. Each creature that starts its turn within 10
+feet of the corpse flower or one of its zombies must make
+82 CHAPTER 2 | BESTIARY
+--col--
+Corpse Flower
+A corpse flower can sprout atop the grave of an evil
+necromancer or the remains of powerful Undead
+creatures. Unless it is uprooted and burned while
+it is still a seedling, the corpse flower grows to
+enormous size over several weeks, then tears itself
+free of the earth and begins scavenging Humanoid
+corpses from battlefields and graveyards. Using its
+fibrous tentacles, it stuffs the remains into its body
+to sustain and repair itself. The plant has a malevo­
+lent bent and despises the living.
+With or without corpses nested in its body, a
+corpse flower exudes a stench of decay that can
+overwhelm the senses of nearby creatures, caus­
+ing them to become nauseated. The stench, which
+serves as a defense mechanism, fades 2d4 days af­
+ter the corpse flower dies.
+a DC 14 Constitution saving throw, unless the creature is a
+Construct or an Undead. On a failed save, the creature is poi­
+soned until the start of its next turn. On a successful save, the
+creature is immune to the Stench of Death of all corpse flowers
+for 24 hours.
+Actions
+Multiattack. The corpse flower makes three Tentacle attacks.
+Tentacle. Melee Weapon Attack: +5 to hit, reach 10 ft., one
+target. Hit: 9 (2d6 + 2) bludgeoning damage plus 10 (3d6) poi­
+son damage.
+Harvest the Dead. The corpse flower swallows one unsecured
+Humanoid corpse within 10 feet of it, along with any equip­
+ment the corpse is wearing or carrying.
+Bonus Actions
+Digest. The corpse flower digests one corpse in its body and
+instantly regains 11 (2dl0) hit points. Nothing of the digested
+corpse remains. Any equipment on the corpse is expelled from
+the corpse flower in its space.
+Reanimate. The corpse flower animates one corpse in its body,
+turning it into a zombie (see the Monster Manual). The zombie
+appears in an unoccupied space within 5 feet of the corpse
+flower and acts immediately after it in the initiative order. The
+zombie acts as an ally of the corpse flower but isn’t under
+its control, and the flower's stench clings to it (see Stench
+of Death).
+
+=== PAGE 83 ===
+Cranium Rats
+Mind flayers create cranium rats by bombarding
+rats with psionic energy. Cranium rats are some­
+what smarter than ordinary rats and behave as
+such. If enough cranium rats come together to form
+a swarm, they merge their minds into a single intel­
+ligence with the accumulated memories of all the
+swarm’s constituents. The rats become smarter as a
+result, and retain their heightened intelligence for as
+long as the swarm persists. The swarm also awak­
+ens latent psionic abilities implanted within each
+cranium rat by its mind flayer creators, bestowing
+upon the swarm psionic powers.
+A single cranium rat uses its natural telepathy to
+communicate hunger, fear, and other base emotions.
+A swarm of cranium rats communicating telepath­
+ically “speaks” as one creature, often referring to
+itself using the collective pronouns “we” and “us.”
+Some mind flayer colonies use cranium rats as
+spies. The rats invade communities and act as eyes
+and ears for the colony’s elder brain (appears in this
+book), transmitting their thoughts when they swarm
+and are within range of the elder brain’s telepathy.
+Cranium Rat
+Tiny Aberration, Unaligned
+Armor Class 12
+Hit Points 2 (ld4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+2 (-4) 14 (+2) 10 (+0) 4 (-3) 11 (+0) 8 (-1)
+Senses darkvision 30 ft., passive Perception 10
+Languages telepathy 30 ft.
+Challenge 0 (10 XP) Proficiency Bonus +2
+Telepathic Shroud. The cranium rat is immune to any effect
+that would sense its emotions or read its thoughts, as well as
+to all divination spells.
+Actions_________________________________
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 1 piercing damage.
+Bonus Actions
+Illumination. The cranium rat sheds dim light from its exposed
+brain in a 5-foot radius or extinguishes the light.
+--col--
+Swarm of Cranium Rats
+Medium Swarm of Tiny Aberrations, Typically Lawful Evil
+Armor Class 12
+Hit Points 76 (17d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 10 (+0) 15 (+2) 11 (+0) 14 (+2)
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled,
+paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 30 ft., passive Perception 10
+Languages telepathy 30 ft.
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Swarm. The swarm can occupy another creature’s space and
+vice versa, and the swarm can move through any opening large
+enough for a Tiny rat. The swarm can’t regain hit points or gain
+temporary hit points.
+Telepathic Shroud. The swarm is immune to any effect that
+would sense its emotions or read its thoughts, as well as to all
+divination spells.
+Actions
+Bites. Melee Weapon Attack: +5 to hit, reach 0 ft., one target in
+the swarm’s space. Hit: 14 (4d6) piercing damage, or 7 (2d6)
+piercing damage if the swarm has half of its hit points or fewer,
+plus 22 (5d8) psychic damage.
+Spellcasting (Psionics). As long as it has more than half of its
+hit points remaining, the swarm casts one of the following
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 13):
+At will: command, comprehend languages, detect thoughts
+1/day each: confusion, dominate monster
+Bonus Actions
+Illumination. The swarm sheds dim light from its brains in a
+5-foot radius, increases the illumination to bright light in a 5- to
+20-foot radius (and dim light for an additional number of feet
+equal to the chosen radius), or extinguishes the light.
+CHAPTER 2 | BESTIARY 83
+
+=== PAGE 84 ===
+Darklings
+Ancient legends speak of a seelie fey who betrayed
+the Summer Queen. In the Summer Queens’ wrath,
+she cursed every member of his house. The seelie
+fey’s true name has been stricken from history, but
+the stories call him Dubh Catha (“Dark Crow” in
+Common), and other Fey refer to the house’s descen­
+dants as dubh sith—“darklings.” Darklings dwell in
+secluded caverns and chambers beneath the towns
+of other species. From such enclaves, they quietly
+ply their trade as thieves and assassins.
+Darkling
+The Summer Queen’s curse causes a darkling’s
+body to absorb light, which wizens the creature,
+much like the effect of rapid aging. For this reason,
+darklings cover their entire bodies with clothing
+when exposure to light is a risk. The light darklings
+absorb over the course of their lives explodes out­
+ward when they die, incinerating the creatures and
+much of their possessions.
+Darkling Elder
+A wise and respected darkling can undergo a ritual
+to become an elder. Other elders mark the suppli­
+cant with glowing tattoos, channeling away some of
+the darkling’s absorbed light. If the ritual succeeds,
+the darkling grows into a taller, elf-like form. The
+darkling perishes if the ritual fails.
+Darkling
+Small Fey, Typically Chaotic Neutral
+Armor Class 14 (leather armor)
+Hit Points 13 (3d6 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 16 (+3) 12 (+1) 10 (+0) 12 (+1) 10(+0)
+Skills Acrobatics 4-5, Deception 4-2, Perception 4-5, Stealth +7
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 15
+Languages Elvish, Sylvan
+Challenge 1/2 (100 XP) Proficiency Bonus 4-2
+Death Flash. When the darkling dies, nonmagical light flashes
+out from it in a 10-foot radius as its body and possessions,
+other than metal or magic objects, burn to ash. Any creature in
+that area must succeed on a DC 10 Constitution saving throw
+or be blinded until the end of its next turn.
+Light Sensitivity. While in bright light, the darkling has disad­
+vantage on attack rolls, as well as on Wisdom (Perception)
+checks that rely on sight.
+Actions
+Dagger. Melee or Ranged Weapon Attack: 4-5 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 5 (1 d4 4- 3) piercing damage
+plus 7 (2d6) necrotic damage.
+84 CHAPTER 2 | BESTIARY
+--col--
+Darkling Elder
+Medium Fey, Typically Chaotic Neutral
+Armor Class 15 (studded leather armor)
+Hit Points 27 (5d8 4- 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (4-1) 17 (4-3) 12 (4-1) 10 (4-0) 14 (+2) 13 (+1)
+Skills Acrobatics 4-5, Deception 4-3, Perception 4-6, Stealth 4-7
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 16
+Languages Elvish, Sylvan
+Challenge 2 (450 XP) Proficiency Bonus 4-2
+Death Burn. When the darkling elder dies, magical light flashes
+out from it in a 10-foot radius as its body and possessions,
+other than metal or magic objects, burn to ash. Any creature

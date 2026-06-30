@@ -1,0 +1,600 @@
+CHAPTER 5
+DRACONOMICON
+OW DO THE MINDSETS OF RED DRAGONS AND DRAGON ADVENTURES
+gold dragons differ? Where do they prefer
+Building on "Dragon Adventures" in chapter 3, this
+to build their lairs, and what allies do
+section starts with a collection of adventure hooks
+they favor? This chapter, intended for the
+that might bring characters into contact with a
+Dungeon Master, explores the answers
+dragon of a particular kind, whether in conflict or as
+to many such questions. It explores in depth twenty
+an ally or patron. Then, additional tables explore the
+kinds of dragons, organized alphabetically:
+relationships each kind of dragon has to other crea
+Amethyst dragon* Faerie dragon tures of a similar challenge rating in their preferred
+Black dragon Gold dragon environment. Use these tables to inspire adventures
+Blue dragon Green dragon that feature dragons dwelling alongside other crea
+tures, either as enemies or as allies.
+Brass dragon Moonstone dragon*
+Bronze dragon Red dragon
+DRAGON LAIRS
+Copper dragon Sapphire dragon*
+This section expands on "Dragon Lairs" in chapter
+Crystal dragon* Shadow dragon
+4. If there is a map of a sample lair for a dragon of
+Deep dragon* Silver dragon
+that kind, it is accompanied by discussion of the
+Dragon turtle Topaz dragon*
+lair's important features. Many of these sections
+Emerald dragon* White dragon
+also describe additional lair actions a dragon can
+*This dragon is introduced in chapter 6. use to exploit the lair's features, as well as addi
+tional regional effects that might alter the landscape
+USING THE ENTRIES
+surrounding the lair.
+For each dragon's entry in this chapter, you'll find You can adjust the scale on the lair maps to suit
+information about crafting personalities, inspiration the needs of the dragon lairing there. If you use
+for building adventures, details about lairs, and these maps for a wyrmling's lair, you might set the
+ideas about the kinds of treasures that dragon fa scale to 5 feet per square, but for an ancient dragon
+vors. Scattered throughout are maps of dragon lairs or a greatwyrm, you might need to go as high as 20
+you can plunder for your adventures. feet per square to give the dragon room to move.
+CREATING A DRAGON DRAGON TREASURES
+Use the tables in this section in conjunction with Each entry ends with a discussion of the kinds of
+"Roleplaying Dragons" in chapter 3 to craft dis treasures the dragon favors, including a table of art
+tinctive dragon characters. Most of the personality objects you can use to expand on the information
+traits and ideals align with the general nature of in "What's in a Hoard?" in chapter 4. The items
+the dragons, but the tables also include examples of shown on these tables can represent art objects of
+atypical dragons. any value, depending on their materials, quality, and
+For dragons who do not have spellcasting ability, history. For example, a small bronze bust might be
+this section also includes suggested spells to give worth 25 gp, while a large bust crafted from plati
+a dragon if you want it to be a spellcaster. A table num and emeralds could be worth 7,500 gp.
+shows the spells a typical dragon knows, along with
+DRAGONS OF LEGEND
+the spell save DC for those spells. The dragon can
+cast each listed spell once per day, requiring no ma Sidebars throughout this chapter highlight famous
+terial components and using Charisma as the spell dragons of different kinds. Many of these legend
+casting ability. ary dragons are almost godlike in stature, known
+and respected on multiple worlds across the Mate
+rial Plane.
+CHAPTER 5 I DRACONOMICON 75
+=== PAGE 77 ===
+AMETHYST DRAGONS AMETHYST DRAGON IDEALS
+d6 Ideal
+Balance. Everything is a complex interaction of
+I onu:- (.;ovgit life- aciviu:- from an forces that must be kept in a delicate and carefully
+maintained balance. {Neutral)
+ame-th~(.;t civa5°n vvho (.;pwa/iz.e,cJ in that
+2 Knowledge. We are the whole of creation, seeking to
+(.;ovt of thi~ I told he,v all pavv(.; ancJ
+M~ understand itself. (Any)
+vnvvanfocJ be-haviov(.;, ancJ (.;he, pv~e,.,vibe,ci 3 Self-Improvement. I am a complex gem, and I con
+the- b~t e-lixiv: 11Stop cioins---tho(.;e, stantly polish and refine my many facets to make
+the whole that much more perfect. {Any)
+thi~!>' I (.;-n// think- bac..k on that vi(.;it in
+4 Responsibility. Having knowledge and power gives
+tv~ins---TIM~. one a responsibility to those who have less of either.
+(Lawful)
+-Pr.z.ban
+5 Noble Obligation. My superior experience, intellect,
+and insight give me a duty to mediate disputes
+Use the tables, map, and other information in this when I can. (Good)
+section to craft unique encounters with amethyst
+6 Power. Knowledge is power, power must be used,
+dragons. Amethyst dragon stat blocks appear in
+and I use it. Your concerns are irrelevant. {Evil)
+chapter 6.
+AMETHYST DRAGON ADVENTURES
+CREATING AN AMETHYST DRAGON
+The Amethyst Dragon Adventure Hooks table offers
+Use the Amethyst Dragon Personality Traits and
+suggestions for stories and adventures involving am
+Amethyst Dragon Ideals tables to inspire your por
+ethyst dragons.
+trayal of distinctive amethyst dragon characters.
+AMETHYST DRAGON ADVENTURE HOOKS
+AMETHYST DRAGON PERSONALITY TRAITS
+d8 Adventure Hook
+d8 Trait
+An amethyst dragon seeks a rare type of crystal
+I am never so content as when contemplating the
+found in the domain of a territorial stone giant clan.
+beauty and wonders of the multiverse.
+2 A coven of hags seeks to reclaim its hag eye, which
+2 I am a sworn protector against the depredations
+rests within an amethyst dragon's hoard.
+of the Far Realm, and I will root out its corruption
+wherever it may arise. 3 An amethyst dragon magically disables all telepor
+tation within a thousand miles of their lair. Govern
+3 What use is vast knowledge or insight if it is not
+ments within that area seek emissaries who can
+shared with those who can appreciate it?
+negotiate an end to the restriction.
+4 Although some are fascinated by words, I think
+4 An amethyst dragon recruits a group of adventurers
+numbers are the true foundations of creation.
+to psychically trade bodies with adventurers from
+5 To experience a thing is to truly understand it. Di
+another world, so that each can carry out certain
+rect and personal experience is the most valuable
+tasks before swapping back.
+form of knowledge.
+5 A cult devoted to a Great Old One of the Far Realm
+6 I see a far more kaleidoscopic reality than you do ...
+seeks an alien monolith that can summon its mas
+or than any of your selves do, really.
+ter, but the site is guarded by an amethyst dragon.
+7 It is not my place to interfere. I merely seek to ob
+6 An amethyst dragon wyrmling is actually the tempo
+serve, learn, and understand.
+rally displaced form of an ancient amethyst dragon
+8 With a true understanding of metaphysics, anything
+who already exists in the same time line.
+is possible-including the creation of a more or
+7 An amethyst dragon seeks the means to plant spe
+derly and perfect cosmos than this one.
+cial crystals that will allow the dragon to magically
+coexist in multiple places at once across the world
+during a rare celestial alignment.
+8 An amethyst dragon is fusing with their echoes on
+other worlds. They all hope to ascend to godhood,
+perhaps recreating or replacing Sardior.
+76 CHAPTER 5 I DRACONOMICON
+=== PAGE 78 ===
+CONNECTED CREATURES d8 Connected Creatures
+Amethyst dragons are generally aloof creatures,
+3 The Enlightened Dragon Master of an isolated mon
+dwelling in isolation for long periods of time and
+astery is, in fact, an adult amethyst dragon.
+rarely cultivating connections with other creatures.
+4 An adult amethyst dragon is at war with a beholder
+When they do connect with others, it is most often
+for intellectual and philosophical pursuits or to that has moved into the dragon's domain.
+fulfill some arcane purpose involving the dragons' 5 Xorn serve as lookouts and spies for an adult ame
+echoes across the worlds. thyst dragon who rewards them with gems.
+6 To repay a favor long owed to a monastery of githze
+AMETHYST DRAGON WYRMLING
+rai warrior-monks, an adult amethyst dragon sends
+CONNECTIONS
+them aid against a mind flayer colony.
+d6 Connected Creatures
+7 An apostate community of githyanki follows the tu
+An amethyst dragon wyrmling is in the care of a
+telage of an adult amethyst dragon, who safeguards
+cloistered religious order of scribes.
+their creche on the Material Plane.
+2 A half-amethyst dragon cares for an amethyst
+8 The crystal-infused clay near an adult amethyst
+dragon wyrmling sibling after the disappearance of
+dragon's lair is ideal for the creation of clay golems,
+their dragon parent.
+and the dragon can perceive everything those go
+3 A violet faerie dragon is the playmate and guardian lems do.
+of an amethyst dragon wyrmling.
+4 An amethyst dragon wyrmling lives alone in a lair, ANCIENT AMETHYST DRAGON CONNECTIONS
+cared for by a cadre of animated objects. d4 Connected Creatures
+5 A cloister of flumphs protects an amethyst dragon A yuan-ti cult known as the Serpents of the Dream
+wyrmling while feeding on the wyrmling's excess ing City draws power from an ancient amethyst
+psionic energy. dragon, which the cultists keep in eternal slumber
+6 A circle of druids looks after an amethyst dragon with braziers of enchanted smoke.
+wyrmling lairing in the circle's mountain tarn. 2 A rogue purple worm swallowed a large portion of
+an amethyst dragon's hoard before burrowing back
+YOUNG AMETHYST DRAGON CONNECTIONS into the deep Underdark. The dragon has a magic
+d6 Connected Creatures crystal that can trace the worm's movement.
+A myconid community dwells in tunnels near a 3 An ancient amethyst dragon is able to awaken
+young amethyst dragon's lair, and its members psionic potential in others, and many of the greatest
+telepathically commune with the dragon and any psi warriors in history were the dragon's students.
+visitors in the lair from time to time. 4 After centuries guarding the world against incur
+2 A young amethyst dragon and a githzerai zerth sions from the Far Realm, an ancient amethyst
+travel together, learning about the multiverse. dragon has been corrupted by aberrant influences
+3 A young amethyst dragon wants to take over the and now leads a cult the dragon once opposed.
+cavern lair of a hydra.
+4 A deep pool in a young amethyst dragon's lair ELDENSER THE LURKER
+Contradictory tales told throughout the Forgotten
+leads to the underground domain of an aboleth the
+Realms are unclear about whether or not the ancient
+dragon has been seeking to eliminate.
+amethyst dragon Eldenser still lives, largely because of
+5 A young amethyst dragon and a cloud giant regu the behavior that earned him the epithets "the Lurker"
+larly host each other to play strategy games. and "the Worm Who Hides in Blades." Obsessed with
+observing the world and its creatures, Eldenser devel
+6 Pegasi nesting in the mountain heights are under
+oped magic that allows his mind to inhabit the blade of
+the protection of a young amethyst dragon. a weapon after his death. He exists now as a draconic
+shard (described in chapter 6).
+Eldenser prefers the role of silent observer to doing
+ADULT AMETHYST DRAGON CONNECTIONS
+anything that might give away his presence. In this
+d8 Connected Creatures
+fashion, he has inhabited countless weapons over long
+Merfolk dwelling near an adult amethyst dragon's years, including many belonging to famous adventur
+lair are under threat from sahuagin raiders. ers whose exploits the dragon has seen firsthand.
+2 Clusters of shriekers serve as a warning system in
+the tunnels of an adult amethyst dragon's lair.
+CHAPTER 5 I DRACONOMICON 77
+=== PAGE 79 ===
+, '
+AMETHYST DRAGOtf LAIR
+MAP 5,1
+Upper
+caves
+·-
+,•
+., ......
+..
+.
+. ...
+1,,
+'•.
+Main
+' caves
+11 -
+1 square = 10 feet
+78 CHAPTER 5 I DRACONOMICON
+=== PAGE 80 ===
+AMETHYST DRAGON LAIRS AMETHYST DRAGON TREASURES
+Amethyst dragons prefer lairs near water, ideally Amethyst dragons often collect crystals and gems,
+mountain lakes, where they take advantage of ex particularly their namesake stones, in raw, polished,
+isting caves and tunnels. A lair behind a cascading or cut forms. They have less interest in coins and
+waterfall is ideal, and often part of that lair is sub precious metals, although many have a fascination
+merged, allowing the dragon to rest in the water and with metal items that have a silvery finish.
+cultivate the fish that are their preferred food. Amethyst dragons favor treasures with partic
+Amethyst dragon lairs frequently exhibit or ular scholarly or philosophical value as a part of
+develop large and beautiful clusters of amethyst their hoard, including fine books, scrolls, or carved
+crystals, including massive cathedral geodes split tablets; tapestries or woven "tomes" of embroi
+open to show their contents and clusters of crystal dered cloth; complex scientific instruments; and
+points more than a foot in diameter that extend six religious icons or objects. They are fond of unique
+to ten feet from the interior stone surfaces of the and unusual art objects, especially those connected
+lair. These crystals resonate with the dragon's pres to far-off or long-lost cultures, other planes of ex
+ence, and glow with a soft inner light. The older the istence, or other worlds-and of magic items that
+dragon, the deeper the purple color of the crystals. allow movement between those planes or worlds.
+The odd spatial nature of an amethyst dragon's lair
+AMETHYST DRAGON LAIR FEATURES can sometimes cause items to transpose between
+The amethyst dragon lair shown in map 5.1 is set
+one dragon's hoard and the hoards of the dragon's
+beneath a mountain ridge between two deep tarns,
+echoes, allowing for treasures with a surprising
+with streams flowing down toward the lowlands.
+range of origins.
+The lair has the following features:
+Entrances. Two cave entrances provide access to AMETHYST DRAGON ART OBJECTS
+the lair, one in the rock face just above one tarn d8 Object
+and one below the surface of the other tarn. The A complex orrery of the planes of existence made of
+dragon uses the underwater passage as a secret
+engraved movable plates of precious metals and set
+entrance and emergency exit.
+with gemstones
+Main Caves. The lair is a complex of caves and
+2 A two-foot-long rod of pale crystal that gives off
+tunnels; the stone surfaces are smooth and wa
+eerie sounds when touched, with the tone varying
+ter-worn, and the air is cool and slightly damp.
+up and down the length of the rod
+Glowing Crystals. Large clusters of glowing ame
+thyst crystals grow out from the walls and ceiling, 3 A life-sized human skull carved from a single piece
+casting dim light in a 30-foot radius. of crystal, including a hollow interior
+Chimneys. Two chimneys connect the main caves 4 A beautifully engraved gong, 3 feet in diameter, sus
+to the three chambers above. Each chimney ap
+pended from an ornate, inlaid frame
+pears to continue up through the ceiling of the up
+5 A crystal singing bowl etched with mantras in Gith,
+per level and down through the floor of the lower
+accompanied by an inlaid wooden mallet
+level, but the dragon's magic warps space within
+the lair. Moving up past the upper level brings a 6 A beautifully illuminated treatise on the planes of
+creature to the lower level again, while moving existence, bound in ebony covers with metal corner
+down from the lower level brings a creature to the caps and a cover boss set with polished gems
+upper level. A creature or object dropped down 7 An etched crystal that projects a star map showing
+one of the chimneys continues falling endlessly
+an unfamiliar star field and constellations when set
+unless it or some outside force has the means to
+on top of a light source
+slow or stop it. This property of the lair vanishes
+8 A ring in the shape of a coiling dragon, with tiny
+after ldlO days if the dragon dies.
+gemstones for eyes
+Upper Caves. The dragon most often sleeps in
+the largest upper chamber of the lair. The drag
+on's hoard is divided between that area and the
+chamber at the opposite end of the upper level.
+The magic of the lair sometimes makes it appear
+as though the dragon were sleeping amid both
+caches, creating the impression that two dragons
+dwell here.
+CHAPTER 5 I DRACONOMICON 79
+=== PAGE 81 ===
+BLACK DRAGONS
+d6 Ideal
+3 Cunning. Destroying your foes without exposing
+yourself to danger is an art. (Evil)
+TiaMat ~pe-nt -the- Mo~t -liMe- e,.vaff-i~ he-v 4 Adaptability. It is not the most powerful, but the
+most flexible who survive. (Chaotic)
+blac.k dva~n. I vva~ ~abbe-v~~te-d at he-v
+S Patience. There's no need to rush a poorly con
+fnal pvodve,.t and ~v~te-d oh ~o Man1
+structed plan when time is on your side. (Any)
+a~v~tme-nt~, bvt at ~oMe- point, a pv~e,e,.t 6 Serenity. Observing a culture sliding into oblivion
+along the trek of time puts life in perspective. (Any)
+,~ ~1Mpl1 dve-.
+-fizban
+BLACK DRAGON SPELLCASTING
+) ) Spell
+Age Save DC Spells Known
+Use the tables, map, and other information in
+Young 13 blindness/deafness, create or destroy
+this section to craft unique encounters with
+black dragons. water
+Adult 16 blindness/deafness, create or destroy
+CREATING A BLACK DRAGON
+water, plant growth
+Use the Black Dragon Personality Traits and Black Ancient 19 blindness/deafness, create or destroy
+Dragon Ideals tables to inspire your portrayal of dis water, insect plague, plant growth
+tinctive black dragon characters, and use the Black
+Dragon Spellcasting table to help select spells for a
+BLACK DRAGON ADVENTURES
+spellcasting dragon.
+The Black Dragon Adventure Hooks table offers
+suggestions for stories and adventures involving
+BLACK DRAGON PERSONALITY TRAITS
+black dragons.
+d8 Trait
+I demonstrate my brilliance through the cruel sub
+BLACK DRAGON ADVENTURE HOOKS
+tlety of my actions.
+d8 Adventure Hook
+2 Watching the works of lesser beings crumble and
+A black dragon recently took control of a band of pi
+fall into ruin fills me with joy.
+rates and their backwater hideout. Emboldened, the
+3 I never confront a threat directly when deceit and
+pirates have started raiding nearby shipping lanes.
+skulduggery are available options.
+2 A conflict-averse black dragon is secretly spraying
+4 Subjugating others is preferable to destroying them.
+an alchemical defoliant on local farmland to push
+Thralls make life so much more pleasant.
+people living in the area away from the dragon's lair.
+S I will go to great lengths to obtain deadly new magi The resulting famine is devastating the countryside.
+cal knowledge.
+3 Rival realms are secretly being driven to war by the
+6 Nothing lasts forever. But I promise to outlast you. machinations of a black dragon, who hopes to revel
+7 I have witnessed the rise and fall of civilizations. in the resulting carnage.
+What consideration does a creature as pitiful and 4 When swamplands shrink due to a prolonged
+short-lived as you deserve? drought, two black dragons form a temporary alli
+8 Collecting antiquities and learning why lost cultures ance to destroy a nearby town for more living space.
+vanished are my reasons for existing. If you can help S The acidic bile of a black dragon is the only sub
+me in that, I'll let you live. stance able to melt the lock of a despot's vault.
+6 A potent artifact is rumored to lie in the ruins where
+BLACK DRAGON IDEALS
+a black dragon dwells.
+d6 Ideal
+7 A group of adventurers and a black dragon are
+Envy. If the achievements of others cannot be hunting the same treasure in the ruins of a partially
+eclipsed, they can always be torn down. (Evil) sunken city.
+2 Acquisitiveness. Possessing what others covet is 8 A black dragon with epicurean tastes is poaching
+immensely satisfying. (Any) game in a noble's hunting preserve at a frightening
+pace.
+80 CHAPTER 5 I DRACONOMICON
+I ....,.
+=== PAGE 82 ===
+CONNECTED CREATURES ADULT BLACK DRAGON CONNECTIONS
+Black dragons prefer the company of creatures d8 Connected Creatures
+that are easy to control and present little threat of
+An adult black dragon has learned to domesticate
+betrayal. Mindless Undead, shambling mounds, car
+swamp-bred chimeras as guardians and has sold a
+nivorous flora, Oozes, and Constructs make appeal
+few of the creatures to local warlords.
+ing servants, especially working in concert with a
+black dragon's fiendishly clever traps. A black drag 2 A cult of assassins worships an adult black dragon
+on's intelligent followers tend to worship draconic as an avatar of their deity. The dragon now uses the
+majesty and typically include kobolds, troglodytes, cult to destabilize the local sovereign's rule.
+lizard folk, and (more rarely) yuan-ti. 3 Ruins rumored to hold the treasury of a lost empire
+are guarded by an elaborate network of ooze-based
+BLACK DRAGON WYRMLING CONNECTIONS
+traps designed by a restless adult black dragon.
+d6 Connected Creatures
+4 The appearance of a spirit naga in the domain of an
+After breaking free from captivity at the hands of
+adult black dragon encourages the dragon to study
+a cocky mage, a cunning black dragon wyrmling
+necromancy.
+claimed the mage's amulet-and the suits of ani
+5 An adult black dragon has hidden a cache of gems
+mated armor the amulet controls.
+in a dismal topiary maze filled with shambling
+2 A band of troglodytes is cowed into serving a black mounds, traps, and noxious plant life, all for the
+dragon wyrmling as bodyguards.
+amusement of testing adventurers.
+3 The recent appearance of a black dragon wyrmling 6 An adult black dragon has bound water elementals
+has altered the local ecosystem, allowing various
+to the task of bringing food to the dragon's lair.
+types of blights to spread prodigiously and upset
+7 A bullywug community seeks help to defeat an adult
+nature's balance.
+black dragon who has been feasting on the bully
+4 A black dragon wyrmling is setting cunning traps wugs' domesticated giant frogs.
+along local roadways, hoping to injure horses and
+8 Two nations-one led by an adult black dragon
+draft animals for easy butchering.
+and the other by a yuan-ti abomination-are on
+5 Kobolds dwelling under a tropical city serve as safe
+the brink of joining forces to destroy a third nation.
+crackers and tunneling burglars to amass treasure The threatened nation is recruiting adventurers to
+for their beloved black dragon wyrmling master.
+defend it.
+6 A gnome relic hunter looting a long-abandoned
+city strikes up an unlikely partnership with a black ANCIENT BLACK DRAGON CONNECTIONS
+dragon wyrmling to plunder an archaeological dig. d4 Connected Creatures
+An ancient black dragon, after studying blasphe
+YOUNG BLACK DRAGON CONNECTIONS
+mous texts dedicated to alien gods, issues a warn
+d6 Connected Creatures ing that a corrupted planetar will soon fall to earth
+A young black dragon with a talent for alchemy has like a meteor in the fens outside a great city's walls.
+weaponized the spores of a myconid colony. 2 An illithid community has spent nearly a millennium
+2 A merrow war band has negotiated an alliance with raising and preparing a black dragon to become an
+a young black dragon to sack a nearby trading port. elder brain dragon (described in chapter 6), so the
+3 A pack of ghouls infesting a necropolis serve as a elder brain can wreak ruin upon its rivals.
+young black dragon's bodyguards and enforcers. 3 The decades-long machinations of an ancient black
+4 A young black dragon has cultivated an awakened dragon and an evil archmage are nearing fruition. If
+carnivorous plant (use the awakened tree stat block) their pact succeeds, they will unleash devastation
+as a lair guardian and has been abducting travelers on a continental scale.
+to feed the plant creature. 4 An ancient black dragon rules a vast, decadent city
+5 Lizardfolk worshiping a young black dragon have built on artificial islands within a polluted lake. The
+been raiding a local fishing community. site is threatened with destruction by an enraged
+6 A young black dragon has struck up a mutual assis archdruid-but destroying the city means thou
+tance pact with a roper that haunts the ruins out sands of innocents will die.
+side the dragon's lair.
+CHAPTER 5 I DRACONOMICON 8r
+=== PAGE 83 ===
+BLACK DRAGON LAIRS a chipped staircase that climbs to a second floor
+and then ends in midair before reaching the crum
+Black dragons prefer to lair in swamps and jun
+bling third level. Mold-covered friezes of knights
+gles-the more dismal and fetid, the better. Within
+kneeling before angelic beings line the stairwell.
+those environs, they favor ruins for their defensibil
+Tower Top. The dragon's true hoard is kept safely at
+ity and dreary aesthetic.
+the top of the crumbling tower, where the dragon
+When choosing their lairs, black dragons are fond
+enjoys perching and staring out into the gloom.
+of locations that are naturally constraining and con
+Intruders who can't fly must scale the sheer, slimy
+founding. Whether adventurers seeking the dragon
+walls of the tower (either from outside or from
+must wind their way through the roots of an ancient
+the interior of the second floor), braving whatever
+mangrove swamp or brave a trap-filled boggy ruin,
+traps might be in store if they hope to claim the
+the experience promises to be a deadly affair.
+dragon's real treasures.
+BLACK DRAGON LAIR FEATURES
+ADDITIONAL LAIR ACTIONS
+The black dragon lair shown in map 5.2 is a derelict
+At your discretion, a legendary (adult or ancient)
+chapel, lost to time in a gloomy fen. The building's
+black dragon can use one or more of the following
+wooden framing rotted away long ago, leaving a
+additional lair actions while in its lair:
+looming skeleton of lichen-covered stone and a lone
+tower. The lair has the following features: Filth Burst. The dragon chooses a point on
+the ground it can see within 120 feet of it. A
+Swampy Lake. Abutting the chapel is a swampy
+20-foot-radius, 20-foot-high cylinder of watery filth
+lake where the dragon sleeps. The foul water
+centered on that point erupts from the ground un
+stinks of dead fish and rot, while the dense foliage
+til initiative count 20 on the next round. Each crea
+and scraggly trees along the shoreline writhe with
+ture in the cylinder when it appears or that ends
+scuttling, slithering fauna. A thick blanket of fog
+its turn there must make a DC 15 Constitution
+part of the dragon's corrupting influence-adds a
+saving throw, taking 10 (3d6) poison damage on a
+claustrophobic feel to the lair.
+failed save, or half as much damage on a success
+Chapel Floor. Columns of clammy stone jut like
+ful one. The cylinder is difficult terrain.
+ribs from the chapel's exposed floor, as if in mock
+Grasping Muck. Tendrils of roiling muck extend
+ery of the sanctity of this once-holy place.
+from the dragon's lair to grasp up to three crea
+Underground. Twin staircases in the main hall
+tures of the dragon's choice that it can see within
+descend to a partially flooded crypt. Five trapped
+the lair. A targeted creature must succeed on a DC
+stone sarcophagi rise above the waterline, their
+15 Strength saving throw or be restrained until
+lids depicting armored warriors whose faces have
+initiative count 20 on the next round.
+been scoured away by acid. Each sarcophagus
+Noxious Gas. A bubble of swamp gas erupts in
+holds a few coins and shiny baubles mixed with
+a 20-foot-radius sphere centered on a point the
+junk that appears to be treasure at first glance.
+dragon can see within its lair. Each creature in the
+In the tower basement, a fully submerged tunnel
+area must succeed on a DC 15 Constitution saving
+leads to the lake where the dragon sleeps.
+throw or be poisoned for 1 minute. The target can
+Chapel Tower. A swollen oak door, flanked by
+repeat the saving throw at the end of each of its
+worn carvings of noble warriors, opens into the
+turns, ending the effect on itself on a success.
+dank stone tower, which stands empty except for
+REGIONAL EFFECTS
+RHASHAAK Any of these effects might appear in the area around
+Guardian of the cursed city of Haka'torvhak, the a black dragon's lair, in addition to or instead of the
+black greatwyrm Rhashaak lives deep in the jun- effects described in the Monster Manual:
+gles of Q'barra on the world of Eberron, where he is
+worshiped as the incarnation of a god by numerous Ennui. Creatures that spend a year within 10 miles
+kobolds, dragonborn, and lizardfolk. Rhashaak has of the dragon's lair are filled with listless despair.
+existed for millennia as the primary guardian of the Grating Spies. Trilling, obnoxious birds, bugs, and
+imprisoned Fiend Masvirik, who once held dominion
+reptiles follow any Humanoid creatures unknown
+over reptilian creatures.
+to the dragon within 6 miles of the lair, imposing
+Over time, Rhashaak has been tainted by the corrup
+disadvantage on Dexterity (Stealth) checks. The
+tion he guards and has slowly succumbed to its evil.
+Powerful wards keep Rhashaak bound to his fallen city, dragon can suppress this effect at will.
+but his legions would pose a significant threat if Rha Rotting Domain. Stinging bugs are aggressive and
+shaak were ever roused by settlers or explorers search the air is heavy with the odor of rot within 6 miles
+ing his ruins. of the lair.
+82 CHAPTER 5 I DRACONOMICON
+=== PAGE 84 ===
+BLACK DRAGON LAIR
+MAP 5.2
+Side view
+1 square= 10 feet
+Surface
+CHAPTER 5 I DRACONOMICON 83
+=== PAGE 85 ===
+BLACK DRAGON TREASURES BLACK DRAGON ART OBJECTS
+Black dragons appreciate objects of cultural, mag dlO Object
+ical, or scientific significance that originated from An elegant necklace owned by a beloved noble who
+lost cuJtures. Knowing a relic they possess is cov disappeared years ago
+eted by others because it presents a link to a lost
+2 Stone carvings representing a pantheon of deities
+past is what gives that relic its value. Black dragons
+that passed from common knowledge long ago
+also love conventional treasures such as gems (par
+3 The lost secret to forging an alloy imbued with
+ticularly opals), precious metals that don't corrode
+arcane potential, etched on twelve metal disks the
+easily, and stone sculptures.
+Because their lairs are inevitably slimy and dank, size of dinner plates
+if not outright flooded, black dragons rarely have 4 A sealed platinum flask containing the last known
+cloth, wood, or paper items unless such items are aqua vitae created by a master dwarf distiller
+stored in watertight containers. Black dragons
+5 A ceremonial longsword with an embossed silver
+versed in magic often record notes and rituals on
+hilt and a blade of amber
+bones, shells, and metal plates instead of paper or
+6 A lavishly illustrated genealogy kept in a magically
+parchment. These unusual works are art in their
+sealed container that disputes a current monarch's
+own right, each featuring rows of graceful Draconic
+script etched with the dragon's own acid. right to the throne
+Most black dragons keep their treasure well hid 7 Heretical religious symbols carved on a trio of gem
+den and have a private viewing room for particularly stones the size of apples
+prized possessions. Knowing that interloping infe
+8 An elaborately carved mask representing a god of
+riors were able to so much as see their hoard can
+harvest and fertility
+drive a black dragon to a state of rage.
+9 Metal horn caps inset with gems, made for the
+dragon by loyal cultists
+10 A beautifully enameled urn holding the desiccated
+heart of the dragon's former green dragon rival
+84 CHAPTER 5 I DRACONOMICON
+=== PAGE 86 ===
+BLUE DRAGOftS
+d6 Ideal
+5 Display. One should never take risks or waste re
+sources by using power if one can achieve the same
+If I we-ve-n>t <;o platinvM, lc.J be- b/ve-. Not results merely by the threat of power. (Any)
+a<; in <;acl ov clown. cQvite- the- oppo<;ite-. lc.J 6 Loyalty. I don't form bonds with those outside my
+kindred often. But when I do, I am an unshakable

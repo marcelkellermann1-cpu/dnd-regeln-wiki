@@ -1,0 +1,600 @@
+Claw. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. dragon regains spent legendary actions at the start of its turn.
+Hit: 13 (2d6 + 6) slashing damage.
+Tail. The dragon makes one Tail attack.
+Cast a Spell (Costs 2 Actions). The dragon uses Spellcasting.
+CHAPTER 6 I BESTIARY 2II
+=== PAGE 213 ===
+LAIR ACTIONS
+On initiative count 20 (losing initiative ties), the
+dragon can take one of the following lair actions; throw or have disadvantage on ability checks until
+the dragon can't take the same lair action two initiative count 20 on the following round.
+rounds in a row:
+REGIONAL EFFECTS
+Banish into Dream. The dragon targets a creature The region surrounding a legendary moonstone
+it can see within 120 feet of it and attempts to dragon's lair is altered by the dragon's magic, creat
+send that creature to a dream plane. The target ing one or more of the following effects:
+must succeed on a DC 15 Charisma saving throw
+Dream Communication. Whenever a creature that
+or be banished to a harmless demiplane until ini
+can understand a language sleeps or enters a state
+tiative count 20 on the next round. While there
+of trance or reverie within 6 miles of the dragon's
+the target is stunned. When the effect ends, th;
+lair, the dragon can establish telepathic contact
+target reappears in the space it left or in the near
+with that creature and converse with it in its
+est unoccupied space.
+dreams. The creature remembers its conversation
+Compulsive Dance. The dragon targets a creature
+with the dragon upon waking.
+it can see in its lair, and a merry waltz begins to
+Planar Transition. The veil between planes is
+play that only the target can hear. The target must
+thinned near a moonstone dragon's lair. Various
+succeed on a DC 15 Intelligence saving throw or
+portals link the Material Plane, the Feywild, and
+dance until initiative count 20 on the following
+the Border Ethereal within 6 miles of the lair.
+round. The dancing creature is incapacitated and
+Creatures can pass through a portal in either di
+must use all its movement to dance.
+rection by spending 5 feet of movement.
+Disorienting Visions. Disorienting illusory images
+flit through the dragon's lair. Each creature in If the dragon dies, any portals near the lair close
+the lair must succeed on a DC 20 Wisdom saving immediately.
+ADULT MOONSTONE D RAGON Tail. Melee Weapon Attack: +10 to hit, reach 15 ft., one target.
+Hit: 9 (ld8 + 5) bludgeoning damage. If the target is a crea
+Huge Dragon, Typically Neutral
+ture, it must succeed on a DC 18 Strength saving throw or be
+'\+;? •. • knocked prone.
+Armor Class 19 (natural armor) ~ ... t ...·
+Hit Points 195 (17dl2 + 85) - r . ,. ·11t . Breath Weapon (Recharge 5-6). The dragon uses one of the
+Speed 40 ft., fly 80 ft. 4' • ' " ~1 """"t..'~ I following breath weapons:
+Dream Breath. The dragon exhales mist in a 90-foot cone. Each
+STR DEX CON INT WIS CHA
+creature in that area must succeed on a DC 18 Constitution
+20 (+5) 18 (+4) 20 (+5) 22 (+6) 20 (+5) 23 (+6)
+saving throw or fall unconscious for 10 minutes. This effect
+ends for a creature if the creature takes damage or someone
+Saving Throws Int +11, Wis +10, Cha +11
+uses an action to wake it.
+Skills Perception + l 0, Persuasion +1 1, Stealth +9
+Moonlight Breath. The dragon exhales a beam of moonlight in
+Condition Immunities charmed
+a 90-foot line that is 10 feet wide. Each creature in that area
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 20
+must make a DC 18 Dexterity saving throw, taking 49 (9dl0)
+Languages Common, Draconic, Elvish, Gnomish, Sylvan
+radiant damage on a failed save, or half as much damage on
+Challenge 15 (13,000 XP) Proficiency Bonus +5
+a successful one.
+Legendary Resistance (3/Day). If the dragon fails a saving Spellcasting. The dragon casts one of the following spells,
+throw, it can choose to succeed instead. requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 19):
+ACTIONS At will: faerie fire
+Multiattack. The dragon makes one Bite attack and two 1/day each: calm emotions, invisibility, revivify
+Claw attacks.
+LEGENDARY ACTIONS
+Bite. Melee Weapon Attack: +10 to hit, reach 10 ft., one tar
+The dragon can take 3 legendary actions, choosing from the
+get. Hit: 16 (2dl0 + 5) piercing damage plus 7 (2d6) radi
+options below. Only one legendary action option can be used
+ant damage.
+at one time and only at the end of another creature's turn. The
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. dragon regains spent legendary actions at the start of its turn.
+Hit: 12 (2d6 + 5) slashing damage.
+Tail. The dragon makes one Tail attack.
+Cast a Spell (Costs 2 Actions). The dragon uses Spellcasting.
+212 CHAPTER 6 I BESTIARY
+I
+=== PAGE 214 ===
+YOUNG MOONSTONE D RAGON
+Large Dragon, Typically Neutral
+Armor Class 18 (natural armor)
+Hit Points 144 (17dl0 + 51)
+Speed 40 ft., fly 80 ft.
+STR DEX CON INT
+18 (+4) 16 (+3) 17 (+3) 18 (+4)
+. ,.
+Saving Throws Con +6, Int +7, Wis +6, Cha +7 MOONSTONE DRAGON WYRMLING
+Skills Perception +6, Persuasion +7, Stealth +6
+Medium Dragon, Typically Neutral
+Condition Immunities charmed
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 16
+Armor Class 17 (natural armor)
+Languages Common, Draconic, Sylvan
+Hit Points 39 (6d8 + 12)
+Challenge 8 (3,900 XP) Proficiency Bonus + 3
+Speed 30 ft., fly 60 ft.
+ACTIONS STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 14 (+2) 16 (+3) 14 (+2) 17 (+3)
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks.
+Saving Throws Int +S, Wis +4, Cha +5
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one tar Skills Perception +4, Persuasion +5, Stealth +4
+get. Hit: 15 (2dl0 + 4) piercing damage plus 5 (ldlO) radi Condition Immunities charmed
+ant damage. Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+Languages Draconic
+Claw. Melee Weapon Attack: +7 to hit, reach S ft., one target.
+Challenge 2 (450 XP) Proficiency Bonus +2
+Hit: 11 (2d6 + 4) slashing damage.
+Breath Weapon (Recharge 5-6). The dragon uses one of the
+following breath weapons: ACTIONS
+Dream Breath. The dragon exhales mist in a 90-foot cone. Each Bite. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+creature in that area must succeed on a DC 14 Constitution Hit: 12 (2d8 + 3) piercing damage plus 3 (ld6) radiant damage.
+saving throw or fall unconscious for 10 minutes. This effect
+Breath Weapon (Recharge 5-6). The dragon uses one of the
+ends for a creature if the creature takes damage or someone
+following breath weapons:
+uses an action to wake it.
+Moonlight Breath. The dragon exhales a beam of moonlight in Dream Breath. The dragon exhales mist in a 90-foot cone. Each
+a GO-foot line that is S feet wide. Each creature in that area creature in that area must succeed on a DC 12 Constitution
+must make a DC 14 Dexterity saving throw, taking 38 (7dl0) saving throw or fall unconscious for 10 minutes. This effect
+radiant damage on a failed save, or half as much damage on ends for a creature if the creature takes damage or someone
+a successful one. uses an action to wake it.
+Moonlight Breath. The dragon exhales a beam of moonlight in
+Spellcasting. The dragon casts one of the following spells,
+a 30-foot line that is S feet wide. Each creature in that area
+requiring no material components and using Charisma as the
+must make a DC 12 Dexterity saving throw, taking 14 (4d6)
+spellcasting ability (spell save DC l 5):
+radiant damage on a failed save, or half as much damage on
+l /day each: calm emotions, faerie fire a successful one.
+CHAPTER 6 I BESTIARY 213
+=== PAGE 215 ===
+SAPPHIRE DRAGONS ART OF WAR
+The thunderous clash of conflict is part of the very The warlike sapphire dragons devise strategies and
+nature of sapphire dragons. Militant and territorial, ambushes based on their ability to maneuver under
+they defend their lairs fiercely, ambushing intruders ground. A sapphire dragon often refrains from strik
+and plotting assaults against their rivals. The sonic ing immediately, preferring to assess intruders first
+pulse of their breath weapon sows weakness, leav in order to devise the most advantageous approach
+ing the victims unable to fight back. to dealing with them.
+Sapphire dragons watch for signs of Aberrations
+LUMINOUS BLUE
+and other creatures corrupted by the Far Realm.
+Sapphire dragons' scales and wing membranes They frequently ally with emerald dragons, drawing
+show varied shades of blue, ranging from the light on their kin's knowledge of occult phenomena to
+tones of a spring sky to the rich, crystalline azure of track the influence of the Far Realm. Armed with
+sapphire gems and compressed glacial ice. In the that knowledge, sapphire dragons stamp out alien
+light, the scales glitter and shine like luminous star influence before it spreads.
+bursts. The dragons' psionic nature is evident in the People who dwell or delve deep beneath the earth
+horn and bone structures of their bodies. Their tail can easily find themselves at odds with a sapphire
+barbs and horn tips are all separate pieces, but they dragon if they cross into the dragon's territory. But
+float in place, held aloft by psychic energy while the sapphire dragons sometimes forge peaceful relation
+dragons live. These levitating horns and spines shift ships with rock gnomes or deep gnomes, relying on
+slightly with the dragons' moods, bobbing in amuse these folk to help protect the territory surrounding
+ment or flaring with anger. their lairs.
+ANCIENT SAPPHIRE DRAGON Debilitating Breath (Recharge 5-6). The dragon exhales a pulse
+of high-pitched, nearly inaudible sound in a 90-foot cone. Each
+Gargantuan Dragon (Gem), Typically Lawful Neutral
+creature in that area must make a DC 23 Constitution saving
+throw. On a failed save, the creature takes 55 (l0dl0) thunder
+Armor Class 20 (natural armor)
+damage and is incapacitated until the end of its next turn. On
+Hit Points 370 (20d20 + 160)
+a successful save, the creature takes half as much damage and
+Speed 40 ft., burrow 40 ft., climb 40 ft., fly 80 ft.
+isn't incapacitated.
+STR DEX CON INT WIS CHA Spellcasting (Psionics). The dragon casts one of the following
+27 (+8) 14 (+2) 27 (+8) 21 (+5) 19 (+4) 20 (+5) spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 20):
+Saving Throws Dex +9, Con + 15, Wis +1 1, Cha + 12
+1/day each: dissonant whispers, hold monster, meld into stone,
+Skills History +12, Perception +18, Persuasion +19, Stealth +9
+telekinesis, teleport
+Damage Resistances lightning, thunder
+Condition Immunities frightened
+BONUS ACTIONS
+Senses blindsight 60 ft., darkvision 120 ft., passive perception 28
+Languages Common, Draconic, telepathy 120 ft. Change Shape. The dragon magically transforms into any crea
+Challenge 22 (41,000 XP) Proficiency Bonus +7 ture that is Medium or Small, while retaining its game statistics
+(other than its size). This transformation ends if the dragon is
+Legendary Resistance (3/Day). If the dragon fails a saving ,.. reduced to 0 hit points or uses a bonus action to end it.
+throw, it can choose to succeed instead.
+Psychic Step. The dragon magically teleports to an unoccupied
+Spider Climb. The dragon can climb difficult surfaces, includ space it can see within 60 feet of it. .. ..
+ing upside down on ceilings, without needing to make an
+ability check. LEGENDARY ACTIONS
+Tunneler. The dragon can burrow through solid rock at half The dragon can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+its burrowing speed and can leave a 20-foot-diameter tunnel
+at a time and only at the end of another creature's turn. The
+in its wake.
+dragon regains spent legendary actions at the start of its turn.
+ACTIONS Claw. The dragon makes one Claw attack.
+Multiattack. The dragon makes one Bite attack and two Psionics (Costs 2 Actions). The dragon uses Psychic Step or ~
+Claw attacks. Spellcasting.
+Telekinetic Fling (Costs 3 Actions). The dragon chooses one
+Bite. Melee Weapon Attack:+ 15 to hit, reach 15 ft., one tar Medium or smaller object that isn't being worn or carried
+get. Hit: 19 (2d10 + 8) piercing damage plus 11 (2d10) thun that it can see within 60 feet of it, and it magically hurls the
+der damage. object at a creature it can see within 60 feet of the object. The
+Claw. Melee Weapon Attack: +15 to hit, reach 10 ft., one target. target must succeed on a DC 20 Dexterity saving throw or
+take 42 (12d6) bludgeoning damage.
+Hit: 15 (2d6 + 8) slashing damage.
+214 CHAPTER 6 I BESTIARY
+=== PAGE 216 ===
+•
+•
+ADULT SAPPHIRE DRAGON Debilitating Breath (Recharge 5-6). The dragon exhales a pulse
+of high-pitched, nearly inaudible sound in a 60-foot cone. Each
+Huge Dragon (Gem), Typically Lawful Neutral
+creature in that area must make a DC 19 Constitution saving
+throw. On a failed save, the creature takes 44 (8d10) thunder
+Armor Class 18 (natural armor)
+damage and is incapacitated until the end of its next turn. On
+Hit Points 225 (18d12 + 108)
+Speed 40 ft., burrow 30 ft., climb 40 ft., fly 80 ft. a successful save, the creature takes half as much damage and
+isn't incapacitated.
+STR DEX CON INT WIS CHA Spel/casting (Psionics). The dragon casts one of the following
+23 {+6) 14 (+2) 22 {+6) 18 {+4) 17 (+3) 18 {+4) spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 17):
+Saving Throws Dex +7, Con +11, Wis +8, Cha +9
+1/day each: dissonant whispers, hold monster, meld into stone,
+Skills History +9, Perception +13, Persuasion +14, Stealth +7
+telekinesis
+Damage Resistances lightning, thunder
+Condition Immunities frightened
+BONUS ACTIONS
+Senses blindsight 60 ft., darkvision 120 ft., passive perception 23
+Languages Common, Draconic, telepathy 120 ft. Change Shape. The dragon magically transforms into any crea
+Challenge 15 {13,000 XP) Proficiency Bonus +5 ture that is Medium or Small, while retaining its game statistics
+(other than its size). This transformation ends if the dragon is
+Legendary Resistance (3/Day). If the dragon fails a saving reduced to 0 hit points or uses a bonus action to end it.
+throw, it can choose to succeed instead.
+Psychic Step. The dragon magically teleports to an unoccupied
+Spider Climb. The dragon can climb difficult surfaces, includ space it can see within 60 feet of it.
+ing upside down on ceilings, without needing to make an
+ability check. LEGENDARY ACTIONS
+Tunneler. The dragon can burrow through solid rock at half The dragon can take 3 legendary actions, choosing from the
+its burrowing speed and can leave a 10-foot-diameter tunnel options below. Only one legendary action option can be used
+in its wake. at a time and only at the end of another creature's turn. The
+dragon regains spent legendary actions at the start of its turn.
+ACTIONS Claw. The dragon makes one Claw attack.
+Multiattack. The dragon makes one Bite attack and two Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Claw attacks. Spellcasting.
+Telekinetic Fling (Costs 3 Actions). The dragon chooses one
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one tar
+Small or smaller object that isn't being worn or carried that it
+get. Hit: 17 (2dl0 + 6) piercing damage plus 5 (ldl0) thun can see within 60 feet of it, and it magically hurls the object
+der damage. at a creature it can see within 60 feet of the object. The target
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. must succeed on a DC 17 Dexterity saving throw or take 31
+(9d6) bludgeoning damage.
+Hit: 10 (ld8 + 6) slashing damage.
+CHAPTER 6 J BESTIARY 215
+=== PAGE 217 ===
+MARTIAL HOARDS A SAPPHIRE DRAGON'S LAIR
+Sapphire dragons' favorite prizes are weapons and Sapphire dragons make their homes in extensive
+armor, records of military history and tactics, and cave systems. As they grow older, they make in
+magic items that protect against psychic damage creasingly complex renovations to their lairs, using
+or mental intrusion. The centerpiece of a sapphire their inherent magic and natural tunneling abili
+dragon's hoard is usually a cataloged, orderly collec ties to great effect. Eventually, a sapphire dragon's
+tion of war gear, which can contain ancient relics of lair is a dizzying honeycomb of hidden passages,
+immense power. deceptively thin walls, and secret chambers that
+allow the dragon to travel from one end to the other
+YOUNG SAPPHIRE DRAGON unseen by intruders. The most secure lairs might
+feature no accessible entrances or exits at all, with
+the dragon relying on tunneling or shaping stone to
+Armor Class 17 (natural armor) come and go.
+Hit Points l 57 (15dl 0 + 75)
+Speed 40 ft., burrow 20 ft., climb 40 ft., fly 80 ft.
+SAPPHIRE DRAGON WYRMLING
+STR DEX CON INT WIS CHA Medium Dragon (Gem), Typically Lawful Neutral
+21 (+5) 14 (+2) 20 (+5) 16 (+3) 15 (+2) 16 (+3)
+Armor Class 16 (natural armor)
+Saving Throws Dex +6, Con +9, Wis +6, Cha +7 Hit Points 45 (6d8 + 18)
+Skills History +7, Perception +10, Persuasion +11, Stealth +6 Speed 30 ft., burrow 15 ft., climb 30 ft., fly 60 ft.
+Damage Resistances lightning, thunder
+Condition Immunities frightened STR DEX CON INT WIS CHA
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 20 17 (+3) 14 (+2) 16 (+3) 14 (+2) 13 (+l) 14 (+2)
+Languages Common, Draconic, telepathy 120 ft.
+Challenge 9 (5,000 XP) Proficiency Bonus +4 Saving Throws Dex +4, Con +5, Wis +3, Cha +4 .
+t
+Skills History +4, Perception +5, Persuasion +6, Stealth +4
+Spider Climb. The dragon can climb difficult surfaces, includ Damage Resistances lightning, thunder
+ing upside down on ceilings, without needing to make an Condition Immunities frightened
+ability check. Senses blindsight 30 ft., darkvision 120 ft., passive Perception l 5
+Languages Draconic, telepathy 120 ft.
+Tunneler. The dragon can burrow through solid rock at half
+Challenge 3 (700 XP) Proficiency Bonus +2
+its burrowing speed and can leave a 10-foot-diameter tunnel
+in its wake.
+Spider Climb. The dragon can climb difficult surfaces, includ
+ing upside down on ceilings, without needing to make an
+ACTIONS
+ability check.
+Multiattack. The dragon makes one Bite attack and two
+Tunneler. The dragon can burrow through solid rock at half
+Claw attacks.
+its burrowing speed and can leave a 5-foot-diameter tunnel
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one tar in its wake. "'
+get. Hit: 16 (2dl0 + 5) piercing damage plus 4 (ld8) thun '
+' •
+der damage. ACTIONS
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit:
+Hit: 8 (ld6 + 5) slashing damage. 8 (ldl0 + 3) piercing damage plus 3 (ld6) thunder damage.
+Debilitating Breath (Recharge 5-6). The dragon exhales a pulse Debilitating Breath (Recharge 5-6). The dragon exhales a pulse
+of high-pitched, nearly inaudible sound in a 30-foot cone. Each of high-pitched, nearly inaudible sound in a 15-foot cone. Each
+creature in that area must make a DC 17 Constitution saving creature in that area must make a DC 13 Constitution saving
+throw. On a failed save, the creature takes 33 (6dl0) thunder throw. On a failed save, the creature takes 22 (4dl0) thunder
+damage and is incapacitated until the end of its next turn. On damage and is incapacitated until the end of its next turn. On
+a successful save, the creature takes half as much damage and a successful save, the creature takes half as much damage and
+isn't incapacitated. isn't incapacitated.
+Spellcasting (Psionics). The dragon casts one of the following Spellcasting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC l 5): the spellcasting ability:
+1/day each: dissonant whispers, hold person, meld into stone 1/day each: alarm, Tenser'sjloating disk
+216 CHAPTER 6 I BESTIARY
+=== PAGE 218 ===
+-
+• •
+..
+Sapphin:- cJroigon~ cJon>t o~e,n f/'t a/o~
+with followe,y~ of l-olth, bvt one, phroi~e,
+~e,e,m~ to di~~ipate- a lot of fe.n~ion
+bdwe-e-n the:-m: ccSpicJe,y~? Y~, ple-a~e-!>'
+-rizban
+Stone Passage. The dragon touches a section of
+stone up to 30 feet in any dimension. The dragon
+can shape the stone to open or close a passage
+through a wall, as long as the wall is less than 10
+feet thick.
+REGIONAL EFFECTS
+The region surrounding a legendary sapphire drag
+on's lair is altered by the dragon's magic, creating
+one or more of the following effects:
+Crystal Profusion. Natural stone within 6 miles
+of the lair grows plentiful crystal formations
+The challenge rating of a legendary sapphire and veins of sapphire gemstones, particularly
+dragon increases by 1 when it's encountered underground.
+in its lair. Stony Sight. Natural stone within 6 miles of the lair
+is a conduit for the dragon's psionic presence. As
+LAIR ACTIONS an action, the dragon can cast the clairvoyance
+On initiative count 20 (losing initiative ties), the spell, requiring no spell components and targeting
+dragon can take one of the following lair actions; any natural stone formation in that region.
+the dragon can't take the same lair action two Telepathic Enhancement. The dragon's psionic
+rounds in a row: energy enhances the mental powers of other
+creatures. Any creature capable of telepathic com
+Awesome Thunder. A thunderous detonation of
+munication has its telepathy range doubled while
+sound that can be heard up to 300 feet away sur
+within 1 mile of the lair. This includes creatures
+rounds one creature in the lair that the dragon
+with innate telepathy and magical telepathy such
+can see. That creature must succeed on a DC 15
+as the Rary's telepathic bond spell.
+Constitution saving throw or take 13 (3d8) thun
+Thriving Wildlife. Giant spiders (a sapphire
+der damage and be stunned until the end of its
+dragon's favorite prey) are attracted to the area
+next turn.
+within 6 miles of the lair and settle there in
+Beguiling Whisper. The dragon telepathically whis
+large numbers.
+pers to one creature within range of the dragon's
+telepathy. The creature must succeed on a DC If the dragon dies, the population of giant spiders in
+15 Wisdom saving throw or be charmed by the the region returns to normal levels over the course
+dragon until initiative count 20 on the next round. of ldlO days. The enhancement of telepathic abil
+A creature charmed in this way obeys to the best ities ends immediately. The existing abundance of
+of its ability any command the dragon issues that crystals and sapphires remains, but new ones form
+isn't directly harmful to the creature. at a normal rate.
+CHAPTER 6 I BESTIARY 217
+=== PAGE 219 ===
+SEA SERPENTS
+Sea serpents rank alongside dragon turtles as some sailors' corpses floating frozen amid the wreckage
+of the most feared predators of the deep and inspire of their ships.
+many sailors' worst nightmares. Their strong fins Sea serpents are as fiercely territorial as any other
+propel them through the water at great speed. dragons, and they do not take kindly to ships pass
+Young sea serpents are agile hunters. They use ing over their domains without permission. Some
+reefs and natural camouflage to hide before they can be appeased by offerings of treasure, but most
+strike, picking off members of a ship's crew one demand that a ship's crew sacrifice one or more of
+by one. Ancient sea serpents grow large enough to their own.
+demolish whole ships, then feed at leisure on help Living amid the wreckage of sunken ships or in
+less sailors in the water. At any age, a sea serpent deep sea caves, sea serpents collect the cargo of
+attacks with terrible bites, a lashing tail, a constrict the craft they sink, amassing great hoards of trade
+ing grip, and a frigid breath weapon that can leave goods, sailors' trinkets, and pirates' booty.
+~I8 CHAPTER 6 I BESTIARY
+•
+•
+=== PAGE 220 ===
+Whe-n a ~e,a ~e-vpe-nt civiv~ it~e-/f
+ANCIENT SEA SERPENT
+thvov&' the- hv/1 of a ~hip, it~ ~imp/~
+Gargantuan Dragon, Typically Neutral
+tv~i~ to ae,u,/e,i,-afe, the- molfi~ pvo~~
+Armor Class 17 (natural armor)
+Hit Points 170 (lld20 + 55) Svve-, the- ~hip mitit ~ink, bvt that~
+Speed 20 ft., swim 60 ft.
+havcJ/~ the- ~e-vpe-nt~ fav/t
+STR DEX CON INT WIS
+24 (+7) 15 (+2) 20 (+5) 13 (+l) 16 (+3) -rizban
+SavingThrowsStr+l2,Con+l0 .•: , "t.J ~•~:.. ·
+Skills Perception +8, Stealth +7 ~ ,,i •i!f'~ ~' 4•
+Damage Immunities cold " :: W'~-•
+Senses darkvision 120 ft., passive Perception 18 ,. · ,..,,. YOUNG SEA SERPENT ;
+.
+Languages Common, Draconic Huge Dragon, Typically Neutral ,I. )''k,..,. •I I
+Challenge 14 (11,500 XP) Proficiency Bonus +5 .
+Armor Class 16 (natural armor)
+Amphibious. The sea serpent can breathe air and water. Hit Points 123 (l3dl2 + 39)
+Legendary Resistance (2/Day). If the sea serpent fails a saving Speed 10 ft., swim 40 ft.
+throw, it can choose to succeed instead.
+STR DEX CON INT WIS CHA
+Siege Monster. The sea serpent deals double damage to objects
+19 (+4) 12 (+l) 17 (+3) 11 (+0) 13 (+l) 10 (+0)
+and structures.
+Saving Throws Str +7, Con +6
+ACTIONS Skills Perception +4, Stealth +4 . '
+Multiattack. The sea serpent makes one Bite attack and one Damage Immunities cold
+Constrict or Tail attack. Senses darkvision 120 ft., passive Perception 14
+Languages Common, Draconic
+Bite. Melee Weapon Attack: +12 to hit, reach 15 ft., one target.
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+Hit: 20 (2dl2 + 7) piercing damage plus 6 (ldl2) cold damage.
+Constrict. Melee Weapon Attack: +12 to hit, reach 20 ft., one Amphibious. The sea serpent can breathe air and water.
+creature. Hit: 29 (4dl0 + 7) bludgeoning damage, and the
+Siege Monster. The sea serpent deals double damage to objects
+target is grappled (escape DC 20). Until this grapple ends, the
+and structures.
+target is restrained, and the sea serpent can't constrict an•
+other target.
+ACTIONS
+Tail. Melee Weapon Attack: +12 to hit, reach 20 ft., one tar• Multiattack. The sea serpent makes one Bite attack and one
+get. Hit: 13 (ldl2 + 7) bludgeoning damage. If the target is a Constrict or Tail attack.
+creature, it must succeed on a DC 20 Strength saving throw
+Bite. Melee Weapon Attack: +7 to hit, reach 10 ft., one target.
+or be pushed up to 30 feet away from the sea serpent and
+Hit: 15 (2dl0 + 4) piercing damage plus 5 (ldl0) cold damage.
+knocked prone.
+Rime Breath (Recharge 5-6). The sea serpent exhales a GO-foot Constrict. Melee Weapon Attack: +7 to hit, reach 20 ft., one
+creature. Hit: 22 (4d8 + 4) bludgeoning damage. If the target
+cone of cold. Each creature in that area must make a DC 18
+is Large or smaller, it is grappled (escape DC 15). Until this
+Constitution saving throw, taking 49 (9dl0) cold damage on a
+grapple ends, the target is restrained, and the sea serpent can't
+failed save, or half as much damage on a successful one.
+constrict another target.
+LEGENDARY ACTIONS Tail. Melee Weapon Attack: +7 to hit, reach l 5 ft., one target.
+The sea serpent can take 3 legendary actions, choosing from Hit: 9 (ldl 0 + 4) bludgeoning damage. If the target is a crea•
+the options below. Only one legendary action option can be ture, it must succeed on a DC 15 Strength saving throw or be
+used at a time and only at the end of another creature's turn. pushed up to 20 feet away and knocked prone.
+The sea serpent regains spent legendary actions at the start Rime Breath (Recharge 5-6). The sea serpent exhales a 30-foot
+of its turn.
+cone of cold. Each creature in that area must make a DC 14
+Tail. The sea serpent makes one Tail attack. Constitution saving throw, taking 38 (7dl0) cold damage on a
+Bite (Costs 2 Actions). The sea serpent makes one Bite attack. failed save, or half as much damage on a successful one.
+CHAPTER 6 I BESTIARY 219
+=== PAGE 221 ===
+TOPAZ DRAGONS
+Decay and despair are bound up in the nature of tip of the tail. These spines hover above a living
+topaz dragons, thanks to the necrotic energy of the topaz dragon's back, dancing and shifting with the
+Negative Plane that suffuses them. Their psionic dragon's mood.
+power manifests the fundamental entropic principle
+that mortal beings and their creations are ultimately EMBODIMENT OF DECAY
+doomed to death and decomposition, and the drag While generally not malicious, topaz dragons em
+ons' demeanor is typically morbid and curmud body decay. They view destruction as a natural
+geonly as a result. means of clearing the way for new creation and
+growth, much as a forest fire clears dead wood, re
+GLEAMING GOLD
+plenishes the soil, and allows the forest to regrow
+Upon hatching, topaz dragon wyrmlings' scales are even healthier than before. To this end, topaz drag
+dull yellow-orange and have a cloudy or filmy look. ons use their power to reduce crumbling structures
+As they age, their scales harden and clarify, becom and diseased plants to dust, clearing the way for
+ing translucent and faceted, and ranging from bright new growth and construction.
+yellow to rich amber in color. Their bodies are wider Despite being competent swimmers and making
+at the haunches, tapering in a wedge shape toward their lairs on seacoasts and in brackish marshes,
+the head, and their wings are shaped to propel them topaz dragons hate the water. Unfortunately, their fa
+through both air and water. A topaz dragon's psionic vorite food is giant squid, so these dragons have am
+power manifests visibly in the gem-like spines that ple opportunity to complain bitterly about being wet
+run in a ridge from the crown of the head to the after diving deep into the ocean in search of prey.
+ANCIENT TOPAZ DRAGON that area must make a DC 20 Constitution saving throw. On a
+failed save, the creature takes 49 (14d6) necrotic damage and
+Gargantuan Dragon (Gem), Typically Chaotic Neutral
+is weakened until the end of its next turn. A weakened crea
+ture has disadvantage on Strength-based ability checks and
+Armor Class 20 (natural armor)
+Strength saving throws, and the creature's weapon attacks that
+Hit Points 280 (17d20 + 102)
+Speed 40 ft., fly 80 ft., swim 40 ft. rely on Strength deal half damage. On a successful save, the
+creature takes half as much damage and isn't weakened.
+STR DEX CON INT WIS CHA Spellcasting (Psionics). The dragon casts one of the following
+23 (+6) 12 (+l) 23 (+6) 20 (+5) 19 (+4) 20 (+5) spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 19):
+Saving Throws Dex+7, Con +12, Wis +10, Cha +11
+1/day each: antilife shell, bane, control water, create or de
+Skills Intimidation +17, Perception +16, Stealth +7 , ·,
+stroy water
+Damage Resistances cold, necrotic
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 26
+BONUS ACTIONS
+Languages Common, Draconic, telepathy 120 ft.
+Challenge 20 (25,000 XP) Proficiency Bonus +6 Change Shape. The dragon magically transforms into any crea
+ture that is Medium or Small, while retaining its game statistics
+Amphibious. The dragon can breathe both air and water. (other than its size). This transformation ends if the dragon is
+reduced to O hit points or uses a bonus action to end it.
+Fabricate (1/Day). The dragon can cast fabricate, requiring
+no spell components and using Intelligence as the spellcast Psychic Step. The dragon magically teleports to an unoccupied
+ing ability. space it can see within 60 feet of it.
+Legendary Resistance (3/Day). If the dragon fails a saving
+LEGENDARY ACTIONS
+throw, it can choose to succeed instead.
+The dragon can take 3 legendary actions, choosing from the
+ACTIONS options below. Only one legendary action option can be used
+at a time and only at the end of another creature's turn. The
+Multiattack. The dragon makes one Bite attack and two •
+dragon regains spent legendary actions at the start of its turn.
+Claw attacks.
+Claw. The dragon makes one Claw attack.
+Bite. Melee Weapon Attack: +12 to hit, reach 15 ft., one tar
+Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+get. Hit: 17 (2d10 + 6) piercing damage plus 10 (3d6) ne
+Spellcasting.
+crotic damage.
+Essential Reduction (Costs 3 Actions). The dragon targets a
+Claw. Melee Weapon Attack:+ 12 to hit, reach 10 ft., one target. creature or an object not being worn or carried that it can
+Hit: 13 (2d6 + 6) slashing damage. see within 60 feet of it. The target must succeed on a DC 19
+Constitution saving throw or take 40 (9d8) necrotic damage.
+Desiccating Breath (Recharge 5-6). The dragon exhales yel If this damage reduces the target to O hit points, it crum
+lowish necrotic energy in a 90-foot cone. Each creature in bles to dust.
+220 CHAPTER 6 I BESTIARY
+..
+I ...J
+=== PAGE 222 ===
+Topaz dragons often come into conflict with
+bronze dragons when their coastal territories over
+lap, and they can nurture an inexplicably intense ha
+tred of these metallic dragons. They can also draw
+the ire of druids and other nature protectors who
+don't understand the dragons' proclivity for destroy
+ing large swaths of countryside. Beyond that, topaz
+dragons dislike company and grow irritated when
+disturbed. But anyone who can endure their abra
+sive demeanor, caustic observations, and morbid in
+terests can form a lasting bond with a powerful ally.
+ENTROPIC HOARDS
+Topaz dragons prize information on destruction and
+creation, whether abstract or dedicated to practical
+applications. They are fascinated by magic that
+creates objects from nothing, animates Undead, de
+stroys matter, or manipulates negative energy. And
+they are particularly intrigued by Undead, some
+times keeping them in their hoards as curios.
+ADULT TOPAZ DRAGON must make a DC 17 Constitution saving throw. On a failed save,
+the creature takes 35 (10d6) necrotic damage and is weakened
+Huge Dragon (Gem), Typically Chaotic Neutral
+until the end of its next turn. A weakened creature has disad
+vantage on Strength-based ability checks and Strength saving
+Armor Class 18 (natural armor)
+throws, and the creature's weapon attacks that rely on Strength
+Hit Points 210 (20d12 + 80)
+Speed 40 ft., fly 80 ft., swim 40 ft. •, deal half damage. On a successful save, the creature takes half '
+as much damage and isn't weakened.
+STR DEX CON INT WIS CHA Spel/casting (Psionics). The dragon casts one of the following
+19 (+4) 12 (+1) 19 (+4) 18 (+4) 17 (+3) 18 (+4) spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 17):
+Saving Throws Dex +6, Con +9, Wis +8, Cha +9 ,, •. .
+, 1/ day each: bane, control water, create or destroy water
+Skills Intimidation +14, Perception +13, Stealth +6 ' •, "
+Damage Resistances cold, necrotic
+BONUS ACTIONS
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 23
+Languages Common, Draconic, telepathy 120 ft. Change Shape. The dragon magically transforms into any crea
+Challenge 13 (10,000 XP) Proficiency Bonus +5 ture that is Medium or Small, while retaining its game statistics
+(other than its size). This transformation ends if the dragon is
+Amphibious. The dragon can breathe both air and water. reduced to 0 hit points or uses a bonus action to end it.
+Fabricate (1/Day). The dragon can cast fabricate, requiring Psychic Step. The dragon magically teleports to an unoccupied
+no spell components and using Intelligence as the spellcast space it can see within 60 feet of it.
+ing ability.
+LEGENDARY ACTIONS
+Legendary Resistance (3/Day). If the dragon fails a saving
+throw, it can choose to succeed instead. The dragon can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature's turn. The
+dragon regains spent legendary actions at the start of its turn.
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks. Claw. The dragon makes one Claw attack.
+Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one tar
+Spellcasting.
+get. Hit: 15 (2d10 + 4) piercing damage plus 3 (ld6) ne
+Essential Reduction (Costs 3 Actions). The dragon targets a
+crotic damage.

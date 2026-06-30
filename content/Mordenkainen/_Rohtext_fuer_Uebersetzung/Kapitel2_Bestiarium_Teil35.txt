@@ -1,0 +1,500 @@
+nonmagical attacks not made with silvered weapons
+Condition Immunities charmed, exhaustion, frightened
+Senses darkvision 60 ft., passive Perception 15
+Languages understands Common, Elvish, and Sylvan but can’t
+speak
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Sunlight Banishment. If the yeth hound starts its turn in sun­
+light, it is transported to the Ethereal Plane. While sunlight
+shines on the spot from which it vanished, the hound must re­
+main in the Deep Ethereal. After sunset, it returns to the Border
+Ethereal at the same spot, whereupon it typically sets out to
+find its pack or its master. The hound is visible on the Material
+Plane while it is in the Border Ethereal, and vice versa, but it
+can’t affect or be affected by anything on the other plane. Once
+it is adjacent to its master or a pack mate that is on the Mate­
+rial Plane, a yeth hound in the Border Ethereal can return to the
+Material Plane as an action.
+Telepathic Bond. While the yeth hound is on the same plane of
+existence as its master, it can magically convey what it senses
+to its master, and the two can communicate telepathically with
+each other.
+Actions
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) piercing damage, plus 14 (4d6) psychic dam­
+age if the target is frightened.
+Baleful Baying. The yeth hound bays magically. Every enemy
+within 300 feet of the hound that can hear it must succeed on a
+DC 13 Wisdom saving throw or be frightened of the hound until
+the end of the hound’s next turn or until the hound is incapac­
+itated. A frightened target that starts its turn within 30 feet of
+the hound must use all its movement on that turn to get as far
+from the hound as possible, must finish the move before taking
+an action, and must take the most direct route, even if hazards
+lie that way. A target that successfully saves is immune to the
+baying of all yeth hounds for the next 24 hours.
+--col--
+Yeth Hound
+Granted by mighty Fey to individuals who please
+them, yeth hounds serve their masters like hunting
+dogs. They race in pursuit of their prey, running it
+down until it’s too exhausted to fight back. Only the
+threat of dawn drives the pack back into hiding.
+A pack of yeth hounds can be created by powerful
+Fey such as the Queen of Air and Darkness. Each
+pack’s master can telepathically communicate with
+their yeth hounds to give the pack commands from
+afar. If a pack’s master is killed, the hounds seek out
+a new master, typically an evil vampire, necroman­
+cer, or hag (all appear in the Monster Manual).
+A yeth hound stands about 5 feet tall at the shoul­
+der and weighs around 400 pounds. Its head has a
+human-like face and glowing red eyes. The creature
+gives off a smoky odor.
+Yeth hounds make a ghastly baying sound that
+causes most creatures to flee in terror. They chase
+those who run and torment them before closing in
+for the kill. Those that fight back discover that mun­
+dane weapons partially pass through yeth hounds
+as if they were made of fog, but magic weapons and
+silvered weapons can strike true.
+Yeth hounds can’t stand sunlight. A pack hunts
+at night and seeks to return to its dark den before
+dawn. If a yeth hound is exposed to natural sunlight,
+it fades away, vanishing into the Ethereal Plane, and
+its master can retrieve it only after sunset.
+CHAPTER 2 | BESTIARY 271
+
+=== PAGE 272 ===
+Yuan-ti Anathema
+As part of their quest for godhood, a yuan-ti abom­
+ination might perform a ritual that, if successful,
+transforms them into an even greater form: a yuan-ti
+anathema. This ritual demands the sacrifice of hun­
+dreds of snakes and requires the abomination to
+bathe in the blood of their enemies. The transforma­
+tion is quick but painful.
+Anathemas consider themselves demigods on the
+path to greater divinity. They demand obeisance
+from weaker creatures and use every resource at
+their disposal to war against neighbors, seeking the
+captives, sacrifices, glory, and riches the anathemas
+believe they need to achieve true divinity.
+Anathemas don’t age, allowing them to pursue
+their goals until the end of days. Truly powerful
+ones might rule multiple yuan-ti cities and bring en­
+tire regions under their control.
+272 CHAPTER 2 | BESTIARY
+--col--
+Yuan-ti Anathema
+Huge Monstrosity, Typically Neutral Evil
+Armor Class 16 (natural armor)
+Hit Points 189 (18dl2+ 72)
+Speed 40 ft., climb 40 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+23 (+6) 13 (+1) 19 (+4) 19 (+4) 17 (+3) 20 (+5)
+Skills Perception +11, Stealth +5
+Damage Resistances acid, fire, lightning
+Damage Immunities poison
+Condition Immunities poisoned
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 21
+Languages Abyssal, Common, Draconic
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+Magic Resistance. The anathema has advantage on saving
+throws against spells and other magical effects.
+Ophidiophobia Aura. Any creature of the anathema’s choice,
+other than a snake or a yuan-ti, that starts its turn within 30
+feet of the anathema must succeed on a DC 17 Wisdom saving
+throw or become frightened of snakes and yuan-ti. A fright­
+ened target can repeat the saving throw at the end of each of
+its turns, ending the effect on itself on a success. If a target’s
+saving throw is successful or the effect ends for it, the target is
+immune to this anathama’s aura for the next 24 hours.
+Six Heads. The anathema has advantage on saves against being
+blinded, charmed, deafened, frightened, stunned, or knocked
+unconscious.
+Actions
+Multiattack (Anathema Form Only). The anathema makes two
+Claw attacks and one Flurry of Bites attack.
+Claw (Anathema Form Only). Melee Weapon Attack: +10 to hit,
+reach 10 ft., one target. Hit: 13 (2d6 + 6) slashing damage.
+Flurry of Bites (Anathema Form Only). Melee Weapon Attack:
++10 to hit, reach 10 ft., one creature. Hit: T1 (6d6 + 6) piercing
+damage plus 14 (4d6) poison damage.
+Constrict (Snake Form Only). Melee Weapon Attack: +10 to hit,
+reach 15 ft., one Large or smaller creature. Hit: 16 (3d6 + 6)
+bludgeoning damage plus 7 (2d6) acid damage, and the target
+is grappled (escape DC 16). Until this grapple ends, the target
+is restrained, and it takes 16 (3d6 + 6) bludgeoning damage
+plus 7 (2d6) acid damage at the start of each of its turns. The
+anathema can constrict only one creature at a time.
+Spellcasting (Anathema Form Only). The anathema casts one
+of the following spells, requiring no material components and
+using Charisma as the spellcasting ability (spell save DC 17):
+At will: animal friendship (snakes only)
+3/day each: darkness, entangle, fear, polymorph, suggestion
+Bonus Actions
+Change Shape. The anathema transforms into a Huge constric­
+tor snake or back into its true form. Its statistics are the same
+in each form. Any equipment it is wearing or carrying isn’t
+transformed.
+
+=== PAGE 273 ===
+TTEDRUB
+REHPOTSIRHC
+Yuan-ti Broodguard
+Broodguards were once Humanoids, but they have
+been transformed by yuan-ti into simpleminded,
+scaly Monstrosities that do their serpentine mas­
+ters’ bidding. The transformation process warps not
+only a subject’s body but also their mind, making
+them instinctively obey any yuan-ti and filling them
+with a seething rage at the sight of non-reptilian
+creatures.
+Although broodguards can no longer think as
+clearly as before their transformation, they are able
+to perform simple yet important tasks in the com­
+munity, such as guarding eggs or patrolling for in­
+truders. Yuan-ti refer to broodguards as “histachii,”
+which means “egg-watchers.”
+Most broodguards are made from human captives
+forced to consume a magical brew that renders
+them helpless and unable to fight off the inevitable
+transformation. A human transformed into a brood­
+guard loses all semblance of who they once were.
+A broodguard is hairless and emaciated, with scaly
+skin. They have a forked tongue, and they smell
+faintly of rotting meat. Broodguards can speak but
+rarely do so, preferring to communicate via snake­
+like hisses and guttural noises.
+Making a Broodguard
+Yuan-ti create broodguards from captured Human­
+oids. Each subject is fed a special potion that im­
+mediately renders it incapacitated and transforms
+it into a broodguard over the next ld6 + 6 days. A
+subject forced to imbibe the brew can make a DC 15
+Constitution saving throw; on a success, it takes 14
+(4d6) poison damage and is otherwise unaffected.
+A spell such as lesser restoration or remove curse
+can end the transformation process at any time be­
+fore it runs its course. After the process is complete,
+only a wish spell can reverse the effect.
+--col--
+Yuan-ti Broodguard
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 14 (natural armor)
+Hit Points 45 (7d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 14 (+2) 14 (+2) 6 (-2) 11 (+0) 4 (-3)
+Saving Throws Str +4, Dex +4, Wis +2
+Skills Perception +2
+Damage Immunities poison
+Condition Immunities charmed, paralyzed, poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages Abyssal, Common, Draconic
+Challenge 2 (450 XP) Proficiency Bonus +2
+Reckless. At the start of its turn, the broodguard can gain ad­
+vantage on all melee weapon attack rolls it makes during that
+turn, but attack rolls against it have advantage until the start of
+its next turn.
+Actions
+Multiattack. The broodguard makes one Bite attack and two
+Claw attacks.
+Bite. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 6 (1 d8 + 2) piercing damage.
+Claw. Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1 d6 + 2) slashing damage.
+CHAPTER 2 | BESTIARY 273
+
+=== PAGE 274 ===
+Yuan-ti Mind Whisperer
+Mind whisperers are yuan-ti malison spellcasters
+who enter into a pact with the serpent god Sseth,
+the Sibilant Death. They use their abilities to con­
+vert others to their faith, increase their personal
+power, and befuddle the minds of their enemies.
+Mind whisperers are elusive, manipulative, unpre­
+dictable, and willing to cheat or kill comrades and
+rivals alike if doing so benefits them. The worship­
+ers of Sseth have their hands in many schemes, of­
+ten plying the middle ground between two factions,
+and thus spend a lot of energy making sure none of
+their allies learn of their conflicting connections.
+Even among Sseth-worshiping communities, mind
+whisperers are known for being self-important,
+sneaky, and prone to flee at the first sign of trouble.
+274 CHAPTER 2 | BESTIARY
+--col--
+Yuan-ti Mind Whisperer
+Medium Monstrosity (Warlock), Typically Neutral Evil
+Armor Class 14 (natural armor)
+Hit Points 71 (13d8 + 13)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 14 (+2) 14 (+2) 16 (+3)
+Saving Throws Wis +4, Cha +5
+Skills Deception +5, Stealth +4
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 12
+Languages Abyssal, Common, Draconic
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Devil's Sight. Magical darkness doesn’t impede the yuan-ti’s
+darkvision.
+Magic Resistance. The yuan-ti has advantage on saving throws
+against spells and other magical effects.
+Sseth’s Blessing. When the yuan-ti reduces an enemy to 0 hit
+points, the yuan-ti gains 9 temporary hit points.
+Actions
+Multiattack. The yuan-ti makes two Bite attacks and one Scimi­
+tar attack, or it makes two Spectral Fangs attacks.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 5 (1 d4 + 3) piercing damage plus 7 (2d6) poison damage.
+Scimitar (Yuan-ti Form Only). Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 6 (ld6 + 3) slashing damage.
+Spectral Fangs. Ranged Spell Attack: +5 to hit, range 120 ft., one
+target. Hit: 16 (3d8 + 3) psychic damage.
+Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the
+following spells, requiring no material components and using
+Charisma as the spellcasting ability (spell save DC 13):
+At will: animal friendship (snakes only), message, minor illusion,
+prestidigitation
+3/day: suggestion
+2/day each: detect thoughts, hypnotic pattern
+Bonus Actions
+Change Shape. The yuan-ti transforms into a Medium snake or
+back into its true form. Its statistics are the same in each form.
+Any equipment it is wearing or carrying isn’t transformed. If it
+dies, it stays in its current form.
+
+=== PAGE 275 ===
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 14 (+2) 12 (+1) 16 (+3)
+Saving Throws Wis +3, Cha +5
+Skills Deception +5, Stealth +4
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Abyssal, Common, Draconic
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Devil’s Sight. Magical darkness doesn’t impede the yuan-ti’s
+darkvision.
+Magic Resistance. The yuan-ti has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The yuan-ti makes one Constrict attack and one
+Scimitar attack, or it makes two Spectral Fangs attacks.
+Constrict. Melee Weapon Attack: +5 to hit, reach 10 ft., one
+target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target
+is grappled (escape DC 14) if it is a Large or smaller creature.
+Until this grapple ends, the target is restrained. The yuan-ti can
+constrict only one creature at a time.
+--col--
+Yuan-ti Nightmare Speaker
+Nightmare speakers are yuan-ti malison priests
+who make a pact with the Dendar the Night Serpent
+to feed their deity the fears and nightmares of their
+victims in exchange for power in the mortal world.
+These priests receive nightmarish visions from Den­
+dar that they interpret as prophecies, and they then
+use their magic and influence to make these visions
+come true.
+Nightmare speakers revel in torturing others,
+keeping their victims in a constant state of fear and
+dread. They prefer to terrify rather than kill their
+opponents. They manipulate communities for the
+purpose of acquiring more victims and enjoy the
+company of Undead.
+Scimitar (Yuan-ti Form Only). Melee Weapon Attack: +5 to hit,
+reach 5 ft., one target. Hit: 6 (1 d6 + 3) slashing damage.
+Spectral Fangs. Ranged Spell Attack: +5 to hit, range 120 ft.,
+one target. Hit: 16 (3d8 + 3) necrotic damage.
+Invoke Nightmare (Recharges after a Short or Long Rest). The
+yuan-ti taps into the nightmares of one creature it can see
+within 60 feet of it and creates an illusory, immobile manifesta­
+tion of the creature’s deepest fears, visible only to that creature.
+The target must make a DC 13 Intelligence saving throw. On
+a failed save, the target takes 22 (4dl0) psychic damage and
+is frightened of the manifestation, believing it to be real. The
+yuan-ti must concentrate to maintain the illusion (as if concen­
+trating on a spell), which lasts for up to 1 minute and can’t be
+harmed. The target can repeat the saving throw at the end of
+each of its turns, ending the illusion on a success or taking 11
+(2dl0) psychic damage on a failure.
+Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the
+following spells, requiring no material components and using
+Charisma as the spellcasting ability (spell save DC 13):
+At will: animal friendship (snakes only), mage hand, message,
+prestidigitation
+3/day: suggestion
+2/day each: darkness, fear
+Bonus Actions
+Change Shape. The yuan-ti transforms into a Medium snake or
+back into its true form. Its statistics are the same in each form.
+Any equipment it is wearing or carrying isn’t transformed. If it
+dies, it stays in its current form.
+CHAPTER 2 | BESTIARY 275
+
+=== PAGE 276 ===
+Yuan-ti Pit Master
+With snakes for arms, pit masters are yuan-ti mal­
+ison priests who have made a pact with the god
+Merrshaulk and seek to rouse him from his slumber
+by sacrificing Humanoids to him. They are the most
+traditionalist yuan-ti and believe that they are best
+equipped to achieve the goals of their people.
+Pit masters are deeply involved in yuan-ti’s long­
+term plan to take over Humanoid governments, as
+well as in the ongoing effort to protect their cities
+from discovery or attacks by hostiles. They oppose
+reckless behavior and argue for a slow, cautious ap­
+proach in all matters.
+276 CHAPTER 2 | BESTIARY
+--col--
+Yuan-ti Pit Master
+Medium Monstrosity (Warlock), Typically Neutral Evil
+Armor Class 14 (natural armor)
+Hit Points 88 (16d8 + 16)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 14 (+2) 12 (+1) 16 (+3)
+Saving Throws Wis +4, Cha +6
+Skills Deception +6, Stealth +5
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Abyssal, Common, Draconic
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Devil’s Sight. Magical darkness doesn’t impede the yuan-ti’s
+darkvision.
+Magic Resistance. The yuan-ti has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The yuan-ti makes three Bite attacks or two Spec­
+tral Fangs attacks.
+Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 5 (1 d4 + 3) piercing damage plus 7 (2d6) poison damage.
+Spectral Fangs. Ranged Spell Attack: +6 to hit, range 120 ft.,
+one target. Hit: 16 (3d8 + 3) poison damage.
+Merrshaulk’s Slumber (1/Day). The yuan-ti targets up to five
+creatures that it can see within 60 feet of it. Each target must
+succeed on a DC 13 Constitution saving throw or fall into a
+magical sleep and be unconscious for 10 minutes. A sleeping
+target awakens if it takes damage or if someone uses an action
+to shake or slap it awake. This magical sleep has no effect on a
+creature immune to being charmed.
+Spellcasting (Yuan-ti Form Only). The yuan-ti casts one of the
+following spells, requiring no material components and using
+Charisma as the spellcasting ability (spell save DC 14):
+At will: animal friendship (snakes only), guidance, mage
+hand, message
+3/day: suggestion
+2/day each: hold person, invisibility
+Bonus Actions
+Change Shape. The yuan-ti transforms into a Medium snake or
+back into its true form. Its statistics are the same in each form.
+Any equipment it is wearing or carrying isn’t transformed. It
+doesn’t change form if it dies.
+-........■ 1 1 .............................................-
+
+=== PAGE 277 ===
+EMPLE
+Level 5: Temple Mount
+[MalisonJ
+QUARTERS]
+Eibrar;
+Level 4: Malison level
+■gULTIsJ \CULT£ST^
+[QUARTER* ^Quarters;
+KSUARDj
+Temple
+Shrine
+EuardI
+gGUtlTISTJJb
+[QUARTERS
+ltist Level
+ODNAL8
+DERAJ
+--col--
+Level 3: Abomination level
+E
+BPM IN BPM I NATI.QNI
+Quarter's! LQUARTERSM
+Gathering
+Hall
+[ABOMINATIOI ptepMINATI.O.1
+BtOU ARTERS]
+f Egg il
+UH EAT PHAMBEffl
+ROOM IBHEA T E
+» t a -IbathJ
+Shrine
+EYuan-ti,
+[Chamber1
+^Torture]
+jCHA’MBERJ
+rSTOREROOI
+Armor?
+-JAND 7
+SMITHY Kitchen
+S
+ide view
+Level 5
+Level 4
+Level 2
+Level 1
+CHAPTER 2 | BESTIARY
+
+=== PAGE 278 ===
+Zaratan
+When a zaratan is summoned from the Ele­
+mental Plane of Earth, the ground rises up to
+take the shape of a hulking, armored reptile.
+A zaratan’s steps trigger shock waves severe
+enough to level structures. It expresses its rage
+through trumpeting calls and the occasional
+boulder or blast of debris it spews from its
+cavernous maw. If seriously injured, a zaratan
+retracts its appendages to gain shelter beneath
+its impervious shell, biding its time until it re­
+covers and can resume its march.
+Zaratan
+Gargantuan Elemental, Typically Neutral
+Armor Class 21 (natural armor)
+Hit Points 307 (15d20 + 150)
+Speed 40 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+30 (+10) 10 (+0) 30 (+10) 2 (-4) 21 (+5) 18 (+4)
+Saving Throws Wis +12, Cha +11
+Damage Resistances cold, fire, lightning; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities exhaustion, paralyzed, petrified,
+poisoned, stunned
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 15
+Languages —
+Challenge 22 (41,000 XP) Proficiency Bonus +7
+Legendary Resistance (3/Day). If the zaratan fails a saving
+throw, it can choose to succeed instead.
+Siege Monster. The elemental deals double damage to objects
+and structures (included in Earth-Shaking Movement).
+Actions
+Multiattack. The zaratan makes one Bite attack and one
+Stomp attack.
+Bite. Melee Weapon Attack: +17 to hit, reach 20 ft., one target.
+Hit: 28 (4d8 + 10) force damage.
+Stomp. Melee Weapon Attack: +17 to hit, reach 20 ft., one tar­
+get. Hit: 26 (3dl0 + 10) thunder damage.
+Spit Rock. Ranged Weapon Attack: +17 to hit, range 120 ft./240
+ft., one target. Hit: 31 (6d8 + 10) force damage.
+Spew Debris (Recharge 5-6). The zaratan exhales rocky debris
+in a 90-foot cube. Each creature in that area must make a DC
+25 Dexterity saving throw. A creature takes 33 (6dl0) blud­
+geoning damage on a failed save, or half as much damage on
+a successful one. A creature that fails the save by 5 or more is
+knocked prone.
+278 CHAPTER 2 | BESTIARY
+--col--
+Earth-Shaking Movement. After moving at least 10 feet on the

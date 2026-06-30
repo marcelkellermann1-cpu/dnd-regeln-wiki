@@ -1,0 +1,500 @@
+a Medium or smaller creature. Until the grapple ends, the
+target is restrained, and the shadar-kai can’t grapple an­
+other target.
+5-6: Topple. The target is knocked prone.
+Bonus Actions
+Shadow Jump. The shadar-kai teleports, along with any equip­
+ment is it wearing or carrying, up to 30 feet to an unoccupied
+space it can see. Both the space it teleports from and the space
+it teleports to must be in dim light or darkness.
+CHAPTER 2 | BESTIARY 213
+
+=== PAGE 214 ===
+I Shadar-kai Soul Monger
+Medium Humanoid (Elf), Typically Neutral Evil
+Armor Class 15 (studded leather)
+Hit Points 136 (21d8 + 42)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 17 (+3) 14 (+2) 19 (+4) 15 (+3) 13 (+1)
+Saving Throws Dex +7, Wis +7, Cha +5
+Skills Perception +7
+Damage Immunities necrotic, psychic
+Condition Immunities charmed, exhaustion, frightened
+Senses darkvision 60 ft., passive Perception 17
+Languages Common, Elvish
+Challenge 11 (7,200 XP) Proficiency Bonus +4
+Fey Ancestry. The shadar-kai has advantage on saving throws
+against being charmed, and magic can’t put it to sleep.
+Magic Resistance. The shadar-kai has advantage on saving
+throws against spells and other magical effects.
+Soul Thirst. When it reduces a creature to 0 hit points, the
+shadar-kai can gain temporary hit points equal to half the
+214 CHAPTER 2 | BESTIARY
+--col--
+creature’s hit point maximum. While the shadar-kai has tempo­
+rary hit points from this trait, it has advantage on attack rolls.
+Weight of Ages. Any Beast or Humanoid (except an elf) that
+starts its turn within 5 feet of the shadar-kai has its speed re­
+duced by 20 feet until the start of that creature’s next turn.
+Actions
+Multiattack. The shadar-kai makes two Shadow Dagger attacks.
+Shadow Dagger. Melee or Ranged Weapon Attack: +7 to hit,
+reach 5 ft. or range 20/60 ft., one target. Hit: 13 (4d4 + 3) pierc­
+ing damage plus 19 (3dl2) necrotic damage, and the target has
+disadvantage on saving throws until the end of the shadar-kai’s
+next turn. Hit or Miss: The dagger magically returns to the sha­
+dar-kai’s hand immediately after a ranged attack.
+Spellcasting. The shadar-kai casts one of the following spells,
+requiring no material components and using Intelligence as the
+spellcasting ability (spell save DC 16):
+1/day each: bestow curse, finger of death, gaseous form, seeming
+Wave of Weariness (Recharge 4-6). The shadar-kai emits wea­
+riness in a 60-foot cube. Each creature in that area must make
+a DC 16 Constitution saving throw. On a failed save, a creature
+takes 45 (10d8) psychic damage and suffers 1 level of exhaus­
+tion. On a successful save, it takes half as much damage and
+doesn’t gain a level of exhaustion.
+
+=== PAGE 215 ===
+Shadow Mastiffs
+Shadow mastiffs—hounds of the Shadowfell—move
+invisibly through the shadows, always on the hunt.
+Shadow Mastiff
+Shunning sunlight, these hounds are usually met as
+a pack. Some faiths devoted to deities of gloom and
+night, such as that of Shar in the Forgotten Realms,
+perform unholy rites to summon shadow mastiffs to
+work as temple sentinels and bodyguards.
+Shadow Mastiff Alpha
+Each pack of shadow mastiffs is led by an alpha, the
+smartest one of the group. The sound of an alpha’s
+howl strikes terror into those who hear it and is a
+sure sign that a pack is on the prowl.
+Shadow Mastiff Alpha
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 12
+Hit Points 44 (8d8 + 8)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 6 (-2) 12 (+1) 5 (-3)
+Skills Perception +5, Stealth +6
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks while in dim light or darkness
+Senses darkvision 60 ft., passive Perception 15
+Languages —
+Challenge 3 (700 XP) Proficiency Bonus +2
+Ethereal Awareness. The shadow mastiff can see ethereal crea­
+tures and objects.
+Sunlight Weakness. While in bright light created by sunlight,
+the shadow mastiff has disadvantage on attack rolls, ability
+checks, and saving throws.
+Actions
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) piercing damage. If the target is a creature,
+it must succeed on a DC 13 Strength saving throw or be
+knocked prone.
+Terrifying Howl (Recharge 6). The shadow mastiff howls. Any
+Beast or Humanoid within 300 feet of it must succeed on a DC
+11 Wisdom saving throw or be frightened of it for 1 minute. A
+frightened target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success. If a target’s
+save is successful or the effect ends for it, the target is immune
+to any shadow mastiff's Terrifying Howl for the next 24 hours.
+Bonus Actions
+Shadow Blend. While in dim light or darkness, the shadow
+mastiff becomes invisible, along with anything it is wearing or
+carrying. The invisibility lasts until the shadow mastiff uses a
+bonus action to end it or until the shadow mastiff attacks, is in
+bright light, or is incapacitated.
+--col--
+Medium Monstrosity, Typically Neutral Evil
+Armor Class 12
+Hit Points 33 (6d8 + 6)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 5 (-3) 12 (+1) 5 (-3)
+Skills Perception +5, Stealth +6
+Damage Resistances bludgeoning, piercing, and slashing from
+nonmagical attacks while in dim light or darkness
+Senses darkvision 60 ft., passive Perception 15
+Languages —
+Challenge 2 (450 XP) Proficiency Bonus +2
+Ethereal Awareness. The shadow mastiff can see ethereal crea­
+tures and objects.
+Sunlight Weakness. While in bright light created by sunlight,
+the shadow mastiff has disadvantage on attack rolls, ability
+checks, and saving throws.
+Actions
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) piercing damage. If the target is a creature,
+it must succeed on a DC 13 Strength saving throw or be
+knocked prone.
+Bonus Actions
+Shadow Blend. While in dim light or darkness, the shadow
+mastiff becomes invisible, along with anything it is wearing or
+carrying. The invisibility lasts until the shadow mastiff uses a
+bonus action to end it or until the shadow mastiff attacks, is in
+bright light, or is incapacitated.
+CHAPTER 2 | BESTIARY 215
+
+=== PAGE 216 ===
+Trust MonAenkaiiAeK to look <Aowia oia
+AkMj Sort o| companionship—even
+the slavering venomouS/ demonic
+puppy kind
+TASHA
+Shoosuva
+A shoosuva is a hyena-demon gifted by Yeenoghu
+(appears in this book) to an especially powerful
+worshiper (typically a fang of Yeenoghu; see the
+Monster Manual). A shoosuva manifests shortly
+after a Yeenoghu-worshiping war band achieves a
+great victory, emerging from a billowing, fetid cloud
+of smoke as it arrives from the Abyss. In battle, the
+demon wraps its slavering jaws around one victim
+while lashing out with the poisonous stinger on its
+tail to bring down another. A creature immobilized
+by the poison becomes easy pickings for any nearby
+members of the war band.
+Each shoosuva is bonded to a particular wor­
+shiper of Yeenoghu and fights alongside its master.
+A gnoll that has been gifted with a shoosuva is sec­
+ond only to a flind (appears in this book) in status
+within a war band dedicated to Yeenoghu.
+216 CHAPTER 2 | BESTIARY
+--col--
+Shoosuva
+Large Fiend (Demon), Typically Chaotic Evil
+Armor Class 14 (natural armor)
+Hit Points 136 (16dl0 + 48)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 17 (+3) 7 (-2) 14 (+2) 9 (-1)
+Saving Throws Dex +4, Con +6, Wis +5
+Damage Resistances cold, fire, lightning
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages Abyssal, Cnoll, telepathy 120 ft.
+Challenge 8 (3,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The shoosuva makes one Bite attack and one Tail
+Stinger attack.
+Bite. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit:
+26 (4dl0 + 4) piercing damage.
+Tail Stinger. Melee Weapon Attack: +7 to hit, reach 15 ft., one
+creature. Hit: 13 (2d8 + 4) piercing damage, and the target
+must succeed on a DC 14 Constitution saving throw or become
+poisoned. While poisoned in this way, the target is also para­
+lyzed. The target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.
+Bonus Actions
+Rampage. When it reduces a creature to 0 hit points with a
+melee attack on its turn, the shoosuva can move up to half its
+speed and make one Bite attack.
+
+=== PAGE 217 ===
+SlBRIEX
+Thought to be as old as the Abyss itself, sibriexes
+haunt remote parts of that plane, where they use
+their vile abilities to create new horrors and they
+seek ancient lore. Rivulets of blood and bile cascade
+from a sibriex’s body, polluting the surrounding
+landscape.
+Sibriexes have spent eons amassing knowledge
+from across the planes, hoarding it for when it
+SlBRIEX
+Huge Fiend (Demon), Typically Chaotic Evil
+Armor Class 19 (natural armor)
+Hit Points 150 (12dl2+ 72)
+Speed 0 ft., fly 20 ft. (hover)
+STR DEX CON INT WIS CHA
+10 (+0) 3 (-4) 23 (+6) 25 (+7) 24 (+7) 25 (+7)
+Saving Throws I nt +13, Cha +13
+Skills Arcana +13, History +13, Perception +13
+Damage Resistances cold, fire, lightning; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities poisoned
+Senses truesight 120 ft., passive Perception 23
+Languages all, telepathy 120 ft.
+Challenge 18 (20,000 XP) Proficiency Bonus +6
+Contamination. The sibriex emits an aura of corruption 30
+feet in every direction. Vegetation withers in the aura, and the
+ground in the aura is difficult terrain for other creatures. Any
+creature that starts its turn in the aura must succeed on a DC
+20 Constitution saving throw or take 14 (4d6) poison damage.
+A creature that succeeds on the save is immune to this sibriex’s
+Contamination for 24 hours.
+Legendary Resistance (3/Day). If the sibriex fails a saving throw,
+it can choose to succeed instead.
+Magic Resistance. The sibriex has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. The sibriex makes three Chain attacks, and it uses
+Squirt Bile.
+Chain. Melee Weapon Attack: +13 to hit, reach 15 ft., one target.
+Hit: 20 (2dl2 + 7) force damage.
+Squirt Bile. The sibriex targets one creature it can see within
+120 feet of it. The target must succeed on a DC 20 Dexterity
+saving throw or take 31 (9d6) acid damage.
+Spellcasting. The sibriex casts one of the following spells,
+requiring no material components and using Charisma as the
+spellcasting ability (spell save DC 21):
+At will: command, dispel magic, hold monster
+yday.feeblemind
+--col--
+Warp Creature. The sibriex targets up to three creatures it can
+see within 120 feet of it. Each target must make a DC 20 Consti­
+tution saving throw. On a successful save, a creature becomes
+immune to this sibriex’s Warp Creature. On a failed save, the
+target is poisoned, which causes it to also gain 1 level of ex­
+haustion. While poisoned in this way, the target must repeat
+the saving throw at the start of each of its turns. Three suc­
+cessful saves against the poison end it, and ending the poison
+removes any levels of exhaustion caused by it. Each failed save
+causes the target to gain another level of exhaustion. Once the
+target reaches 6 levels of exhaustion, it dies and instantly trans­
+forms into a living manes (see the Monster Manual) under the
+sibriex’s control. The transformation of the body can be undone
+only by a wish spell.
+Legendary Actions
+The sibriex can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at a
+time and only at the end of another creature’s turn. The sibriex
+regains spent legendary actions at the start of its turn.
+Cast a Spell. The sibriex uses Spellcasting.
+Spray Bile. The sibriex uses Squirt Bile.
+Warp (Costs 2 Actions). The sibriex uses Warp Creature.
+CHAPTER 2 | BESTIARY 217
+
+=== PAGE 218 ===
+might be useful. Such are their incredible intellects
+and stores of information that many seek them out,
+including demon lords. Some sibriexes act as advi­
+sors and oracles, manipulating demons into serving
+their ends, while others parcel out lore only when
+doing so advances their plans.
+Sibriexes can channel the power of the Abyss to
+create new demons from other creatures. Some
+demons petition sibriexes for physical gifts, for
+sibriexes can graft on new body parts to give the
+demons greater strength, vision, or stamina. Si­
+briexes never give aid freely, though; they demand a
+service or a treasure in return for the flesh-shaping
+they provide.
+VARIANT: FLESH WARPING
+Creatures that encounter a sibriex can be twisted
+beyond recognition. Whenever a creature fails a sav­
+ing throw against the sibriex’s Warp Creature effect,
+you can roll percentile dice and consult the Flesh
+Warping table to determine an additional effect,
+which vanishes when Warp Creature ends on the
+creature. If the creature transforms into a manes,
+the effect becomes a permanent feature of that body.
+A creature can willingly submit to flesh warping,
+an agonizing process that takes at least 1 hour
+while the creature stays within 30 feet of the sibriex.
+At the end of the process, roll once on the table (or
+choose one effect) to determine how the creature is
+transformed permanently.
+--col--
+Flesh Warping
+dlOO Effect
+01-05 The color of the target’s hair, eyes, and skin be­
+comes blue, red, yellow, or patterned.
+06-10 The target’s eyes push out of its head at the end
+of stalks.
+11-15 The target’s hands grow claws, which can be
+used as daggers.
+16-20 One of the target’s legs grows longer than the
+other, reducing its walking speed by 10 feet.
+21-25 The target’s eyes become beacons, filling a 15-
+foot cone with dim light when they are open.
+26-30 A pair of wings, either feathered or leathery,
+sprout from the target’s back, granting it a flying
+speed of 30 feet.
+31-35 The target’s ears tear free from its head and
+scurry away; the target is deafened.
+36-40 Two of the target’s teeth turn into short tusks.
+41-45 The target’s skin develops bark-like scales,
+granting it a +1 bonus to AC but reducing its
+Charisma score by 2 (to a minimum of 1).
+46-50 The target’s arms and legs switch places, pre­
+venting the target from moving unless it crawls.
+51-55 The target’s arms become tentacles with fingers
+on the ends, increasing its reach by 5 feet.
+56-60 The target’s legs grow incredibly long and
+springy, increasing its walking speed by 10 feet.
+61-65 The target grows a long, thin tail, which it can
+use as a whip.
+66-70 The target’s entire eyes turn black, and it gains
+darkvision out to a range of 120 feet.
+71-75 The target swells, tripling its weight.
+76-80 The target becomes thin and skeletal, halving its
+weight.
+81-85 The target’s head triples in size.
+86-90 The target’s ears become wings, giving it a flying
+speed of 5 feet.
+91-95 The target’s body becomes unusually brittle,
+causing the target to have vulnerability to blud­
+geoning, piercing, and slashing damage.
+96-00 The target grows another head, causing it to
+have advantage on saving throws against being
+charmed, frightened, or stunned.
+
+=== PAGE 219 ===
+S
+kulk
+Skulks are the soulless shells of travelers who
+became lost in the Shadowfell, wandering its gray
+wastes until they lost all sense of self. They are so
+devoid of identity that they have become perma­
+nently invisible. Only children can see a skulk with­
+out the help of a mirror or a special candle. On the
+rare occasions when a skulk is visible, it appears as
+a drab, featureless, hairless biped.
+A skulk can be summoned from the Shadowfell by
+performing a ritual, and it is bound to obey the sum-
+moner’s commands for 30 days. During this time, if
+the skulk is visible, an astute observer might deduce
+who summoned it, because the skulk assumes a
+vague likeness of its master.
+Cruel and chaotic, skulks carry out their orders
+in the most violent manner possible. A summoned
+skulk can’t return to the Shadowfell until it dies, so
+many throw themselves into creating bloodshed and
+mayhem with no regard for their own lives.
+After killing a person on the Material Plane, some
+skulks take up a silent imitation of that person’s
+life. In extreme cases, skulks have invaded villages,
+killed all the occupants, and turned the places into
+seeming ghost towns where flavorless food is pre­
+pared daily, colorless clothes are hung up to dry, and
+livestock is shifted from pen to pen until it starves.
+--col--
+'., 1 ...............- ;..
+Skulk
+Medium Monstrosity, Typically Chaotic Neutral
+Armor Class 14
+Hit Points 18 (4d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+6 (-2) 19 (+4) 10 (+0) 10 (+0) 7 (-2) 1 (-5)
+Saving Throws Con +2
+Skills Stealth +8
+Condition Immunities blinded
+Senses darkvision 120 ft., passive Perception 8
+Languages understands Common but can’t speak
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+Fallible Invisibility. The skulk is invisible. This invisibility can be
+circumvented by three things:
+Charnel Candles. The skulk appears as a dim, translucent form
+in the light of a candle made of fat rendered from a corpse
+whose identity is unknown.
+Children. Humanoid children, aged 10 and under, can see
+through this invisibility.
+Reflective Surfaces. The skulk appears as a drab, smooth­
+skinned biped if its reflection can be seen in a mirror or on
+another surface.
+Trackless. The skulk leaves no tracks to indicate where it has
+been or where it’s headed.
+Actions
+Claw. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 6 (1 d4 + 4) slashing damage plus 3 (1 d6) necrotic damage.
+CHAPTER 2 | BESTIARY 219
+
+=== PAGE 220 ===
+Skull Lord
+Skull lords have claimed vast regions of the Shad­
+owfell as their dominion. From these blighted lands,
+they wage war against their rivals, commanding
+hordes of the undying in a bid to establish domi­
+nance. Yet skull lords always prove to be their
+own worst enemies; each is a combined being
+born from three hateful individuals, and they con­
+stantly plot against themselves.
+Infighting and treachery brought skull lords into
+existence. The first of them appeared in the after­
+math of Veena’s bid to conquer the world of Grey­
+hawk, after the vampire Kas betrayed Veena and
+took his eye and hand. In the confusion resulting
+from this turn of events, Veena’s warlords turned
+against each other, and his plans were dashed. In a
+rage, Veena gathered up his generals and captains
+and bound them in groups of three, fusing them into
+abominations cursed to fight among themselves for
+all time. Since the first skull lords were exiled into
+the shadows, others have arisen, typically created
+from other leaders who betrayed their masters.
+Skull Lord
+Medium Undead (Sorcerer), Typically Lawful Evil
+Armor Class 18 (plate)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 16 (+3) 17 (+3) 16 (+3) 15 (+2) 21 (+5)
+Skills Athletics +7, History +8, Perception +12, Stealth +8
+Damage Resistances cold, necrotic; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities blinded, charmed, deafened, exhaustion,
+frightened, poisoned, stunned, unconscious
+Senses darkvision 60 ft., passive Perception 22
+Languages all the languages it knew in life
+Challenge 15 (13,000 XP) Proficiency Bonus +5
+Evasion. If the skull lord is subjected to an effect that allows it
+to make a Dexterity saving throw to take only half the damage,
+the skull lord instead takes no damage if it succeeds on the
+saving throw and only half damage if it fails, provided it isn’t
+incapacitated.
+Legendary Resistance (3/Day). If the skull lord fails a saving
+throw, it can choose to succeed instead.
+Master of the Crave. While within 30 feet of the skull lord, any
+Undead ally of the skull lord makes saving throws with advan­
+tage, and that ally regains 1 d6 hit points whenever it starts its
+turn there.
+Unusual Nature. The skull lord doesn’t require air, food,
+drink, or sleep.
+220 CHAPTER 2 | BESTIARY
+--col--
+Actions
+Multiattack. The skull lord makes three Bone Staff or Deathly
+Ray attacks.
+Bone Staff. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 7 (1 d8 + 3) bludgeoning damage plus 21 (6d6) ne­
+crotic damage.
+Deathly Ray. Ranged Spell Attack: +10 to hit, range 60 ft., one
+target. Hit: 27 (5d8 + 5) necrotic damage.
+Spellcasting. The skull, lord casts one of the following spells,
+using Charisma as the spellcasting ability (spell save DC 18):
+At will: mage hand, message
+2/day each: dimension door, fear
+1/day each: cloudkill, cone of cold
+Legendary Actions
+The skull lord can take 3 legendary actions, choosing from
+the options below. Only one legendary action option can be
+used at a time and only at the end of another creature’s turn.
+The skull lord regains spent legendary actions at the start
+of its turn.
+Attack. The skull lord makes one Bone Staff or Deathly
+Ray attack.
+Move. The skull lord moves up to its speed without provoking
+opportunity attacks.
+Summon Undead (Costs 2 Actions). The skull lord summons
+up to five skeletons or zombies (both appear in the Monster
+Manual) in unoccupied spaces within 30 feet of it. They
+remain until destroyed. Undead summoned in this way roll
+initiative, act in the next available turn, and obey the skull
+lord. The skull lord can have no more than five Undead sum­
+moned by this ability at a time.
+
+=== PAGE 221 ===
+Slithering Tracker
+Medium Ooze, Typically Chaotic Evil
+Armor Class 14
+Hit Points 39 (6d8 + 12)
+Speed 30 ft., climb 30 ft., swim 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 19 (+4) 15 (+2) 10 (+0) 14 (+2) 11 (+0)

@@ -1,0 +1,500 @@
+Warlock of the Fiend
+Warlocks of the Fiend gain their powers through
+magical pacts forged with archfiends of the Lower
+Planes. These warlocks often keep imps or quasits
+(see the Monster Manual) as companions, and they
+tend toward philosophical extremes: consorting
+with fiendish cults or dedicating their lives to de­
+stroying such cults.
+Warlock of the Fiend
+Medium Humanoid, Any Alignment
+Armor Class 13 (16 with mage armor)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 15 (+2) 12 (+1) 12 (+1) 18 (+4)
+Saving Throws Wis +4, Cha +7
+Skills Arcana +4, Deception +7, Persuasion +7, Religion +4
+Damage Resistances fire
+Senses darkvision 60 ft., passive Perception 11
+Languages any two languages (usually Abyssal or Infernal)
+Challenge 7 (2,900 XP) Proficiency Bonus +3
+Dark One’s Own Luck (Recharges after a Short or Long Rest).
+When the warlock makes an ability check or saving throw, it can
+add a dl0 to the roll. It can do this after the roll is made but
+before any of the roll's effects occur.
+Actions
+Multiattack. The warlock makes three Scimitar attacks.
+Scimitar. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 6 (1 d6 + 3) bludgeoning damage plus 14 (4d6)
+fire damage.
+Hellfire. Green flame explodes in a 10-foot-radius sphere cen­
+tered on a point within 120 feet of the warlock. Each creature in
+that area must make a DC 15 Dexterity saving throw, taking 16
+(3dl0) fire damage and 11 (2dl0) necrotic damage on a failed
+save, or half as much damage on a successful one.
+Spellcasting. The warlock casts one of the following spells, us­
+ing Charisma as the spellcasting ability (spell save DC 15):
+At will: alter self, mage armor (self only), mage hand, minor illu­
+sion, prestidigitation
+1/day each: banishment, plane shift, suggestion
+Reactions
+Fiendish Rebuke (3/Day). In response to being damaged by
+a visible creature within 60 feet of it, the warlock forces that
+creature to make a DC 15 Constitution saving throw, taking 22
+(4dl0) necrotic damage on a failed save, or half as much dam­
+age on a successful one.
+CHAPTER 2 | BESTIARY 255
+
+=== PAGE 256 ===
+Warlock of the Great Old One
+Warlocks of the Great Old One gain their powers
+through magical pacts forged with eldritch entities
+from strange and distant realms of existence. Some
+of these warlocks associate with cultists devoted
+Warlock of the Great Old One
+Medium Humanoid, Any Alignment
+Armor Class 13 (16 with mage armor)
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 16 (+3) 15 (+2) 12 (+1) 12 (+1) 18 (+4)
+Saving Throws Wis +4, Cha +7
+Skills Arcana +4, History +4
+Damage Resistances psychic
+Senses darkvision 60 ft., passive Perception 11
+Languages any two languages, telepathy 30 ft.
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+Whispering Aura. At the start of each of the warlock’s turns,
+each creature of its choice within 10 feet of it must succeed on
+a DC 15 Wisdom saving throw or take 10 (3d6) psychic dam­
+age, provided the warlock isn’t incapacitated.
+256 CHAPTER 2 | BESTIARY
+--col--
+to these entities, as well as Aberrations that share
+their goals, yet other warlocks of the Great Old One
+are experts at rooting out the chaos and wickedness
+inspired by bizarre beings from beyond the stars.
+Actions
+Multiattack. The warlock makes two Dagger attacks.
+Dogger. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 5 (1 d4 + 3) piercing damage
+plus 10 (3d6) psychic damage.
+Howling Void. The warlock opens a momentary extraplanar
+rift within 60 feet of it. The rift is a scream-filled, 20-foot cube.
+Each creature in that area must make a DC 15 Wisdom saving
+throw. On a failed save, a creature takes 9 (2d8) psychic dam­
+age and is frightened of the warlock until the start of the war­
+lock's next turn. On a successful save, a creature takes half as
+much damage and isn’t frightened.
+Spellcasting. The warlock casts one of the following spells, us­
+ing Charisma as the spellcasting ability (spell save DC 15):
+At will: detect magic, guidance, levitate, mage armor (self only),
+mage hand, minor illusion, prestidigitation, speak with dead
+1/day each: arcane gate, detect thoughts, true seeing
+
+=== PAGE 257 ===
+Warlord
+Warlords are legendary battlefield commanders,
+whose names are spoken with awe. After a string
+of decisive victories, a warlord could easily take on
+the role of monarch or general and attract followers
+willing to die for the warlord’s banner.
+Warlords urge their troops into the fray with
+shouted exhortations. You can roll on the Warlord
+Battle Cries table to select one, or choose a battle
+cry that fits with your campaign.
+Warlord Battle Cries
+d8 Battle Cry
+1 “Remember why we fight!"
+2 “Victory awaits!”
+3 “For the crown!”
+4 “Be monstrous to the enemy!”
+5 “Fight so they fear us!”
+6 “Weapons drawn! Spells at the ready!”
+7 “To the Abyss with them!
+8 “You know what to do!”
+--col--
+Warlord
+Medium Humanoid, Any Alignment
+Armor Class 18 (plate)
+Hit Points 229 (27d8 + 108)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 16 (+3) 18 (+4) 12 (+1) 12 (+1) 18 (+4)
+Saving Throws Str +9, Dex +7, Con +8
+Skills Athletics +9, Intimidation +8, Perception +5,
+Persuasion +8
+Senses passive Perception 15
+Languages any two languages
+Challenge 12 (8,400 XP) Proficiency Bonus +4
+Indomitable (3/Day). The warlord can reroll a saving throw it
+fails. It must use the new roll.
+Survivor. The warlord regains 10 hit points at the start of its
+turn if it has fewer than half its hit points but at least 1 hit point.
+Actions
+Multiattack. The warlord makes two Greatsword or Short­
+bow attacks.
+Creatsword. Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target. Hit: 12 (2d6 + 5) slashing damage.
+Shortbow. Ranged Weapon Attack: +7 to hit, range 80/320 ft.,
+one target. Hit: 6 (1 d6 + 3) piercing damage.
+Legendary Actions____________________
+The warlord can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature’s turn. The
+warlord regains spent legendary actions at the start of its turn.
+Command Ally. The warlord targets one ally it can see within 30
+feet of it. If the target can see or hear the warlord, the target
+can make one weapon attack as a reaction and gains advan­
+tage on the attack roll.
+Weapon Attack. The warlord makes one Creatsword or Short­
+bow attack.
+Frighten Foe (Costs 2 Actions). The warlord targets one crea­
+ture it can see within 30 feet of it. If the target can see or hear
+it, the target must succeed on a DC 16 Wisdom saving throw
+or be frightened of the warlord until the end of warlord’s
+next turn.
+CHAPTER 2 | BESTIARY 257
+
+=== PAGE 258 ===
+Wastrilith
+Found in the waters of the Abyss and other bodies
+of water contaminated by that plane’s fell influence,
+wastriliths establish themselves as lords of the deep
+and rule their dominions with cruelty.
+A wastrilith pollutes the waters around it. Its nox­
+ious presence even affects nearby sources of water
+when the demon travels on land. The corrupted
+water, which contains a measure of the demon’s
+essence, responds to the wastrilith’s commands—
+perhaps hardening to prevent foes from escaping or
+erupting in a surge that drags victims into its reach.
+Creatures that ingest water corrupted by a wast­
+rilith risk their very souls. Those who drink the
+poisonous liquid might wither away until they finally
+die, or they remain alive only to become thralls of
+chaos and evil. To represent this defilement, you can
+use the optional rule on abyssal corruption in chap­
+ter 2 of the Dungeon Master’s Guide, causing the
+poisoned creature to be corrupted.
+Wastrilith
+Large Fiend (Demon), Typically Chaotic Evil
+Armor Class 18 (natural armor)
+Hit Points 157 (15dl0 + 75)
+Speed 30 ft., swim 80 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 18 (+4) 21 (+5) 19 (+4) 12 (+1) 14 (+2)
+Saving Throws Str +9, Con +10
+Damage Resistances cold, fire, lightning; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Abyssal, telepathy 120 ft.
+Challenge 13 (10,000 XP) Proficiency Bonus +5
+Amphibious. The wastrilith can breathe air and water.
+Corrupt Water. At the start of each of the wastrilith’s turns,
+exposed water within 30 feet of it is befouled. Underwater, this
+effect lightly obscures the area until a current clears it away.
+Water in containers remains corrupted until it evaporates.
+A creature that consumes this foul water or swims in it must
+make a DC 18 Constitution saving throw. On a successful save,
+the creature is immune to the foul water for 24 hours. On a
+failed save, the creature takes 14 (4d6) poison damage and is
+poisoned for 1 minute. At the end of this time, the poisoned
+i' . . --------zzz_-............................... —. . 2-
+CHAPTER 2 | BESTIARY
+--col--
+creature must repeat the saving throw. On a failure, the crea­
+ture takes 18 (4d8) poison damage and is poisoned until it
+finishes a long rest.
+If another demon drinks the foul water as an action, it gains
+11 (2dl0) temporary hit points.
+Magic Resistance. The wastrilith has advantage on saving
+throws against spells and other magical effects.
+Actions
+Multiattack. The wastrilith makes one Bite attack and two Claw
+attacks, and it uses Grasping Spout.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
+Hit: 30 (4dl2 + 4) piercing damage.
+Claw. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
+Hit: 18 (4d6 + 4) slashing damage.
+Grasping Spout. The wastrilith magically launches a spout of
+water at one creature it can see within 60 feet of it. The target
+must make a DC 17 Strength saving throw, and it has disad­
+vantage if it’s underwater. On a failed save, it takes 22 (4d8 +
+4) acid damage and is pulled up to 60 feet toward the wastri­
+lith. On a successful save, it takes half as much damage and
+isn't pulled.
+Bonus Actions
+Undertow. If the wastrilith is underwater, it causes all water
+within 60 feet of it to be difficult terrain for other creatures until
+the start of its next turn.
+
+=== PAGE 259 ===
+Wizards
+Wizards pursue magical power through the study
+of arcane texts. Some travel the world searching for
+esoteric tomes, while others train lesser wizards or
+collaborate with colleagues to create new spells.
+Apprentice Wizard
+Apprentices are novice arcane spellcasters who
+serve more experienced wizards or attend school.
+They perform menial work like cooking or cleaning
+in exchange for education in the ways of magic.
+Abjurer Wizard
+Abjurers specialize in creating protective magical
+wards. Monarchs, nobles, and other wealthy individ­
+uals commonly hire abjurers to provide protection.
+Conjurer Wizard
+Conjurers summon creatures from other planes of
+existence and teleport themselves and others in the
+blink of an eye.
+Diviner Wizard
+Diviners peer into the future and know that knowl­
+edge is power. They might act aloof and mysteri­
+ous, hinting at omens and secrets, or they might
+be know-it-alls, spilling insights to advance their
+own status.
+Enchanter Wizard
+Enchanters know how to magically influence minds.
+Benign enchanters use this magic to defuse violence
+and sow peace, while malevolent enchanters are
+some of the most evil of all spellcasters.
+Evoker Wizard
+Evokers harness arcane energy to destroy. Many
+armies employ evokers to rain destruction down on
+enemy forces.
+Illusionist Wizard
+Illusionists twist light, sound, and even thought to
+create illusory effects. Some illusionists are delight­
+ful entertainers, while others are devilish tricksters.
+Necromancer Wizard
+Necromancers study the interaction of life, death,
+and undeath. Some necromancers dig up or pur­
+chase corpses to create Undead servitors. A few in­
+stead use their powers for good, hunting Undead.
+Transmitter Wizard
+Transmuters are masters at transforming physical
+forms. They typically view magical transmutation as
+a path to riches, enlightenment, or apotheosis.
+--col--
+Apprentice Wizard
+Medium Humanoid, Any Alignment
+Armor Class 10(13 with mage armor)
+Hit Points 13 (3d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 10 (+0) 14 (+2) 10 (+0) 11 (+0)
+Skills Arcana +4, History +4
+Senses passive Perception 10
+Languages any one language (usually Common)
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Actions_______________________________
+Arcane Burst. Melee or Ranged Spell Attack: +4 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 7 (IdlO + 2) force damage.
+Spellcasting. The apprentice casts one of the following spells,
+using Intelligence as the spellcasting ability (spell save DC 12):
+At will: mage hand, prestidigitation
+1/day each: burning hands, disguise self, mage armor
+CHAPTER 2 | BESTIARY 259
+
+=== PAGE 260 ===
+Abjurer Wizard
+Medium Humanoid, Any Alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 104 (16d8 + 32)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 14 (+2) 18 (+4) 12 (+1) 11 (+0)
+Saving Throws Int +8, Wis +5
+Skills Arcana +8, History +8
+Senses passive Perception 11
+Languages any four languages
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+Actions
+Multiattack. The abjurer makes three Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +8 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 20 (3dl0 + 4) force damage.
+Force Blast. Each creature in a 20-foot cube originating from
+the abjurer must make a DC 16 Constitution saving throw. On
+a failed save, a creature takes 36 (8d8) force damage and is
+pushed up to 10 feet away from the abjurer. On a successful
+save, a creature takes half as much damage and isn’t pushed.
+Spellcasting. The abjurer casts one of the following spells, us­
+ing Intelligence as the spellcasting ability (spell save DC 16):
+At will: dancing lights, mage hand, message, prestidigitation
+2/day each: dispel magic, lightning bolt, mage armor
+1/day each: arcane lock, banishment, globe of invulnerability, in­
+visibility, wall of force
+Reactions
+Arcane Ward (Recharge 4-6). When the abjurer or a creature it
+can see within 30 feet of it takes damage, the abjurer magically
+creates a protective barrier around itself or the other creature.
+The barrier reduces the damage to the protected creature by 26
+(4dl0 + 4), to a minimum ofO, and then vanishes.
+260 CHAPTER 2 | BESTIARY
+--col--
+Conjurer Wizard
+Medium Humanoid, Any Alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 58 (13d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9(-l) 14 (+2) 11 (+0) 17 (+3) 12 (+1) 11 (+0)
+Saving Throws Int +6, Wis +4
+Skills Arcana +6, History +6
+Senses passive Perception 11
+Languages any four languages
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+Actions
+Multiattack. The conjurer makes three Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +6 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 19 (3dl0 + 3) force damage.
+Spellcasting. The conjurer casts one of the following spells, us­
+ing Intelligence as the spellcasting ability (spell save DC 14):
+At will: dancing lights, mage hand, prestidigitation
+2/day each: f reball, mage armor, unseen servant
+1/day each: fly, stinking cloud, web
+Bonus Actions
+Benign Transportation (Recharge 4-6). The conjurer teleports,
+along with any equipment it is wearing or carrying, up to 30 feet
+to an unoccupied space that it can see. If it instead chooses a
+space within range that is occupied by a willing Small or Me­
+dium creature, they both teleport, swapping places.
+Summon Elemental (1/Day). The conjurer magically summons
+an air elemental, an earth elemental, a fire elemental, or a water
+elemental (all appear in the Monster Manual). The elemental
+appears in an unoccupied space within 60 feet of the conjurer,
+whom it obeys. It takes its turn immediately after the conjurer.
+It lasts for 1 hour, until it or the conjurer dies, or until the con­
+jurer dismisses it as a bonus action.
+...................... . . ■- 1 -
+
+=== PAGE 261 ===
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 11 (+0) 18 (+4) 12 (+1) 11 (+0)
+Saving Throws I nt +7, Wis +4
+Skills Arcana +7, History +7
+Senses passive Perception 11
+Languages any four languages
+Challenges (3,900 XP) Proficiency Bonus +3
+Actions
+Multiattack. The diviner makes three Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +7 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 20 (3dl0 + 4) radiant damage.
+Overwhelming Revelation (Recharge 5-6). The diviner magi­
+cally creates a burst of illumination in a 10-foot-radius sphere
+centered on a point within 120 feet of it. Each creature in that
+area must make a DC 15 Wisdom saving throw. On a failed
+save, a creature takes 45 (10d8) psychic damage and is stunned
+until the end of the diviner’s next turn. On a successful save,
+the creature takes half as much damage and isn't stunned.
+Spellcasting. The diviner casts one of the following spells, us­
+ing Intelligence as the spellcasting ability (spell save DC 15):
+At will: light, mage hand, message, prestidigitation
+2/day each: arcane eye, detect magic, detect thoughts, fly, light­
+ning bolt, locate object, mage armor, Rary’s telepathic bond
+1/day: true seeing
+Reactions
+Portent (3/Day). When the diviner or a creature it can see
+makes an attack roll, a saving throw, or an ability check, the di­
+viner rolls a d20 and chooses whether to use that roll in place of
+the d20 rolled for the attack roll, saving throw, or ability check.
+--col--
+Medium Humanoid, Any Alignment
+Armor Class 12(15 with mage armor)
+Hit Points 49 (lld8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9(-l) 14 (+2) 11 (+0) 17 (+3) 12 (+1) 11 (+0)
+Saving Throws I nt +6, Wis +4
+Skills Arcana +6, History +6
+Senses passive Perception 11
+Languages any four languages
+Challenge 5 (1,800 XP) Proficiency Bonus +3
+Actions
+Multiattack. The enchanter makes three Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +6 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 19 (3dl0 + 3) psychic damage.
+Spellcasting. The enchanter casts one of the following spells,
+using Intelligence as the spellcasting ability (spell save DC 14):
+At wi\\: friends, mage hand, message
+2/day each: charm person, mage armor, hold person, invisibility,
+suggestion, tongues
+Reactions
+Instinctive Charm (Recharge 4-6). When a visible creature
+within 30 feet of the enchanter makes an attack roll against it,
+the enchanter forces the attacker to make a DC 14 Wisdom sav­
+ing throw. On a failed save, the attacker redirects the attack roll
+to the creature closest to it, other than the enchanter or itself.
+If multiple eligible creatures are closest, the attacker chooses
+which one to target.
+CHAPTER 2 | BESTIARY 26l
+
+=== PAGE 262 ===
+Evoker Wizard
+Medium Humanoid, Any Alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 121 (22d8 + 22)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 12 (+1) 17 (+3) 12 (+1) 11 (+0)
+Saving Throws I nt +7, Wis +5
+Skills Arcana +7, History +7
+Senses passive Perception 11
+Languages any four languages
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+262 CHAPTER 2 | BESTIARY
+--col--
+Actions
+Multiattack. The evoker makes three Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +7 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 25 (4dl0 + 3) force damage.
+Sculpted Explosion (Recharge 4-6). The evoker unleashes a
+magical explosion of a particular damage type: cold, fire, light­
+ning, or thunder. The magic erupts in a 20-foot-radius sphere
+centered on a point within 150 feet of the evoker. Each creature
+in that area must make a DC 15 Dexterity saving throw. The
+evoker can select up to three creatures it can see in the area to
+ignore the spell, as the evoker sculpts the spell’s energy around
+them. On a failed save, a creature takes 40 (9d8) damage of
+the chosen type and is knocked prone. On a successful save, a
+creature takes half as much damage and isn’t knocked prone.
+Spellcasting. The evoker casts one of the following spells, using
+Intelligence as the spellcasting ability (spell save DC 15):
+At will: light, mage hand, message, prestidigitation
+2/day each: ice storm, lightning bolt, mage armor
+1/day: wall of ice
+-------1 , ....................................................—.........................................................................................................
+
+=== PAGE 263 ===
+Illusionist Wizard
+Medium Humanoid, Any Alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 14 (+2) 13 (+1) 16 (+3) 11 (+0) 12 (+1)
+Saving Throws Int +5, Wis +2
+Skills Arcana +5, History +5
+Senses passive Perception 10
+Languages any four languages
+Challenge 3 (700 XP) Proficiency Bonus +2
+--col--
+Actions
+Multiattack. The illusionist makes two Arcane Burst attacks.
+Arcane Burst. Melee or Ranged Spell Attack: +5 to hit, reach 5 ft.
+or range 120 ft., one target. Hit: 14 (2dl 0 + 3) psychic damage.
+Spellcasting. The illusionist casts one of the following spells,
+using Intelligence as the spellcasting ability (spell save DC 13):
+At will: dancing lights, mage hand, minor illusion
+2/day each: disguise self, invisibility, mage armor, major image,
+phantasmal force, phantom steed
+Bonus Actions
+Displacement (Recharge 5-6). The illusionist projects an illu­
+sion that makes the illusionist appear to be standing in a place
+a few inches from its actual location, causing any creature to
+have disadvantage on attack rolls against the illusionist. The
+effect lasts for 1 minute, and it ends early if the illusionist takes

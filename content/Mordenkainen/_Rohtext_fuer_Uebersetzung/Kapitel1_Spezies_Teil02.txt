@@ -1,0 +1,500 @@
+Flight. Because of your wings, you have a fly­
+ing speed equal to your walking speed. You can’t
+use this flying speed if you’re wearing medium or
+heavy armor.
+Talons. You have talons that you can use to make
+unarmed strikes. When you hit with them, the strike
+deals ld6 + your Strength modifier slashing dam­
+age, instead of the bludgeoning damage normal for
+an unarmed strike.
+Wind Caller. Starting at 3rd level, you can cast
+the gust of wind spell with this trait, without requir­
+ing a material component. Once you cast the spell
+with this trait, you can’t do so again until you finish
+a long rest. You can also cast the spell using any
+spell slots you have of 2nd level or higher.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for it when you cast gust of wind with
+this trait (choose when you select this race).
+
+=== PAGE 7 ===
+Aasimar
+Whether descended from a celestial being or in­
+fused with heavenly power, aasimar are mortals
+who carry a spark of the Upper Planes within their
+souls. They can fan that spark to bring light, ease
+wounds, and unleash the fury of the heavens.
+Aasimar can arise among any population of mor­
+tals. They resemble their parents, but they live for
+up to 160 years and often have features that hint at
+their celestial heritage. These often begin subtle and
+become more obvious when the aasimar gains the
+ability to reveal their full celestial nature. The Aasi­
+mar Celestial Features table has examples you can
+choose or use as inspiration to create your own.
+Aasimar Celestial Features
+d6 Celestial Feature
+1 A dusting of metallic, white, or charcoal freckles
+2 Metallic, luminous, or dark eyes
+3 Starkly colored hair
+4 An unusual hue tinting your shadow
+5 A ghostly halo crowning your head
+6 Rainbows gleaming on your skin
+Aasimar Traits
+As an aasimar, you have the following racial traits.
+Creature Type. You are a Humanoid.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Celestial Resistance. You have resistance to
+necrotic damage and radiant damage.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Healing Hands. As an action, you can touch a
+creature and roll a number of d4s equal to your
+proficiency bonus. The creature regains a number
+of hit points equal to the total rolled. Once you use
+this trait, you can’t use it again until you finish a
+long rest.
+Light Bearer. You know the light cantrip. Cha­
+risma is your spellcasting ability for it.
+Celestial Revelation. When you reach 3rd level,
+choose one of the revelation options below. There­
+after, you can use a bonus action to unleash the
+celestial energy within yourself, gaining the benefits
+of that revelation. Your transformation lasts for 1
+minute or until you end it as a bonus action. Once
+you transform using your revelation below, you can’t
+use it again until you finish a long rest:
+Necrotic Shroud. Your eyes briefly become pools
+of darkness, and ghostly, flightless wings sprout
+from your back temporarily. Creatures other than
+--col--
+your allies within 10 feet of you that can see you
+must succeed on a Charisma saving throw (DC 8
++ your proficiency bonus + your Charisma mod­
+ifier) or become frightened of you until the end
+of your next turn. Until the transformation ends,
+once on each of your turns, you can deal extra
+necrotic damage to one target when you deal dam­
+age to it with an attack or a spell. The extra dam­
+age equals your proficiency bonus.
+Radiant Consumption. Searing light temporarily
+radiates from your eyes and mouth. For the dura­
+tion, you shed bright light in a 10-foot radius and
+dim light for an additional 10 feet, and at the end
+of each of your turns, each creature within 10 feet
+of you takes radiant damage equal to your profi­
+ciency bonus. Until the transformation ends, once
+on each of your turns, you can deal extra radiant
+damage to one target when you deal damage to it
+with an attack or a spell. The extra damage equals
+your proficiency bonus.
+Radiant Soul. Two luminous, spectral wings sprout
+from your back temporarily. Until the transfor­
+mation ends, you have a flying speed equal to
+your walking speed, and once on each of your
+turns, you can deal extra radiant damage to one
+target when you deal damage to it with an attack
+or a spell. The extra damage equals your profi­
+ciency bonus.
+CHAPTER 1 | FANTASTICAL RACES
+
+=== PAGE 8 ===
+Bugbear
+Neither bugs nor bears, bugbears are the hulking
+cousins of goblins and hobgoblins. With roots in the
+Feywild, early bugbears resided in hidden places, in
+hard-to-reach and shadowed spaces. Long ago and
+from out of the corner of your eye, they came to the
+Material Plane, urged to spread throughout the mul­
+tiverse by the conquering god Maglubiyet. Centuries
+later, they still bear a fey gift for lurking just out of
+sight, and many of them have sneaked away from
+that god’s influence.
+They are long of limb and covered in coarse hair,
+with wedge-shaped ears and pointed teeth. Despite
+their formidable build, bugbears are quiet skulkers,
+thanks to a fey magic that allows them to hide in
+spaces seemingly too small for them.
+Bugbear Traits
+As a bugbear, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered a goblinoid for any prerequisite or effect
+that requires you to be a goblinoid.
+Size. Your size is Medium.
+8 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+Long-Limbed. When you make a melee attack
+on your turn, your reach for it is 5 feet greater
+than normal.
+Powerful Build. You count as one size larger
+when determining your carrying capacity and the
+weight you can push, drag, or lift.
+Sneaky. You are proficient in the Stealth skill.
+In addition, without squeezing, you can move
+through and stop in a space large enough for a
+Small creature.
+Surprise Attack. If you hit a creature with an at­
+tack roll, the creature takes an extra 2d6 damage if
+it hasn’t taken a turn yet in the current combat.
+
+=== PAGE 9 ===
+Centaur
+Centaurs gallop throughout the multiverse and trace
+their origins to many different realms. The centaurs
+presented here hail from the Feywild and mystically
+resonate with the natural world. From the waist up,
+they resemble elves, displaying all the elf varieties of
+skin tone. From the waist down, they have the bod­
+ies of horses.
+Centaur Traits
+As a centaur, you have the following racial traits.
+Creature Type. You are a Fey.
+Size. Your size is Medium.
+Speed. Your walking speed is 40 feet.
+Charge. If you move at least 30 feet straight to­
+ward a target and then hit it with a melee weapon
+attack on the same turn, you can immediately follow
+that attack with a bonus action, making one attack
+against the target with your hooves.
+--col--
+Equine Build. You count as one size larger when
+determining your carrying capacity and the weight
+you can push or drag.
+In addition, any climb that requires hands and feet
+is especially difficult for you because of your equine
+legs. When you make such a climb, each foot of
+movement costs you 4 extra feet instead of the nor­
+mal 1 extra foot.
+Hooves. You have hooves that you can use to
+make unarmed strikes. When you hit with them, the
+strike deals ld6 + your Strength modifier bludgeon­
+ing damage, instead of the bludgeoning damage nor­
+mal for an unarmed strike.
+Natural Affinity. Your fey connection to nature
+gives you an intuitive connection to the natural
+world and the animals within it. You therefore
+have proficiency in one of the following skills of
+your choice: Animal Handling, Medicine, Nature,
+or Survival.
+CHAPTER 1 I FANTASTICAL RACES
+
+=== PAGE 10 ===
+Changeling
+With ever-changing appearances, changelings re­
+side in many societies undetected. Each changeling
+can supernaturally adopt any face they like. For
+some changelings, a new face is only a disguise. For
+other changelings, a new face may reveal an aspect
+of their soul.
+The first changelings in the multiverse appeared
+in the Feywild, and the wondrous, mutable essence
+of that plane lingers in changelings today—even in
+those changelings who have never set foot in the fey
+realm. Each changeling decides how to use their
+shape-shifting ability, channeling either the peril or
+the joy of the Feywild. Sometimes they adopt new
+forms for the sake of mischief or malice, and other
+times they don a new identity to right wrongs or de­
+light the downtrodden.
+io CHAPTER 1 | FANTASTICAL RACES
+--col--
+In their true form, changelings appear faded, their
+features almost devoid of detail. It is rare to see a
+changeling in that form, for a typical changeling
+changes their shape the way others might change
+clothes. A casual shape—one created on the spur
+of the moment, with no depth or history—is called
+a mask. A mask can be used to express a mood or
+to serve a specific purpose and then might never
+be used again. However, many changelings develop
+identities that have more depth, crafting whole per­
+sonas complete with histories and beliefs. A change­
+ling adventurer might have personas for many
+situations, including negotiation, investigation,
+and combat.
+Personas can be shared by multiple change­
+lings; a community might be home to three healer
+changelings, with whoever is on duty adopting the
+persona of Andrea, the gentle physician. Personas
+can even be passed down through a family, allowing
+a younger changeling to take advantage of contacts
+established by the persona’s previous users.
+Changeling Traits
+As a changeling, you have the following racial traits.
+Creature Type. You are a Fey.
+Size. You are Medium or Small. You choose the
+size when you select this race.
+Speed. Your walking speed is 30 feet.
+Changeling Instincts. Thanks to your connection
+to the fey realm, you gain proficiency with two of the
+following skills of your choice: Deception, Insight,
+Intimidation, Performance, or Persuasion.
+Shapechanger. As an action, you can change your
+appearance and your voice. You determine the spe­
+cifics of the changes, including your coloration, hair
+length, and sex. You can also adjust your height and
+weight and can change your size between Medium
+and Small. You can make yourself appear as a mem­
+ber of another race, though none of your game sta­
+tistics change. You can’t duplicate the appearance
+of an individual you’ve never seen, and you must
+adopt a form that has the same basic arrangement
+of limbs that you have. Your clothing and equipment
+aren’t changed by this trait.
+You stay in the new form until you use an action to
+revert to your true form or until you die.
+
+=== PAGE 11 ===
+Deep Gnome
+Deep gnomes, or svirfneblin, are natives of the Un­
+derdark and are suffused with that subterranean
+realm’s magic. They can supernaturally camouflage
+themselves, and their svirfneblin magic renders
+them difficult to locate. These abilities have enabled
+them to survive for generations among the perils of
+the Underdark.
+Like other gnomes, deep gnomes can live for cen­
+turies, up to 500 years.
+Deep Gnome Traits
+As a deep gnome, you have the following ra­
+cial traits.
+Creature Type. You are a Humanoid. You are also
+considered a gnome for any prerequisite or effect
+that requires you to be a gnome.
+Size. You are Small.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 120
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+--col--
+Gift of the Svirfneblin. Starting at 3rd level, you
+can cast the disguise self spell with this trait. Start­
+ing at 5th level, you can also cast the nondetection
+spell with it, without requiring a material compo­
+nent. Once you cast either of these spells with this
+trait, you can’t cast that spell with it again until you
+finish a long rest. You can also cast these spells us­
+ing spell slots you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Gnomish Magic Resistance. You have advantage
+on Intelligence, Wisdom, and Charisma saving
+throws against spells.
+Svirfneblin Camouflage. When you make a Dex­
+terity (Stealth) check, you can make the check with
+advantage. You can use this trait a number of times
+equal to your proficiency bonus, and you regain all
+expended uses when you finish a long rest.
+CHAPTER 1 | FANTASTICAL RACES II
+
+=== PAGE 12 ===
+Duergar
+Duergar are dwarves whose ancestors were trans­
+formed by centuries living in the deepest places of
+the Underdark. That chthonic realm is saturated
+with strange magical energy, and over generations,
+early duergar absorbed traces of it. They were fur­
+ther altered when mind flayers and other Aberra­
+tions invaded and performed horrific experiments
+on them. Fueled by Underdark magic, those experi­
+ments left early duergar with psionic powers, which
+have been passed down to their descendants. In
+time, they liberated themselves from their aberrant
+tyrants and forged a new life for themselves in the
+Underdark and beyond.
+Like other dwarves, duergar typically have a life
+span of 350 years.
+Duergar Traits
+As a duergar, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered a dwarf for any prerequisite or effect that
+requires you to be a dwarf.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+12 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Darkvision. You can see in dim light within 120
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Duergar Magic. Starting at 3rd level, you can cast
+the enlarge/reduce spell on yourself with this trait,
+without requiring a material component. Starting at
+5th level, you can also cast the invisibility spell on
+yourself with this trait, without requiring a material
+component. Once you cast either of these spells with
+this trait, you can’t cast that spell with it again until
+you finish a long rest. You can also cast these spells
+using spell slots you have of the appropriate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Dwarven Resilience. You have advantage on sav­
+ing throws you make to avoid or end the poisoned
+condition on yourself. You also have resistance to
+poison damage.
+Psionic Fortitude. You have advantage on saving
+throws you make to avoid or end the charmed or
+stunned condition on yourself.
+KYZUW
+ANNAZUZ
+,YELDARB
+REHPOTSIRHC
+
+=== PAGE 13 ===
+Eladrin
+Eladrin are elves of the Feywild, a realm of perilous
+beauty and boundless magic. Using that magic,
+eladrin can step from one place to another in the
+blink of an eye, and each eladrin resonates with
+emotions captured in the Feywild in the form of
+seasons—affinities that affect the eladrin’s mood
+and appearance. An eladrin’s season can change,
+though some remain in one season forever. Choose
+your season or roll on the Eladrin Seasons table.
+Your Trance trait lets you change your season.
+Like other elves, eladrin can live to be over 750
+years old.
+Eladrin Seasons
+d4 Season
+1 Autumn: peace and goodwill, when summer’s har­
+vest is shared with all
+2 Winter: contemplation and dolor, when the vibrant
+energy of the world slumbers
+3 Spring: cheerfulness and celebration, marked by
+merriment and hope as winter’s sorrow passes
+4 Summer: boldness and aggression, a time of un­
+fettered energy and calls to action
+Eladrin Traits
+As an eladrin, you have the following racial traits.
+Creature Type. You are a Humanoid. You are also
+considered an elf for any prerequisite or effect that
+requires you to be an elf.
+Size. You are Medium.
+Speed. Your walking speed is 30 feet.
+Darkvision. You can see in dim light within 60
+feet of you as if it were bright light and in darkness
+as if it were dim light. You discern colors in that
+darkness only as shades of gray.
+Fey Ancestry. You have advantage on saving
+throws you make to avoid or end the charmed condi­
+tion on yourself.
+Fey Step. As a bonus action, you can magically
+teleport up to 30 feet to an unoccupied space you
+can see. You can use this trait a number of times
+equal to your proficiency bonus, and you regain all
+expended uses when you finish a long rest.
+When you reach 3rd level, your Fey Step gains an
+additional effect based on your season; if the effect
+requires a saving throw, the DC equals 8 + your pro­
+ficiency bonus + your Intelligence, Wisdom, or Cha­
+risma modifier (choose when you select this race):
+Autumn. Immediately after you use your Fey Step,
+up to two creatures of your choice that you can see
+within 10 feet of you must succeed on a Wisdom
+saving throw or be charmed by you for 1 minute,
+or until you or your companions deal any damage
+to the creatures.
+--col--
+Winter. When you use your Fey Step, one creature
+of your choice that you can see within 5 feet of you
+before you teleport must succeed on a Wisdom
+saving throw or be frightened of you until the end
+of your next turn.
+Spring. When you use your Fey Step, you can touch
+one willing creature within 5 feet of you. That
+creature then teleports instead of you, appearing
+in an unoccupied space of your choice that you
+can see within 30 feet of you.
+Summer. Immediately after you use your Fey Step,
+each creature of your choice that you can see
+within 5 feet of you takes fire damage equal to
+your proficiency bonus.
+Keen Senses. You have proficiency in the Percep­
+tion skill.
+Trance. You don’t need to sleep, and magic can’t
+put you to sleep. You can finish a long rest in 4
+hours if you spend those hours in a trancelike medi­
+tation, during which you retain consciousness.
+Whenever you finish this trance, you can change
+your season, and you can gain two proficiencies that
+you don’t have, each one with a weapon or a tool of
+your choice selected from the Player’s Handbook.
+You mystically acquire these proficiencies by draw­
+ing them from shared elven memory, and you retain
+them until you finish your next long rest.
+CHAPTER 1 | FANTASTICAL RACES 13
+
+=== PAGE 14 ===
+14 CHAPTER 1 | FANTASTICAL RACES
+--col--
+Fairy
+The Feywild is home to many fantastic peoples,
+including fairies. Fairies are a wee folk, but not
+nearly as much so as their pixie and sprite friends.
+The first fairies spoke Elvish, Goblin, or Sylvan, and
+encounters with human visitors prompted many of
+them to learn Common as well.
+Infused with the magic of the Feywild, most fair­
+ies look like Small elves with insectile wings, but
+each fairy has a special physical characteristic that
+sets the fairy apart. For your fairy, roll on the Fey
+Characteristics table or choose an option from it.
+You’re also free to come up with your own char­
+acteristic if none of the suggestions below fit your
+character.
+Fey Characteristics
+d8 Characteristic
+1 Your wings are like those of a bird.
+2 You have shimmering, multicolored skin.
+3 You have exceptionally large ears.
+4 A glittering mist constantly surrounds you.
+5 You have a small spectral horn on your forehead,
+like a little unicorn horn.
+6 Your legs are insectile.
+7 You smell like fresh brownies.
+8 A noticeable, harmless chill surrounds you.
+Fairy Traits
+As a fairy, you have the following racial traits.
+Creature Type. You are a Fey.
+Size. You are Small.
+Speed. Your walking speed is 30 feet.
+Fairy Magic. You know the druidcraft cantrip.
+Starting at 3rd level, you can cast the faerie fire
+spell with this trait. Starting at 5th level, you can
+also cast the enlarge/reduce spell with this trait.
+Once you cast faerie fire or enlarge/reduce with this
+trait, you can’t cast that spell with it again until you
+finish a long rest. You can also cast either of those
+spells using any spell slots you have of the appro­
+priate level.
+Intelligence, Wisdom, or Charisma is your spell­
+casting ability for these spells when you cast them
+with this trait (choose when you select this race).
+Flight. Because of your wings, you have a fly­
+ing speed equal to your walking speed. You can’t
+use this flying speed if you’re wearing medium or
+heavy armor.
+
+=== PAGE 15 ===
+Firbolg
+Distant cousins of giants, the first firbolgs wandered
+the primeval forests of the multiverse, and the
+magic of those forests entwined itself with the fir­
+bolgs’ souls. Centuries later, that magic still thrums
+inside a firbolg, even one who has never lived under
+the boughs of a great forest.

@@ -1,0 +1,600 @@
+CHAPTER 6 I BESTIARY 159
+=== PAGE 161 ===
+components, naming any person, place, or object
+Imprisoning Force. The dragon casts the forcecage
+within 1 mile of the lair as the spell's subject.
+spell, using its spell save DC and requiring no
+Crystal Profusion. Amethyst crystals and geodes
+spell components. The spell ends early if the
+form along muddy shores and lake beds within 6
+dragon uses this lair action again or dies.
+Spatial Projection. The dragon chooses a space miles of the lair.
+it can fit into within the lair. It exists in its own Thriving Wildlife. Fish and other aquatic Beasts
+reproduce rapidly and thrive in bodies of water
+space and the chosen space simultaneously until
+within 6 miles of the lair. Foraging in these waters
+initiative count 20 on the next round. Whenever it
+yields twice the usual amount of food.
+moves or takes an action, it chooses which version
+Watery Sight. Water within 6 miles of the lair is a
+of itself is moving or acting. If an effect or attack
+conduit for the dragon's psionic presence. As an
+can target both of the dragon's spaces at the same
+action, the dragon can cast the clairvoyance spell,
+time, the dragon is affected only once.
+requiring no spell components and targeting any
+REGIONAL EFFECTS body of water in that region.
+The region surrounding a legendary amethyst drag
+If the dragon dies, the populations of aquatic life
+on's lair is altered by the dragon's magic, creating
+near the lair return to normal levels over the course
+one or more of the following effects:
+of ldlO days. The existing abundance of amethysts
+Background Check. Once per day, the dragon remains, but new crystals and geodes form at a
+can cast the legend lore spell, requiring no spell normal rate.
+ANCIENT AMETHYST DRAGON creature takes 63 (14d8) force damage, and its speed becomes
+0 until the start of the dragon's next turn. On a successful
+Gargantuan Dragon (Gem), Typically Neutral
+save, the creature takes half as much damage, and its speed
+isn't reduced.
+Armor Class 20 (natural armor)
+Hit Points 444 (24d20 + 192) Spellcasting (Psionics). The dragon casts one of the following
+Speed 40 ft., fly 80 ft. (hover), swim 40 ft. spells, requiring no spell components and using Intelligence
+as the spellcasting ability (spell save DC 23, +15 to hit with
+STR DEX CON INT WIS CHA spell attacks):
+26 (+8) 14 (+2) 27 (+8) 26 (+8) 19 (+4) 23 (+6)
+1/day each: blink, control water, dispel magic.freedom of move
+ment, globe ofi nvulnerability, plane shift, protection from evil
+Saving Throws Dex +9, Con + 15, Wis +1 1, Cha + 13
+and good, sending
+Skills Arcana +22, Perception +18, Persuasion +13, Stealth +9
+Damage Resistances force, psychic
+BONUS ACTIONS
+Condition Immunities frightened, prone ~~• •• ,d w· ~- :
+Senses blindsight 60 ft., darkvision 120 ft., • · ,-- c ..,,.. ,' _ Change Shape. The dragon magically transforms into any crea
+passive Perception 28 ture that is Medium or Small, while retaining its game statistics
+Languages Common, Draconic, telepathy 120 ft. (other than its size). This transformation ends if the dragon is
+Challenge 23 (50,000 XP) Proficiency Bonus +7 reduced to O hit points or uses a bonus action to end it.
+Psychic Step. The dragon magically teleports to an unoccupied
+Amphibious. The dragon can breathe both air and water.
+space it can see within 60 feet of it.
+Legendary Resistance (3/Day). If the dragon fails a saving
+throw, it can choose to succeed instead. LEGENDARY ACTIONS
+The dragon can take 3 legendary actions, choosing from the
+ACTIONS
+options below. Only one legendary action option can be used
+Multiattack. The dragon makes one Bite attack and two at a time and only at the end of another creature's turn. The
+Claw attacks. dragon regains spent legendary actions at the start of its turn.
+Bite. Melee Weapon Attack: + 15 to hit, reach 15 ft., one target. Claw. The dragon makes one Claw attack.
+Hit: 19 (2dl0 + 8) piercing damage plus 13 (3d8) force damage. Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Spellcasting.
+Claw. Melee Weapon Attack:+1 5 to hit, reach 10 ft., one target.
+Explosive Crystal (Costs 3 Actions). The dragon spits an ame
+Hit: 15 (2d6 + 8) slashing damage. thyst that explodes at a point it can see within 60 feet of it.
+Singularity Breath (Recharge 5-6). The dragon creates a Each creature within a 20-foot-radius sphere centered on that
+shining bead of gravitational force in its mouth, then releases point must succeed on a DC 23 Dexterity saving throw or
+take 18 (4d8) force damage and be knocked prone.
+the energy in a 90-foot cone. Each creature in that area must
+make a DC 23 Strength saving throw. On a failed save, the
+160 CHAPTER 6 I BESTIARY
+I
+=== PAGE 162 ===
+ADULT AMETHYST DRAGON the energy in a 60-foot cone. Each creature in that area must
+make a DC 20 Strength saving throw. On a failed save, the
+Huge Dragon (Gem), Typically Neutral
+creature takes 45 (10d8) force damage, and its speed becomes
+0 until the start of the dragon's next turn. On a successful
+Armor Class 19 (natural armor)
+save, the creature takes half as much damage, and its speed
+Hit Points 229 (17dl2 + 119)
+isn't reduced.
+Speed 40 ft., fly 80 ft. (hover), swim 40 ft.
+Spellcasting (Psionics). The dragon casts one of the following
+STR DEX CON INT WIS CHA spells, requiring no spell components and using Intelligence as
+25 (+7) 14 (+2) 25 (+7) 20 (+5) 17 (+3) 21 (+5) the spellcasting ability (spell save DC 18):
+1/day each: blink, control water, dispel magic, protection from evil
+Saving Throws Dex +7, Con +12, Wis +8, Cha +10
+and good, sending
+Skills Arcana +15, Perception +13, Persuasion +10, Stealth +7
+Damage Resistances force, psychic
+BONUS ACTIONS
+Condition Immunities frightened, prone
+Senses blindsight 60 ft., darkvision 120 ft., Change Shape. The dragon magically transforms into any crea
+passive Perception 23 ture that is Medium or Small, while retaining its game statistics
+Languages Common, Draconic, telepathy 120 ft. (other than its size). This transformation ends if the dragon is
+Challenge 16 (15,000 XP) Proficiency Bonus +5 reduced to O hit points or uses a bonus action to end it.
+Psychic Step. The dragon magically teleports to an unoccupied
+Amphibious. The dragon can breathe both air and water.
+space it can see within 60 feet of it. ..
+Legendary Resistance (3/Day). If the dragon fails a saving
+throw, it can choose to succeed instead. LEGENDARY ACTIONS
+The dragon can take 3 legendary actions, choosing from the
+ACTIONS
+options below. Only one legendary action option can be used
+Multiattack. The dragon makes one Bite attack and two at a time and only at the end of another creature's turn. The
+Claw attacks. dragon regains spent legendary actions at the start of its turn.
+Bite. Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Claw. The dragon makes one Claw attack.
+Hit: 18 (2dl0 + 7) piercing damage plus 9 (2d8) force damage. Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Spellcasting.
+Claw. Melee Weapon Attack: +12 to hit, reach 10 ft., one target.
+Explosive Crystal (Costs 3 Actions). The dragon spits an ame
+Hit: 11 (ld8 + 7) slashing damage.
+thyst that explodes at a point it can see within 60 feet of it.
+Singularity Breath (Recharge 5-6). The dragon creates a Each creature within a 20-foot-radius sphere centered on that
+shining bead of gravitational force in its mouth, then releases point must succeed on a DC 20 Dexterity saving throw or
+take 13 (3d8) force damage and be knocked prone.
+YOUNG AMETHYST DRAGON ACTIONS
+Large Dragon (Gem), Typically Neutral Multiattack. The dragon makes one Bite attack and two
+Claw attacks.
+Armor Class 18 (natural armor)
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one target.
+Hit Points 168 (16dl0 + 80)
+Hit: 16 (2dl0 + 5) piercing damage plus 4 (ld8) force damage.
+Speed 40 ft., fly 80 ft. (hover), swim 40 ft.
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+STR DEX CON INT WIS CHA Hit: 9 (ld8 + 5) slashing damage.
+21 (+5) 12 (+l) 21 (+5) 18 (+4) 15 (+2) 19 (+4)
+Singularity Breath (Recharge 5-6). The dragon creates a shin
+ing bead of gravitational force in its mouth, then releases the
+Saving Throws Dex +5, Con +9, Wis +6, Cha +8
+energy in a 30-foot cone. Each creature in that area must make
+Skills Arcana +12, Perception +10, Persuasion +8, Stealth +5
+a DC 17 Strength saving throw. On a failed save, the creature
+Damage Resistances force, psychic
+Condition Immunities frightened, prone takes 36 (8d8) force damage, and its speed becomes O until the
+Senses blindsight 30 ft., darkvision 120 ft., start of the dragon's next turn. On a successful save, the crea
+passive Perception 20 ture takes half as much damage, and its speed isn't reduced.
+Languages Common, Draconic, telepathy 120 ft. Spellcasting (Psionics). The dragon casts one of the following
+Challenge 9 (5,000 XP) Proficiency Bonus +4
+spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 16):
+Amphibious. The dragon can breathe both air and water.
+1/day each: blink, dispel magic, protection from evil and
+good, sending
+CHAPTER 6 I BESTIARY 161
+=== PAGE 163 ===
+Whie-h e--ame- f V~'G -the- tym ov fhe
+dvas:on? Not a viddle-, ae--fva/1~-it vva~
+-the- dvas:on.
+AMETHYST DRAGON WYRMLING Amphibious. The dragon can breathe both air and water.
+Medium Dragon (Gem), Typically Neutral
+ACTIONS
+Armor Class 17 (natural armor) Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit Points 75 (10d8 + 30) Hit: 9 (ldl0 + 4) piercing damage plus 4 (ld8) force damage.
+Speed 30 ft., fly 60 ft. (hover), swim 30 ft. Singularity Breath (Recharge 5-6). The dragon creates a shin
+ing bead of gravitational force in its mouth, then releases the
+STR DEX CON INT WIS CHA
+energy in a 15-foot cone. Each creature in that area must make
+19 (+4) 10 (+0) 17 (+3) 16 (+3) 13 (+l) 17 (+3)
+a DC 13 Strength saving throw. On a failed save, the creature
+takes 22 (Sd8) force damage, and its speed becomes 0 until the
+Saving Throws Dex +2, Con +5, Wis +3, Cha +5
+start of the dragon's next turn. On a successful save, the crea
+Skills Arcana +7, Perception +S, Persuasion +S, Stealth +2
+ture takes half as much damage, and its speed isn't reduced.
+Damage Resistances force, psychic
+Condition Immunities frightened, prone Spellcasting (Psionics). The dragon casts one of the following
+:
+Senses blindsight 10 ft., darkvision 120 ft., spells, requiring no spell components and using Intelligence as
+:;
+passive Perception 15 the spellcasting ability (spell save DC 13):
+Languages Draconic, telepathy 120 ft.
+1/day each: protection from evil and good, Tenser'sfloating disk,
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+unseen servant
+..,
+162 CHAPTER 6 I BESTIARY
+=== PAGE 164 ===
+/
+ANIMATED BREATH
+A chromatic dragon's breath weapon is a manifesta
+tion of the energy that suffuses the dragon. With suf
+ficient practice, dragons can learn to draw on magic
+from the Elemental Planes to shape their breath
+weapons into bipedal form, creating Elemental crea dragon's is similar to a water elemental, but viscous
+tures called animated breaths. Chromatic dragons and foul-looking. A green dragon's animated poison
+often use these creatures as guardians for their breath looks like billowing clouds of green gas,
+hoards or send them out to gather treasure from the while a white dragon's animated cold breath looks
+territory around their lairs. like a walking ice sculpture with frigid air whirling
+An animated breath is a bipedal creature formed around it. A blue dragon's animated lightning breath
+from the same energy as the breath weapon of is a constantly shifting form of crackling lightning,
+the dragon that created it. A red dragon's creation and it can suddenly vanish from one place to reap
+strongly resembles a fire elemental, while a black pear in another, striking like a bolt from the blue.
+ANIMATED BREATH damage, and flammable objects in the aura that aren't being
+worn or carried ignite. A creature that touches the animated
+Large Elemental, Typically Neutral Evil
+breath or hits it with a melee attack takes 3 (ld6) fire damage.
+Armor Class 15 (natural armor) or 17 (Cold form only) Putrid Aura (Acid and Poison Forms Only). A creature that
+Hit Points 95 (l0dl0 + 40) starts its turn within 5 feet of the animated breath must suc
+Speed 30 ft., fly 30 ft. (hover) ceed on a DC 15 Constitution saving throw or be poisoned until
+the start of its next turn. A creature that touches the animated
+STR DEX CON INT WIS CHA breath or hits it with a melee attack takes 3 (ld6) acid damage.
+19 (+4) 11 (+0) 18 (+4) 6 (-2) 10 (+0) 5 (-3)
+ACTIONS
+Damage Resistances damage of the type matching the
+Multiattack. The animated breath makes two Slam attacks.
+animated breath's form (acid, cold, fire, lightning, or poison)
+Condition Immunities exhaustion, paralyzed, petrified, Slam. Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+poisoned, restrained, unconscious Hit: 13 (2d8 + 4) bludgeoning damage plus 11 (2dl0) damage
+Senses darkvision 60 ft., passive Perception 10 of a type determined by the animated breath's form: acid, cold,
+Languages understands Draconic but can't speak fire, lightning, or poison.
+Challenge 6 (2,300 XP) Proficiency Bonus +3
+BONUS ACTIONS
+Chromatic Form. When created, the animated breath takes one Lightning Burst (Lightning Form Only). The animated breath
+of five forms, matching its creator's breath weapon: Acid, Cold, magically teleports to an unoccupied space it can see within 30
+Fire, Lightning, or Poison. This form determines the creature's feet of it. Each creature with 5 feet of the animated breath after
+AC, damage resistance, traits, and attacks. it teleports takes 3 (ld6) lightning damage.
+Fire Aura (Fire Form Only). At the start of each of the animated
+breath's turns, each creature within 5 feet ofit takes 3 (ld6) fire
+CHAPTER 6 I BESTIARY 163
+=== PAGE 165 ===
+ASPECT OF BAHAMUT
+Known as the Platinum Dragon, Bahamut is the
+patron and progenitor of metallic dragons. Since dragons. Covered in platinum scales, his physical
+fleeing the First World, he has made his home in the features combine various elements of the five kinds
+Seven Heavens of Mount Celestia and is often num of metallic dragons-according to some scholars,
+bered among the gods of that plane. Adventurers combining them in different ways with each man
+and dragons alike pray to Bahamut to uphold honor ifestation of the aspect. But Bahamut is also fond
+and justice, or when they need courage to face a of traveling the Material Plane in disguise, so his
+great threat. In the most dire situations, a powerful aspect might appear as a wizened old sage, a young
+follower of Bahamut who makes a tremendous sac monk, or a songbird. In any form, Bahamut's aspect
+rifice-a vast hoard or even the follower's own life is often accompanied by seven ancient gold dragons
+might convince the god to send aid to the world in who favor disguising themselves as canaries.
+the form of a divine aspect. This aspect is a physical In combat, Bahamut's enemies experience the
+manifestation of the Platinum Dragon, carrying his full force of his justice, while his allies enjoy the full
+memories and will-and a significant portion of his benefit of his mercy. His breath can wreak monu
+formidable strength. mental destruction and work miraculous healing,
+Bahamut's aspect displays the full glory of the and few things in the mortal world can cause him
+Platinum Dragon, towering over even ancient lasting harm.
+164 CHAPTER 6 I BESTIARY
+=== PAGE 166 ===
+Dbe,c,,-tive-1~ c;;pe-akinb of all the- ~V:gn<;,
+Baharv1Vt ha<; rviade- the- be-<;t dU--1<;1on<;.
+lte- ic;; al<;o the- rvio<;t hand<;orvie-. And hie;
+hoav-d ic;; j~nfie,,--e,<;t
+-fizban
+---
+ASPECT OF BAHAMUT Breath Weapon (Recharge 5-6). The aspect uses one of the fol
+lowing breath weapons:
+Gargantuan Dragon (Metallic), Lawful Good
+Exalting Breath. The aspect exhales the restoring winds of
+Armor Class 23 (natural armor) Mount Celestia in a 300-foot cone. Each creature in that area
+Hit Points 585 (30d20 + 270) of the aspect's choice regains 71 (13dl0) hit points, and each
+Speed 60 ft., burrow 60 ft., fly 120 ft., swim 60 ft. creature in that area of the aspect's choice that has been
+dead for no longer than 1 hour is restored to life with all its
+STR DEX CON INT WIS CHA hit points.
+30 (+10) 18 (+4) 29 (+9) 25 (+7) 28 (+9) 30 (+10) Platinum Breath. The aspect exhales radiant platinum flames in
+a 300-foot cone. Each creature in that area must make a DC
+Saving Throws Con +18, Int +16, Wis +18, Cha +19 26 Dexterity saving throw, taking 66 (12dl0) radiant damage
+Skills Insight +18, Perception +18, Persuasion +19 on a failed save, or half as much damage on a successful one.
+Damage Immunities acid, cold, fire, lightning, radiant;
+BONUS ACTIONS
+bludgeoning, piercing, and slashing from nonmagical attacks
+Condition Immunities charmed, deafened, frightened, Change Shape. The aspect magically transforms into any Hu
+paralyzed, stunned manoid or Beast, while retaining his game statistics (other than
+Senses truesight 120 ft., passive Perception 28 his size). This transformation ends if the aspect is reduced to 0
+Languages Common, Draconic hit points or if he uses a bonus action to end it.
+Challenge 30 (155,000 XP) Proficiency Bonus +9
+LEGENDARY ACTIONS
+Platinum Brilliance (Recharges after a Short or Long Rest). If
+The aspect can take 3 legendary actions, choosing from the op
+the aspect would be reduced to O hit points, his current hit
+tions below. Only one legendary action option can be used at a
+point total instead resets to 500 hit points, he recharges his
+time and only at the end of another creature's turn. The aspect
+Breath Weapon, and he regains any expended uses of Legend
+regains spent legendary actions at the start of his turn.
+ary Resistance. Additionally, the aspect can now use the op
+tions in the "Mythic Actions" section for 1 hour. Award a party Attack. The aspect makes one Claw or Tail attack.
+an additional 155,000 XP (310,000 XP total) for defeating the Furious Bite (Costs 2 Actions). The aspect makes one Bite at
+aspect of Bahamut after his Platinum Brilliance activates. tack. If the attack hits a creature, the target must succeed on
+a DC 27 Wisdom saving throw or become frightened of the
+Legendary Resistance (5/Day). If the aspect fails a saving throw, aspect until the end of the target's next turn.
+he can choose to succeed instead.
+MYTHIC ACTIONS
+ACTIONS
+If the aspect's Platinum Brilliance trait has activated in the last
+Multiattack. The aspect makes one Bite attack, one Claw at hour, he can use the options below as legendary actions.
+tack, and one Tail attack.
+i' Celestial Shield (Costs 2 Actions). The aspect manifests seven
+Bite. Melee Weapon Attack: +19 to hit, reach 20 ft., one tar spectral ancient gold dragons around himself that protect
+get. Hit: 23 (2dl2 + 10) piercing damage plus 22 (4dl0) him; he gains 77 temporary hit points until the start of his
+force damage. next turn.
+Celestial Lances (Costs 3 Actions). The aspect conjures four
+Claw. Melee Weapon Attack: +19 to hit, reach 15 ft., one target.
+enormous lances of magical force that plummet to the
+Hit: 21 (2dl0 + 10) slashing damage. If the target is a Huge
+ground at four different points he can see within 150 feet of
+or smaller creature, it is grappled (escape DC 20) and is re
+him and then disappear. Each creature in a 20-foot-radius,
+strained until this grapple ends. The aspect can have only one
+100-foot-high cylinder centered on each point must succeed
+creature grappled this way at a time.
+on a DC 27 Dexterity saving throw or take 24 (7d6) force
+Tail. Melee Weapon Attack: +19 to hit, reach 15 ft., one target. damage. A creature in the area of more than one lance is af
+Hit: 23 (2dl2 + 10) bludgeoning damage. If the target is a crea fected only once.
+ture, it must succeed on a DC 27 Strength saving throw or be
+knocked prone.
+CHAPTER 6 I BESTIARY 165
+=== PAGE 167 ===
+ASPECT OF TIAMAT
+The five-headed progenitor of chromatic dragons, to manifest in the Material Plane. A follower with
+Tiamat embodies the vices of evil dragons. Since enough power and anger, and with a hoard worthy
+the destruction of the First World, she has dwelled of ancient dragons, can sacrifice it all to unleash the
+in the Nine Hells-some say by choice. But others wrath of the dragon queen on a world.
+claim that she is imprisoned there to punish her for The aspect of Tiamat has the body of a titanic
+the evils she perpetrated when the gods sought to dragon with five heads, each the shape and hue of a
+colonize the First World with their followers. different chromatic dragon. Each head might speak
+Mortals who hunger for power and wealth often separately and have different mannerisms, but they
+swear fealty to Tiamat in pursuit of those goals. are all Tiamat. Once unleashed, the aspect of Tia
+Many of her followers have attempted to break her mat rampages across the world, acquiring any trea
+out of Avernus-and failed-but even while she re sure she can find and destroying any creature that
+mains in the Nine Hells, Tiamat can send her aspect dares to cross her path.
+ASPECT OF nAMAT is restrained until this grapple ends. The aspect can have only
+one creature grappled this way at a time.
+Tail. Melee Weapon Attack: +19 to hit, reach 15 ft., one target.
+Armor Class 23 (natural armor) Hit: 23 (2dl2 + 10) bludgeoning damage. If the target is a crea
+Hit Points 574 (28d20 + 280) . ture, it must succeed on a DC 27 Strength saving throw or be
+Speed 60 ft., burrow 60 ft., fly 120 ft., swim 60 ft. ' knocked prone.
+Chromatic Flames (Recharge 5-6). The aspect exhales multi
+STR DEX CON INT WIS CHA
+colored flames in a 300-foot cone. Each creature in that area
+30 (+10) 14 (+2) 30 (+10) 21 (+5) 20 (+5) 26 (+8)
+must make a DC 27 Dexterity saving throw. On a failed save,
+the creature takes 71 (lldl 2) damage of a type of the aspect's
+Saving Throws Dex +11, Con +19, Wis +14, Cha +17
+choosing: acid, cold, fire, lightning, or poison. On a successful
+Skills Intimidation +26, Perception +23
+Damage Immunities acid, cold, fire, lightning, poison; save, the creature takes half as much damage.
+bludgeoning, piercing, and slashing from nonmagical attacks
+LEGENDARY ACTIONS
+Condition Immunities blinded, charmed, deafened, frightened,
+poisoned, stunned The aspect can take 3 legendary actions, choosing from the op
+Senses truesight 120 ft., passive Perception 33 tions below. Only one legendary action option can be used at a
+Languages Common, Draconic, Infernal time and only at the end of another creature's turn. The aspect
+Challenge 30 (155,000 XP) Proficiency Bonus +9 regains spent legendary actions at the start of her turn.
+Attack. The aspect makes one Claw or Tail attack.
+Chromatic Wrath (Recharges after a Short or Long Rest). If the
+Furious Bite (Costs 2 Actions). The aspect makes one Bite at
+aspect would be reduced to O hit points, her current hit point
+tack. If the attack hits a creature, the target must succeed on
+total instead resets to 500 hit points, she recharges her Chro
+a DC 27 Wisdom saving throw or become frightened of the
+matic Flames, and she regains any expended uses of Legendary
+aspect until the end of its next turn.
+Resistance. Additionally, the aspect can now use the options in
+the "Mythic Actions" section for l hour. Award a party an addi MYTHIC ACTIONS
+tional 155,000 XP (310,000 XP total) for defeating the aspect of
+If the aspect's Chromatic Wrath trait has activated in the last
+Tiamat after her Chromatic Wrath activates.
+hour, she can use the options below as legendary actions.
+Legendary Resistance (5/Day). If the aspect fails a saving throw,
+Hurl Through Avernus (Costs 2 Actions). The aspect targets a
+she can choose to succeed instead.
+creature she is grappling. The creature must succeed on a DC
+25 Charisma saving throw or take 44 (8dl0) psychic damage
+ACTIONS
+and be banished to Avernus (the first layer of the Nine Hells).
+Multiattack. The aspect makes one Bite attack, one Claw at At the start of the aspect's next turn, the creature reappears
+tack, and one Tail attack. in an unoccupied space within l O feet of the aspect.
+Chromatic Flare (Costs 3 Actions). The aspect flares with el
+Bite. Melee Weapon Attack: +19 to hit, reach 20 ft., one
+emental energy. Each creature of the aspect's choice in a
+target. Hit: 23 (2dl2 + 10) piercing damage plus 19 (3dl2)
+60-foot-radius sphere centered on her must make a DC 27
+force damage.
+Dexterity saving throw. On a failed save, the creature takes
+Claw. Melee Weapon Attack: +19 to hit, reach 15 ft., one tar 39 (6dl 2) damage of a type chosen by the aspect: acid, cold,
+get. Hit: 21 (2dl0 + 10) slashing damage. If the target is a fire, lightning, or poison. On a successful save, the creature
+Huge or smaller creature, it is grappled (escape DC 20) and takes half as much damage.
+.....
+166 CHAPTER 6 I BESTIARY
+=== PAGE 168 ===
+
+=== PAGE 169 ===
+black greatwyrm Chronepsis, for example, is said
+CHROMATIC GREATWYRM
+to have stalked multiple worlds and devoured many
+The most ancient chromatic dragons, who have sur of his echoes before withdrawing to a planar lair
+vived over twelve hundred years of mortal life and in the Outlands. The red greatwyrm Ashardalon
+acquired vast hoards worth millions of gold pieces, worked with a balor to ritually drain the power of
+can achieve a form of apotheosis, reaching a level of his echoes, then infused their power into himself by
+power approaching that of Tiamat's mighty aspect. implanting the balor where his heart had been.
+The competitive avarice of dragonkind and the inter In both size and power, chromatic greatwyrms
+ference of adventurers prevent most dragons from exceed even ancient dragons. The energy of their
+attaining this level of power. But a chromatic dragon breath weapons courses over their bodies and
+who can outwit all rivals and overcome all poten glows under their scales, and elemental forces rage
+tial thieves can rise to become one of the mightiest around them when they exert their wrath. They no
+of dragons. longer need to eat or drink, as their vast hoards
+Often a chromatic greatwyrm's ascension in magically sustain them. And their power can raze
+volves fusing the power of a single dragon's echoes a city to the ground, destroying buildings and de
+across different worlds of the Material Plane. The fenders alike.
+CHROMATIC GREATWYRM restrained until this grapple ends. The greatwyrm can have only
+one creature grappled this way at a time.
+Gargantuan Dragon (Chromatic), Typically Chaotic Evil
+Tail. Melee Weapon Attack: +18 to hit, reach 20 ft., one target.
+Armor Class 22 (natural armor) Hit: 19 (2d8 + 10) bludgeoning damage. If the target is a crea
+Hit Points 533 (26d20 + 260) ture, it must succeed on a DC 26 Strength saving throw or be
+Speed 60 ft., burrow 60 ft., fly 120 ft., swim 60 ft. knocked prone.
+Breath Weapon (Recharge 5-6). The greatwyrm exhales a blast
+STR DEX CON INT WIS CHA
+of energy in a 300-foot cone. Each creature in that area must
+30 (+10) 14 (+2) 30 (+10) 21 (+5) 20 (+5) 26 (+8)
+make a DC 26 Dexterity saving throw. On a failed save, the
+creature takes 78 (12dl2) damage of a type determined by the
+Saving Throws Dex +10, Con +18, Wis +13, Cha +16
+greatwyrm's kind: acid (black), cold (white), fire (red), lightning
+Skills Intimidation +16, Perception +21, Stealth +10
+(blue), or poison (green). On a successful save, the creature
+Damage Immunities acid (black), cold (white), fire (red),
+lightning (blue), or poison (green) takes half as much damage.
+Condition Immunities charmed, frightened, poisoned
+LEGENDARY ACTIONS
+Senses truesight 120 ft., passive Perception 31
+Languages Common, Draconic The greatwyrm can take 3 legendary actions, choosing from
+Challenge 27 (105,000 XP) Proficiency Bonus +8 the options below. Only one legendary action option can be
+used at a time and only at the end of another creature's turn.
+Chromatic Awakening (Recharges after a Short or Long Rest). The greatwyrm regains spent legendary actions at the start
+If the greatwyrm would be reduced to 0 hit points, its current of its turn.
+hit point total instead resets to 425 hit points, it recharges its
+Attack. The greatwyrm makes one Claw or Tail attack.
+Breath Weapon, and it regains any expended uses of Legendary·
+Wing Attack (Costs 2 Actions). The greatwyrm beats its wings.
+Resistance. Additionally, the greatwyrm can now use the op
+Each creature within 30 feet of it must succeed on a DC 26
+tions in the "Mythic Actions" section for l hour. Award a party
+Dexterity saving throw or take 17 (2d6 + 10) bludgeoning
+an additional 105,000 XP (210,000 XP total) for defeating the
+damage and be knocked prone. The greatwyrm can then fly
+greatwyrm after its Chromatic Awakening activates. up to half its flying speed.
+Legendary Resistance (4/Day). If the greatwyrm fails a saving Arcane Spear (Costs 3 Actions). The greatwyrm creates four
+throw, it can choose to succeed instead. spears of magical force. Each spear hits a creature of the
+greatwyrm's choice it can see within 120 feet ofit, dealing 12
+Unusual Nature. The greatwyrm doesn't require food or drink. (1 d8 + 8) force damage to its target, then disappears.
+ACTIONS MYTHIC ACTIONS
+Multiattack. The greatwyrm makes one Bite attack and two If the greatwyrm's Chromatic Awakening trait has activated in
+Claw attacks. the last hour, it can use the options below as legendary actions.
+Bite. Melee Weapon Attack:+ 18 to hit, reach 15 ft., one tar Bite. The greatwyrm makes one Bite attack.
+get. Hit: 21 (2dl0 + 10) piercing damage plus 13 (2dl2) Chromatic Flare (Costs 2 Actions). The greatwyrm flares with el
+force damage. emental energy. Each creature in a GO-foot-radius sphere cen
+tered on the greatwyrm must succeed on a DC 26 Dexterity
+Claw. Melee Weapon Attack: +18 to hit, reach 10 ft., one
+saving throw or take 22 (5d8) damage of a type determined
+target. Hit: 19 (2d8 + 10) slashing damage. If the target is a
+by the greatwyrm's kind: acid (black), cold (white), fire (red),
+Huge or smaller creature, it is grappled (escape DC 20) and is
+lightning (blue), or poison (green).
+168 CHAPTER 6 I BESTIARY
+=== PAGE 170 ===
+...
+'& -
+•
+CRYSTAL DRAGONS VISIONS IN STARLIGHT
+Shimmering with radiant energy and brimming Many crystal dragons study the stars, recording
+with life, crystal dragons enjoy an innate psionic their observations of the night sky and tracking the
+connection to the Positive Plane that suffuses their signs written in starlight. They read these signs as
+bodies as well as their personalities with light. omens, giving them glimpses of what is to come,
+Though they prefer to live in desolate, frigid regions, and they eagerly examine the potential futures of
+many of them are among the friendliest of dragon any creatures who come to them in peace.
+kind, nurturing and optimistic. Crystal dragons' connection to the radiant forces
+of the Positive Plane fosters a nurturing, optimistic
+INNER GLOW attitude in most of these dragons. They sometimes
+adopt the abandoned eggs or hatchlings of other
+When they hatch, crystal dragons have dull gray
+dragons; many a white wyrmling has been raised
+scales, with a few white or clear crystalline points,
+in the caring environment of a crystal dragon's lair.
+allowing the wyrmlings to blend in to rocky terrain
+But they fiercely oppose destructive forces in their
+in the face of danger. As they age, their scales turn
+home territories, which sometimes leads nearby
+snow white, then slowly fade to transparency. The
+frost giants and white dragons to put aside their mu
+oldest crystal dragons have scales of perfect clarity
+tual enmity to hunt them.
+that bend and refract light, sometimes making them
+difficult to see clearly.
+GLITTERING HOARDS
+The radiant energy of the Positive Plane shim
+mers in crystal dragons' scales. It glows like star For their treasure hoards, crystal dragons prize
+light between their bodies and the spines and horns diamonds and baubles that refract light, collections
+that hover close to their heads and backs. These of prophecy, works on astronomy, and star charts.
+horns shift with the dragon's mood: bristling with When it comes to magical treasure, they seek items
+anger, lying back with fear or suspicion, and rippling and spells that predict the future, create or manipu
+in side-to-side waves with amusement or joy. late light, or channel positive energy for healing and
+nurturing.
+CHAPTER 6 I BESTIARY 169
+=== PAGE 171 ===
+A CRYSTAL D RAGON'S LAIR
+15 Wisdom saving throw or be charmed by the
+Crystal dragons dwell in cold regions, where they dragon until initiative count 20 on the next round.
+construct ice and snow structures reminiscent of A creature charmed in this way obeys to the best
+castles but open to the sky. Glittering crystals scat of its ability any command the dragon issues that
+tered about their lairs glow with gathered starlight, isn't directly harmful to the creature.
+and caves or tunnels beneath the ice and snow pro Ice Passage. The dragon can open a passage
+vide protected areas for their hoards. They use their through a wall of ice or snow that is up to 5 feet
+burrowing ability to dig blinds and secret passages thick, creating an opening up to 30 feet wide
+throughout their lairs, allowing them to move eas and high.
+ily-and potentially unnoticed. Starlight's Gleam. The dragon chooses a point it
+The challenge rating of a legendary crystal dragon can see in the lair. Gleaming starlight radiates
+increases by 1 when it's encountered in its lair. from that point to fill a 10-foot-radius sphere with
+dim light. Each creature other than the dragon in
+LAIR ACTIONS
+that area when the light appears must succeed on
+On initiative count 20 (losing initiative ties), the
+a DC 15 Dexterity saving throw or take 13 (2dl2)
+dragon can take one of the following lair actions;
+radiant damage and be outlined in the glow. At
+the dragon can't take the same lair action two
+tack rolls made against an outlined creature have
+rounds in a row:
+advantage, and the creature can't hide or benefit
+Beguiling Whisper. The dragon telepathically whis from being invisible. The starlight and the glow
+pers to one creature within range of the dragon's around any creature fades on initiative count 20
+telepathy. The creature must succeed on a DC on the next round.
+ANCIENT CRYSTAL DRAGON radiant damage on a failed save, or half as much damage on a
+successful one. The dragon then gains 25 temporary hit points
+Gargantuan Dragon (Gem), Typically Chaotic Neutral
+by absorbing a portion of the radiant energy.
+Armor Class 20 (natural armor) Spellcasting (Psionics). The dragon casts one of the following
+Hit Points 222 (12d20 + 96) spells, requiring no spell components and using Intelligence as
+Speed 40 ft., burrow 40 ft., climb 40 ft., fly 80 ft. the spellcasting ability (spell save DC 19):
+At will: dancing lights, guidance
+STR DEX CON INT WIS CHA
+1/day each: command, divination, greater restoration, hypnotic
+25 (+7) 12 (+l) 26 (+8) 20 (+5) 16 (+3) 21 (+5)
+pattern, invisibility
+Saving Throws Dex+7, Con +14, Wis +9, Cha +11
+BONUS ACTIONS
+Skills Perception +15, Stealth +13, Survival +9
+Damage Resistances cold, radiant Change Shape. The dragon magically transforms into any crea
+Senses blindsight 60 ft., darkvision 120 ft., ture that is Medium or Small, while retaining its game statistics
+passive Perception 25 (other than its size). This transformation ends if the dragon is
+Languages Common, Draconic, telepathy 120 ft. reduced to O hit points or uses a bonus action to end it.
+Challenge 19 (22,000 XP) Proficiency Bonus +6
+Psychic Step. The dragon magically teleports to an unoccupied
+space it can see within 60 feet of it.
+Legendary Resistance (3/Day). If the dragon fails a saving
+throw, it can choose to succeed instead. LEGENDARY ACTIONS
+The dragon can take 3 legendary actions, choosing from the
+ACTIONS
+options below. Only one legendary action option can be used
+Multiattack. The dragon makes one Bite attack and two
+at a time and only at the end of another creature's turn. The
+Claw attacks.
+dragon regains spent legendary actions at the start of its turn.
+Bite. Melee Weapon Attack:+1 3 to hit, reach l 5 ft., one tar
+Claw. The dragon makes one Claw attack.
+get. Hit: 18 (2dl0 + 7) piercing damage plus 9 (2d8) radi Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+ant damage. Spellcasting.
+Claw. Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Starlight Strike (Costs 3 Actions). The dragon releases a searing
+beam of starlight at a creature that it can see within 60 feet
+Hit: 14 (2d6 + 7) slashing damage.
+of it. The target must succeed on a DC 19 Dexterity saving
+Scintillating Breath (Recharge 5-6). The dragon exhales a burst throw or take 38 (lld6) radiant damage.
+of brilliant radiance in a 90-foot cone. Each creature in that area
+must make a DC 22 Constitution saving throw, taking 49 (lld8)
+170 CHAPTER 6 I BESTIARY
+=== PAGE 172 ===
+•
+I haJ a c.--r-~<;fa( Ji-ra8'n Ye-aJ M~ forhme
+REGIONAL EFFECTS
+The region surrounding a legendary crystal drag onu.. A lot of c..oJ<;vval/op anJ popp~c..oc..k;
+on's lair is altered by the dragon's magic, creat
+to be- <;VY~ e-xu.pt foy fhe- paYi whe-ye,
+ing one or more of the following effects:
+Clear Skies. The skies above a crystal dragon's he- <;aiJ I~ foY~t what he- to(J me-!
+lair remain clear and free of precipitation unless
+That vva<; impYe,<;<;ive-(~ aCOJi-rafe-.
+magically altered. Winds blow lightly, posing little
+threat to those approaching the lair, and visibility -ri.z.ban
+is the best possible for the time of day.
+Crystal Profusion. Plentiful quartz crystals form
+in natural stone within 6 miles of the lair, partic
+ularly in places where natural light can shine on
+Thriving Wildlife. Animal populations flourish
+the crystals.
+within 6 miles of the lair. Ability checks made to
+Icy Sight. Ice and quartz within 6 miles of the lair
+forage for food by hunting, fishing, or trapping in
+become conduits for the dragon's psionic pres

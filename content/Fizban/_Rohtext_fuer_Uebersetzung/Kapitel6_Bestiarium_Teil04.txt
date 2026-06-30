@@ -1,0 +1,600 @@
+Multiattack. The dragon turtle makes one Bite or Tail attack Bite. The dragon turtle makes one Bite attack.
+and two Claw attacks. Armor of Storms (Costs 2 Actions). Lightning temporarily
+surrounds the dragon turtle, and it gains 40 temporary hit
+Bite. Melee Weapon Attack: +16 to hit, reach 15 ft., one tar
+points until the start of its next turn. Until all these tempo
+get. Hit: 15 (ldl2 + 9) piercing damage plus 13 (2dl2) light
+rary hit points are gone, any creature that touches the dragon
+ning damage.
+turtle or hits it with a melee attack takes 26 (4dl2) light-
+ning damage.
+CHAPTER 6 I BESTIARY 191
+=== PAGE 193 ===
+YOUNG DRAGON TuRTLE
+Huge Dragon, Typically Neutral
+Armor Class 19 (natural armor)
+Hit Points 178 (17dl2 + 68)
+Speed 20 ft., swim 40 ft. ,...
+DRAGON TuRTLE WYRMLING
+STR DEX CON INT WIS CHA Large Dragon, Typically Neutral
+21 (+5) 10 (+0) 19 (+4) 10 (+0) 12 (+l) 12 (+l)
+Armor Class 18 (natural armor)
+Saving Throws Dex +4, Con +8, Wis +5 Hit Points 90 (12dl0 + 24)
+Damage Resistances fire Speed 20 ft., swim 30 ft.
+Senses darkvision 120 ft., passive Perception 11
+Languages Aquan, Draconic STR DEX CON INT WIS CHA
+Challenge 10 (5,900 XP) Proficiency Bonus +4 17 (+3) 10 (+0) 15 (+2) 8 (-1) 10 (+0) 10 (+0)
+Amphibious. The dragon turtle can breathe air and water. Saving Throws Dex +2, Con +4, Wis +2
+Damage Resistances Ii re
+ACTIONS Senses darkvision 120 ft., passive Perception 10
+Languages Draconic
+Multiattack. The dragon turtle makes one Bite attack and two
+Challenge 4 (1,100 XP) Proficiency Bonus +2
+Claw attacks.
+Bite. Melee Weapon Attack: +9 to hit, reach 10 ft., one tar Amphibious. The dragon turtle can breathe air and water.
+get. Hit: 11 (ldl2 + 5) piercing damage plus 6 (ldl2) light
+ning damage. ACTIONS
+Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Bite. Melee Weapon Attack: +5 to hit, reach 10 ft., one target.
+Hit: 9 (ld8 + 5) slashing damage. Hit: 9 (ldl2 + 3) piercing damage.
+Steam Breath (Recharge 5-6). The dragon turtle exhales scald Steam Breath (Recharge 5-6). The dragon turtle exhales ~
+ing steam in a 30-foot cone. Each creature in that area must scalding steam in a 15-foot cone. Each creature in that area
+make a DC 16 Dexterity saving throw, taking 42 (12d6) fire must make a DC 12 Dexterity saving throw, taking 17 (5d6) fire
+damage on a failed save, or half as much damage on a suc damage on a failed save, or half as much damage on a suc
+cessful one. Being underwater doesn't grant resistance against cessful one. Being underwater doesn't grant resistance against
+this damage. this damage.
+192 CHAPTER 6 I BESTIARY
+J
+=== PAGE 194 ===
+EGG HUNTERS
+Egg hunters are parasites that seek out dragon eggs
+and feed on the contents. They deposit their own
+eggs into the empty shells, hiding the eggs from un
+suspecting dragon parents or guardians.
+EGG HUNTER HATCHLING
+A dragon egg drained by an egg hunter is filled with
+ld6 new eggs, which hatch inside the dragon egg's
+shell in ld6 days. The egg hunter hatchlibgs burst
+forth ld4 days later, using the needlelike egg tooth
+that extends from their heads. They are voracious, Small Monstrosity, Unaligned
+consuming any other dragon eggs in the vicinity if
+they can. A hatchling matures into an adult about Armor Class 16 (natural armor)
+Hit Points 52 (8d6 + 24)
+twenty days after breaking free from its dragon egg.
+Speed 40 ft., climb 40 ft.
+EGG H UNTER A DULT
+STR DEX CON INT WIS CHA
+The salamander-like adult of the species can inflate 14 (+2) 20 (+5) 16 (+3) 3 (-4) 13 (+ 1) 5 (-3)
+its bulbous tail so that it takes on the shape and
+Saving Throws Dex +8, Wis +4
+texture of a dragon egg. It uses this mimicry to es
+Skills Perception +4, Stealth +11
+tablish itself in a nest tended by a dragon or other
+Condition Immunities frightened, poisoned
+creatures. If an egg hunter is discovered, it releases Senses darkvision 120 ft., passive Perception 14
+spores that make other creatures lethargic, allow Languages-
+ing it to scurry to safety. If things turn dire, the egg Challenge 5 (1,800 XP) Proficiency Bonus +3
+hunter's physical form can magically harden, reduc
+Amphibious. The egg hunter can breathe air and water.
+ing the harm it suffers from even a dragon's wrath.
+False Appearance. If the egg hunter is motionless at the start
+of combat, it has advantage on its initiative roll. Moreover, if
+EGG HUNTER HATCHLING
+a creature hasn't observed the egg hunter move or act, that
+Tiny Monstrosity, Unaligned
+creature must succeed on a DC 18 Intelligence (Investigation)
+check to discern that the egg hunter is animate. Dragons have
+Armor Class 14 (natural armor) disadvantage on this check.
+Hit Points 28 (8d4 + 8)
+Speed 30 ft., burrow 10 ft., climb 30 ft. ACTIONS
+Multiattack. The egg hunter makes two Barbed Proboscis at
+STR DEX CON INT WIS CHA
+tacks, and it can use Torpor Spores if it's available.
+8 (-1) 17 (+3) 13 (+l) l (-5) 10 (+O) 5 (-3)
+Barbed Proboscis. Melee Weapon Attack: +8 to hit, reach 5 ft.,
+Saving Throws Dex +5, Wis +2 one target. Hit: 8 (ld6 + 5) piercing damage plus 9 (2d8) ne
+Skills Perception +2, Stealth +7 crotic damage, and the egg hunter regains hit points equal to
+Condition Immunities frightened the necrotic damage dealt.
+Senses darkvision 60 ft., passive Perception 12
+Torpor Spores (Recharge 5-6). The egg hunter releases a bil
+Languages-
+Challenge 2 (450 XP) Proficiency Bonus +2 low of sparkling blue spores. Each creature in a 30-foot-radius
+sphere centered on the egg hunter must succeed on a DC 14
+Amphibious. The egg hunter can breathe air and water. Constitution saving throw or be poisoned for l minute. While
+poisoned in this way, the creature can take either an action
+ACTIONS or a bonus action on its turn but not both, and it can't take
+reactions. A creature can repeat the saving throw at the end of
+Multiattack. The egg hunter makes two Egg Tooth attacks.
+each of its turns, ending the effect on itself on a success. If a
+Egg Tooth. Melee Weapon Attack: +5 to hit, reach 5 ft., one tar creature's saving throw is successful or the effect ends for it,
+get. Hit: 10 (2d6 + 3) piercing damage, or 17 (4d6 + 3) piercing the creature is immune to this egg hunter's Torpor Spores for
+damage if the target is an object. the next 24 hours.
+BONUS ACTIONS REACTIONS
+Rapid Movement. The egg hunter takes the Dash or Disen Rapid Adaptation. When the egg hunter takes damage, it gives
+gage action. itself resistance to that damage.
+CHAPTER 6 I BESTIARY 193
+=== PAGE 195 ===
+ELDER BRAIN DRAGON
+One of the few consolations available to those who
+must contend with a mind flayer colony is the limit
+of its reach, which spreads only as far as the in
+fluence of the colony's elder brain. But this small
+solace withers away when a colony manages to
+capture a dragon. Teams of mind flayers bind the
+dragon, which is subject to a gruesome transforma
+tion as the elder brain latches onto the dragon's back
+and digs its tentacles into the dragon's brain. An
+elder brain dragon is the nightmarish result.
+Using the mobility of the dragon's body, the elder
+brain can now serve as a powerful general to illithid
+armies, free from the confines of its brine pool. The
+elder brain dragon becomes a psychic threat in ad
+dition to a physical one, its body rife with aberrant
+influence and pulsing with psionic power. Even the
+elder brain dragon's breath weapon mutates during
+its transformation, becoming a stream of briny liq
+uid roiling with illithid tadpoles. These tadpoles can
+swiftly slay victims and transform them into mind
+flayers, allowing the elder brain dragon to grow its
+own roving colony.
+or smaller, it is grappled (escape DC 18). The dragon can have
+.:f*
+up to four targets grappled at a time.
+Gargantuan Aberration, Typically Lawful Evil
+Tadpole Brine Breath (Recharge 5-6). The dragon exhales
+Armor Class 17 (natural armor) brine in a 120-foot line that is 15 feet wide. Each creature in
+Hit Points 350 (20d20 + 140) that area must make a DC 22 Constitution saving throw, taking
+Speed 40 ft., fly 80 ft. (hover) 55 (l0dl0) psychic damage on a failed save, or half as much
+damage on a successful one. On a success or failure, if the
+STR DEX CON INT WIS CHA creature isn't a Construct or an Undead, it becomes infested
+27 (+8} 13 (+l} 25 (+7) 21 (+5) 19 (+4) 24 (+7) with illithid tadpoles.
+While infested, the creature takes 16 (3dl0) psychic damage
+Saving Throws Con +14, Int +12, Wis +11, Cha +14 at the start of each of its turns. The creature can repeat the sav
+Skills Arcana +12, Insight +18, Perception +18 ing throw at the end of each of its turns, ending the effect on
+Damage Immunities psychic itself after it succeeds on three of these saves. If the creature
+Condition Immunities charmed, frightened
+is targeted by magic that ends a curse or restores 40 hit points
+Senses blindsight 120 ft., passive Perception 28
+or more, the tadpoles infesting the creature are killed instantly,
+Languages Deep Speech, Draconic, telepathy 5 miles
+ending the effect on the creature.
+Challenge 22 (41,000 XP) Proficiency Bonus +7
+If a Humanoid is reduced to 0 hit points while infested, the
+creature is stable but remains unconscious for 6dl 2 hours.
+Legendary Resistance (4/Day). If the dragon fails a saving
+When the period of unconsciousness ends, the creature trans
+throw, it can choose to succeed instead.
+forms into a mind flayer (see the Monster Manual) with all its
+Siege Monster. The dragon deals double damage to objects and hit points. Casting a wish spell on the unconscious creature
+structures. rids it of the infestation and prevents it from turning into a
+mind flayer.
+Unusual Nature. The dragon doesn't require air or sleep.
+LEGENDARY ACTIONS
+ACTIONS
+The dragon can take 3 legendary actions, choosing from the
+Multiattack. The dragon makes one Bite attack, two Claw at
+options below. Only one legendary action can be used at a time
+tacks, and one Tentacle attack.
+and only at the end of another creature's turn. The dragon re
+Bite. Melee Weapon Attack: +15 to hit, reach 15 ft., one tar gains spent legendary actions at the start of its turn.
+get. Hit: 19 (2dl0 + 8) piercing damage plus 11 (2dl0) psy
+Tentacle. The dragon makes one Tentacle attack.
+chic damage.
+Shatter Concentration (Costs 2 Actions). The dragon targets a
+Claw. Me lee Weapon Attack: +1 5 to hit, reach l 0 ft., one target. creature it is grappling. The target's concentration on a spell
+Hit: 11 (ld6 + 8) slashing damage. it has cast or an ability it is maintaining ends, and the target
+takes 19 (3dl2} psychic damage.
+Tentacle. Melee Weapon Attack: +15 to hit, reach 15 ft., one
+creature. Hit: 12 (ld8 + 8) psychic damage. If the target is Huge
+194 CHAPTER 6 I BESTIARY
+I
+=== PAGE 196 ===
+e
+EMERALD DRAGONS
+Emerald dragons are the most curious, cunning,
+and manipulative of the gem dragons, wielding
+psionic power to weave illusions to deceive and dis
+orient. They cloak their own presence so they can
+observe other creatures without being discovered
+as they collect information on everything from local
+cultural practices to supernatural occurrences.
+SHIMMERING GREEN
+A wyrmling emerald dragon's scales are a dull, pale
+green, but they develop into richer and more varied
+shades of green as the dragon ages. Eventually,
+the scales become translucent and shimmer in the
+light, rippling as the dragon moves. The dragon's
+horns and spines hover above the body, moving
+and shifting along the back and tail to mirror the
+dragon's mood.
+ANCIENT EMERALD DRAGON Disorienting Breath (Recharge 5-6). The dragon exhales a wave
+of psychic dissonance in a 90-foot cone. Each creature in that
+Gargantuan Dragon (Gem), Typically Lawful Neutral
+area must make a DC 22 Intelligence saving throw. On a failed
+save, the creature takes 56 (l 6d6) psychic damage, and until
+Armor Class 20 (natural armor)
+the end of its next turn, when the creature makes an attack roll
+Hit Points 332 (19d20 + 133)
+Speed 40 ft., burrow 30 ft., fly 80 ft. or an ability check, it must roll a d8 and reduce the total by the
+number rolled. On a successful save, the creature takes half as
+STR DEX CON INT WIS CHA much damage with no additional effects.
+25 (+7) 12 (+l) 25 (+7) 20 (+5) 18 (+4) 20 (+5) Spel/casting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as
+Saving Throws Dex +8, Con +14, Wis +11, Cha +12 the spellcasting ability (spell save DC 20):
+Skills Arcana +12, Deception +12, Perception +18, Stealth +8
+At will: mage hand (the hand is invisible), minor illusion
+Damage Resistances fire, psychic
+Senses blindsight 60 ft., darkvision 120 ft., 1/day each: detect thoughts, dispel magic, etherealness, major
+image, mislead
+passive Perception 28
+Languages Common, Draconic, telepathy 120 ft.
+BONUS ACTIONS
+Challenge 21 (33,000 XP) Proficiency Bonus +7
+Change Shape. The dragon magically transforms into any crea
+Legendary Resistance (3/Day). If the dragon fails a saving ture that is Medium or Small, while retaining its game statistics
+throw, it can choose to succeed instead. (other than its size). This transformation ends if the dragon is
+reduced to O hit points or uses a bonus action to end it.
+Tunneler. The dragon can burrow through solid rock at half
+its burrowing speed and can leave a 20-foot-diameter tunnel Psychic Step. The dragon magically teleports to an unoccupied
+in its wake. space it can see within 60 feet of it.
+Warp Perception (1/Day). The dragon can cast mirage arcane,
+LEGENDARY ACTIONS
+requiring no spell components and using Intelligence as the
+spellcasting ability. The dragon can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+ACTIONS at a time and only at the end of another creature's turn. The
+dragon regains spent legendary actions at the start of its turn.
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks. Claw. The dragon makes one Claw attack.
+Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Bite. Melee Weapon Attack: +14 to hit, reach 15 ft., one tar- ,_;; . Spellcasting.
+get. Hit: 18 (2d10 + 7) piercing damage plus 10 (3d6) psy- ,,.,
+Emerald Embers (Costs 3 Actions). The dragon creates a danc
+chic damage. ing mote of green flame around a creature it can see within
+Claw. Melee Weapon Attack: +14 to hit, reach 10 ft., one target. ~ 60 feet ofit. The target must succeed on a DC 20 Dexterity
+Hit: 14 (2d6 + 7) slashing damage. saving throw or take 42 (l 2d6) fire damage.
+CHAPTER 6 I BESTIARY 195
+=== PAGE 197 ===
+CLEVER CONCEALMENT
+The shyest of the gem dragons, emerald dragons
+are also the most curious. They love to observe local
+settlements and peoples, using their psionic abilities
+to cloak themselves and watch from afar. When an Emerald dragons' preference for volcanic lairs
+emerald dragon is old enough, the dragon might often puts them in conflict with fire giants. Despite
+take on the guise of a creature that can blend in with their reluctance to reveal themselves to strangers,
+the local population, or at least get close without emerald dragons might approach experienced ad
+arousing suspicion. Once in a position to observe, venturers in the hopes of pitting them against fire
+the dragon studies the day-to-day life of local folk, giant rivals.
+with a keen interest in any magical phenomena.
+H OARDED HISTORIES
+Emerald dragons' attentiveness to unusual events
+makes them particularly useful to their sapphire Emerald dragons prize knowledge, particularly local
+dragon cousins, who hunt down Aberrations and histories that focus on magical events and individu
+seek evidence of Far Realm incursions into the als. They usually know of places of power near their
+Material Plane. These gem dragons often work to lairs and keep detailed records of how phenomena
+gether, with emerald dragons tracking the source connected to those sites react to outside influences.
+of an incursion while sapphire dragons plan and They also avidly collect magic items and spells that
+execute a decisive purge-or recruit agents to do create illusions, allowing them to better conceal
+it for them. their treasures from prying eyes and divinations.
+ADULT EMERALD DRAGON Disorienting Breath (Recharge 5-6). The dragon exhales a wave
+of psychic dissonance in a 60-foot cone. Each creature in that
+-Hu-ge -Dra-go-n (G-em-), -Typ-ica-lly -La-wfu-l N-eu-tral- -----~':~'T ., ..
+area must make a DC 18 Intelligence saving throw. On a failed
+"1 - save, the creature takes 42 (12d6) psychic damage, and until
+Armor Class 18 (natural armor)
+the end of its next turn, when the creature makes an attack roll
+Hit Points 207 (18dl2 + 90)
+Speed 40 ft., burrow 30 ft., fly 80 ft. or an ability check, it must roll a d6 and reduce the total by the
+number rolled. On a successful save, the creature takes half as
+STR DEX CON INT WIS CHA much damage with no additional effects.
+23 (+6) 12 (+l) 21 (+5) 18 (+4) 16 (+3) 18 (+4) Spellcasting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as
+Saving Throws Dex +6, Con +10, Wis +8, Cha +9 the spellcasting ability (spell save DC 17):
+Skills Arcana +9, Deception +9, Perception +13, Stealth +6
+At will: mage hand (the hand is invisible), minor illusion
+Damage Resistances fire, psychic
+Senses blindsight 60 ft., darkvision 120 ft., 1/day each: detect thoughts, dispel magic, invisibility,
+major image
+passive Perception 23
+Languages Common, Draconic, telepathy 120 ft.
+BONUS ACTIONS
+Challenge 14 (11,500 XP) Proficiency Bonus +5
+Change Shape. The dragon magically transforms into any crea
+Legendary Resistance (3/Day). If the dragon fails a saving "~ ture that is Medium or Small, while retaining its game statistics
+throw, it can choose to succeed instead. (other than its size). This transformation ends if the dragon is
+reduced to O hit points or uses a bonus action to end it.
+Shift Perception (1/Day). The dragon can cast hallucinatory ter
+rain, requiring no spell components and using Intelligence as Psychic Step. The dragon magically teleports to an unoccupied
+the spellcasting ability (spell save DC 17). space it can see within 60 feet of it.
+Tunneler. The dragon can burrow through solid rock at half
+LEGENDARY ACTIONS
+its burrowing speed and can leave a 15-foot-diameter tunnel
+in its wake. The dragon can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+ACTIONS at a time and only at the end of another creature's turn. The
+dragon regains spent legendary actions at the start of its turn.
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks. Claw. The dragon makes one Claw attack.
+Psionics (Costs 2 Actions). The dragon uses Psychic Step or
+Bite. Melee Weapon Attack: +11 to hit, reach 10 ft., one tar
+Spellcasting.
+get. Hit: 17 (2d10 + 6) piercing damage plus 7 (2d6) psy-
+Emerald Embers (Costs 3 Actions). The dragon creates a danc
+chic damage. ing mote of green flame around a creature it can see within
+Claw. Melee Weapon Attack: +11 to hit, reach 5 ft., one target. 60 feet ofit. The target must succeed on a DC 17 Dexterity
+Hit: 10 (ld8 + 6) slashing damage. saving throw or take 31 (9d6) fire damage.
+196 CHAPTER 6 I BESTIARY
+=== PAGE 198 ===
+YOUNG EMERALD DRAGON
+Large Dragon (Gem), Typically Lawful Neutral
+Armor Class 17 (natural armor)
+Hit Points 142 (15d10 + 60)
+Speed 40 ft., burrow 30 ft., fly 60 ft. , ;
+STR DEX CON INT WIS CHA
+21 (+5) 12 (+1) 19 (+4) 16 (+3) 14 (+2) 16 (+3)
+Medium Dragon (Gem), Typically Lawful Neutral
+Saving Throws Dex +4, Con +7, Wis +5, Cha +6
+.
+Skills Arcana +6, Deception +6, Perception +8, Stealth +4 Armor Class 16 (natural armor) ,..
+\
+Damage Resistances fire, psychic Hit Points 39 (6d8 + 12)
+Senses blindsight 30 ft., darkvision 120 ft., Speed 30 ft., burrow 20 ft., fly 60 ft.
+passive Perception 18
+Languages Common, Draconic, telepathy 120 ft. STR DEX CON INT WIS
+Challenge 8 (3,900 XP) Proficiency Bonus +3 15 (+2) 12 (+1) 15 (+2) 14 (+2) 12 (+1)
+Tunneler. The dragon can burrow through solid rock at half Saving Throws Dex +3, Con +4, Wis +3, Cha +4
+its burrowing speed and can leave a 10-foot-diameter tunnel Skills Arcana +4, Deception +4, Perception +5, Stealth +3 "
+in its wake. Damage Resistances fire, psychic
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 15
+ACTIONS Languages Draconic, telepathy 120 ft.
+Challenge 2 (450 XP) Proficiency Bonus +2
+Multiattack. The dragon makes one Bite attack and two
+Claw attacks.
+Tunneler. The dragon can burrow through solid rock at half
+Bite. Melee Weapon Attack: +8 to hit, reach 10 ft., one tar its burrowing speed and can leave a 5-foot-diameter tunnel
+get. Hit: 16 (2d10 + 5) piercing damage plus 3 (ld6) psy in its wake.
+chic damage.
+Ii-
+ACTIONS
+Claw. Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 8 (ld6 + 5) slashing damage. Bite. Me/ee Weapon Attack: +4 to hit, reach 10 ft., one target.
+Hit: 7 (ldl0 + 2) piercing damage plus 3 (ld6) psychic damage.
+Disorienting Breath (Recharge 5-6). The dragon exhales a wave
+of psychic dissonance in a 30-foot cone. Each creature in that Disorienting Breath (Recharge 5-6). The dragon exhales a wave
+area must make a DC 15 Intelligence saving throw. On a failed of psychic dissonance in a 15-foot cone. Each creature in that
+save, the creature takes 31 (9d6) psychic damage, and until the area must make a DC 12 Intelligence saving throw. On a failed
+end of its next turn, when the creature makes an attack roll or save, the creature takes 17 (5d6) psychic damage, and until the
+an ability check, it must roll a d6 and reduce the total by the end of its next turn, when the creature makes an attack roll or
+number rolled. On a successful save, the creature takes half as an ability check, it must roll a d4 and reduce the total by the
+much damage with no additional effects. number rolled. On a successful save, the creature takes half as
+much damage with no additional effects.
+Spellcasting (Psionics). The dragon casts one of the following
+spells, requiring no spell components and using Intelligence as Spellcasting (Psionics). The dragon casts one of the following
+the spellcasting ability (spell save DC 14): spells, requiring no spell components and using Intelligence as
+the spellcasting ability (spell save DC 12):
+At will: mage hand (the hand is invisible), minor illusion ~ -•
+1/ day each: detect thoughts, invisibility, silent image At will: mage hand (the hand is invisible), minor illusion
+CHAPTER 6 I BESTIARY 197
+=== PAGE 199 ===
+,0
+•
+.~
+I! - -
+• i
+I
+• \
+. Emerald dragons dwell in enormous caverns, lava
+tubes, and tunnel networks deep within the earth.
+•
+They favor warm spaces, particularly in volcanic
+regions. Over time, their psychic presence seeps
+into the land surrounding their lairs, expanding
+their awareness and subconsciously luring their
+favorite food-giant lizards-to settle and thrive in
+•
+the region.
+Emerald dragons use the features of their lairs to
+confuse and imperil intruders. They dig additional
+Vanish. The dragon becomes invisible until initia-
+tunnels that allow them to move through their lairs
+tive count 20 on the next round.
+in multiple ways and set traps leading to yawning
+chasms or pools and flows of lava.
+REGIONAL EFFECTS
+Emerald dragons take great pains to hide the
+The region surrounding a legendary emerald
+chambers that house their hoards and collected
+dragon's lair is altered by the dragon's magic, creat
+lore, often using illusion magic and subtle construc
+ing one or more of the following effects:
+tion around the natural features of their lairs to con
+Crystal Profusion. Natural stone within 6 miles
+ceal their central hoard chambers from mundane
+of the lair grows plentiful crystal formations and
+and magical sight.
+veins of emerald gemstones.
+The challenge rating of a legendary emerald
+Fiery Sight. Fire and lava within 6 miles of the lair
+dragon increases by 1 when it's encountered
+become conduits for the dragon's psionic pres
+in its lair.
+ence. As an action, the dragon can cast the clair
+LAIR ACTIONS voyance spell, requiring no spell components and
+On initiative count 20 (losing initiative ties), the targeting any area of fire or lava in that region.
+dragon can take one of the following lair actions; Subtle Obstruction. Rocks within 6 miles of the
+the dragon can't take the same lair action two dragon's lair sometimes move of their own accord,
+rounds in a row: usually when no one is watching. Often the rocks
+obstruct the approach to the emerald dragon's
+Beguiling Whisper. The dragon telepathically whis
+lair, with boulders moving to block narrow defiles,
+pers to one creature within range of the dragon's
+way-markers tumbling off the path, or smaller
+telepathy. The creature must succeed on a DC
+stones shifting beneath travelers' feet to send
+15 Wisdom saving throw or be charmed by the
+them tumbling down slopes or into rivers.
+dragon until initiative count 20 on the next round.
+Thriving Wildlife. Giant lizards are attracted to the
+A creature charmed in this way obeys to the best
+area within 6 miles of the lair and settle there in
+of its ability any command the dragon issues that
+large numbers.
+isn't directly harmful to the creature.
+Distort Perceptions. The dragon attempts to alter If the dragon dies, the population of giant lizards
+the perceptions of one creature it can see within near the lair returns to normal levels over the
+its lair. That creature must succeed on a DC 15 In course of ldlO days. Rocks immediately stop mov
+telligence saving throw or take 22 (4dl0) psychic ing of their own accord. The existing abundance of
+damage and have disadvantage on saving throws crystals and emeralds remains, but new ones form
+until the start of its next turn. at a normal rate.
+198 CHAPTER 6 I BESTIARY
+I
+=== PAGE 200 ===
+•
+•
+•
+•
+"-
+_,,.,_
+\\
+-,J,j
+I, ·'
+.• .. ··
+.. , "° . ,
+EYEDRAKE
+When a beholder contends with a dragon for power
+and wealth, its thoughts of its dragon rival can
+become deeply obsessive, eventually pervading
+the beholder's dreams. If the rivalry lasts long
+enough, these fevered dreams can manifest as
+an eyedrake-a beholder-like creature with dra
+conic features.
+An eyedrake resembles a winged draconic crea
+ture with no true limbs and a perpetually open
+mouth. Inside that mouth is a large eye that emits a
+breath-like wave of antimagic energy. The creature's
+wings are formed from multiple eyestalks, each of
+which can fire magical rays that combine aspects
+of a dragon's breath weapon attacks and a behold
+er's eye rays.
+An eyedrake left to its own devices exhibits much
+of the stereotypical behavior of a young dragon, at
+tempting to establish a lair and a hoard. Driven by
+instinct to jealously defend its hoard, an eyedrake
+fights to the death if anything threatens even the
+smallest trinket it claims as its own.
+EYEDRAKE one. Every spell of 3rd level or lower ends on creatures and
+objects of the eyed rake's choice in that area.
+Large Aberration, Typically Lawful Evil
+Eye Rays. The eyedrake shoots three of the following magical
+Armor Class 16 (natural armor) \. eye rays at random (reroll duplicates), each ray targeting one
+Hit Points 119 (14d10 + 42) \, creature it can see within 60 feet of it:
+Speed Oft., fly 30 ft. (hover)
+1: Freezing Ray. The target must make a DC 14 Constitution
+saving throw. On a failed save, the target takes 17 (5d6) cold
+STR DEX CON INT WIS CHA
+damage, and its speed is halved until the end of its next turn.
+16 (+3) 10 (+O) 16 (+3) 14 (+2) 14 (+2) 16 (+3)
+On a successful save, the target takes half as much damage
+with no additional effects.
+Saving Throws Con +6, Wis +5 2: Debilitating Ray. The target must succeed on a DC 14 Con
+Skills Perception +8, Stealth +6 '- stitution saving throw or take 7 (2d6) thunder damage and
+Condition Immunities prone • c become incapacitated until the end of its next turn.
+Senses darkvision 120 ft., passive Perception 18 ·" 3: Repulsion Ray. The target must succeed on a DC 14 Strength
+Languages Deep Speech, Draconic saving throw or take 14 (4d6) force damage and be pushed
+Challenge 8 (3,900 XP) Proficiency Bonus +3 up to 60 feet away from the eyed rake.
+4: Fire Ray. The target must make a DC 14 Dexterity saving
+Unusual Nature. The eyedrake doesn't require food or drink. throw, taking 21 (6d6) fire damage on a failed save, or half as
+much damage on a successful one.
+ACTIONS 5: Paralyzing Ray. The target must succeed on a DC 14 Consti
+Bite. Melee Weapon Attack: +6 to hit, reach 10 ft., one target. tution saving throw or be paralyzed for 1 minute. The target
+Hit: 13 (3d6 + 3) piercing damage. can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success.
+Antimagic Breath (Recharge 6). The eyed rake emits a magic 6: Death Ray. The target must make a DC 14 Dexterity saving
+wave in a 30-foot cone. Each creature in that area must make a throw, taking 28 (8d6) necrotic damage on a failed save, or
+DC 14 Constitution saving throw, taking 39 (6d12) force dam half as much damage on a successful one. The target dies if
+age on a failed save, or half as much damage on a successful the ray reduces it to O hit points.
+CHAPTER 6 I BESTIARY 199
+=== PAGE 201 ===
+GEM GREATWYRM
+More so even than their chromatic and metallic
+kin, gem dragons are fascinated with cultivating
+their dragonsight and fusing the awareness of their
+echoes across the Material Plane. Some of them be
+lieve that, by doing so, they are taking steps toward
+reuniting the shattered consciousness of Sardior
+the Ruby Dragon, and they pursue this awakening
+as an act of near-religious devotion. Others seek to
+exploit their knowledge of the many worlds of the
+Material Plane as a source of power-and indeed, a
+SARDIOR1S GREATWYRMS
+gem dragon who becomes a greatwyrm has access
+Five gem greatwyrms call themselves the thanes of
+to almost unimaginable power.
+Sardior and believe themselves responsible for pre
+Gem greatwyrms' ascension transforms their
+serving the memory of their long-lost progenitor.
+bodies to appear as crystal, their scales sparkling These greatwyrms are named Aleithilithos (an ame
+like diamonds. Their breath weapons become pow thyst greatwyrm), Hrodel (a crystal greatwyrm), Smar
+erful waves of crushing force that can stop almost gad {an emerald greatwyrm), Charsima (a sapphire
+any creature in its tracks. But the greatwyrms' most greatwyrm), and Tithonnas (a topaz greatwyrm). Each
+thane is actively seeking out their echoes across the
+powerful ability is telekinesis on an unparalleled
+worlds of the Material Plane, hoping to merge with
+scale-a gem greatwyrm can telekinetically seize
+these other dragons, with the goal of eventually uniting
+an entire crowd, then carry those helpless folk off to
+themselves to re-form the great Ruby Dragon.
+the dragon's lair.
+CHAPTER 6 I BESTIARY
+=== PAGE 202 ===
+th
+The:- ing- I mi~~ Mo~t c1bovt Sc1Ydioy i~
+the:- thing- t10 f¥'M g-e:-c1-fwrm wi({ e:-Ve:,y
+Ye:-pYodvu-: the:- wirti, c1nu.,Jof~. Whid,
+we:,y~ I gnnt 10v, Mo~t/1 c1bovt Me:-.
+-nzban ·•
+•
+•••
+GEM GREATWYRM On a successful save, it takes half as much damage and isn't
+knocked prone. On a success or failure, the creature's speed
+Gargantuan Dragon (Gem), Typically Neutral
+becomes O until the end of its next turn.
+•
+Armor Class 21 (natural armor) Mass Telekinesis (Gem Awakening Only; Recharges after a
+Hit Points 507 (26d20 + 234) Short or Long Rest). The greatwyrm targets any number of
+Speed 60 ft., burrow 60 ft., fly 120 ft. (hover), swim 60 ft. creatures and objects it can see within 120 feet of it. No one
+target can weigh more than 4,000 pounds, and objects can't
+STR DEX CON INT WIS CHA be targeted if they're being worn or carried. Each targeted
+28 (+9) 14 (+2) 29 (+9) 30 (+10) 24 (+7) 25 (+7) creature must succeed on a DC 26 Strength saving throw or be
+restrained in the greatwyrm's telekinetic grip. At the end of a
+Saving Throws Dex +10, Con +17, Wis +15, Cha +15 q- ,•t creature's turn, it can repeat the saving throw, ending the effect
+Skills Arcana +26, History +18, Perception +15 on itself on a success.
+Damage Immunities force (amethyst), necrotic (topaz), psychic At the end of the greatwyrm's turn, it can move each creature
+(emerald), radiant (crystal), or thunder (sapphire)
+or object it has in its telekinetic grip up to 60 feet in any direc
+Condition Immunities charmed, frightened, poisoned, prone
+tion, but not beyond 120 feet of itself. In addition, it can choose
+Senses truesight 120 ft., passive Perception 25
+any number of creatures restrained in this way and deal 45
+Languages Common, Draconic
+(7dl2) force damage to each of them.
+Challenge 26 (90,000 XP) Proficiency Bonus +8
+Spel/casting (Psionics). The greatwyrm casts one of the fol
+Gem Awakening (Recharges after a Short or Long Rest). If the lowing spells, requiring no spell components and using Intel
+greatwyrm would be reduced to O hit points, its current hit ligence as the spellcasting ability (spell save DC 26, +18 to hit
+point total instead resets to 400 hit points, it recharges its with spell attack):
+Breath Weapon, and it regains any expended uses of Legend 1/day each: dispel magic.forcecage, plane shift, reverse grav
+ary Resistance. Additionally, the greatwyrm can now use its ity, time stop
+Mass Telekinesis action during the next hour. Award a party an
+.... •t
+additional 90,000 XP (180,000 XP total) for defeating the great BONUS ACTIONS
+wyrm after its Gem Awakening activates.
+Change Shape. The greatwyrm magically transforms into any
+Legendary Resistance (4/Day). If the greatwyrm fails a saving creature that is Medium or Small, while retaining its game
+throw, it can choose to succeed instead. statistics (other than its size). This transformation ends if the
+greatwyrm is reduced to O hit points or uses a bonus action
+Unusual Nature. The greatwyrm doesn't require food or drink.
+.. to end it.
+-AC-T-IO-NS- ------------------ Psychic Step. The greatwyrm magically teleports to an unoccu
+...
+Multiattack. The greatwyrm makes one Bite attack and two t pied space it can see within 60 feet ofit.
+Claw attacks.

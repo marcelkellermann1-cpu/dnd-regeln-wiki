@@ -1,0 +1,500 @@
+--col--
+Deep Rothe
+Deep rothe are Underdark cattle that communicate
+with one another using the dancing lights spell.
+Some scholars speculate that rothe came originally
+from the Feywild and brought the ability to cast the
+spell with them. Other sages attribute the ability to
+the centuries rothe have spent in the Underdark,
+where ambient magic slowly transforms everything.
+Deep Rothe
+Medium Beast (Cattle), Unaligned
+Armor Class 10
+Hit Points 13 (2d8 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 14 (+2) 2 (-4) 10 (+0) 4 (-3)
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Beast of Burden. The rothe is considered to be one size larger
+for the purpose of determining its carrying capacity.
+Actions
+Core. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 7 (1 d6 + 4) piercing damage. If the roth£ moved at least 20
+feet straight toward the target immediately before the hit, the
+target takes an extra 7 (2d6) piercing damage.
+Dancing Lights. The rothe casts dancing lights, requiring no
+spell components and using Wisdom as the spellcasting ability.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 72 ===
+Ox
+Oxen are domesticated cattle bred for milk and
+meat production and for hauling. Many cultures in­
+corporate the ox into their labor and diets.
+Stench Kow
+Stench kows are misshapen bison native to the
+Lower Planes. These orange and green creatures
+Ox
+Large Beast (Cattle), Unaligned
+Armor Class 10
+Hit Points 15 (2dl0 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 14 (+2) 2 H) 10 (+0) 4 (-3)
+Senses passive Perception 10
+Languages —
+Challenge 1/4 (50 XP) Proficiency Bonus +
+Beast of Burden. The ox is considered to be one size larger for
+the purpose of determining its carrying capacity.
+Actions
+Core. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 7 (1 d6 + 4) piercing damage. If the ox moved at least 20
+feet straight toward the target immediately before the hit, the
+target takes an extra 7 (2d6) piercing damage.
+— - ■ ■ ■ ——.................- ... - ... ■■ .. . .... - -..............
+72 CHAPTER 2 | BESTIARY
+--col--
+defend themselves by exuding a miasma so hideous
+as to be toxic. Some mischievous and malevolent
+­ wizards have summoned stench kows to the Mate­
+rial Plane, disguised the creatures as oxen, and let
+the infernal bison loose on unsuspecting villages.
+Stench Kow
+Large Fiend (Cattle), Unaligned
+Armor Class 10
+Hit Points 15 (2dl0 + 4)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 14 (+2) 2 (-4) 10 (+0) 4 (-3)
+Damage Resistances cold, fire, poison
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1/2 (50 XP) Proficiency Bonus +2
+Stench. Any creature other than a stench kow that starts its
++2 turn within 5 feet of the stench kow must succeed on a DC 12
+Constitution saving throw or be poisoned until the start of the
+creature’s next turn. On a successful saving throw, the creature
+is immune to the Stench of all stench kows for 1 hour.
+Actions
+Core. Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 7 (1 d6 + 4) piercing damage. If the stench kow moved at
+least 20 feet straight toward the target immediately before the
+hit, the target takes an extra 7 (2d6) piercing damage.
+......।
+
+=== PAGE 73 ===
+Cave Fisher
+A cave fisher is a subterranean arachnid with a long
+snout that houses spinnerets, enabling the creature
+to produce sticky filaments, much like the strands
+of a spider’s webbing, which the creature uses to
+snag prey.
+A cave fisher usually hunts small animals and is
+particularly fond of bats, so it stretches a filament
+over an opening that such prey might travel through.
+It then climbs to a hiding spot and adheres itself to
+the surface to rest and wait. When prey blunders
+into the filament, the cave fisher reels in its meal. A
+group of cave fishers might work together to cover
+a large area with filaments, but as soon as one cap­
+tures potential food, every cave fisher in the area
+competes for the prize. If a victim escapes from the
+initial ambush, a cave fisher can reclaim its prey by
+shooting a filament out to capture it again.
+Scarce food might draw a group of cave fishers up
+to the surface, into a shadowy canyon or a gloomy
+forest that features both native animal prey and
+creatures such as explorers or travelers occasion­
+ally moving through the area.
+Valuable Parts
+Nearly every part of a cave fisher is useful after the
+creature has been dispatched. Cave fisher filaments
+can be woven into rope that is thin, tough, and
+nearly invisible. The creature’s shell is used in the
+manufacture of tools, armor, and jewelry. Its blood
+is alcoholic and tastes like strong liquor. Several
+--col--
+dwarven spirits include cave fisher blood, and some
+dwarves, especially berserkers, drink the blood
+straight. Cave fisher meat is edible, tasting much
+like crab cooked in strong wine.
+While some folk hunt cave fishers to kill them to
+harvest their filaments, shells, and blood, others
+capture cave fisher eggs and rear the hatchlings,
+which can be trained to guard passages or serve as
+beasts of war. Cave fishers have a natural aversion
+to fire, since their blood is flammable. As such, Un­
+derdark denizens often use the threat of fire when
+training them.
+Cave Fisher
+Medium Monstrosity, Unaligned
+Armor Class 16 (natural armor)
+Hit Points 58 (9d8 + 18)
+Speed 20 ft., climb 20 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 13 (+1) 14 (+2) 3 (-4) 10 (+0) 3 (-4)
+Skills Perception +2, Stealth +5
+Senses blindsight 60 ft., passive Perception 12
+Languages —
+Challenge 3 (700 XP) Proficiency Bonus +2
+Flammable Blood. If the cave fisher drops to half its hit points
+or fewer, it gains vulnerability to fire damage.
+Spider Climb. The cave fisher can climb difficult surfaces, in­
+cluding upside down on ceilings, without needing to make an
+ability check.
+Actions
+Multiattack. The cave fisher makes two Claw attacks.
+Claw. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) slashing damage.
+Retract Filament. One Large or smaller creature grappled
+by the cave fisher’s Adhesive Filament must make a DC 13
+Strength saving throw. On a failed save, the target is pulled into
+an unoccupied space within 5 feet of the cave fisher, and the
+cave fisher makes one Claw attack against it. Anyone else who
+was attached to the filament is released. Until the grapple ends
+on the target, the cave fisher can’t use Adhesive Filament.
+Bonus Actions
+Adhesive Filament. The cave fisher extends a sticky filament up
+to 60 feet, and the filament adheres to anything that touches it.
+A creature the filament adheres to is grappled by the cave fisher
+(escape DC 13), and ability checks made to escape this grapple
+have disadvantage. The filament can be attacked (AC 15; 5 hit
+points; immunity to poison and psychic damage). A weapon
+that fails to sever it becomes stuck to it, requiring an action and
+a successful DC 13 Strength check to pull free. Destroying the
+filament deals no damage to the cave fisher. The filament crum­
+bles away if the cave fisher takes this bonus action again.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 74 ===
+Champion
+Champions are mighty warriors who have honed
+their fighting skills in wars or gladiatorial pits.
+To soldiers and other people who fight for a liv­
+ing, champions are as influential as nobles, and
+their presence is courted as a sign of status
+among rulers.
+A typical champion bears a coat of arms, heraldry
+that is associated with the champion far and wide.
+You may create a coat of arms for a champion or
+roll on the Champion’s Coats of Arms table to de­
+termine it.
+Champion’s Coats of Arms
+d!2 Coat of Arms
+1 Three lit candles on a purple field
+2 Sea serpent coiled around a trident on a blue
+field
+3 Hunting horn banded in gold on a gray field
+4 Raised fist grasping an anchor on a quartered
+field of blue and white
+5 Turtle with crenelated tower on its shell on a
+white field
+6 Dragon skull supported on either side by dragon
+wings on a red field
+7 Yellow chicken foot on a black field
+8 Lightning bolt splitting a galley in two on a blue
+field
+9 Two crouching displacer beasts facing each
+other on a yellow field
+10 Knotted brambles on a green field
+11 Red owlbear with a silver crown on a checkered
+field of black and white
+12 Black anvil cracked down the middle on an or­
+ange field
+74 CHAPTER 2 | BESTIARY
+--col--
+Champion
+Medium Humanoid, Any Alignment
+Armor Class 18 (plate)
+Hit Points 143 (22d8 + 44)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 15 (+2) 14 (+2) 10(+0) 14 (4-2) 12(4-1)
+Saving Throws Str 4-9, Con 4-6
+Skills Athletics 4-9, Intimidation 4-5, Perception -t-6
+Senses passive Perception 16
+Languages any one language (usually Common)
+Challenge 9 (5,000 XP) Proficiency Bonus 4-4
+Indomitable (2/Day). The champion rerolls a failed
+saving throw.
+Actions
+Multiattack. The champion makes three Creatsword or Short­
+bow attacks.
+Creatsword. Melee Weapon Attack: 4-9 to hit, reach 5 ft., one
+target. Hit: 12 (2d6 4- 5) slashing damage, plus 7 (2d6) slash­
+ing damage if the champion has more than half of its total hit
+points remaining.
+Shortbow. Ranged Weapon Attack: 4-6 to hit, range 80/320 ft.,
+one target. Hit: 5 (1 d6 4- 2) piercing damage, plus 7 (2d6) pierc­
+ing damage if the champion has more than half of its total hit
+points remaining.
+Bonus Actions
+Second Wind (Recharges after a Short or Long Rest). The cham­
+pion regains 20 hit points.
+i " ........ ■ - - ■■ ■- —
+
+=== PAGE 75 ===
+I
+Chitine
+Dedicated to Lolth, chitines are
+multiarmed bipeds with arachnid
+qualities. Most live in colonies in the
+Underdark and fight the enemies of
+the Demon Queen of Spiders. Long
+ago, the cult of Lolth first subjected
+elf prisoners to horrible rituals that
+transformed them into creatures
+with both elven and spider traits,
+which their creators dubbed chitines.
+The intention was to create servile
+warriors dedicated first to the cult
+and then, only by association with it,
+to Lolth. The goddess found this ar­
+rangement unacceptable.
+As punishment, the Spider Queen twisted her
+worshipers’ rituals. The process usually trans­
+formed subjects into the spindly creatures her
+devotees expected, but occasionally, an elf changed
+into a choldrith (appears in this book): an arachnid
+Monstrosity able to command and create more
+chitines on its own. These choldriths soon led the
+chitines to rebel and abandon their creators, found­
+ing free colonies elsewhere in the Underdark. On
+occasion, though, colonies can be found in remote,
+gloomy areas of the surface world, warring against
+Lolth’s enemies.
+The cult of Lolth still creates chitines as the need
+arises. Outside the presence of a choldrith, chitines
+make good workers, and they can be useful if the
+cult finds an independent chitine colony and want to
+infiltrate it. If the creation process yields a choldrith,
+though, the cult destroys the creature.
+As servants of Lolth, chitines love spiders. They
+rear spiders and similar arachnids, such as cave
+fishers (also in this book). Chitine colonies erect
+shrines to Lolth that serve as beacons, attracting
+spiders and other beings that serve her. Anywhere
+chitines set up a colony quickly becomes a web-
+shrouded, gloomy, and treacherous place.
+Chitines resemble spiders, but they behave more
+like social insects such as ants. They are divided
+into worker and warrior castes; choldriths, when
+present, occupy the top levels of a colony’s hierar­
+chy. Each chitine has a social position that comes
+with duties related to that rank, and all are expected
+to sacrifice themselves to protect the colony’s chol­
+driths. Every chitine has spinnerets and slowly
+produces webbing that is used to build floors, walls,
+structures, objects, and traps that benefit the colony.
+A warrior might be responsible for crafting web
+armor (which is as tough as hide or leather), while
+a group of workers might be tasked to dig pit traps
+and cover them with fragile webbing disguised with
+loose dirt to appear as a solid surface.
+--col--
+Chitine
+Small Monstrosity, Typically Chaotic Evil
+Armor Class 14 (hide armor)
+Hit Points 18 (4d6 + 4)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 10 (+0) 7 (-2)
+Skills Athletics +4, Stealth +4
+Senses darkvision 60 ft., passive Perception 10
+Languages Undercommon
+Challenge 1/2 (100 XP) Proficiency Bonus +2
+Fey Ancestry. The chitine has advantage on saving throws
+against being charmed, and magic can’t put the chitine to sleep.
+Sunlight Sensitivity. While in sunlight, the chitine has disadvan­
+tage on attack rolls, as well as on Wisdom (Perception) checks
+that rely on sight.
+Web Sense. While in contact with a web, the chitine knows
+the exact location of any other creature in contact with
+the same web.
+Web Walker. The chitine ignores movement restrictions caused
+by webbing.
+Actions_______________________________
+Multiattack. The chitine makes three Dagger attacks.
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or
+range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage.
+CHAPTER 2 | BESTIARY 75
+
+=== PAGE 76 ===
+Choker
+The choker is a subterranean predator far more
+dangerous than its small size and spindly, rubbery
+limbs would suggest.
+Chokers have cartilage rather than a bony skel­
+eton. This flexible internal structure enables them
+to easily slip into narrow fissures and niches in
+the walls of their cavern homes. They lurk in
+these spots, silent and unseen, waiting for prey to
+happen by.
+A choker’s usual method for luring prey involves
+positioning the body of its latest catch just outside
+its hiding spot. Whenever it gets hungry, it tears
+off a few chunks of flesh to feed itself. In the mean­
+time, the corpse serves to entice other curious
+folk—explorers from the surface world, drow, duer-
+gar, or the choker’s favorite prey, goblins—to come
+within reach.
+When a target presents itself, the choker’s star-
+fish-shaped hands dart out of its hiding spot, wrap
+around the victim’s throat, and pin the unfortunate
+creature against the cavern wall. Because its arms
+are so long, the choker can keep its body deep in­
+side the crevice where it hides, beyond the reach of
+most normal weapons.
+Chokers tend to set their ambushes alone, rather
+than working in concert, but where one choker is
+found, others are likely to be nearby. They commu­
+nicate through eerie, keening howls that travel long
+distances through caves and tunnels but are difficul
+to identify or locate in a typical echo-filled cavern.
+76 CHAPTER 2 | BESTIARY
+--col--
+Choker
+Small Aberration, Typically Chaotic Evil
+Armor Class 16 (natural armor)
+Hit Points 13 (3d6 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 13 (+1) 4 (-3) 12 (+1) 7 (-2)
+Skills Stealth +6
+Senses darkvision 60 ft., passive Perception 11
+Languages Deep Speech
+Challenge 1 (100 XP) Proficiency Bonus+2
+Aberrant Quickness (Recharges after a Short or Long Rest). The
+choker can take an extra action on its turn.
+Boneless. The choker can move through and occupy a space as
+narrow as 4 inches wide without squeezing.
+Spicier Climb. The choker can climb difficult surfaces, includ­
+ing upside down on ceilings, without needing to make an
+ability check.
+Actions
+Multiattack. The choker makes two Tentacle attacks.
+Tentacle. Melee Weapon Attack: +5 to hit, reach 10 ft., one
+target. Hit: 5 (ld4 + 3) piercing damage. If the target is a Large
+or smaller creature, it is grappled (escape DC 15). Until this
+grapple ends, the target is restrained, and the choker can’t use
+this tentacle on another target. The choker has two tentacles. If
+g
+this attack is a critical hit, the target also can’t breathe or speak
+lt until the grapple ends.
+
+=== PAGE 77 ===
+Gholdrith
+Medium Monstrosity (Cleric), Typically Chaotic Evil
+Armor Class 15 (natural armor)
+Hit Points 66 (12d8+ 12)
+Speed 30 ft., climb 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 16 (+3) 12 (+1) 11 (+0) 14 (+2) 10 (+0)
+Skills Athletics +5, Religion +2, Stealth +5
+Senses darkvision 60 ft., passive Perception 12
+Languages Undercommon
+Challenge 3 (700 XP) Proficiency Bonus +2
+Fey Ancestry. The choldrith has advantage on saving throws
+against being charmed, and magic can’t put the chol-
+drith to sleep.
+Spider Climb. The choldrith can climb difficult surfaces, in­
+cluding upside down on ceilings, without needing to make an
+ability check.
+Sunlight Sensitivity. While in sunlight, the choldrith has dis­
+advantage on attack rolls, as well as on Wisdom (Perception)
+checks that rely on sight.
+Web Sense. While in contact with a web, the choldrith knows
+the exact location of any other creature in contact with
+the same web.
+Web Walker. The choldrith ignores movement restrictions
+caused by webbing.
+Actions______________________________
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 5 (1 d4 + 3) piercing damage
+plus 10 (3d6) poison damage.
+Spellcasting. The choldrith casts one of the following spells, us­
+ing Wisdom as the spellcasting ability (spell save DC 12):
+At will: guidance, thaumaturgy
+1/day each: bane, hold person
+Web (Recharge 5-6). Ranged Weapon Attack: +5 to hit, range
+30/60 ft., one Large or smaller creature. Hit: The target is
+restrained by webbing. As an action, the restrained target
+can make a DC 11 Strength check, bursting the webbing on a
+success. The webbing can also be attacked and destroyed (AC
+10; 5 hit points; vulnerability to fire damage; immunity to blud­
+geoning, poison, and psychic damage).
+Bonus Actions________________________
+Spectral Dagger (Recharges after a Short or Long Rest). The
+choldrith conjures a floating, spectral dagger within 60 feet of
+itself. The choldrith can make a melee spell attack (+4 to hit)
+against one creature within 5 feet of the dagger. On a hit, the
+target takes 6 (1 d8 + 2) force damage.
+The dagger lasts for 1 minute. As a bonus action on later
+turns, the choldrith can move the dagger up to 20 feet and re­
+peat the attack against one creature within 5 feet of the dagger.
+--col--
+Choldrith
+Choldriths are monstrous spiderlike creatures orig­
+inally created to serve Lolth. They rule colonies of
+chitines (in this book) and lead them into battle in
+Lolth’s war against her enemies.
+When devotees of Lolth created the first chitines,
+she watched as her followers used arcane magic
+and demonic powers and invoked her aid for the
+divine spark needed to ensure the subjects’ survival,
+expecting to see these new abominations dedicated
+solely to her, but the devotees performed no such rit­
+ual. As revenge for the devotees’ betrayal, the Spider
+Queen manipulated the creation rituals so that they
+sometimes created choldriths instead of chitines.
+At first, these devotees were unaware that the
+new creatures, which they dubbed choldriths, were
+signs of Lolth’s wrath. Instead, they were pleased,
+because choldriths could lay eggs that birthed more
+chitines (and the rare choldrith) and could direct
+the chitines in their work. But the devotees soon re­
+alized their mistake—choldriths belonged to Lolth,
+body and soul. Choldriths whispered to the chitines
+of their adoration of the Spider Queen and their
+enmity against their creators, and led them in a suc­
+cessful revolt.
+Choldriths are born with a mystical connection
+to Lolth, which gives them divine magic. They also
+make up the ruling caste of most chitine colonies.
+A colony can support numerous choldriths, who
+serve as commanders, priests, and supervisors. The
+choldriths continually jockey for position, although
+they rarely confront one another in a way that puts
+the colony at risk. The colony is ruled by a sover­
+eign, who determines which colony members per­
+form which tasks, including whether a choldrith is
+permitted to lay eggs. Sometimes a choldrith ruler
+receives a vision from Lolth that inspires the entire
+colony into some grand, often violent, action.
+CHAPTER 2 | BESTIARY 77
+
+=== PAGE 78 ===
+Clockworks
+Gnomes’ tinkering with magic and mechanical de­
+vices has produced many failed Constructs but also
+has resulted in genuine advances, such as clock­
+works. The methods used to craft clockworks have
+been shared between gnome communities over
+many generations.
+Bronze Scout
+A bronze scout seldom emerges from underground.
+Its telescoping eyestalks observe foes at close range
+while most of its segmented body remains buried.
+If detected, it sends electrical shocks through the
+ground toward pursuers while it retreats.
+Iron Cobra
+An iron cobra is exactly what its name implies: a
+metal snake with a poisonous bite. Gnomes load
+this clockwork with alchemical concoctions that can
+paralyze creatures and cloud the mind.
+Oaken Bolter
+No ordinary ballista, an oaken bolter is a Construct
+capable of striking at long distances. The bolts it
+launches can rend flesh, destroy armor, or drag en­

@@ -1,0 +1,500 @@
+ground, the zaratan sends a shock wave through the ground in
+a 120-foot-radius circle centered on itself. That area becomes
+difficult terrain for 1 minute. Each creature on the ground that
+is concentrating must succeed on a DC 25 Constitution saving
+throw or the creature's concentration is broken.
+The shock wave deals 100 thunder damage to all structures
+in contact with the ground in the area. If a creature is near a
+structure that collapses, the creature might be buried; a crea­
+ture within half the distance of the structure's height must
+make a DC 25 Dexterity saving throw. On a failed save, the
+creature takes 17 (5d6) bludgeoning damage, is knocked prone,
+and is trapped in the rubble. A trapped creature is restrained,
+requiring a successful DC 20 Strength (Athletics) check as an
+action to escape. Another creature within 5 feet of the buried
+creature can use its action to clear rubble and grant advantage
+on the check. If three creatures use their actions in this way,
+the check is an automatic success. On a successful save, the
+creature takes half as much damage and doesn’t fall prone or
+become trapped.
+Legendary Actions
+The zaratan can take 3 legendary actions, choosing from the
+options below. Only one legendary action option can be used
+at a time and only at the end of another creature's turn. The
+zaratan regains spent legendary actions at the start of its turn.
+Stomp. The zaratan makes one Stomp attack.
+Move. The zaratan moves up to its speed.
+Spit (Costs 2 Actions). The zaratan makes one Spit Rock attack.
+Retract (Costs 2 Actions). The zaratan retracts into its shell.
+Until it takes its Emerge action, it has resistance to all dam­
+age, and it is restrained. The next time it takes a legendary
+action, it must take its Revitalize or Emerge action.
+Revitalize (Costs 2 Actions). The zaratan can use this option
+only if it is retracted in its shell. It regains 52 (5d20) hit
+points. The next time it takes a legendary action, it must take
+its Emerge action.
+Emerge (Costs 2 Actions). The zaratan emerges from its shell
+and makes one Spit Rock attack. It can use this option only if
+it is retracted in its shell.
+■ ■ .............' ,...L—. ....
+
+=== PAGE 279 ===
+Zariel
+Once a mighty angel charged with watching the
+tides of the Blood War, Zariel succumbed to the
+corrupting influence of the Nine Hells and fell from
+grace. Asmodeus admired Zariel’s passion for war
+and offered her rulership of Avernus. She accepted
+his offer, and he transformed her into an archdevil.
+Zariel’s rise in status came at the expense of Bel,
+her pit fiend predecessor. Zariel and Bel hate each
+other. To keep Bel busy and out of her sight, Zariel
+tasks him with forging weapons, armor, and grue­
+some demon-slaying machines.
+To replenish her legions, Zariel needs the souls of
+mortals to create lemures, which she can then pro­
+mote to higher forms of devils. She is keenly inter­
+ested in collecting souls from the greatest warriors
+on the Material Plane. She bargains hard, and there
+is little hope of wriggling out of a pact. However, she
+expects the best from her servants, so she allows
+her mortal followers to live out their lives provided
+they continue to hone their talents to increase their
+value. As a result, Zariel’s servants are universally
+effective, disciplined, and dangerous.
+NOSBOCAJ
+RELYT
+--col--
+Zariel’s Lair
+Zariel makes her lair in a basalt citadel that rises up
+in Avernus. From nearly a mile away, one can hear
+the screams coming from burned victims chained
+to the stronghold’s wall—the dying remains of those
+who failed to impress the archdevil. The stronghold,
+covering five square miles, is surrounded by walls
+reinforced with high turrets. Devils of all kinds
+crawl over the structure, ensuring that no intruders
+breach their defenses.
+Lair Actions
+On initiative count 20 (losing initiative ties), Zariel
+can take one of the following lair actions; she can’t
+take the same lair action two rounds in a row:
+Fireball. Zariel casts the fireball spell.
+Infernal Illusions. Zariel casts the major image
+spell four times, targeting different areas with it.
+Zariel prefers to create images of intruders’ loved
+ones being burned alive. Zariel doesn’t need to
+concentrate on the spells, which end on initiative
+count 20 of the next round. Each creature that
+can see these illusions must succeed on a DC 26
+Wisdom saving throw or become frightened of the
+illusion for 1 minute. A frightened creature can
+repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success.
+CHAPTER 2 | BESTIARY 279
+
+=== PAGE 280 ===
+Regional Effects
+The region containing Zariel’s lair is warped by
+her magic, which creates one or more of the follow­
+ing effects:
+Hellscape. The area within 9 miles of the lair is
+filled with screaming voices and the stench of
+burning meat.
+Pyres. Once every 60 feet within 1 mile of the lair,
+10-foot-high gouts of flame rise from the ground.
+Any creature or object that touches the flame
+takes 7 (2d6) fire damage, though it can take this
+damage no more than once per round.
+Smoke. The area within 2 miles of the lair, but no
+closer than 500 feet, is filled with smoke, which
+causes the area to be heavily obscured. The
+smoke can’t be cleared away.
+If Zariel dies, these effects fade over the course of
+Id 10 days.
+Zariel
+Large Fiend (Devil), Lawful Evil
+Armor Class 21 (natural armor)
+Hit Points 420 (29dl0 + 261)
+Speed 50 ft., fly 150 ft.
+STR DEX CON INT WIS CHA
+27 (+8) 24 (+7) 28 (+9) 26 (+8) 27 (+8) 30 (+10)
+Saving Throws Int +16, Wis +16, Cha +18
+Skills Intimidation +18, Perception +16
+Damage Resistances cold, fire, radiant; bludgeoning, piercing,
+and slashing from nonmagical attacks that aren’t silvered
+Damage Immunities necrotic, poison
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses darkvision 120 ft., passive Perception 26
+Languages all, telepathy 120 ft.
+Challenge 26 (90,000 XP) Proficiency Bonus +8
+Devil's Sight. Magical darkness doesn’t impede Zariel’s
+darkvision.
+Legendary Resistance (3/Day). If Zariel fails a saving throw, she
+can choose to succeed instead.
+Magic Resistance. Zariel has advantage on saving throws
+against spells and other magical effects.
+Regeneration. Zariel regains 20 hit points at the start of her
+turn. If she takes radiant damage, this trait doesn’t function at
+the start of her next turn. Zariel dies only if she starts her turn
+with 0 hit points and doesn’t regenerate.
+Actions
+Multiattack. Zariel makes three Flail or Longsword attacks. She
+can replace one attack with a use of Horrid Touch, if available.
+■............ - ■- ■- ■ ------- — - -
+CHAPTER 2 | BESTIARY
+--col--
+Cultists of Zariel
+Zariel grants special abilities to her most loyal cult­
+ists. They can gain the Ferocious Surge trait, and
+her cult’s leaders can also gain the Infernal Tac­
+tics trait.
+Ferocious Surge (Recharges after a Short or Long Rest). When
+this creature hits with an attack roll that isn’t a critical hit, it
+can turn the hit into a critical hit.
+Infernal Tactics. Immediately after rolling initiative, this crea­
+ture can choose itself and up to three allies it can see if it isn’t
+incapacitated. It can swap the initiative results of the chosen
+creatures among them.
+.. . .... . . •: .> L. _____—
+Flail. Melee Weapon Attack: +16 to hit, reach 10 ft., one target.
+Hit: 17 (2d8 + 8) force damage plus 36 (8d8) fire damage.
+Longsword. Melee Weapon Attack: +16 to hit, reach 10 ft.,
+one target. Hit: 17 (2d8 + 8) radiant damage, or 19 (2dl0 +
+8) radiant damage when used with two hands, plus 36 (8d8)
+fire damage.
+Horrid Touch (Recharge 5-6). Zariel touches one creature
+within 10 feet of her. The target must succeed on a DC 26 Con­
+stitution saving throw or take 44 (8dl0) necrotic damage and
+be poisoned for 1 minute. While poisoned in this way, the tar­
+get is blinded and deafened. The target can repeat the saving
+throw at the end of each of its turns, ending the effect on itself
+on a success.
+Spellcasting. Zariel casts one of the following spells, requiring
+no material components and using Charisma as the spellcast­
+ing ability (spell save DC 26):
+At will: alter self (can become Medium when changing her ap­
+pearance), detect evil and good, fireball, invisibility (self only),
+major image, wall off re
+3/day each: blade barrier, dispel evil and good,fnger of death
+Teleport. Zariel teleports, along with any equipment she is
+wearing or carrying, up to 120 feet to an unoccupied space
+she can see.
+Legendary Actions
+Zariel can take 3 legendary actions, choosing from the options
+below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. Zariel regains
+spent legendary actions at the start of her turn.
+Teleport. Zariel uses Teleport.
+Immolating Gaze (Costs 2 Actions). Zariel turns her magical
+gaze toward one creature she can see within 120 feet of her
+and commands it to burn. The target must succeed on a DC
+26 Wisdom saving throw or take 22 (4d 10) fire damage.
+
+=== PAGE 281 ===
+NOSBOCAJ
+RELYT
+ZUGGTMOY
+The Demon Queen of Fungi, Lady of Rot and Decay,
+Zuggtmoy is an alien creature whose only desire is
+to infect the living with spores, transforming them
+into her mindless servants and, eventually, into
+decomposing hosts for the mushrooms, molds, and
+other fungi that she spawns.
+Zuggtmoy is utterly inhuman, but she can mold
+her fungoid form into an approximation of a bipedal
+shape, including the skeletal-thin figure depicted
+in grimoires and ancient art, draped and veiled in
+mycelia and lichen. Indeed, much of her appearance
+and manner, and that of her servants, is a mockery
+of mortal life and its many facets.
+Zuggtmoy’s cultists often follow her unwittingly.
+Most are fungus-infected to some degree, whether
+through inhaling her mind-controlling spores or be­
+ing transformed to the point where flesh and fungus
+become one. Such cultists are fungal extensions of
+the Demon Queen’s will. Their devotion might begin
+with the seemingly harmless promises offered by
+exotic spores and mushrooms, but it quickly con­
+sumes them, body and soul.
+--col--
+Zuggtmoy’s Lair
+Zuggtmoy’s principal lair is her palace on Shedak-
+lah. It consists of two dozen immense mushrooms
+of pale yellow and rancid brown. These massive
+fungi are some of the largest in existence. They are
+surrounded by a field of acidic puffballs and poison­
+ous vapors. The mushrooms are interconnected by
+bridges of shelf fungus, and countless chambers
+have been hollowed out inside their rubbery stalks.
+Lair Actions
+On initiative count 20 (losing initiative ties), Zuggt­
+moy can take one of the following lair actions; she
+can’t take the same lair action two rounds in a row:
+Rally Plants. Up to four Plant creatures that are
+friendly to Zuggtmoy and that Zuggtmoy can see
+can use their reactions to move up to their speed
+and make one weapon attack.
+Summon Fungi. Zuggtmoy causes four gas spores
+or violet fungi (both appear in the Monster Man­
+ual) to appear in unoccupied spaces that she
+chooses within the lair. They vanish after 1 hour.
+CHAPTER 2 | BESTIARY
+
+=== PAGE 282 ===
+Unleash Spores. Zuggtmoy uses either her Infesta­
+tion Spores or her Mind Control Spores, centered
+on a mushroom or other fungus within her lair,
+instead of on herself.
+Regional Effects
+The region containing Zuggtmoy’s lair is warped
+by her magic, creating one or more of the follow­
+ing effects:
+Corrupted Nature. Within 6 miles of the lair, all
+Wisdom (Medicine) and Wisdom (Survival) checks
+have disadvantage.
+Fungal Infestation. Molds and fungi grow on sur­
+faces within 6 miles of the lair, even where they
+would normally find no purchase.
+Zuggtmoy
+Large Fiend (Demon), Chaotic Evil
+Armor Class 18 (natural armor)
+Hit Points 304 (32dl0 + 128)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 15 (+2) 18 (4-4) 20 (+5) 19 (4-4) 24 (+7)
+Saving Throws Dex 4-9, Con 4-11, Wis 4-11
+Skills Perception 4-11
+Damage Resistances cold, fire, lightning
+Damage Immunities poison; bludgeoning, piercing, and
+slashing that is nonmagical
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses truesight 120 ft., passive Perception 21
+Languages all, telepathy 120 ft.
+Challenge 23 (50,000 XP) Proficiency Bonus 4-7
+Legendary Resistance (3/Day). If Zuggtmoy fails a saving throw,
+she can choose to succeed instead.
+Magic Resistance. Zuggtmoy has advantage on saving throws
+against spells and other magical effects.
+Actions________________________________
+Multiattack. Zuggtmoy makes three Pseudopod attacks.
+Pseudopod. Melee Weapon Attack: 4-13 to hit, reach 10 ft.,
+one target. Hit: 15 (2d8 4- 6) force damage plus 9 (2d8) poi­
+son damage.
+Spellcasting. Zuggtmoy casts one of the following spells, re­
+quiring no material components and using Charisma as the
+spellcasting ability (spell save DC 22):
+At will: detect magic, locate animals or plants
+3/day each: dispel magic, entangle, plant growth
+1/day each: etherealness, teleport
+282 CHAPTER 2 | BESTIARY
+--col--
+Mutating Vegetation. Vegetation within 1 mile of
+the lair becomes infested with parasitic fungi,
+slowly mutating as it is overwhelmed.
+If Zuggtmoy dies, these effects fade over the course
+of IdlO days.
+Cultists of Zuggtmoy
+Zuggtmoy’s cultists are primarily mindless victims
+of her children’s strange spores. The spores burrow
+into a victim’s brain, turning it into a fanatic servitor.
+Each victim gains the Spore Kissed trait.
+Spore Kissed. This creature is immune to the charmed and
+frightened conditions. In addition, if it is reduced to 0 hit
+points, each creature within 10 feet of it takes poison damage
+equal to its number of Hit Dice.
+Bonus Actions
+Infestation Spores (3/Day). Zuggtmoy releases spores that
+burst out in a cloud that fills a 20-foot-radius sphere centered
+on her, and it lingers for 1 minute. Any creature in the cloud
+when it appears, or that enters it later, must make a DC 19
+Constitution saving throw. On a successful save, the creature
+can’t be infected by these spores for 24 hours. On a failed
+save, the creature is infected with a disease called the spores of
+Zuggtmoy, which lasts until the creature is cured of the disease
+or dies. While infected in this way, the creature can’t be rein­
+fected, and it must repeat the saving throw at the end of every
+24 hours, ending the infection on a success. On a failure, the
+infected creature’s body is slowly taken over by fungal growth,
+and after three such failed saves, the creature dies and is rean­
+imated as a spore servant if it’s a type of creature that can be
+(see the “Myconids” section in the Monster Manual).
+Mind Control Spores (Recharge 5-6). Zuggtmoy releases
+spores that burst out in a cloud that fills a 20-foot-radius
+sphere centered on her, and it lingers for 1 minute. Humanoids
+and Beasts in the cloud when it appears, or that enter it later,
+must make a DC 19 Wisdom saving throw. On a successful
+save, a creature can’t be infected by these spores for 24 hours.
+On a failed save, the creature is infected with a disease called
+the influence of Zuggtmoy for 24 hours. While infected in this
+way, the creature is charmed by her and can’t be reinfected by
+these spores.
+Reactions
+Protective Thrall. When Zuggtmoy is hit by an attack roll, one
+creature within 10 feet of her that is charmed by her is hit by
+the attack instead.
+Legendary Actions
+Zuggtmoy can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at a
+time and only at the end of another creature’s turn. Zuggtmoy
+regains spent legendary actions at the start of her turn.
+Attack. Zuggtmoy makes one Pseudopod attack.
+Exert Will. One creature charmed by Zuggtmoy that she can
+see must use its reaction, if available, to move up to its speed
+as she directs or to make one weapon attack against a target
+that she designates.
+
+=== PAGE 283 ===
+APPE
+M
+onste
+Stat Blocks by Creature Ty
+Aberrations Duergar screamer, 112
+Balhannoth, 55 Hellfire engine, 152
+Berbalang, 61 Marut, 173
+Choker, 76 Retriever, 209
+Cranium rat, 83 Steel predator, 232
+Death kiss, 85 Stone cursed, 233
+Derro, 91
+Dragons
+Derro savant, 92
+Guard drake, 151
+Elder brain, 120
+Kobold dragonshield, 163
+Gauth, 133
+Gazer, 134
+Elementals
+Mindwitness, 181
+Air elemental
+Morkoth, 186
+myrmidon, 122
+Neogi, 192
+Earth elemental
+Neogi hatchling, 191
+myrmidon, 122
+Neogi master, 192
+Elder tempest, 121
+Neothelid, 193
+Fire elemental
+Star spawn grue, 227
+myrmidon, 123
+Star spawn hulk, 227
+Firenewt warlock
+Star spawn larva mage, 228
+of Imix, 125
+Star spawn mangier, 229
+Firenewt warrior, 125
+Star spawn seer, 230
+Flail snail, 126
+Swarm of cranium rats, 83
+Frost salamander, 132
+Ulitharid, 249
+Leviathan, 171
+Phoenix, 206
+Beasts
+Water elemental
+Aurochs, 71
+myrmidon, 123
+Brontosaurus, 95
+Zaratan, 278
+Deep rothe, 71
+Deinonychus, 95
+Fey
+Dimetrodon, 95
+Annis hag, 47
+Dolphin, 97
+Autumn eladrin, 115
+Hadrosaurus, 96
+Bheur hag, 62
+Ox, 72
+Boggle, 65
+Quetzalcoatlus, 96
+Darkling, 84
+Stegosaurus, 96
+Darkling elder, 84
+Swarm of rot grubs, 237
+Dolphin delighter, 97
+Velociraptor, 96
+Hobgoblin devastator, 153
+Hobgoblin iron shadow, 154
+Celestials
+Korred, 166
+Ki-rin, 162
+Meenlock, 178
+Constructs Nilbog, 195
+Cadaver collector, 68 Quickling, 207
+Clockwork bronze scout, 79 Redcap, 208
+Clockwork iron cobra, 79 Spring eladrin, 116
+Clockwork oaken bolter, 80 Summer eladrin, 116
+Clockwork stone Winter eladrin, 117
+defender, 80 Yeth hound, 271
+Duergar hammerer, 112
+--col--
+ENDIX
+L
+er ists
+ype
+Fiends Giants
+Alkilith, 44 Cloud giant smiling one, 81
+Amnizu, 46 Dire troll, 246
+Armanite, 50 Fire giant dreadnought, 124
+Babau, 52 Frost giant everlast­
+Bael, 54 ing one, 131
+Baphomet, 58 Mouth of Grolantor, 187
+Barghest, 60 Ogre battering ram, 200
+Black abishai, 38 Ogre bolt launcher, 200
+Blue abishai, 39 Ogre chain brute, 201
+Bulezau, 67 Ogre howdah, 201
+Canoloth, 69 Rot troll, 247
+Demogorgon, 90 Spirit troll, 247
+Dhergoloth, 94 Stone giant dream­
+Draegloth, 98 walker, 234
+Dybbuk, 113 Storm giant quint-
+Flind, 127 essent, 235
+Fraz-Urb’luu, 129 Venom troll, 248
+Geryon, 136
+Graz’zt, 148
+Humanoids
+Green abishai, 40 Abjurer wizard, 260
+Howler, 155 Apprentice wizard, 259
+Hutijin, 157 Archdruid, 48
+Hydroloth, 158 Archer, 49
+Juiblex, 160 Bard, 59
+Maurezhi, 175 Blackguard, 63
+Maw demon, 176 Champion, 74
+Merregon, 179 Conjurer wizard, 260
+Merrenoloth, 180 Diviner wizard, 261
+Moloch, 183 Drow arachnomancer, 99
+Molydeus, 184 Drow favored consort, 100
+Nabassu, 188 Drow house captain, 101
+Narzugon, 190 Drow inquisitor, 102
+Nupperibo, 196 Drow matron mother, 104
+Oinoloth, 202 Drow shadowblade, 105
+Orcus, 204 Duergar despot, 107
+Orthon, 205 Duergar kavalrachni, 107
+Red abishai, 40 Duergar mind master, 108
+Rutterkin, 210 Duergar soulblade, 109
+Shoosuva, 216 Duergar stone guard, 110
+Sibriex, 217 Duergar warlord, 111
+Stench kow, 72 Duergar xarrorn, 111
+Tanarukk, 240 Enchanter wizard, 261
+Titivilus, 242 Evoker wizard, 262
+Vargouille, 251 Giff, 138
+Wastrilith, 258 Githyanki gish, 140
+Githyanki kith’rak, 140
+White abishai, 41
+Yagnoloth, 268 Githyanki supreme com­
+Yeenoghu,270 mander, 141
+Zariel, 280 Githzerai anarch, 142
+Zuggtmoy, 282
+APPENDIX | MONSTER LISTS
+
+=== PAGE 284 ===
+Githzerai enlightened, 143 Monstrosities
+Grung, 149 Adult kruthik, 169
+Grung elite warrior, 150 Angry sorrowsworn, 222
+Grung wildling, 150 Astral dreadnought, 51
+Illusionist wizard, 263 Banderhobb, 56
+Kobold inventor, 164 Catoblepas, 70

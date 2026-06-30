@@ -1,0 +1,500 @@
+turbing in their workmanship. His lair and those of
+his cultists are pleasure palaces where nothing is
+forbidden save moderation and kindness.
+Cults devoted to him are secret societies of indul­
+gence, often using their debauchery to subjugate
+others through blackmail, addiction, and manip­
+ulation. They wear alabaster masks with ecstatic
+expressions and ostentatious dress and body orna­
+mentation to their secret assignations.
+Although he prefers charm and subtle manipu­
+lation, Graz’zt is capable of terrible violence when
+provoked. He wields the greatsword Angdrelve, also
+called Wave of Sorrow, whose wavy, razor-edged
+blade drips acid at his command.
+Graz’zt’s Lair
+Graz’zt’s principal lair is his Argent Palace, a gran­
+diose structure in the city of Zelatar, found within
+his abyssal domain of Azzatar. Graz’zt’s demonic
+influence radiates outward in a tangible ripple,
+warping reality around him. Given enough time in a
+single location, Graz’zt can twist it with his power.
+Graz’zt’s lair is a den of ostentation and hedonism.
+It is adorned with finery and decorations so deca­
+dent that even the wealthiest of mortals would
+blush at the excess. Within Graz’zt’s lairs, dev­
+otees and subjects alike are forced to slake
+Graz’zt’s thirst for pageantry.
+--col--
+Lair Actions
+On initiative count 20 (losing initiative ties), Graz’zt
+can take one of the following lair actions; he can’t
+take the same lair action two rounds in a row:
+Command. Graz’zt casts the command spell on
+every creature of his choice in the lair. He needn't
+see each one, but he must be aware that an in­
+dividual is in the lair to target that creature. He
+issues the same command to all the targets.
+CHAPTER 2 | BESTIARY 147
+
+=== PAGE 148 ===
+^r«z'zt proved io be a plenii|ul Source o| magical
+energy. He seems to thmk there's Somethin wore
+between US- He'll eventually figure out the truth.
+TASHA
+Conjure Mirrors. Smooth surfaces within the lair
+become as reflective as a polished mirror. Until
+a different lair action is used, creatures within
+the lair have disadvantage on Dexterity (Stealth)
+checks made to hide.
+Regional Effects
+The region containing Graz’zt’s lair is warped by his
+magic, creating one or more of the following effects:
+Agitated Beasts. Wild beasts within 6 miles of the
+lair break into frequent conflicts and coupling,
+mirroring the behavior that occurs during their
+mating seasons.
+■ ■ ■ - -
+Graz’zt
+Large Fiend (Demon), Chaotic Evil
+Armor Class 20 (natural armor)
+Hit Points 346 (33dlO+ 165)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 15 (+2) 21 (+5) 23 (+6) 21 (+5) 26 (+8)
+Saving Throws Dex +9, Con +12, Wis +12
+Skills Deception +15, Insight+12, Perception +12,
+Persuasion +15
+Damage Resistances cold, fire, lightning
+Damage Immunities poison; bludgeoning, piercing, and
+slashing that is nonmagical
+Condition Immunities charmed, exhaustion, frightened,
+poisoned
+Senses truesight 120 ft., passive Perception 22
+Languages all, telepathy 120 ft.
+Challenge 24 (62,000 XP) Proficiency Bonus +7
+Legendary Resistance (3/Day). If Graz’zt fails a saving throw, he
+can choose to succeed instead.
+Magic Resistance. Graz’zt has advantage on saving throws
+against spells and other magical effects.
+Actions
+Multiattack. Graz’zt makes two Wave of Sorrow attacks. He
+can replace one attack with a use of Spellcasting.
+Wave of Sorrow (Creatsword). Melee Weapon Attack: +13 to hit,
+reach 10 ft., one target. Hit: 20 (4d6 + 6) force damage plus 14
+(4d6) acid damage.
+lz|.8 CHAPTER 2 | BESTIARY
+--col--
+Beguiling Realm. Within 6 miles of the lair, all Wis­
+dom (Insight) checks have disadvantage, and all
+Charisma (Deception) and Charisma (Persuasion)
+checks have advantage.
+Mirrors Everywhere. Flat surfaces within 1 mile
+of the lair that are made of stone or metal become
+highly reflective, as though polished to a shine.
+These surfaces become supernaturally mirrorlike.
+If Graz’zt dies, these effects fade over the course of
+Id 10 days.
+Cultists of Graz’zt
+Graz’zt grants his cultists special abilities. His cult­
+ists can gain the Joy from Pain trait, while his cult
+leaders can gain the Master of Pleasures trait.
+Joy from Pain. Whenever this creature suffers a critical hit, it
+can make one melee weapon attack as a reaction.
+Master of Pleasures. As a reaction when this creature takes
+damage, it can magically grant 5 temporary hit points to itself
+and up to three allies within 30 feet of it.
+Spellcasting. Craz’zt casts one of the following spells, requiring
+no material components and using Charisma as the spellcast­
+ing ability (spell save DC 23):
+At will: charm person, detect magic, dispel magic
+3/day each: darkness, dominate person, telekinesis, teleport
+1/day each: dominate monster, greater invisibility
+Teleport. Craz’zt teleports, along with any equipment he is
+wearing or carrying, up to 120 feet to an unoccupied space
+he can see.
+Bonus Actions
+Change Shape. Graz’zt transforms into a form that resembles a
+Medium Humanoid or back into his true form. Aside from his
+size, his statistics are the same in each form. Any equipment
+he is wearing or carrying isn’t transformed.
+Reactions
+Negate Spell (Recharge 5-6). Graz’zt tries to interrupt a spell
+he sees a creature casting within 60 feet of him. If the spell is
+3rd level or lower, the spell fails and has no effect. If the spell
+is 4th level or higher, Graz’zt makes a Charisma check against
+a DC of 10 + the spell’s level. On a success, the spell fails and
+has no effect.
+Legendary Actions
+Graz’zt can take 3 legendary actions, choosing from the op­
+tions below. Only one legendary action option can be used at
+a time and only at the end of another creature’s turn. Graz’zt
+regains spent legendary actions at the start of his turn.
+Abyssal Magic. Graz’zt uses Spellcasting or Teleport.
+Attack. Graz’zt makes one Wave of Sorrow attack.
+Dance, My Puppet! One creature charmed by Graz’zt that
+Graz’zt can see must use its reaction to move up to its speed
+as Graz’zt directs.
+
+=== PAGE 149 ===
+Grungs
+Grungs are frog-like folk found in rain forests and
+tropical jungles. These amphibians prefer shade
+and live in trees, but they maintain hatcheries for
+their offspring in well-guarded ground-level pools.
+About three months after hatching, a grung tadpole
+takes on the shape of an adult, and after another six
+months, the grung reaches maturity.
+Born in a wide range of colors, grungs most of­
+ten appear in shades of green, blue, purple, red,
+orange, and gold. All grungs secrete a substance
+that is harmless to them but poisonous to other
+creatures, and sometimes that substance has a spe­
+cial effect based on the grung’s color (see “Variant:
+Grung Poison”). They also use this venom to poison
+their weapons.
+Grung
+The grung stat block represents a typical grung war­
+rior or hunter, met either in a grung community or
+traveling elsewhere as a mercenary, game warden,
+guard, or bandit.
+Grung Elite Warrior
+A grung elite warrior typically leads a group of
+grung and other warriors into battle and is often ac­
+companied by a grung wildling.
+Grung Wildling
+Gifted with druidic magic, a grung wildling typ­
+ically serves as an advisor, a healer, and a nur-
+turer of crops.
+--col--
+Grung
+Small Humanoid, Any Alignment
+Armor Class 12
+Hit Points 11 (2d6 + 4)
+Speed 25 ft., climb 25 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 14 (+2) 15 (+2) 10 (+0) 11 (+0) 10 (+0)
+Saving Throws Dex +4
+Skills Athletics +2, Perception +2, Stealth +4, Survival +2
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 12
+Languages Grung
+Challenge 1/4 (50 XP) Proficiency Bonus +2
+Amphibious. The grung can breathe air and water.
+Poisonous Skin. Any creature that grapples the grung or oth­
+erwise comes into direct contact with the grung's skin must
+succeed on a DC 12 Constitution saving throw or become
+poisoned for 1 minute. A poisoned creature no longer in direct
+contact with the grung can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Standing Leap. The grung’s long jump is up to 25 feet and its
+high jump is up to 15 feet, with or without a running start.
+Water Dependency. If the grung isn’t immersed in water for
+at least 1 hour during a day, it suffers 1 level of exhaustion at
+the end of that day. The grung can recover from this exhaus­
+tion only through magic or by immersing itself in water for at
+least 1 hour.
+Actions
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 4 (1 d4 + 2) piercing damage
+plus 5 (2d4) poison damage.
+CHAPTER 2 | BESTIARY 149
+
+=== PAGE 150 ===
+Variant^Grung Poison
+A creature poisoned by a grung can suffer an addi­
+tional effect that depends on the grung’s color, as
+described below. This effect lasts until the creature
+is no longer poisoned by the grung.
+Blue Crung. The poisoned creature must make a loud noise at
+the start and end of its turn.
+Cold Crung. The creature is charmed by the grung and can
+speak Grung.
+Grung Elite Warrior
+Small Humanoid, Any Alignment
+Armor Class 13
+Hit Points 49 (9d6 + 18)
+Speed 25 ft., climb 25 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 16 (+3) 15 (+2) 10 (+0) 11 (+0) 12 (+1)
+Saving Throws Dex +5
+Skills Athletics +2, Perception +2, Stealth +5, Survival +2
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 12
+Languages Grung
+Challenge 2 (450 XP) Proficiency Bonus +2
+Amphibious. The grung can breathe air and water.
+Poisonous Skin. Any creature that grapples the grung or oth­
+erwise comes into direct contact with the grung’s skin must
+succeed on a DC 12 Constitution saving throw or become
+poisoned for 1 minute. A poisoned creature no longer in direct
+contact with the grung can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Standing Leap. The grung’s long jump is up to 25 feet and its
+high jump is up to 15 feet, with or without a running start.
+Water Dependency. If the grung isn’t immersed in water for
+at least 1 hour during a day, it suffers 1 level of exhaustion at
+the end of that day. The grung can recover from this exhaus­
+tion only through magic or by immersing itself in water for at
+least 1 hour.
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 5 (1 d4 + 3) piercing damage
+plus 5 (2d4) poison damage.
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft.,
+one target. Hit: 6 (1 d6 + 3) piercing damage plus 5 (2d4) poi­
+son damage.
+Mesmerizing Chirr (Recharge 6). The grung makes a chirring
+noise to which grungs are immune. Each Humanoid or Beast
+that is within 15 feet of the grung and able to hear it must suc­
+ceed on a DC 12 Wisdom saving throw or be stunned until the
+end of the grung’s next turn.
+CHAPTER 2 | BESTIARY
+--col--
+Creen Crung. The poisoned creature can't move except to
+climb or make standing jumps. If the creature is flying, it can’t
+take any actions or reactions unless it lands.
+Orange Crung. The poisoned creature is frightened of its allies.
+Purple Crung. The poisoned creature feels a desperate need to
+soak itself in liquid or mud. It can’t take actions or move except
+to do so or to reach a body of liquid or mud.
+Red Crung. The poisoned creature must use its action to eat if
+food is within reach.
+Grung Wildling
+Small Humanoid, Any Alignment
+Armor Class 16 (natural armor)
+Hit Points 27 (5d6 + 10)
+Speed 25 ft., climb 25 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 16 (+3) 15 (+2) 10 (+0) 15 (+2) 11 (+0)
+Saving Throws Dex +5
+Skills Athletics +2, Perception +4, Stealth +5, Survival +4
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 14
+Languages Grung
+Challenge 1 (200 XP) Proficiency Bonus +2
+Amphibious. The grung can breathe air and water.
+Poisonous Skin. Any creature that grapples the grung or oth­
+erwise comes into direct contact with the grung’s skin must
+succeed on a DC 12 Constitution saving throw or become
+poisoned for 1 minute. A poisoned creature no longer in direct
+contact with the grung can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+Standing Leap. The grung’s long jump is up to 25 feet and its
+high jump is up to 15 feet, with or without a running start.
+Water Dependency. If the grung isn’t immersed in water for
+at least 1 hour during a day, it suffers 1 level of exhaustion at
+the end of that day. The grung can recover from this exhaus­
+tion only through magic or by immersing itself in water for at
+least 1 hour.
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft.
+or range 20/60 ft., one target. Hit: 5 (1 d4 + 3) piercing damage
+plus 5 (2d4) poison damage.
+Shortbow. Ranged Weapon Attack: +5 to hit, range 80/320 ft.,
+one target. Hit: 6 (1 d6 + 3) piercing damage plus 5 (2d4) poi­
+son damage.
+Spellcasting. The grung casts one of the following spells, using
+Wisdom as the spellcasting ability (spell save DC 12):
+At will: druidcraft
+3/day each: cure wounds, spike growth
+2/day: plant growth
+
+=== PAGE 151 ===
+A guard drake is a reptilian creature created out of
+dragon scales by means of a bizarre and grisly rit­
+ual. When trained properly, a drake is obedient and
+territorial, which makes it an excellent watch beast
+that can follow simple commands.
+Tiamat’s cult practices the ritual to create guard
+drakes, as do other groups that are skilled in arcana
+and associated with Dragons. The ritual requires
+a chromatic dragon’s aid; the dragon typically
+helps to reward its allies or worshipers with a valu­
+able servant.
+The ritual, which takes several days, requires
+10 pounds of fresh dragon scales (donated by the
+dragon allied with the group), a large amount of
+fresh meat, and an iron cauldron. When the process
+is complete, a Small egg emerges from the cauldron
+and hatches within a few hours.
+A newly hatched guard drake imprints upon the
+first creature that feeds it (usually the one planning
+to train it), establishing an aggressive but trusting
+bond with that individual. A guard drake is fully
+grown within two to three weeks and can be trained
+in the same length of time. It is the equivalent of a
+guard dog in terms of what it can be trained to do.
+A guard drake resembles the type of dragon it was
+created from, but with a wingless, squat, muscular
+build. A drake can’t reproduce, nor can its scales be
+used to make other guard drakes.
+VARIANT: CHROMATIC DRAKES
+Each type of chromatic dragon’s scales creates a
+guard drake that resembles a wingless, stunted
+version of that type of dragon, with unique abilities
+related to that type. Each has the special features
+described below.
+--col--
+Black Guard Drake. The drake can breathe air and water, has a
+swimming speed of 30 feet, and has resistance to acid damage.
+Blue Guard Drake. The drake has a burrowing speed of 20 feet
+and resistance to lightning damage.
+Green Guard Drake. The drake can breathe air and water,
+has a swimming speed of 30 feet, and has resistance to poi­
+son damage.
+Red Guard Drake. The drake has climbing speed of 30 feet and
+resistance to fire damage.
+White Guard Drake. The drake has a burrowing speed
+of 20 feet, a climbing speed of 30 feet, and resistance to
+cold damage.
+Guard Drake
+Medium Dragon, Unaligned
+Armor Class 14 (natural armor)
+Hit Points 52 (7d8 + 21)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 11 (+0) 16 (+3) 4 (-3) 10 (+0) 7 (-2)
+Skills Perception +2
+Senses darkvision 60 ft., passive Perception 12
+Languages understands Draconic but can’t speak
+Challenge 2 (450 XP) Proficiency Bonus +2
+Actions
+Multiattack. The guard drake makes one Bite attack and one
+Tail attack.
+Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 7 (1 d8 + 3) piercing damage.
+Tail. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit:
+6 (1 d6 + 3) bludgeoning damage.
+CHAPTER 2 | BESTIARY 151
+
+=== PAGE 152 ===
+Hellfire Engine
+Hellfire engines are semiautonomous bringers
+of destruction. Amnizus (in this book) and other
+devilish generals hold them in reserve until they
+are needed to repel an incursion by demons or
+crusading mortals, but occasionally one of these
+magical-mechanical hybrids gets loose, driven ber­
+serk by its need to destroy.
+Hellfire engines take many forms, but all of them
+have one purpose: to mow down foes in waves. They
+are incapable of subtlety or trickery, but their de­
+structive capability is immense.
+Mortal creatures slain by hellfire engines are
+doomed to join the infernal legions in mere hours
+unless powerful magic-wielders intervene on their
+behalf. The archdukes of the Nine Hells would like
+nothing better than to modify this magic so it works
+against demons, too, but that discovery has eluded
+them so far.
+Hellfire Engine
+Huge Construct, Typically Lawful Evil
+Armor Class 18 (natural armor)
+Hit Points 216 (16dl2+ 112)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 16 (+3) 24 (+7) 2 (-4) 10 (+0) 1 (-5)
+Saving Throws Dex +8, Wis +5, Cha +0
+Damage Resistances cold, psychic; bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Damage Immunities fire, poison
+Condition Immunities charmed, deafened, exhaustion,
+frightened, paralyzed, poisoned, unconscious
+Senses darkvision 120 ft., passive Perception 10
+Languages understands Infernal but can’t speak
+Challenge 16 (15,000 XP) Proficiency Bonus +5
+Immutable Form. The hellfire engine is immune to any spell or
+effect that would alter its form.
+Magic Resistance. The hellfire engine has advantage on saving
+throws against spells and other magical effects.
+Unusual Nature. The hellfire engine doesn’t require air, food,
+drink, or sleep.
+Actions
+Flesh-Crushing Stride. The hellfire engine moves up to its
+speed in a straight line. During this move, it can enter Large or
+smaller creatures’ spaces. A creature whose space the hellfire
+engine enters must make a DC 18 Dexterity saving throw. On a
+successful save, the creature is pushed to the nearest space out
+of the hellfire engine’s path. On a failed save, the creature falls
+prone and takes 28 (8d6) bludgeoning damage.
+If the hellfire engine remains in the prone creature’s space,
+152 CHAPTER 2 | BESTIARY
+--col--
+the creature is also restrained until it's no longer in the same
+space as the hellfire engine. While restrained in this way, the
+creature, or another creature within 5 feet of it, can make a DC
+18 Strength check. On a success, the creature is shunted to an
+unoccupied space of its choice within 5 feet of the hellfire en­
+gine and is no longer restrained.
+Hellfire Weapons. The hellfire engine uses one of the following
+options (choose one or roll a d6):
+1-2: Bonemelt Sprayer. The hellfire engine spews acidic flame
+in a 60-foot cone. Each creature in the cone must make a DC
+20 Dexterity saving throw, taking 11 (2dl0) fire damage plus
+18 (4d8) acid damage on a failed save, or half as much dam­
+age on a successful one. Creatures that fail the saving throw
+are drenched in burning acid and take 5 (IdlO) fire damage
+plus 9 (2d8) acid damage at the end of their turns. An af­
+fected creature or another creature within 5 feet of it can take
+an action to scrape off the burning fuel.
+3-4: Lightning Flail. Melee Weapon Attack: +10 to hit, reach 15
+ft., one creature. Hit: 18 (3d8 + 5) bludgeoning damage plus
+22 (5d8) lightning damage. Up to three other creatures of
+the hellfire engine’s choice that it can see within 30 feet of
+the target must each make a DC 20 Dexterity saving throw,
+taking 22 (5d8) lightning damage on a failed save, or half as
+much damage on a successful one.
+5-6: Thunder Cannon. The hellfire engine targets a point within
+120 feet of it that it can see. Each creature within 30 feet of
+that point must make a DC 20 Dexterity saving throw, tak­
+ing 27 (5dl0) bludgeoning damage plus 19 (3dl2) thunder
+damage on a failed save, or half as much damage on a suc­
+cessful one.
+If the chosen option kills a creature, the creature’s soul rises
+from the River Styx as a lemure in Avernus in 1 d4 hours. If the
+creature isn’t revived before then, only a wish spell or killing the
+lemure and casting true resurrection on the creature’s original
+body can restore it to life. Constructs and devils are immune to
+this effect.
+
+=== PAGE 153 ===
+Hobgoblin Devastator
+Hobgoblins with a prodigious talent for magic
+sometimes undergo grueling training to become
+hobgoblin devastators. Devastators are spellcasters
+who call down fireballs and other destructive magic
+in the defense of the court they serve, whether that
+court is in the Feywild or the Material Plane. A hob­
+goblin devastator on the battlefield is a boon to their
+allies and a threat to every foe around them.
+Far from being cloistered academics, hobgoblin
+devastators are masters of the battlefield. In addi­
+tion to tactical applications of the magical arts, they
+learn the basics of weapon use, and they measure
+their deeds by the enemies defeated though their
+magic. They have the respect of other members of
+the host and receive obedience and deference from
+many quarters.
+In the Feywild, many archfey seek to bolster
+their armies’ might with the services of hobgoblin
+devastators.
+--col--
+COBLINOIDS OF THE FEYWILD
+The goblinoid peoples—goblins, hobgoblins, and
+bugbears—first appeared in the Feywild millennia ago,
+and they resided there until the god Maglubiyet con­
+quered them. They then spread throughout the multi­
+verse, with many of them ending up on the worlds of
+the Material Plane. Most goblinoids encountered on
+those worlds are members of families that have been
+away from the Feywild for centuries, and over time,
+those lineages have become Humanoid. Fey gobli­
+noids, who still bear the magic of the Feywild, are rare
+on the Material Plane but not unheard of. Hobgoblin
+devastators are examples of such Fey folk, as are hob­
+goblin iron shadows and nilbogs (also in this book).
+I-------------------------------------------------------------------------------------------------------------------------
