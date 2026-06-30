@@ -25,7 +25,7 @@ Willkommen im Wiki. Wähle ein Buch aus der Seitenleiste oder nutze die Suche.
 ## Schnellzugriff
 
 - [[Cheatcode_Charaktererstellung/00_Übersicht|Charaktererstellung – Schritt für Schritt]]
-- [Charakter-Editor (Auto-Fill Charakterbogen)](static/charakter-editor.html)
+- <a href="static/charakter-editor.html" data-router-ignore>Charakter-Editor (Auto-Fill Charakterbogen)</a>
 
 ## PDFs zum Download
 

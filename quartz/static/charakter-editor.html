@@ -33,6 +33,7 @@
 
 <fieldset class="no-print">
   <div class="grid">
+    <div><label for="charname">Name</label><input type="text" id="charname" value=""></div>
     <div><label for="species">Spezies</label><select id="species"></select></div>
     <div><label for="klasse">Klasse</label><select id="klasse"></select></div>
     <div><label for="level">Stufe</label><input type="number" id="level" min="1" max="20" value="1"></div>
@@ -49,6 +50,8 @@
 </fieldset>
 
 <button id="printBtn" class="no-print" onclick="window.print()">Charakterbogen drucken / als PDF speichern</button>
+<button id="pdfBtn" class="no-print" onclick="fillPdf()">Charakterbogen-PDF ausfüllen &amp; herunterladen</button>
+<script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
 
 <div id="sheet"></div>
 
@@ -110,6 +113,81 @@ function render() {
     ${talenteHtml}
     <p><small>Buch: ${sp.buch} / ${cl.buch}. Keine Unterklassen-Auswahl in dieser Version.</small></p>
   `;
+}
+
+// Feld-Mapping für Charakterbogen_fanversion_..._nimboline.pdf (fan-made, open-source)
+const ABILITY_FIELDS = {
+  str: { score: "020 Stärkewert", mod: "021 Stärkemodifikator", save: "023 Stärke Rettungswurf", saveOpt: "022 Option Stärke Rettungswurf" },
+  dex: { score: "030 Geschicklichkeitswert", mod: "031 Geschicklichkeitsmodifikator", save: "033 Geschicklichkeit Rettungswurf", saveOpt: "032 Option Geschicklichkeit Rettungswurf" },
+  con: { score: "040 Konstitutionswert", mod: "041 Konstitutionsmodifikator", save: "043 Konstitutions Rettungswurf", saveOpt: "042 Option Konstitutions Rettungswurf" },
+  int: { score: "050 Intelligenzwert", mod: "051 Intelligenzmodifikator", save: "053 Intelligenz Rettungswurf", saveOpt: "052 Option Intelligenz Rettungswurf" },
+  wis: { score: "070 Weisheitswert", mod: "071 Weisheitsmodifikator", save: "073 Weisheit Rettungswurf", saveOpt: "072 Option Weisheit Rettungswurf" },
+  cha: { score: "090 Charismawert", mod: "091 Charismamodifikator", save: "093 Charisma Rettungswurf", saveOpt: "092 Option Charisma Rettungswurf" },
+};
+const SLOT_FIELDS = ["420 Stufe 1 Slots", "450 Stufe 2 Slots", "480 Stufe 3 Slots", "510 Stufe 4 Slots", "540 Stufe 5 Slots", "560 Stufe 6 Slots", "580 Stufe 7 Slots", "600 Stufe 8 Slots", "620 Stufe 9 Slots"];
+function profBonus(level) { return Math.ceil(level / 4) + 1; }
+
+async function fillPdf() {
+  const spKey = document.getElementById("species").value;
+  const clKey = document.getElementById("klasse").value;
+  const level = Math.max(1, Math.min(20, parseInt(document.getElementById("level").value, 10) || 1));
+  const sp = species[spKey], cl = classes[clKey];
+  if (!sp || !cl) return;
+
+  const abilities = {};
+  for (const k of Object.keys(MOD_NAMES)) abilities[k] = parseInt(document.getElementById(k).value, 10) || 10;
+  const conMod = mod(abilities.con);
+  const faces = hitDieFaces(cl.trefferwuerfel);
+  let hp = faces + conMod;
+  for (let l = 2; l <= level; l++) hp += avgPerLevel(faces) + conMod;
+  const pb = profBonus(level);
+
+  const bytes = await fetch("dnd-data/charakterbogen_template.pdf").then(r => r.arrayBuffer());
+  const { PDFDocument } = PDFLib;
+  const pdfDoc = await PDFDocument.load(bytes);
+  const form = pdfDoc.getForm();
+
+  function setText(name, value) {
+    try { form.getTextField(name).setText(String(value)); } catch (e) { /* ponytail: Feld fehlt/anders typisiert, überspringen */ }
+  }
+  function check(name) {
+    try { form.getCheckBox(name).check(); } catch (e) { /* siehe oben */ }
+  }
+
+  setText("001 Charaktername", document.getElementById("charname").value || "");
+  setText("300 Charaktername", document.getElementById("charname").value || "");
+  setText("002 Klasse", clKey);
+  setText("005 Rasse", spKey);
+  setText("007 Level", level);
+  setText("123 Maximale Lebenspunkte", hp);
+  setText("129 Bewegung", sp.tempo);
+
+  for (const [k, f] of Object.entries(ABILITY_FIELDS)) {
+    setText(f.score, abilities[k]);
+    setText(f.mod, fmtMod(mod(abilities[k])));
+    const proficient = cl.rettungswuerfe.includes(MOD_NAMES[k]);
+    setText(f.save, fmtMod(mod(abilities[k]) + (proficient ? pb : 0)));
+    if (proficient) check(f.saveOpt);
+  }
+
+  if (cl.spellcasting && cl.spellcasting.typ === "Paktmagie") {
+    const pm = cl.spellcasting.paktmagie[String(level)];
+    setText("400 Magieklasse", clKey);
+    setText("401 Magieattribut", cl.spellcasting.attribut);
+    setText(SLOT_FIELDS[pm.slotstufe - 1], pm.slots);
+  } else if (cl.spellcasting) {
+    setText("400 Magieklasse", clKey);
+    setText("401 Magieattribut", cl.spellcasting.attribut);
+    const slots = cl.spellcasting.slots[String(level)] || [];
+    slots.forEach((n, i) => setText(SLOT_FIELDS[i], n));
+  }
+
+  const outBytes = await pdfDoc.save();
+  const blob = new Blob([outBytes], { type: "application/pdf" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `Charakterbogen_${(document.getElementById("charname").value || spKey + "_" + clKey).replace(/\s+/g, "_")}.pdf`;
+  a.click();
 }
 
 Promise.all([
