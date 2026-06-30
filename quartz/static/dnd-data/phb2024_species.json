@@ -5,8 +5,8 @@
     "tempo": 9,
     "talente": [
       { "name": "Erfindungsreich", "text": "Du erhältst Heldenhafte Inspiration, wann immer du eine Lange Rast beendest." },
-      { "name": "Geschickt", "text": "Du erhältst Übung in einer Fertigkeit deiner Wahl. (Achtung: nicht zu verwechseln mit dem gleichnamigen Ursprungstalent „Geschickt/Skilled\", das 3 Fertigkeiten gibt — das hier ist nur 1.)", "wahl": "z. B. Wahrnehmung" },
-      { "name": "Vielseitig", "text": "Du erhältst ein Ursprungs-Talent deiner Wahl (siehe Kapitel 5).", "wahl": "z. B. Geschickt (Skilled)" }
+      { "name": "Geschickt (Skillful)", "text": "Spezies-Merkmal, automatisch ab Stufe 1: Übung in 1 Fertigkeit deiner Wahl.", "wahl": "z. B. Wahrnehmung" },
+      { "name": "Vielseitig (Versatile)", "text": "Spezies-Merkmal, automatisch ab Stufe 1: ein frei wählbares Ursprungstalent (Kapitel 5). Buch empfiehlt das Ursprungstalent „Geschickt/Skilled\" (gibt zusätzlich 3 Fertigkeiten/Werkzeuge) — du kannst aber jedes andere Ursprungstalent wählen.", "wahl": "z. B. Geschickt (Skilled) – 3 Fertigkeiten/Werkzeuge" }
     ]
   },
   "Elf": {
