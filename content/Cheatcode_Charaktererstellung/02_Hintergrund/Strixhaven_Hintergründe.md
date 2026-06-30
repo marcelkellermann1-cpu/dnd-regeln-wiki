@@ -34,5 +34,5 @@ Jeder Hintergrund gewährt:
 ## Siehe auch
 
 - [[00_Übersicht|Übersicht Erweiterungs-Hintergründe]]
-- [[Strixhaven_Spezies|Strixhaven-Spezies]]
+- [[../03_Spezies/00_Übersicht|Spezies-Übersicht (alle Bücher)]]
 - [[00_Übersicht|Origin-Übersicht]]

@@ -25,5 +25,5 @@ Jeder Hintergrund schlägt ein **Dark Gift-Talent** vor (z. B. *Gathered Whisper
 ## Siehe auch
 
 - [[00_Übersicht|Übersicht Erweiterungs-Hintergründe]]
-- [[Ravenloft_Spezies|Ravenloft-Spezies]]
+- [[../03_Spezies/00_Übersicht|Spezies-Übersicht (alle Bücher)]]
 - [[00_Übersicht|Origin-Übersicht]]

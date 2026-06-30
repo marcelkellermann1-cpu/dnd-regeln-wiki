@@ -27,5 +27,5 @@ Auch Nicht-Dragonlance-Hintergründe erhalten in einer Krynn-Kampagne auf Stufe 
 ## Siehe auch
 
 - [[00_Übersicht|Übersicht Erweiterungs-Hintergründe]]
-- [[Dragonlance_Spezies|Dragonlance-Spezies]]
+- [[../03_Spezies/00_Übersicht|Spezies-Übersicht (alle Bücher)]]
 - [[00_Übersicht|Origin-Übersicht]]

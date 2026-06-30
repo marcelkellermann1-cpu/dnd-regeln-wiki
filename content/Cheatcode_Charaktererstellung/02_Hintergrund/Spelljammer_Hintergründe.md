@@ -28,5 +28,5 @@ Jeder Hintergrund hat:
 ## Siehe auch
 
 - [[00_Übersicht|Übersicht Erweiterungs-Hintergründe]]
-- [[Spelljammer_Spezies|Spelljammer-Spezies]]
+- [[../03_Spezies/00_Übersicht|Spezies-Übersicht (alle Bücher)]]
 - [[00_Übersicht|Origin-Übersicht]]
