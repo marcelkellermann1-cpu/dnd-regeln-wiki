@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Meta/Plan, DnD/Index]
 typ: Masterplan
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 stand: 2026-06-28
 ---
 # 📚 Ravenloft: Die Schrecken darin – Masterplan

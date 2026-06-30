@@ -2,7 +2,7 @@
 tags: [DnD/Ravenloft, Subklasse, Klasse/Hexenmeister]
 typ: Subklasse
 klasse: [[Hexenmeister]]
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Undead Patron", "Undead"]
 stand: 2026-06-28
 ---

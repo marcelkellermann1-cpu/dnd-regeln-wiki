@@ -2,7 +2,7 @@
 tags: [DnD/Ravenloft, Subklasse, Klasse/Waldläufer]
 typ: Subklasse
 klasse: [[Waldläufer]]
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Hollow Warden", "Hollow Warden"]
 stand: 2026-06-28
 ---

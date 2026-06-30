@@ -2,7 +2,7 @@
 tags: [DnD/Ravenloft, Subklasse, Klasse/Barde]
 typ: Subklasse
 klasse: [[Barde]]
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["College of Spirits", "Spirits"]
 stand: 2026-06-28
 ---

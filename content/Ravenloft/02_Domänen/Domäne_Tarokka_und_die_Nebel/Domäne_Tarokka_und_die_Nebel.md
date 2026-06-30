@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Domäne]
 typ: Domäne
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Tarokka and the Mists", "Tarokka und die Nebel"]
 stand: 2026-06-28
 ---

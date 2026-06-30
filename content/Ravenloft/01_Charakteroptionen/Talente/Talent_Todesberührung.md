@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Talent, Kategorie/DG]
 typ: Talent
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Touch of Death", "Todesberührung"]
 stand: 2026-06-28
 ---

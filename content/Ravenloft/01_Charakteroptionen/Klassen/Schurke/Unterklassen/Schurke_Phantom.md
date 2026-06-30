@@ -2,7 +2,7 @@
 tags: [DnD/Ravenloft, Subklasse, Klasse/Schurke]
 typ: Subklasse
 klasse: [[Schurke]]
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Phantom", "Phantom"]
 stand: 2026-06-28
 ---

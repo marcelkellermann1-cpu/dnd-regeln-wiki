@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Domäne]
 typ: Domäne
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Leitfaden zu den Domänen von Ravenloft", "Anleitung für die Ravenloft-Domänen"]
 stand: 2026-06-28
 ---

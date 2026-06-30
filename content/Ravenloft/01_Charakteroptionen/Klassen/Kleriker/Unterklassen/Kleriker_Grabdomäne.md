@@ -2,7 +2,7 @@
 tags: [DnD/Ravenloft, Subklasse, Klasse/Kleriker]
 typ: Subklasse
 klasse: [[Kleriker]]
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Grave Domain", "Grave"]
 stand: 2026-06-28
 ---

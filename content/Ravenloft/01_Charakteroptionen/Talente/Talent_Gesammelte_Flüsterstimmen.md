@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Talent, Kategorie/DG]
 typ: Talent
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Gathered Whispers", "Gesammelte Flüsterstimmen"]
 stand: 2026-06-28
 ---

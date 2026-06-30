@@ -1,7 +1,7 @@
 ---
 tags: [DnD/Ravenloft, Hintergrund]
 typ: Hintergrund
-quelle: Ravenloft: Die Schrecken darin (2025)
+quelle: "Ravenloft: Die Schrecken darin (2025)"
 aliases: ["Investigator", "Ermittler"]
 stand: 2026-06-28
 ---
