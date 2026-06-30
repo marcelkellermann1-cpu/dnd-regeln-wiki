@@ -40,7 +40,7 @@ export default (() => {
       <head>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){var p="hierdeinpasswort";if(sessionStorage.getItem("dndpw")===p)return;while(prompt("Passwort:")!==p){}sessionStorage.setItem("dndpw",p);})();`,
+            __html: `(function(){var p="dnd2024";if(sessionStorage.getItem("dndpw")===p)return;while(prompt("Passwort:")!==p){}sessionStorage.setItem("dndpw",p);})();`,
           }}
         />
         <title>{title}</title>
