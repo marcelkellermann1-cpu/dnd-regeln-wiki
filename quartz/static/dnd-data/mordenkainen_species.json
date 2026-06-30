@@ -1,0 +1,746 @@
+{
+  "Aarakocra": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Flug",
+        "text": "Fluggeschwindigkeit entspricht der Bewegungsrate zu Fuß; nicht nutzbar in mittelschwerer oder schwerer Rüstung."
+      },
+      {
+        "name": "Klauen",
+        "text": "Waffenloser Angriff mit Klauen: 1W6 + Stärkemodifikator Hiebschaden."
+      },
+      {
+        "name": "Windrufer",
+        "text": "Ab Stufe 3 kannst du Windstoß ohne materielle Komponente wirken, einmal pro lange Rast (auch mit Zauberplätzen)."
+      }
+    ]
+  },
+  "Bugbear": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Langgliedrig",
+        "text": "Reichweite für Nahkampfangriffe in deinem Zug +5 Fuß."
+      },
+      {
+        "name": "Kräftiger Körperbau",
+        "text": "Zählst als eine Größe größer für Tragfähigkeit und Schieben/Ziehen/Heben."
+      },
+      {
+        "name": "Heimlich",
+        "text": "Übung in Heimlichkeit; kannst dich ungezwängt durch Räume bewegen, die für Kleine Kreaturen gedacht sind."
+      },
+      {
+        "name": "Überraschungsangriff",
+        "text": "Zusätzlich 2W6 Schaden gegen eine Kreatur, die im Kampf noch keinen Zug hatte, wenn du sie triffst."
+      }
+    ]
+  },
+  "Centaur": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 12,
+    "talente": [
+      {
+        "name": "Sturmangriff (Charge)",
+        "text": "Nach 30 Fuß geradem Anlauf und Treffer mit Nahkampfwaffe: Bonusaktion-Hufangriff gegen dasselbe Ziel."
+      },
+      {
+        "name": "Pferdehafter Körperbau",
+        "text": "Zählst als eine Größe größer für Tragfähigkeit/Schieben/Ziehen; Klettern mit Händen/Füßen kostet 4x Bewegung statt 1x."
+      },
+      {
+        "name": "Hufe",
+        "text": "Waffenloser Angriff mit Hufen: 1W6 + Stärkemodifikator Wuchtschaden."
+      },
+      {
+        "name": "Natürliche Affinität",
+        "text": "Übung in einer Fertigkeit deiner Wahl: Mit Tieren umgehen, Medizin, Naturkunde oder Überleben."
+      }
+    ]
+  },
+  "Changeling (Wechselbalg)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Wechselbalg-Instinkte",
+        "text": "Übung in zwei Fertigkeiten aus Täuschung, Einsicht, Einschüchterung, Auftreten oder Überreden."
+      },
+      {
+        "name": "Gestaltwandler",
+        "text": "Aktion, um Aussehen, Stimme und Größe (Mittel/Klein) zu ändern; Spielwerte bleiben gleich, Ausrüstung ändert sich nicht. Hält bis erneuter Wechsel oder Tod."
+      }
+    ]
+  },
+  "Tiefengnom (Deep Gnome / Svirfneblin)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 120 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Geschenk der Svirfneblin",
+        "text": "Ab Stufe 3 Selbstverwandlung, ab Stufe 5 zusätzlich Nichtaufspürbarkeit ohne materielle Komponente, je einmal pro lange Rast."
+      },
+      {
+        "name": "Gnomischer Magiewiderstand",
+        "text": "Vorteil bei Intelligenz-, Weisheits- und Charisma-Rettungswürfen gegen Zauber."
+      },
+      {
+        "name": "Svirfneblin-Tarnung",
+        "text": "Heimlichkeitsproben mit Vorteil, nutzbar so oft wie Befähigungsbonus pro lange Rast."
+      }
+    ]
+  },
+  "Duergar": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 120 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Duergar-Magie",
+        "text": "Ab Stufe 3 Vergrößern/Verkleinern (auf dich selbst), ab Stufe 5 zusätzlich Unsichtbarkeit (auf dich selbst), ohne materielle Komponente, je einmal pro lange Rast."
+      },
+      {
+        "name": "Zwergische Zähigkeit",
+        "text": "Vorteil bei Rettungswürfen gegen Vergiftet; Widerstand gegen Giftschaden."
+      },
+      {
+        "name": "Psionische Stärke",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert und Betäubt."
+      }
+    ]
+  },
+  "Eladrin": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Feenschritt",
+        "text": "Bonusaktion-Teleport bis 30 Fuß, Nutzungen = Befähigungsbonus pro lange Rast. Ab Stufe 3 zusätzlicher Effekt je nach gewählter Jahreszeit (Herbst: bezaubert Gegner; Winter: ängstigt Gegner; Frühling: teleportiert Verbündeten statt dir; Sommer: Feuerschaden an Nahkampf-Gegnern)."
+      },
+      {
+        "name": "Scharfe Sinne",
+        "text": "Übung in Wahrnehmung."
+      },
+      {
+        "name": "Trance",
+        "text": "Kein Schlaf nötig; lange Rast in 4 Std. Trance. Beim Beenden: Jahreszeit wechselbar, zwei neue Waffen-/Werkzeugübungen bis zur nächsten langen Rast."
+      }
+    ]
+  },
+  "Fee (Fairy)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Feenmagie",
+        "text": "Beherrschst Druidenkraut; ab Stufe 3 Feenfeuer, ab Stufe 5 zusätzlich Vergrößern/Verkleinern, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Flug",
+        "text": "Fluggeschwindigkeit entspricht der Bewegungsrate zu Fuß; nicht nutzbar in mittelschwerer oder schwerer Rüstung."
+      }
+    ]
+  },
+  "Firbolg": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Firbolg-Magie",
+        "text": "Magie entdecken und Selbstverwandlung (bis ±3 Fuß Größe) wirkbar, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Verborgener Schritt",
+        "text": "Bonusaktion: unsichtbar bis Beginn nächsten Zuges oder bis Angriff/Schaden/Rettungswurf-Erzwingung; Nutzungen = Befähigungsbonus pro lange Rast."
+      },
+      {
+        "name": "Kräftiger Körperbau",
+        "text": "Zählst als eine Größe größer für Tragfähigkeit und Schieben/Ziehen/Heben."
+      },
+      {
+        "name": "Sprache von Tier und Blatt",
+        "text": "Begrenzte Kommunikation mit Tieren und Pflanzen; Vorteil bei Charisma-Proben, um sie zu beeinflussen."
+      }
+    ]
+  },
+  "Luftgenasi (Air Genasi)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 10.5,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Unendlicher Atem",
+        "text": "Kannst den Atem unbegrenzt anhalten, solange nicht handlungsunfähig."
+      },
+      {
+        "name": "Blitzwiderstand",
+        "text": "Widerstand gegen Blitzschaden."
+      },
+      {
+        "name": "Mit dem Wind vermischen",
+        "text": "Beherrschst Schockgriff; ab Stufe 3 Federfall, ab Stufe 5 zusätzlich Schweben ohne materielle Komponente, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      }
+    ]
+  },
+  "Erdgenasi (Earth Genasi)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Erdwanderung",
+        "text": "Bewegung über schwieriges Gelände am Boden ohne zusätzliche Bewegungskosten."
+      },
+      {
+        "name": "Mit Stein verschmelzen",
+        "text": "Beherrschst Klingenschutz, zusätzlich als Bonusaktion nutzbar (Nutzungen = Befähigungsbonus pro lange Rast). Ab Stufe 5 Spurloses Fortbewegen ohne materielle Komponente, einmal pro lange Rast (auch mit Zauberplätzen)."
+      }
+    ]
+  },
+  "Feuer-Genasi (Fire Genasi)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feuerwiderstand",
+        "text": "Widerstand gegen Feuerschaden."
+      },
+      {
+        "name": "Reichweite zur Flamme",
+        "text": "Beherrschst Flammen erzeugen; ab Stufe 3 Brennende Hände, ab Stufe 5 zusätzlich Flammenklinge ohne materielle Komponente, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      }
+    ]
+  },
+  "Wassergenasi (Water Genasi)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Schwimmgeschwindigkeit",
+        "text": "Schwimmgeschwindigkeit entspricht der Bewegungsrate zu Fuß."
+      },
+      {
+        "name": "Säurewiderstand",
+        "text": "Widerstand gegen Säureschaden."
+      },
+      {
+        "name": "Amphibisch",
+        "text": "Kannst Luft und Wasser atmen."
+      },
+      {
+        "name": "Ruf zur Welle",
+        "text": "Beherrschst Säurespritzer; ab Stufe 3 Wasser erzeugen/zerstören, ab Stufe 5 zusätzlich Wasserwandeln ohne materielle Komponente, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      }
+    ]
+  },
+  "Githyanki": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Astrales Wissen",
+        "text": "Bei jeder langen Rast: Übung in einer Fertigkeit und einer Waffe/einem Werkzeug deiner Wahl bis zur nächsten langen Rast."
+      },
+      {
+        "name": "Githyanki-Psionik",
+        "text": "Beherrschst Magierhand (unsichtbar); ab Stufe 3 Sprung, ab Stufe 5 zusätzlich Nebelschritt, je einmal pro lange Rast, ohne Komponenten (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Psychische Widerstandskraft",
+        "text": "Widerstand gegen psychischen Schaden."
+      }
+    ]
+  },
+  "Githzerai": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Githzerai-Psionik",
+        "text": "Beherrschst Magierhand (unsichtbar); ab Stufe 3 Schild, ab Stufe 5 zusätzlich Gedanken lesen, je einmal pro lange Rast, ohne Komponenten (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Mentale Disziplin",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert und Verängstigt."
+      },
+      {
+        "name": "Psychische Widerstandskraft",
+        "text": "Widerstand gegen psychischen Schaden."
+      }
+    ]
+  },
+  "Goblin": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Wut des Kleinen",
+        "text": "Zusätzlicher Schaden (= Befähigungsbonus) gegen größere Kreaturen; Nutzungen = Befähigungsbonus pro lange Rast, max. 1x pro Zug."
+      },
+      {
+        "name": "Wendige Flucht",
+        "text": "Sich zurückziehen oder Verbergen als Bonusaktion."
+      }
+    ]
+  },
+  "Goliath (Mordenkainen)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Kleiner Riese",
+        "text": "Übung in Athletik; zählst als eine Größe größer für Tragfähigkeit und Schieben/Ziehen/Heben."
+      },
+      {
+        "name": "Im Gebirge geboren",
+        "text": "Widerstand gegen Kälteschaden; natürliche Akklimatisierung an große Höhen über 6.000 m."
+      },
+      {
+        "name": "Stein-Ausdauer",
+        "text": "Reaktion: W12 + Konstitutionsmodifikator als Schadensreduktion bei erlittenem Schaden; Nutzungen = Befähigungsbonus pro lange Rast."
+      }
+    ]
+  },
+  "Harengon (Hasenmensch)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Hasenreflexe",
+        "text": "Befähigungsbonus auf Initiativewürfe addieren."
+      },
+      {
+        "name": "Leporine Sinne",
+        "text": "Übung in Wahrnehmung."
+      },
+      {
+        "name": "Glücksbringende Fußarbeit",
+        "text": "Bei misslungenem Geschicklichkeitsrettungswurf: Reaktion, W4 addieren (nicht bei 0 Bewegung oder liegend)."
+      },
+      {
+        "name": "Hasensprung",
+        "text": "Bonusaktion: Sprung um 5x Befähigungsbonus in Fuß ohne Gelegenheitsangriffe; Nutzungen = Befähigungsbonus pro lange Rast."
+      }
+    ]
+  },
+  "Hobgoblin": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Feengeschenk",
+        "text": "Helfen als Bonusaktion, Nutzungen = Befähigungsbonus pro lange Rast. Ab Stufe 3 Wahl zwischen Gastfreundschaft (temp. TP), Reise (+10 Fuß Bewegung) oder Tücke (Nachteil auf nächsten Angriff des Ziels)."
+      },
+      {
+        "name": "Glück der Vielen",
+        "text": "Bonus auf misslungenen Wurf = Anzahl sichtbarer Verbündeter im Umkreis von 30 Fuß (max. +3); Nutzungen = Befähigungsbonus pro lange Rast."
+      }
+    ]
+  },
+  "Kenku": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Meisterhafte Nachahmung",
+        "text": "Vorteil bei Fertigkeitsproben zum exakten Kopieren von Schriften oder Handwerksarbeiten."
+      },
+      {
+        "name": "Kenku-Erinnerung",
+        "text": "Übung in zwei Fertigkeiten; zusätzlich Vorteil auf geübte Fertigkeitsproben, Nutzungen = Befähigungsbonus pro lange Rast."
+      },
+      {
+        "name": "Nachahmung",
+        "text": "Kannst gehörte Geräusche/Stimmen exakt imitieren; Erkennung nur durch Weisheitsprobe (Einsicht) gegen SG 8 + Befähigungsbonus + Charismamodifikator."
+      }
+    ]
+  },
+  "Kobold": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Drakonischer Schrei",
+        "text": "Bonusaktion: Vorteil für dich und Verbündete bei Angriffen gegen Feinde im Umkreis von 10 Fuß, die dich hören; Nutzungen = Befähigungsbonus pro lange Rast."
+      },
+      {
+        "name": "Kobold-Vermächtnis",
+        "text": "Wahl: Geschicklichkeit (Übung in einer Wissens-/Geschicklichkeitsfertigkeit), Trotz (Vorteil gegen Verängstigt) oder Drakonische Zauberei (ein Zaubertrick aus der Zaubererliste)."
+      }
+    ]
+  },
+  "Echsenmensch (Lizardfolk)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Schwimmgeschwindigkeit",
+        "text": "Schwimmgeschwindigkeit entspricht der Bewegungsrate zu Fuß."
+      },
+      {
+        "name": "Biss",
+        "text": "Waffenloser Angriff mit Maul: 1W6 + Stärkemodifikator Hiebschaden."
+      },
+      {
+        "name": "Atem anhalten",
+        "text": "Kannst den Atem bis zu 15 Minuten anhalten."
+      },
+      {
+        "name": "Hungriges Gebiss",
+        "text": "Bonusaktion-Bissangriff: bei Treffer zusätzlich temporäre TP = Befähigungsbonus; Nutzungen = Befähigungsbonus pro lange Rast."
+      },
+      {
+        "name": "Natürliche Rüstung",
+        "text": "Ohne Rüstung Grund-RK 13 + Geschicklichkeitsmodifikator; Schild kann kombiniert werden."
+      },
+      {
+        "name": "Naturinstinkt",
+        "text": "Übung in zwei Fertigkeiten aus Mit Tieren umgehen, Medizin, Naturkunde, Wahrnehmung, Heimlichkeit oder Überleben."
+      }
+    ]
+  },
+  "Minotaurus": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Hörner",
+        "text": "Waffenloser Angriff mit Hörnern: 1W6 + Stärkemodifikator Stichschaden."
+      },
+      {
+        "name": "Aufspießender Sturm",
+        "text": "Nach Sturmangriff (Dash) mit mind. 20 Fuß Bewegung: Bonusaktion-Hornangriff."
+      },
+      {
+        "name": "Hammernde Hörner",
+        "text": "Nach Treffer im Nahkampf: Bonusaktion, um Ziel (max. eine Größe größer) bei misslungenem Stärke-Rettungswurf (SG 8 + Befähigungsbonus + Stärkemodifikator) bis zu 10 Fuß wegzustoßen."
+      },
+      {
+        "name": "Labyrinth-Gedächtnis",
+        "text": "Weißt immer, wo Norden ist; Vorteil bei Weisheitsproben (Überleben) zum Navigieren oder Spurenlesen."
+      }
+    ]
+  },
+  "Satyr": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 10.5,
+    "talente": [
+      {
+        "name": "Widder",
+        "text": "Waffenloser Angriff mit Kopf/Hörnern: 1W6 + Stärkemodifikator Wuchtschaden."
+      },
+      {
+        "name": "Magiewiderstand",
+        "text": "Vorteil bei Rettungswürfen gegen Zauber."
+      },
+      {
+        "name": "Fröhliche Sprünge",
+        "text": "Bei Weit-/Hochsprung zusätzlich W8 Fuß Distanz (kostet normale Bewegung)."
+      },
+      {
+        "name": "Zecher",
+        "text": "Übung in Auftreten, Überreden und einem Musikinstrument deiner Wahl."
+      }
+    ]
+  },
+  "Seeelf (Sea Elf)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Schwimmgeschwindigkeit",
+        "text": "Schwimmgeschwindigkeit entspricht der Bewegungsrate zu Fuß."
+      },
+      {
+        "name": "Kind des Meeres",
+        "text": "Kannst Luft und Wasser atmen; Widerstand gegen Kälteschaden."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Freund des Meeres",
+        "text": "Einfache Kommunikation mit aquatischen Tieren (nur einseitig verstanden)."
+      },
+      {
+        "name": "Scharfe Sinne",
+        "text": "Übung in Wahrnehmung."
+      },
+      {
+        "name": "Trance",
+        "text": "Kein Schlaf nötig; lange Rast in 4 Std. Trance. Dabei zwei neue Waffen-/Werkzeugübungen bis zur nächsten langen Rast."
+      }
+    ]
+  },
+  "Shadar-kai": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Segen der Rabenkönigin",
+        "text": "Bonusaktion-Teleport bis 30 Fuß, Nutzungen = Befähigungsbonus pro lange Rast. Ab Stufe 3 zusätzlich Schadenswiderstand gegen allen Schaden bis Beginn des nächsten Zuges."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Feenabstammung",
+        "text": "Vorteil bei Rettungswürfen gegen Bezaubert."
+      },
+      {
+        "name": "Scharfe Sinne",
+        "text": "Übung in Wahrnehmung."
+      },
+      {
+        "name": "Nekrotischer Widerstand",
+        "text": "Widerstand gegen nekrotischen Schaden."
+      },
+      {
+        "name": "Trance",
+        "text": "Kein Schlaf nötig; lange Rast in 4 Std. Trance. Dabei zwei neue Waffen-/Werkzeugübungen bis zur nächsten langen Rast."
+      }
+    ]
+  },
+  "Shifter (Gestaltwandler)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Tierische Instinkte",
+        "text": "Übung in einer Fertigkeit deiner Wahl: Akrobatik, Athletik, Einschüchterung oder Überleben."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Shifting",
+        "text": "Bonusaktion, 1 Minute tierisches Aussehen, temp. TP = 2x Befähigungsbonus; Nutzungen = Befähigungsbonus pro lange Rast. Zusätzlich eine gewählte Option: Tierhaut (+1W6 temp. TP, +1 RK), Langzahn (Bissangriff 1W6+Stärke Stichschaden), Schneller Schritt (+10 Fuß Bewegung, Reaktionsbewegung) oder Wildjagd (Vorteil bei Weisheitsproben, Schutz vor Angriffsvorteil)."
+      }
+    ]
+  },
+  "Tabaxi": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Klettergeschwindigkeit",
+        "text": "Klettergeschwindigkeit entspricht der Bewegungsrate zu Fuß."
+      },
+      {
+        "name": "Katzenklauen",
+        "text": "Waffenloser Angriff mit Klauen: 1W6 + Stärkemodifikator Hiebschaden."
+      },
+      {
+        "name": "Katzentalent",
+        "text": "Übung in Wahrnehmung und Heimlichkeit."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Katzenhafte Gewandtheit",
+        "text": "Bei Bewegung im Kampf: Bewegungsrate bis Ende des Zuges verdoppeln; danach erst wieder nutzbar nach einem Zug mit 0 Fuß Bewegung."
+      }
+    ]
+  },
+  "Schildkrötenmensch (Tortle)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Klauen",
+        "text": "Waffenloser Angriff mit Klauen: 1W6 + Stärkemodifikator Hiebschaden."
+      },
+      {
+        "name": "Atem anhalten",
+        "text": "Kannst den Atem bis zu 1 Stunde anhalten."
+      },
+      {
+        "name": "Natürliche Rüstung",
+        "text": "Panzer gibt Grund-RK 17 (ohne Geschicklichkeitsmodifikator); keine Rüstung tragbar, Schild nutzbar. Keine andere Rüstung tragbar."
+      },
+      {
+        "name": "Naturinstinkt",
+        "text": "Übung in einer Fertigkeit deiner Wahl: Mit Tieren umgehen, Medizin, Naturkunde, Wahrnehmung, Heimlichkeit oder Überleben."
+      },
+      {
+        "name": "Panzerverteidigung",
+        "text": "Aktion: Rückzug in den Panzer, +4 RK, Vorteil bei Stärke-/Konstitutionsrettungswürfen, aber liegend, 0 Bewegung, Nachteil bei Geschicklichkeitsrettungswürfen, keine Reaktionen, nur Bonusaktion zum Herauskommen."
+      }
+    ]
+  },
+  "Triton": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Schwimmgeschwindigkeit",
+        "text": "Schwimmgeschwindigkeit entspricht der Bewegungsrate zu Fuß."
+      },
+      {
+        "name": "Amphibisch",
+        "text": "Kannst Luft und Wasser atmen."
+      },
+      {
+        "name": "Luft und Wasser beherrschen",
+        "text": "Nebelwolke wirkbar; ab Stufe 3 Windstoß, ab Stufe 5 zusätzlich Wasserwandeln, je einmal pro lange Rast (auch mit Zauberplätzen)."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Gesandter des Meeres",
+        "text": "Einfache Kommunikation mit aquatischen Tieren, Elementaren und Monstrositäten (nur einseitig verstanden)."
+      },
+      {
+        "name": "Wächter der Tiefen",
+        "text": "Widerstand gegen Kälteschaden."
+      }
+    ]
+  },
+  "Yuan-ti": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Magiewiderstand",
+        "text": "Vorteil bei Rettungswürfen gegen Zauber."
+      },
+      {
+        "name": "Giftresilienz",
+        "text": "Vorteil bei Rettungswürfen gegen Vergiftet; Widerstand gegen Giftschaden."
+      },
+      {
+        "name": "Schlangenzauberei",
+        "text": "Beherrschst Giftspray; Tierfreundschaft beliebig oft nur gegen Schlangen. Ab Stufe 3 Suggestion einmal pro lange Rast (auch mit Zauberplätzen ab Grad 2)."
+      }
+    ]
+  },
+  "Ork (Mordenkainen)": {
+    "buch": "Mordenkainen's Monsters of the Multiverse",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      {
+        "name": "Adrenalinrausch",
+        "text": "Sturmangriff (Dash) als Bonusaktion, dabei temporäre TP = Befähigungsbonus; Nutzungen = Befähigungsbonus pro lange Rast."
+      },
+      {
+        "name": "Dunkelsicht",
+        "text": "Sicht bis 60 Fuß in Dunkelheit/schwachem Licht, nur Graustufen."
+      },
+      {
+        "name": "Kräftiger Körperbau",
+        "text": "Zählst als eine Größe größer für Tragfähigkeit und Schieben/Ziehen/Heben."
+      },
+      {
+        "name": "Unerbittliche Ausdauer",
+        "text": "Bei Reduktion auf 0 TP (nicht sofort tödlich) fällst du stattdessen auf 1 TP; einmal pro lange Rast."
+      }
+    ]
+  }
+}

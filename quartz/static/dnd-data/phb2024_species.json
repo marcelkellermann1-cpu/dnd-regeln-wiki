@@ -5,8 +5,8 @@
     "tempo": 9,
     "talente": [
       { "name": "Erfindungsreich", "text": "Du erhältst Heldenhafte Inspiration, wann immer du eine Lange Rast beendest." },
-      { "name": "Geschickt", "text": "Du erhältst Übung in einer Fertigkeit deiner Wahl." },
-      { "name": "Vielseitig", "text": "Du erhältst ein Ursprungs-Talent deiner Wahl (siehe Kapitel 5)." }
+      { "name": "Geschickt", "text": "Du erhältst Übung in einer Fertigkeit deiner Wahl. (Achtung: nicht zu verwechseln mit dem gleichnamigen Ursprungstalent „Geschickt/Skilled\", das 3 Fertigkeiten gibt — das hier ist nur 1.)", "wahl": "z. B. Wahrnehmung" },
+      { "name": "Vielseitig", "text": "Du erhältst ein Ursprungs-Talent deiner Wahl (siehe Kapitel 5).", "wahl": "z. B. Geschickt (Skilled)" }
     ]
   },
   "Elf": {
@@ -15,7 +15,7 @@
     "tempo": 9,
     "talente": [
       { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
-      { "name": "Elfen-Erbe", "text": "Wähle Hochelf, Waldelf oder Drow – gewährt Zaubertrick und weitere Fertigkeiten." },
+      { "name": "Elfen-Erbe", "text": "Wähle Hochelf, Waldelf oder Drow – gewährt Zaubertrick und weitere Fertigkeiten.", "wahl": "Hochelf / Waldelf / Drow" },
       { "name": "Fey-Abstammung", "text": "Vorteil auf Rettungswürfe gegen Bezauberung, Magie kann dich nicht in den Schlaf zwingen." },
       { "name": "Trance", "text": "Kein Schlaf nötig, 4 Stunden Meditation statt 8 Stunden Schlaf." }
     ]
@@ -49,7 +49,7 @@
     "talente": [
       { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
       { "name": "Gnomische Schlauheit", "text": "Vorteil auf Int-, Wei- und Cha-Rettungswürfe." },
-      { "name": "Gnomische Linie", "text": "Wähle Waldgnom (Zaubertrick Kleine Illusion, Mit Tieren sprechen) oder Felsgnom (Zaubertricks Flickwerk & Zauberei, Uhrwerkgerät)." }
+      { "name": "Gnomische Linie", "text": "Wähle Waldgnom (Zaubertrick Kleine Illusion, Mit Tieren sprechen) oder Felsgnom (Zaubertricks Flickwerk & Zauberei, Uhrwerkgerät).", "wahl": "Waldgnom / Felsgnom" }
     ]
   },
   "Ork": {
@@ -68,7 +68,7 @@
     "tempo": 9,
     "talente": [
       { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
-      { "name": "Höllisches Erbe", "text": "Wähle Abyssisch, Chthonisch oder Infernalisch – Resistenz + Zaubertrick, ab Stufe 3/5 weitere Zauber." },
+      { "name": "Höllisches Erbe", "text": "Wähle Abyssisch, Chthonisch oder Infernalisch – Resistenz + Zaubertrick, ab Stufe 3/5 weitere Zauber.", "wahl": "Abyssisch / Chthonisch / Infernalisch" },
       { "name": "Jenseitige Präsenz", "text": "Du kennst den Zaubertrick Thaumaturgie." }
     ]
   },
@@ -89,7 +89,7 @@
     "groesse": "Mittel",
     "tempo": 9,
     "talente": [
-      { "name": "Drakonische Abstammung", "text": "Wähle Drachenart (bestimmt Schadenstyp: Säure/Blitz/Feuer/Gift/Kälte)." },
+      { "name": "Drakonische Abstammung", "text": "Wähle Drachenart (bestimmt Schadenstyp: Säure/Blitz/Feuer/Gift/Kälte).", "wahl": "z. B. Rot (Feuer)" },
       { "name": "Odemwaffe", "text": "Statt Angriff: Kegel/Linie, 1W10 Schaden (DC 8+Kon+Übungsbonus), steigt auf 2W10/3W10/4W10 (Stufe 5/11/17)." },
       { "name": "Schadensresistenz", "text": "Resistenz gegen den Schadenstyp der Abstammung." },
       { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
@@ -101,7 +101,7 @@
     "groesse": "Mittel",
     "tempo": 10.5,
     "talente": [
-      { "name": "Riesen-Abstammung", "text": "Wähle eine Riesen-Gabe (Wolken/Feuer/Frost/Hügel/Stein/Sturm), Nutzungen = Übungsbonus." },
+      { "name": "Riesen-Abstammung", "text": "Wähle eine Riesen-Gabe (Wolken/Feuer/Frost/Hügel/Stein/Sturm), Nutzungen = Übungsbonus.", "wahl": "Wolken / Feuer / Frost / Hügel / Stein / Sturm" },
       { "name": "Große Form", "text": "Ab Stufe 5: Bonusaktion, 10 Min Groß-Größe, Vorteil auf Stärke-Würfe, +3m Geschwindigkeit." },
       { "name": "Kraftvoller Körperbau", "text": "Vorteil gegen Umklammert, zählt als eine Größenkategorie größer für Tragfähigkeit." }
     ]

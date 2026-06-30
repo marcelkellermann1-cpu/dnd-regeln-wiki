@@ -96,7 +96,7 @@ function render() {
     spellsHtml = "<p><b>Zauberwirken:</b> keines (Basisklasse)</p>";
   }
 
-  const talenteHtml = sp.talente.map(t => `<div class="talent"><b>${t.name}</b>${t.text}</div>`).join("");
+  const talenteHtml = sp.talente.map(t => `<div class="talent"><b>${t.name}</b>${t.text}${t.wahl ? `<br><label>Deine Wahl: <input type="text" placeholder="${t.wahl}"></label>` : ""}</div>`).join("");
 
   document.getElementById("sheet").innerHTML = `
     <h2>${spKey} – ${clKey}, Stufe ${level}</h2>
@@ -193,8 +193,11 @@ async function fillPdf() {
 Promise.all([
   fetch("dnd-data/phb2024_species.json").then(r => r.json()),
   fetch("dnd-data/phb2024_classes.json").then(r => r.json()),
-]).then(([sp, cl]) => {
-  species = sp; classes = cl;
+  fetch("dnd-data/extra_classes.json").then(r => r.json()).catch(() => ({})),
+  fetch("dnd-data/mordenkainen_species.json").then(r => r.json()).catch(() => ({})),
+]).then(([sp, cl, extraCl, moreSp]) => {
+  species = Object.assign({}, sp, moreSp);
+  classes = Object.assign({}, cl, extraCl);
   fillSelect(document.getElementById("species"), species);
   fillSelect(document.getElementById("klasse"), classes);
   document.querySelectorAll("select, input").forEach(el => el.addEventListener("input", render));
