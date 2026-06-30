@@ -1,0 +1,147 @@
+{
+  "Barbar": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W12",
+    "primaerattribut": "Stärke",
+    "rettungswuerfe": ["Stärke", "Konstitution"],
+    "spellcasting": null,
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer", "Schilde"], "waffen": ["Einfache Waffen", "Kriegswaffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Barde": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Charisma",
+    "rettungswuerfe": ["Geschicklichkeit", "Charisma"],
+    "spellcasting": { "typ": "Vollzauberer", "attribut": "Charisma",
+      "slots": {
+        "1": [2], "2": [3], "3": [4,2], "4": [4,3], "5": [4,3,2], "6": [4,3,3], "7": [4,3,3,1], "8": [4,3,3,2], "9": [4,3,3,3,1],
+        "10": [4,3,3,3,2], "11": [4,3,3,3,2,1], "12": [4,3,3,3,2,1], "13": [4,3,3,3,2,1,1], "14": [4,3,3,3,2,1,1],
+        "15": [4,3,3,3,2,1,1], "16": [4,3,3,3,2,1,1,1], "17": [4,3,3,3,2,1,1,1,1], "18": [4,3,3,3,3,1,1,1,1],
+        "19": [4,3,3,3,3,2,1,1,1], "20": [4,3,3,3,3,2,2,1,1]
+      } },
+    "uebungen": { "ruestung": ["Leicht"], "waffen": ["Einfache Waffen", "Handarmbrust", "Langschwert", "Rapier", "Kurzschwert"], "fertigkeiten_wahl": 3 }
+  },
+  "Druide": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Weisheit",
+    "rettungswuerfe": ["Intelligenz", "Weisheit"],
+    "spellcasting": { "typ": "Vollzauberer", "attribut": "Weisheit",
+      "slots": {
+        "1": [2], "2": [3], "3": [4,2], "4": [4,3], "5": [4,3,2], "6": [4,3,3], "7": [4,3,3,1], "8": [4,3,3,2], "9": [4,3,3,3,1],
+        "10": [4,3,3,3,2], "11": [4,3,3,3,2,1], "12": [4,3,3,3,2,1], "13": [4,3,3,3,2,1,1], "14": [4,3,3,3,2,1,1],
+        "15": [4,3,3,3,2,1,1], "16": [4,3,3,3,2,1,1,1], "17": [4,3,3,3,2,1,1,1,1], "18": [4,3,3,3,3,1,1,1,1],
+        "19": [4,3,3,3,3,2,1,1,1], "20": [4,3,3,3,3,2,2,1,1]
+      } },
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer (nicht Metall)", "Schilde (nicht Metall)"], "waffen": ["Knüppel", "Dolch", "Wurfspeer", "Speer", "Streitkolben", "Krummsäbel", "Sichel", "Schleuder", "Stab", "Speerschleuder"], "fertigkeiten_wahl": 2 }
+  },
+  "Hexenmeister": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Charisma",
+    "rettungswuerfe": ["Weisheit", "Charisma"],
+    "spellcasting": { "typ": "Paktmagie", "attribut": "Charisma",
+      "paktmagie": {
+        "1": { "slots": 1, "slotstufe": 1 }, "2": { "slots": 2, "slotstufe": 1 }, "3": { "slots": 2, "slotstufe": 2 },
+        "4": { "slots": 2, "slotstufe": 2 }, "5": { "slots": 2, "slotstufe": 3 }, "6": { "slots": 2, "slotstufe": 3 },
+        "7": { "slots": 2, "slotstufe": 4 }, "8": { "slots": 2, "slotstufe": 4 }, "9": { "slots": 2, "slotstufe": 5 },
+        "10": { "slots": 2, "slotstufe": 5 }, "11": { "slots": 3, "slotstufe": 5 }, "12": { "slots": 3, "slotstufe": 5 },
+        "13": { "slots": 3, "slotstufe": 5 }, "14": { "slots": 3, "slotstufe": 5 }, "15": { "slots": 3, "slotstufe": 5 },
+        "16": { "slots": 3, "slotstufe": 5 }, "17": { "slots": 4, "slotstufe": 5 }, "18": { "slots": 4, "slotstufe": 5 },
+        "19": { "slots": 4, "slotstufe": 5 }, "20": { "slots": 4, "slotstufe": 5 }
+      } },
+    "uebungen": { "ruestung": ["Leicht"], "waffen": ["Einfache Waffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Kleriker": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Weisheit",
+    "rettungswuerfe": ["Weisheit", "Charisma"],
+    "spellcasting": { "typ": "Vollzauberer", "attribut": "Weisheit",
+      "slots": {
+        "1": [2], "2": [3], "3": [4,2], "4": [4,3], "5": [4,3,2], "6": [4,3,3], "7": [4,3,3,1], "8": [4,3,3,2], "9": [4,3,3,3,1],
+        "10": [4,3,3,3,2], "11": [4,3,3,3,2,1], "12": [4,3,3,3,2,1], "13": [4,3,3,3,2,1,1], "14": [4,3,3,3,2,1,1],
+        "15": [4,3,3,3,2,1,1], "16": [4,3,3,3,2,1,1,1], "17": [4,3,3,3,2,1,1,1,1], "18": [4,3,3,3,3,1,1,1,1],
+        "19": [4,3,3,3,3,2,1,1,1], "20": [4,3,3,3,3,2,2,1,1]
+      } },
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer", "Schilde"], "waffen": ["Einfache Waffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Kämpfer": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W10",
+    "primaerattribut": "Stärke oder Geschicklichkeit",
+    "rettungswuerfe": ["Stärke", "Konstitution"],
+    "spellcasting": null,
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer", "Schwer", "Schilde"], "waffen": ["Einfache Waffen", "Kriegswaffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Magier": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W6",
+    "primaerattribut": "Intelligenz",
+    "rettungswuerfe": ["Intelligenz", "Weisheit"],
+    "spellcasting": { "typ": "Vollzauberer", "attribut": "Intelligenz",
+      "slots": {
+        "1": [2], "2": [3], "3": [4,2], "4": [4,3], "5": [4,3,2], "6": [4,3,3], "7": [4,3,3,1], "8": [4,3,3,2], "9": [4,3,3,3,1],
+        "10": [4,3,3,3,2], "11": [4,3,3,3,2,1], "12": [4,3,3,3,2,1], "13": [4,3,3,3,2,1,1], "14": [4,3,3,3,2,1,1],
+        "15": [4,3,3,3,2,1,1,1], "16": [4,3,3,3,2,1,1,1], "17": [4,3,3,3,2,1,1,1,1], "18": [4,3,3,3,3,1,1,1,1],
+        "19": [4,3,3,3,3,2,1,1,1], "20": [4,3,3,3,3,2,2,1,1]
+      } },
+    "uebungen": { "ruestung": [], "waffen": ["Einfache Waffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Mönch": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Geschicklichkeit und Weisheit",
+    "rettungswuerfe": ["Stärke", "Geschicklichkeit"],
+    "spellcasting": null,
+    "uebungen": { "ruestung": [], "waffen": ["Einfache Waffen", "Kriegswaffen mit Leicht-Eigenschaft"], "fertigkeiten_wahl": 2 }
+  },
+  "Paladin": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W10",
+    "primaerattribut": "Stärke und Charisma",
+    "rettungswuerfe": ["Weisheit", "Charisma"],
+    "spellcasting": { "typ": "Halbzauberer", "attribut": "Charisma",
+      "slots": {
+        "1": [0], "2": [2], "3": [3], "4": [3], "5": [4,2], "6": [4,2], "7": [4,3], "8": [4,3], "9": [4,3,2],
+        "10": [4,3,2], "11": [4,3,3], "12": [4,3,3], "13": [4,3,3,1], "14": [4,3,3,1], "15": [4,3,3,2],
+        "16": [4,3,3,2], "17": [4,3,3,3,1], "18": [4,3,3,3,1], "19": [4,3,3,3,2], "20": [4,3,3,3,2]
+      } },
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer", "Schwer", "Schilde"], "waffen": ["Einfache Waffen", "Kriegswaffen"], "fertigkeiten_wahl": 2 }
+  },
+  "Schurke": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W8",
+    "primaerattribut": "Geschicklichkeit",
+    "rettungswuerfe": ["Geschicklichkeit", "Intelligenz"],
+    "spellcasting": null,
+    "uebungen": { "ruestung": ["Leicht"], "waffen": ["Einfache Waffen", "Kriegswaffen mit Finesse- oder Leicht-Eigenschaft"], "fertigkeiten_wahl": 4 }
+  },
+  "Waldläufer": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W10",
+    "primaerattribut": "Geschicklichkeit und Weisheit",
+    "rettungswuerfe": ["Stärke", "Geschicklichkeit"],
+    "spellcasting": { "typ": "Halbzauberer", "attribut": "Weisheit",
+      "slots": {
+        "1": [0], "2": [2], "3": [3], "4": [3], "5": [4,2], "6": [4,2], "7": [4,3], "8": [4,3], "9": [4,3,2],
+        "10": [4,3,2], "11": [4,3,3], "12": [4,3,3], "13": [4,3,3,1], "14": [4,3,3,1], "15": [4,3,3,2],
+        "16": [4,3,3,2], "17": [4,3,3,3,1], "18": [4,3,3,3,1], "19": [4,3,3,3,2], "20": [4,3,3,3,2]
+      } },
+    "uebungen": { "ruestung": ["Leicht", "Mittelschwer", "Schilde"], "waffen": ["Einfache Waffen", "Kriegswaffen"], "fertigkeiten_wahl": 3 }
+  },
+  "Zauberer": {
+    "buch": "PHB 2024",
+    "trefferwuerfel": "1W6",
+    "primaerattribut": "Charisma",
+    "rettungswuerfe": ["Konstitution", "Charisma"],
+    "spellcasting": { "typ": "Vollzauberer", "attribut": "Charisma",
+      "slots": {
+        "1": [2], "2": [3], "3": [4,2], "4": [4,3], "5": [4,3,2], "6": [4,3,3], "7": [4,3,3,1], "8": [4,3,3,2], "9": [4,3,3,3,1],
+        "10": [4,3,3,3,2], "11": [4,3,3,3,2,1], "12": [4,3,3,3,2,1], "13": [4,3,3,3,2,1,1], "14": [4,3,3,3,2,1,1],
+        "15": [4,3,3,3,2,1,1], "16": [4,3,3,3,2,1,1,1], "17": [4,3,3,3,2,1,1,1,1], "18": [4,3,3,3,3,1,1,1,1],
+        "19": [4,3,3,3,3,2,1,1,1], "20": [4,3,3,3,3,2,2,1,1]
+      } },
+    "uebungen": { "ruestung": [], "waffen": ["Einfache Waffen"], "fertigkeiten_wahl": 2 }
+  }
+}

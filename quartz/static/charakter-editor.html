@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Charakter-Editor – DnD Wiki</title>
+<style>
+  :root { color-scheme: light dark; }
+  body { font-family: system-ui, sans-serif; max-width: 50rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+  h1 { margin-bottom: 0.2rem; }
+  .back { font-size: 0.9rem; }
+  fieldset { border: 1px solid #8884; border-radius: 8px; padding: 1rem; margin: 1rem 0; }
+  label { display: inline-block; min-width: 8rem; margin: 0.3rem 0; }
+  select, input[type=number] { padding: 0.3rem; font-size: 1rem; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr)); gap: 0.5rem; }
+  #sheet { border: 1px solid #8884; border-radius: 8px; padding: 1rem; margin-top: 1rem; }
+  #sheet h2 { margin-top: 0; }
+  table { border-collapse: collapse; width: 100%; margin: 0.5rem 0; }
+  td, th { border: 1px solid #8884; padding: 0.3rem 0.6rem; text-align: center; }
+  .talent { margin-bottom: 0.6rem; }
+  .talent b { display: block; }
+  button { padding: 0.5rem 1rem; font-size: 1rem; cursor: pointer; }
+  @media print {
+    .no-print { display: none !important; }
+    body { max-width: none; }
+  }
+</style>
+</head>
+<body>
+<p class="back no-print"><a href="../index.html">&larr; zurück zum Wiki</a></p>
+<h1>Charakter-Editor</h1>
+<p class="no-print">Spezies und Klasse wählen, Attribute eintragen — der Bogen unten füllt sich automatisch.</p>
+
+<fieldset class="no-print">
+  <div class="grid">
+    <div><label for="species">Spezies</label><select id="species"></select></div>
+    <div><label for="klasse">Klasse</label><select id="klasse"></select></div>
+    <div><label for="level">Stufe</label><input type="number" id="level" min="1" max="20" value="1"></div>
+  </div>
+  <p><b>Attribute</b> (Endwert nach Boni)</p>
+  <div class="grid">
+    <div><label for="str">Stärke</label><input type="number" id="str" value="10"></div>
+    <div><label for="dex">Geschicklichkeit</label><input type="number" id="dex" value="10"></div>
+    <div><label for="con">Konstitution</label><input type="number" id="con" value="10"></div>
+    <div><label for="int">Intelligenz</label><input type="number" id="int" value="10"></div>
+    <div><label for="wis">Weisheit</label><input type="number" id="wis" value="10"></div>
+    <div><label for="cha">Charisma</label><input type="number" id="cha" value="10"></div>
+  </div>
+</fieldset>
+
+<button id="printBtn" class="no-print" onclick="window.print()">Charakterbogen drucken / als PDF speichern</button>
+
+<div id="sheet"></div>
+
+<script>
+const MOD_NAMES = { str: "Stärke", dex: "Geschicklichkeit", con: "Konstitution", int: "Intelligenz", wis: "Weisheit", cha: "Charisma" };
+let species = {}, classes = {};
+
+function mod(score) { return Math.floor((score - 10) / 2); }
+function fmtMod(m) { return m >= 0 ? "+" + m : String(m); }
+function hitDieFaces(s) { return parseInt(s.split("W")[1], 10); }
+function avgPerLevel(faces) { return Math.floor(faces / 2) + 1; }
+
+function fillSelect(sel, obj) {
+  sel.innerHTML = Object.keys(obj).sort().map(k => `<option value="${k}">${k}</option>`).join("");
+}
+
+function render() {
+  const spKey = document.getElementById("species").value;
+  const clKey = document.getElementById("klasse").value;
+  const level = Math.max(1, Math.min(20, parseInt(document.getElementById("level").value, 10) || 1));
+  const sp = species[spKey], cl = classes[clKey];
+  if (!sp || !cl) return;
+
+  const abilities = {};
+  for (const k of Object.keys(MOD_NAMES)) abilities[k] = parseInt(document.getElementById(k).value, 10) || 10;
+  const conMod = mod(abilities.con);
+
+  const faces = hitDieFaces(cl.trefferwuerfel);
+  let hp = faces + conMod;
+  for (let l = 2; l <= level; l++) hp += avgPerLevel(faces) + conMod;
+
+  let spellsHtml = "";
+  if (cl.spellcasting && cl.spellcasting.typ === "Paktmagie") {
+    const pm = cl.spellcasting.paktmagie[String(level)];
+    spellsHtml = `<p><b>Paktmagie (${cl.spellcasting.attribut}):</b> ${pm.slots} Zauberslots der Stufe ${pm.slotstufe}</p>`;
+  } else if (cl.spellcasting) {
+    const slots = cl.spellcasting.slots[String(level)] || [];
+    const cells = slots.map((n, i) => `<th>Stufe ${i + 1}</th>`).join("");
+    const vals = slots.map(n => `<td>${n}</td>`).join("");
+    spellsHtml = `<p><b>Zauberslots (${cl.spellcasting.attribut}):</b></p><table><tr>${cells}</tr><tr>${vals}</tr></table>`;
+  } else {
+    spellsHtml = "<p><b>Zauberwirken:</b> keines (Basisklasse)</p>";
+  }
+
+  const talenteHtml = sp.talente.map(t => `<div class="talent"><b>${t.name}</b>${t.text}</div>`).join("");
+
+  document.getElementById("sheet").innerHTML = `
+    <h2>${spKey} – ${clKey}, Stufe ${level}</h2>
+    <p><b>Trefferpunkte:</b> ${hp} (${cl.trefferwuerfel} pro Stufe, KON-Mod ${fmtMod(conMod)})</p>
+    <p><b>Hauptattribut:</b> ${cl.primaerattribut} &nbsp; <b>Rettungswürfe:</b> ${cl.rettungswuerfe.join(", ")}</p>
+    <p><b>Größe:</b> ${sp.groesse} &nbsp; <b>Tempo:</b> ${sp.tempo} m (Spezies: ${spKey})</p>
+    <p><b>Waffenübung:</b> ${(cl.uebungen.waffen || []).join(", ") || "–"}</p>
+    <p><b>Rüstungstraining:</b> ${(cl.uebungen.ruestung || []).join(", ") || "keine"}</p>
+    ${spellsHtml}
+    <h3>Attribute</h3>
+    <table><tr>${Object.values(MOD_NAMES).map(n => `<th>${n}</th>`).join("")}</tr>
+    <tr>${Object.keys(MOD_NAMES).map(k => `<td>${abilities[k]} (${fmtMod(mod(abilities[k]))})</td>`).join("")}</tr></table>
+    <h3>Spezies-Talente</h3>
+    ${talenteHtml}
+    <p><small>Buch: ${sp.buch} / ${cl.buch}. Keine Unterklassen-Auswahl in dieser Version.</small></p>
+  `;
+}
+
+Promise.all([
+  fetch("dnd-data/phb2024_species.json").then(r => r.json()),
+  fetch("dnd-data/phb2024_classes.json").then(r => r.json()),
+]).then(([sp, cl]) => {
+  species = sp; classes = cl;
+  fillSelect(document.getElementById("species"), species);
+  fillSelect(document.getElementById("klasse"), classes);
+  document.querySelectorAll("select, input").forEach(el => el.addEventListener("input", render));
+  render();
+});
+</script>
+</body>
+</html>

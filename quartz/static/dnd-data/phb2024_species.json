@@ -1,0 +1,109 @@
+{
+  "Mensch": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      { "name": "Erfindungsreich", "text": "Du erhältst Heldenhafte Inspiration, wann immer du eine Lange Rast beendest." },
+      { "name": "Geschickt", "text": "Du erhältst Übung in einer Fertigkeit deiner Wahl." },
+      { "name": "Vielseitig", "text": "Du erhältst ein Ursprungs-Talent deiner Wahl (siehe Kapitel 5)." }
+    ]
+  },
+  "Elf": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Elfen-Erbe", "text": "Wähle Hochelf, Waldelf oder Drow – gewährt Zaubertrick und weitere Fertigkeiten." },
+      { "name": "Fey-Abstammung", "text": "Vorteil auf Rettungswürfe gegen Bezauberung, Magie kann dich nicht in den Schlaf zwingen." },
+      { "name": "Trance", "text": "Kein Schlaf nötig, 4 Stunden Meditation statt 8 Stunden Schlaf." }
+    ]
+  },
+  "Zwerg": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      { "name": "Dunkelsicht", "text": "36 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Zwergische Widerstandskraft", "text": "Resistenz gegen Giftschaden, Vorteil gegen Vergiftet." },
+      { "name": "Zwergische Zähigkeit", "text": "TP-Maximum +1, +1 pro weiterem Stufenaufstieg." },
+      { "name": "Steinkenntnis", "text": "Bonusaktion: Erschütterungssinn 18 m für 10 Min, Nutzungen = Übungsbonus." }
+    ]
+  },
+  "Halbling": {
+    "buch": "PHB 2024",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      { "name": "Mutig", "text": "Vorteil auf Rettungswürfe gegen Verängstigt." },
+      { "name": "Halbling-Behändigkeit", "text": "Kann sich durch den Raum größerer Kreaturen bewegen." },
+      { "name": "Glück", "text": "Bei 1 auf W20-Test: neu würfeln, neuer Wurf zählt." },
+      { "name": "Natürlich heimlich", "text": "Verbergen-Aktion auch hinter größeren Kreaturen möglich." }
+    ]
+  },
+  "Gnom": {
+    "buch": "PHB 2024",
+    "groesse": "Klein",
+    "tempo": 9,
+    "talente": [
+      { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Gnomische Schlauheit", "text": "Vorteil auf Int-, Wei- und Cha-Rettungswürfe." },
+      { "name": "Gnomische Linie", "text": "Wähle Waldgnom (Zaubertrick Kleine Illusion, Mit Tieren sprechen) oder Felsgnom (Zaubertricks Flickwerk & Zauberei, Uhrwerkgerät)." }
+    ]
+  },
+  "Ork": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      { "name": "Adrenalinstoß", "text": "Bonusaktion: Sturmangriff-Aktion + temp. TP = Übungsbonus." },
+      { "name": "Dunkelsicht", "text": "36 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Unerbittliche Ausdauer", "text": "Bei Reduktion auf 0 TP (ohne Sofort-Tod): fällst auf 1 TP, einmal pro Lange Rast." }
+    ]
+  },
+  "Tiefling": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Höllisches Erbe", "text": "Wähle Abyssisch, Chthonisch oder Infernalisch – Resistenz + Zaubertrick, ab Stufe 3/5 weitere Zauber." },
+      { "name": "Jenseitige Präsenz", "text": "Du kennst den Zaubertrick Thaumaturgie." }
+    ]
+  },
+  "Aasimar": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel oder Klein (Wahl)",
+    "tempo": 9,
+    "talente": [
+      { "name": "Celestialer Widerstand", "text": "Resistenz gegen Nekrotischen und Strahlenden Schaden." },
+      { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Heilende Hände", "text": "Berührung: W4 = Übungsbonus TP-Wiederherstellung, einmal pro Lange Rast." },
+      { "name": "Lichtträger", "text": "Du kennst den Zaubertrick Licht (Charisma)." },
+      { "name": "Himmlische Offenbarung", "text": "Ab Stufe 3: Bonusaktion-Transformation (Himmlische Schwingen / Inneres Strahlen / Nekrotischer Schleier), einmal pro Lange Rast." }
+    ]
+  },
+  "Drachenblütiger": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel",
+    "tempo": 9,
+    "talente": [
+      { "name": "Drakonische Abstammung", "text": "Wähle Drachenart (bestimmt Schadenstyp: Säure/Blitz/Feuer/Gift/Kälte)." },
+      { "name": "Odemwaffe", "text": "Statt Angriff: Kegel/Linie, 1W10 Schaden (DC 8+Kon+Übungsbonus), steigt auf 2W10/3W10/4W10 (Stufe 5/11/17)." },
+      { "name": "Schadensresistenz", "text": "Resistenz gegen den Schadenstyp der Abstammung." },
+      { "name": "Dunkelsicht", "text": "18 m bei schwachem Licht/Dunkelheit." },
+      { "name": "Drakonischer Flug", "text": "Ab Stufe 5: Bonusaktion, Flügel für 10 Min, einmal pro Lange Rast." }
+    ]
+  },
+  "Goliath": {
+    "buch": "PHB 2024",
+    "groesse": "Mittel",
+    "tempo": 10.5,
+    "talente": [
+      { "name": "Riesen-Abstammung", "text": "Wähle eine Riesen-Gabe (Wolken/Feuer/Frost/Hügel/Stein/Sturm), Nutzungen = Übungsbonus." },
+      { "name": "Große Form", "text": "Ab Stufe 5: Bonusaktion, 10 Min Groß-Größe, Vorteil auf Stärke-Würfe, +3m Geschwindigkeit." },
+      { "name": "Kraftvoller Körperbau", "text": "Vorteil gegen Umklammert, zählt als eine Größenkategorie größer für Tragfähigkeit." }
+    ]
+  }
+}
